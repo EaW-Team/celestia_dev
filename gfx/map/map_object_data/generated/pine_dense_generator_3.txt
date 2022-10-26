@@ -1,0 +1,46 @@
+﻿object={
+	name="pine_dense_generator_3_0"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="tree_fir_001_mesh"
+	count=0
+}
+object={
+	name="pine_dense_generator_3_1"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="tree_fir_002_mesh"
+	count=0
+}
+object={
+	name="pine_dense_generator_3_2"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="tree_fir_003_mesh"
+	count=1
+	transform="4914.999023 0.000000 1080.545898 0.000000 0.976178 0.000000 -0.216973 0.454249 0.454249 0.454249
+"}
+object={
+	name="pine_dense_generator_3_3"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="tree_fir_004_mesh"
+	count=0
+}
+object={
+	name="pine_dense_generator_3_4"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="tree_fir_005_mesh"
+	count=0
+}
