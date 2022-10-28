@@ -1,12 +1,12 @@
 ﻿mask_dynamic_farmland={
-	checksum="2dbbb48aa10aa9e5ae580efb98361c0d"
-	allowed_provinces={ 1 2 3 4 5 6 7 8 9 10 11 12 13 15 }
+	checksum="e4a6a3ea6856c35789153d2d46818603"
+	allowed_provinces={ 1 2 4 5 6 7 8 9 10 11 12 16 19 21 23 25 26 27 30 56 64 }
 }
 mask_dynamic_mining={
-	checksum="7249d2fba70b263125dc70227ae339b4"
-	allowed_provinces={ 1 2 3 5 9 10 11 12 13 14 }
+	checksum="b6250ebd2df1cbfed0b3fc31151394d4"
+	allowed_provinces={ 1 3 5 6 9 10 11 12 16 23 }
 }
 mask_dynamic_forestry={
-	checksum="8ce361f2fe383a3ffafffd156aa3013b"
-	allowed_provinces={ 1 2 3 4 5 6 7 9 10 11 13 14 15 }
+	checksum="44d33876ff5dde786ede8ae1d3afe78e"
+	allowed_provinces={ 1 2 3 4 5 6 7 9 10 11 12 19 22 23 24 26 27 45 50 56 64 }
 }

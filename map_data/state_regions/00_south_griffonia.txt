@@ -5,13 +5,13 @@
     traits = { "state_trait_natural_harbors" }
     city = "x4eeccf"
     port = "xb08124"
-    farm = "xfdd8d2"
-    mine = "xf87030"
+    farm = "x5090e0"
+    mine = "x313f1f"
     wood = "x95b8a3"
-    arable_land = 56
+    arable_land = 46
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_cotton_plantations" "bg_tea_plantations" "bg_sugar_plantations" }
     capped_resources = {
-        bg_logging = 3
+        bg_logging = 27
         bg_fishing = 8
     }
     naval_exit_id = 3000
