@@ -1,0 +1,18 @@
+﻿POPS = {
+	s:STATE_SUNSET = {
+		region_state:EQC = {
+			create_pop = {
+				culture = aborigine
+				size = 63200
+			}
+			create_pop = {
+				culture = australian
+				size = 101384
+			}
+			create_pop = {
+				culture = irish
+				size = 16080
+			}
+		}
+	}
+}

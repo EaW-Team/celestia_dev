@@ -1,0 +1,14 @@
+﻿# "Why do some state entries have quote marks around them, when others don't?"
+# "It's because of differing methods of editing throughout the production of the game. Quote marks are unnecessary, but harmless if present."
+
+STATES = {
+	s:STATE_SUNSET = {
+		create_state = {
+			country = c:EQC
+			owned_provinces = { "x4eeccf" "xb08124" "xf87030" "x95b8a3" "xd3a1e4" "x5090e0" "xfdd8d2" "x313f1f" }
+		}
+		
+		add_homeland = australian
+		add_homeland = aborigine
+	}
+}

@@ -1,0 +1,18 @@
+﻿STATE_SUNSET = {
+    id = 1
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x4eeccf" "xb08124" "xf87030" "x95b8a3" "xd3a1e4" "x5090e0" "xfdd8d2" "x313f1f" }
+    traits = { "state_trait_natural_harbors" }
+    city = "x4eeccf"
+    port = "xb08124"
+    farm = "xfdd8d2"
+    mine = "xf87030"
+    wood = "x95b8a3"
+    arable_land = 56
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_cotton_plantations" "bg_tea_plantations" "bg_sugar_plantations" }
+    capped_resources = {
+        bg_logging = 3
+        bg_fishing = 8
+    }
+    naval_exit_id = 3000
+}

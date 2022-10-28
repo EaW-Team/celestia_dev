@@ -1,0 +1,11 @@
+﻿
+EQC = { # New Mareland
+	color = { 47 158 99 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	capital = STATE_SUNSET
+	cultures = { australian }
+}

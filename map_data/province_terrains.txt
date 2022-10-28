@@ -1,0 +1,12 @@
+#This is a generated file, do not modify unless you know what you are doing!
+x46c8fa="ocean"
+x6fb3de="ocean"
+x2d4f87="ocean"
+x4eeccf="desert"
+xb08124="plains"
+xf87030="desert"
+x95b8a3="plains"
+xd3a1e4="plains"
+x5090e0="plains"
+xfdd8d2="plains"
+x313f1f="wetland"
