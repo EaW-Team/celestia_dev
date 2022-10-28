@@ -1,0 +1,107 @@
+﻿pony_heritage = {
+	heritage = yes
+}
+
+thestral_heritage = {
+	heritage = yes
+}
+
+zebra_heritage = {
+	heritage = yes
+}
+
+penguin_heritage = {
+	heritage = yes
+}
+
+bear_heritage = {
+	heritage = yes
+}
+
+changeling_heritage = {
+	heritage = yes
+}
+
+griffon_heritage = {
+	heritage = yes
+}
+
+yak_heritage = {
+	heritage = yes
+}
+
+deer_heritage = {
+	heritage = yes
+}
+
+diamond_dog_heritage = {
+	heritage = yes
+}
+
+minotaur_heritage = {
+	heritage = yes
+}
+
+undead_heritage = {
+	heritage = yes
+}
+
+buffalo_heritage = {
+	heritage = yes
+}
+
+dragon_heritage = {
+	heritage = yes
+}
+
+human_heritage = {
+	heritage = yes
+}
+
+centaur_heritage = {
+	heritage = yes
+}
+
+gargoyle_heritage = {
+	heritage = yes
+}
+
+hippogriff_heritage = {
+	heritage = yes
+}
+
+kirin_heritage = {
+	heritage = yes
+}
+
+cat_heritage = {
+	heritage = yes
+}
+
+llama_heritage = {
+	heritage = yes
+}
+
+giraffe_heritage = {
+	heritage = yes
+}
+
+camel_heritage = {
+	heritage = yes
+}
+
+yeti_heritage = {
+	heritage = yes
+}
+
+horse_heritage = {
+	heritage = yes
+}
+
+donkey_heritage = {
+	heritage = yes
+}
+
+harpy_heritage = {
+	heritage = yes
+}

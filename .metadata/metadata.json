@@ -22,7 +22,10 @@
 			"common/history/production_methods",
 			"common/history/trade_routes",
 			"common/country_definitions",
-			"common/flag_definitions"
+			"common/discrimination_traits",
+			"common/cultures",
+			"common/flag_definitions",
+			"common/religions"
 		]
   }
 }

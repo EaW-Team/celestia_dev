@@ -2,16 +2,12 @@
 	s:STATE_SUNSET = {
 		region_state:EQC = {
 			create_pop = {
-				culture = aborigine
+				culture = aboriginal
 				size = 63200
 			}
 			create_pop = {
-				culture = australian
-				size = 101384
-			}
-			create_pop = {
-				culture = irish
-				size = 16080
+				culture = new_marelander
+				size = 117464
 			}
 		}
 	}

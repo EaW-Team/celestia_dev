@@ -1,0 +1,8 @@
+﻿equestrian_culture_group={
+}
+
+riverpony_culture_group={
+}
+
+karthinian_culture_group={
+}

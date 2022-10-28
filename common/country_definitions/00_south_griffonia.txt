@@ -7,5 +7,5 @@ EQC = { # New Mareland
 	tier = principality
 	
 	capital = STATE_SUNSET
-	cultures = { australian }
+	cultures = { new_marelander }
 }

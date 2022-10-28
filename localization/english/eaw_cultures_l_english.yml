@@ -1,0 +1,38 @@
+﻿l_english:
+# Cultral Heritages (Races)
+ pony_heritage:0 "Pony"
+ thestral_heritage:0 "Thestral"
+ penguin_heritage:0 "Penguin"
+ bear_heritage:0 "Bear"
+ changeling_heritage:0 "Changeling"
+ griffon_heritage:0 "Griffon"
+ yak_heritage:0 "Yak"
+ deer_heritage:0 "Deer"
+ diamond_dog_heritage:0 "Diamond Dog"
+ minotaur_heritage:0 "Minotaur"
+ undead_heritage:0 "Undead"
+ buffalo_heritage:0 "Buffalo"
+ dragon_heritage:0 "Dragon"
+ human_heritage:0 "Human"
+ centaur_heritage:0 "Centaur"
+ gargoyle_heritage:0 "Gargoyle"
+ hippogriff_heritage:0 "Hippogriff"
+ kirin_heritage:0 "Kirin"
+ cat_heritage:0 "Cat"
+ llama_heritage:0 "Llama"
+ giraffe_heritage:0 "Giraffe"
+ camel_heritage:0 "Camel"
+ yeti_heritage:0 "Yeti"
+ horse_heritage:0 "Horse"
+ donkey_heritage:0 "Donkey"
+ harpy_heritage:0 "Harpy"
+# Cultral Groups
+ equestrian_culture_group:0 "Equestrian"
+ riverpony_culture_group:0 "Riverpony"
+ karthinian_culture_group:0 "Karthinian"
+# Cultral Descriptives
+ aboriginal_griffon:0 "Aboriginal"
+#Pony Cultures
+ new_marelander:0 "New Marelander"
+#Griffon Cultures
+ aboriginal:0 "Aboriginal"
