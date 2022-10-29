@@ -11,4 +11,28 @@
 			}
 		}
 	}
+	s:STATE_CELESTIA = {
+		region_state:EQC = {
+			create_pop = {
+				culture = aboriginal
+				size = 74201
+			}
+			create_pop = {
+				culture = new_marelander
+				size = 94875
+			}
+		}
+	}
+	s:STATE_HARVI = {
+		region_state:EQC = {
+			create_pop = {
+				culture = aboriginal
+				size = 58462
+			}
+			create_pop = {
+				culture = new_marelander
+				size = 72451
+			}
+		}
+	}
 }
