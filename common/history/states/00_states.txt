@@ -19,4 +19,11 @@ STATES = {
 		
 		add_homeland = equestrian
 	}
+	s:STATE_FOAL_MOUNTAINS = {
+		create_state = {
+			country = c:EQS
+    			owned_provinces = { "x013355" "x029A39" "x034A2F" "x04583D" "x080E5E" "x08552D" "x0B5E08" "x0C614C" "x0C974F" "x0F2611" "x0F5544" "x106A31" "x128A2E" "x166F93" "x17553D" "x1D3A3C" "x205D75" "x240D65" "x274491" "x2A2AA3" "x2C3F8E" "x335991" "x33952F" "x374A65" "x395A9C" "x3A6C14" "x3B42A7" "x4019AA" "x42278E" "x431841" "x467A5F" "x474C3C" "x538752" "x550151" "x56A4C3" "x5A8EA3" "x654768" "x804285" "x878CD3" "x8A8812" "x8FE0D7" "x9E0B24" "xA445B5" "xA7A04F" "xBD51C7" }
+		}
+		add_homeland = equestrian
+	}
 }
