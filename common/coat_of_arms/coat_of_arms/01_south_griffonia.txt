@@ -13,6 +13,9 @@
 @NZL_coa_offset = @[3/16] 
 @sm_fra = 0.16
 
+@usa_canton_width = 0.5
+@usa_canton_height = @[ 1 / 13 * 7 ]
+
 #ABO = { # Aboriginals
 #	pattern = "pattern_solid.tga"
 #	color1 = "black"
@@ -30,6 +33,35 @@
 #	}
 #}
 
+sub_EQC_canton_torch = {
+	pattern = "pattern_solid.tga"
+	color1 = "pastal_navy_blue"
+	color2 = "yellow_light"
+	color3 = "green_light"
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = color2
+		color2 = color2
+		instance = { scale = { 0.25 0.25 } position = { @[ 1 / 7 * 1 ] @[ 1 / 5 * 1 ] } }
+		instance = { scale = { 0.25 0.25 } position = { @[ 1 / 7 * 6 ] @[ 1 / 5 * 1 ] } }
+		instance = { scale = { 0.25 0.25 } position = { @[ 1 / 7 * 1 ] @[ 1 / 5 * 4 ] } }
+		instance = { scale = { 0.25 0.25 } position = { @[ 1 / 7 * 6 ] @[ 1 / 5 * 4 ] } }
+	}
+	colored_emblem = {
+		texture = "ce_wreath.dds"
+		color1 = color3
+		color2 = color3
+		instance = { scale = { 1 1 } position = { @[ 1 / 2 ] @[ 1 / 2 ] } }
+	}	
+	colored_emblem = {
+		texture = "ce_torch.dds"
+		color1 = color2
+		color2 = color2
+		instance = { scale = { 0.7 0.7 } position = { @[ 1 / 2 ] @[ 1 / 2 ] } }
+	}	
+}
+
 EQC = {
 	# New Mareland Flag
 	pattern = "pattern_solid.tga" 
@@ -37,7 +69,11 @@ EQC = {
 
 	colored_emblem = {
 		texture = "ce_stripes_13.dds"
-		color1 = "pink"
-		color2 = "pink"
+		color1 = "pink_light"
+		color2 = "pink_light"
 	}
+    sub = {
+        parent = "sub_EQC_canton_torch" 
+        instance = { scale = { @usa_canton_width @usa_canton_height } } 
+    }
 }
