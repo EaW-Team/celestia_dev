@@ -11,4 +11,12 @@ STATES = {
 		add_homeland = new_marelander
 		add_homeland = aboriginal
 	}
+	s:STATE_CANTERLOT = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x0A4B75" "x0A751C" "x0E2045" "x0E3645" "x119A6E" "x132B8A" "x161D81" "x164881" "x16813D" "x225963" "x277387" "x27876F" "x285A51" "x288770" "x288A8C" "x288C6C" "x2B8106" "x2F8A13" "x360E45" "x380C61" "x39C5BE" "x3F0E4C" "x448EA3" "x450E26" "x45834B" "x538A3B" "x5C387E" "x698727" "x6F7E68" "x76C7DE" "x783F8E" "x792787" "x79A9BC" "x7BC95A" "x873358" "x8C7D28" "x9C6D16" "xA34498" "xDE76A3" }
+		}
+		
+		add_homeland = equestrian
+	}
 }
