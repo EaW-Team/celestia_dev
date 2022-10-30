@@ -8,10 +8,12 @@
     farm = "x5090e0"
     mine = "x313f1f"
     wood = "x95b8a3"
-    arable_land = 62
+    arable_land = 40
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_cotton_plantations" "bg_tea_plantations" "bg_sugar_plantations" }
     capped_resources = {
-        bg_logging = 32
+        bg_logging = 23
+        bg_iron_mining = 5
+        bg_sulfur_mining = 5
         bg_fishing = 8
     }
     naval_exit_id = 3000
@@ -26,18 +28,19 @@ STATE_CELESTIA = {
     farm = "x5412a6"
     mine = "xa9902f"
     wood = "x87a286"
-    arable_land = 62
+    arable_land = 56
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_cotton_plantations" "bg_tea_plantations" "bg_sugar_plantations" }
     capped_resources = {
-        bg_logging = 27
-        bg_coal_mining = 15
+        bg_logging = 10
+        bg_coal_mining = 28
+        bg_lead_mining = 36
         bg_lead_mining = 10
         bg_fishing = 8
     }
     resource = {
         type = "bg_gold_fields"
         depleted_type = "bg_gold_mining"
-        undiscovered_amount = 4
+        undiscovered_amount = 12
     }
     naval_exit_id = 3000
 }
@@ -51,15 +54,37 @@ STATE_HARVI = {
     farm = "x377a78"
     mine = "x317b30"
     wood = "x83965e"
-    arable_land = 62
+    arable_land = 56
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_cotton_plantations" "bg_tea_plantations" "bg_sugar_plantations" }
     capped_resources = {
-        bg_logging = 10
+        bg_logging = 7
+        bg_sulfur_mining = 24
+        bg_iron_mining = 5
         bg_fishing = 8
     }
     resource = {
         type = "bg_oil_extraction"
         undiscovered_amount = 10
+    }
+    naval_exit_id = 3000
+}
+STATE_NEW_HOOFINGTON = {
+    id = 203
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "" }
+    traits = {}
+    city = "x2f8d1c"
+    arable_land = 40
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_cotton_plantations" "bg_tea_plantations" "bg_sugar_plantations" }
+    capped_resources = {
+        bg_logging = 18
+        bg_iron_mining = 2
+        bg_fishing = 5
+    }
+    resource = {
+        type = "bg_gold_fields"
+        depleted_type = "bg_gold_mining"
+        undiscovered_amount = 6
     }
     naval_exit_id = 3000
 }
