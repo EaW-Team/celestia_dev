@@ -35,4 +35,16 @@
 			}
 		}
 	}
+	s:STATE_NEW_HOOFINGTON = {
+		region_state:EQC = {
+			create_pop = {
+				culture = aboriginal
+				size = 82150
+			}
+			create_pop = {
+				culture = new_marelander
+				size = 69810
+			}
+		}
+	}
 }

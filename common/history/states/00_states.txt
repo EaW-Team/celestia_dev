@@ -29,6 +29,15 @@ STATES = {
 		add_homeland = new_marelander
 		add_homeland = aboriginal
 	}
+	s:STATE_NEW_HOOFINGTON = {
+		create_state = {
+			country = c:EQC
+			owned_provinces = { "x594851" }
+		}
+		
+		add_homeland = new_marelander
+		add_homeland = aboriginal
+	}
 	s:STATE_CANTERLOT = {
 		create_state = {
 			country = c:EQS
