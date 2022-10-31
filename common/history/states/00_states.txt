@@ -32,7 +32,7 @@ STATES = {
 	s:STATE_NEW_HOOFINGTON = {
 		create_state = {
 			country = c:EQC
-			owned_provinces = { "x594851" }
+			owned_provinces = { "x01634B" "x06425A" "x066619" "x075AAA" "x0833E1" "x086346" "x2B66CB" "x2B87AD" "x2BA88F" "x308ADF" "x31031C" "x3266C6" "x32818A" "x55694C" "x594851" "x5C6947" "x7F8DAE" "x7FAE90" "x837AE3" "x842A2C" "x876C04" "xAE5A34" }
 		}
 		
 		add_homeland = new_marelander

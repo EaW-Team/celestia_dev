@@ -1,1 +1,7 @@
 ﻿l_english:
+#Equis
+#Griffonia
+ region_new_mareland:0 "New Mareland"
+#Zebrica
+#Sea Regions
+ region_discovery_coast:0 "Discovery Coast"

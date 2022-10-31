@@ -25,7 +25,8 @@
 			"common/discrimination_traits",
 			"common/cultures",
 			"common/flag_definitions",
-			"common/religions"
+			"common/religions",
+			"common/strategic_regions"
 		]
   }
 }

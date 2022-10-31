@@ -1,0 +1,3 @@
+﻿region_discovery_coast = {
+	states = { STATE_DISOVERY_COAST }
+}
