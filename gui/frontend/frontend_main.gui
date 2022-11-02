@@ -37,6 +37,10 @@ widget = {
 			size = { 100% 100% }
 			alwaystransparent = yes
 			loop = yes
+			start_sound = {
+				soundeffect = "file:/music/files/winter_wind.ogg"
+				looping = yes
+			}
 		}
 	}
 
