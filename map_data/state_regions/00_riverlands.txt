@@ -1,3 +1,8 @@
 ﻿STATE_SEGURO = {
     id = 301
+    provinces = { "x053955" "x062A3C" "x54A54C" "x854A5A" "xAEB40C" }
+}
+STATE_BYMNONIA = {
+    id = 302
+    provinces = { "x0560BE" "x05D24B" "x33ABD5" "x598AE2" "x83A54A" "xAD635C" "xADA8CA" "xB14884" }
 }
