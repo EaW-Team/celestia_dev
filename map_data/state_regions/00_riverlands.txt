@@ -6,3 +6,11 @@ STATE_BYMNONIA = {
     id = 302
     provinces = { "x0560BE" "x05D24B" "x33ABD5" "x598AE2" "x83A54A" "xAD635C" "xADA8CA" "xB14884" }
 }
+STATE_FIRESHORE = {
+    id = 303
+    provinces = { "x09518C" "x098D96" "x331803" "x339CBC" "x54001A" "x55C913" "x5D0F42" "x83C34F" "x88BAA4" "x971E6C" "xAD4BDE" "xAFAB1B" "xB1AB5C" "xB1C993" }
+}
+STATE_ILHAS_LAGOSTA = {
+    id = 304
+    provinces = { "x06ED00" "x30C7B2" "xAD3C5C" "xAD5A61" "xB118A1" "xC0BFA9" }
+}
