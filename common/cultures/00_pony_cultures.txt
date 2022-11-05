@@ -42,9 +42,9 @@
 		Moonshadow Velvet Moonlight
 	}
 
-	graphics = european
+	graphics = ponies
 	ethnicities = {
-		1 = caucasian
+		1 = equestrian
 	}
 }
 
@@ -92,5 +92,5 @@ equestrian={
 		Moonshadow Velvet Moonlight
 	}
 
-	graphics = european
+	graphics = ponies
 }
