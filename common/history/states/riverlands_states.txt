@@ -1,0 +1,37 @@
+﻿# "Why do some state entries have quote marks around them, when others don't?"
+# "It's because of differing methods of editing throughout the production of the game. Quote marks are unnecessary, but harmless if present."
+
+STATES = {
+	s:STATE_IOMALL_FAIRGE = {
+		create_state = {
+			country = c:FRE
+			owned_provinces = { "x07D2BE" "x33332B" "x3387B2" "x339358" "x33CC21" "x33CF62" "x37905A" "x5B1242" "x5D4283" "x886F18" "xB11820" "xB1C620" }
+		}
+		
+		add_homeland = ponaidhean
+	}
+	s:STATE_PONAIDHEAN_EIBHINN = {
+		create_state = {
+			country = c:FRE
+			owned_provinces = { "x096F91" "x331E21" "x5D18A6" "x5D21A1" "x5DB19C" "x874504" "x876FAE" "x877813" "xB19FB6" }
+		}
+		
+		add_homeland = ponaidhean
+	}
+	s:STATE_FEARANN_PONAIDH = {
+		create_state = {
+			country = c:FRE
+			owned_provinces = { "x0757CD" "x095123" "x09C9A0" "x309FB2" "x310FC1" "x3354A3" "x592AB5" "x5A5A83" "x5D54B0" "x852445" "x87A2BD" "x87A531" "xB19311" }
+		}
+		
+		add_homeland = ponaidhean
+	}
+	s:STATE_DITHREABH = {
+		create_state = {
+			country = c:FRE
+			owned_provinces = { "x0990D7" "x31C3DF" "x5B7BD3" "x5D121F" "x8399A4" "xAE721B" "xB1C961" }
+		}
+		
+		add_homeland = ponaidhean
+	}
+}

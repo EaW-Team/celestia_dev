@@ -1,0 +1,30 @@
+﻿BUILDINGS={
+	s:STATE_IOMALL_FAIRGE={
+		region_state:FRE={
+		}
+	}
+	s:STATE_PONAIDHEAN_EIBHINN={
+		region_state:FRE={
+		}
+	}
+	s:STATE_FEARANN_PONAIDH={
+		region_state:FRE={
+			create_building={
+				building="building_rye_farm"
+				level=3
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_apple_orchards" "pm_tools_disabled" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_logging_camp"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" "pm_merchant_guilds_building_logging_camp" }
+			}
+		}
+	}
+	s:STATE_DITHREABH={
+		region_state:FRE={
+		}
+	}
+}

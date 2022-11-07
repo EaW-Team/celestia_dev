@@ -1,0 +1,34 @@
+﻿POPS = {
+	s:STATE_IOMALL_FAIRGE = {
+		region_state:FRE = {
+			create_pop = {
+				culture = ponaidhean
+				size = 322839
+			}
+		}
+	}
+	s:STATE_PONAIDHEAN_EIBHINN = {
+		region_state:FRE = {
+			create_pop = {
+				culture = ponaidhean
+				size = 289497
+			}
+		}
+	}
+	s:STATE_FEARANN_PONAIDH = {
+		region_state:FRE = {
+			create_pop = {
+				culture = ponaidhean
+				size = 349400
+			}
+		}
+	}
+	s:STATE_DITHREABH = {
+		region_state:FRE = {
+			create_pop = {
+				culture = ponaidhean
+				size = 164650
+			}
+		}
+	}
+}
