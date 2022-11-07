@@ -5,8 +5,11 @@
 	generated_content=yes
 	layer="farms_dynamic"
 	pdxmesh="african_province_farm_01_mesh"
-	count=0
-}
+	count=3
+	transform="5569.451172 0.000000 2723.425537 0.000000 0.326185 0.000000 0.945306 0.000000 0.000000 0.000000
+5577.400879 0.000000 2727.369141 0.000000 0.171296 0.000000 0.985220 0.000000 0.000000 0.000000
+5572.047852 0.000000 2719.600098 0.000000 0.527384 0.000000 0.849627 0.000000 0.000000 0.000000
+"}
 object={
 	name="african_dynamic_farmland_objects_generator_1_1"
 	clamp_to_water_level=no
@@ -14,8 +17,10 @@ object={
 	generated_content=yes
 	layer="farms_dynamic"
 	pdxmesh="african_province_farm_01_mesh"
-	count=0
-}
+	count=2
+	transform="5582.873047 0.000000 2719.297119 0.000000 0.707824 0.000000 0.706389 0.000000 0.000000 0.000000
+5579.486816 0.000000 2719.809570 0.000000 0.823024 0.000000 0.568006 0.000000 0.000000 0.000000
+"}
 object={
 	name="african_dynamic_farmland_objects_generator_1_2"
 	clamp_to_water_level=no
@@ -23,8 +28,9 @@ object={
 	generated_content=yes
 	layer="farms_dynamic"
 	pdxmesh="african_province_subfarm_01_mesh"
-	count=0
-}
+	count=1
+	transform="5579.929688 0.000000 2723.255859 0.000000 0.992769 0.000000 -0.120038 0.000000 0.000000 0.000000
+"}
 object={
 	name="african_dynamic_farmland_objects_generator_1_3"
 	clamp_to_water_level=no
@@ -32,8 +38,10 @@ object={
 	generated_content=yes
 	layer="farms_dynamic"
 	pdxmesh="african_province_subfarm_02_mesh"
-	count=0
-}
+	count=2
+	transform="5576.407715 0.000000 2719.062256 0.000000 0.543282 0.000000 -0.839550 0.000000 0.000000 0.000000
+5579.786133 0.000000 2716.302979 0.000000 0.587598 0.000000 -0.809153 0.000000 0.000000 0.000000
+"}
 object={
 	name="african_dynamic_farmland_objects_generator_1_4"
 	clamp_to_water_level=no
@@ -41,5 +49,6 @@ object={
 	generated_content=yes
 	layer="farms_dynamic"
 	pdxmesh="windmill_01_mesh"
-	count=0
-}
+	count=1
+	transform="5574.330566 0.000000 2723.346924 0.000000 0.113342 0.000000 -0.993556 0.000000 0.000000 0.000000
+"}
