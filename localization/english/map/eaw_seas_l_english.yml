@@ -1,2 +1,7 @@
 ﻿l_english:
  STATE_DISOVERY_COAST:0 "Discovery Coast"
+ STATE_MEDIOLANO:0 "Mediolano"
+ STATE_KION_SEA:0 "Kion Sea"
+ STATE_ELER_SEA:0 "Eler Sea"
+ STATE_CORSAIR_SEA:0 "Corsair Sea"
+ STATE_EAST_OCEAN:0 "East Ocean"

@@ -37,6 +37,7 @@ STATE_IOMALL_FAIRGE = {
         bg_whaling = 6
         bg_fishing = 14
     }
+    naval_exit_id = 3007
 }
 STATE_PAPAGLIA = {
     id = 309

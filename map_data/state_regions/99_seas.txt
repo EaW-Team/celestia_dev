@@ -10,3 +10,23 @@ STATE_WORLD_OCEAN_WEST = {
     id = 3002
     provinces = { "x2d4f87" }
 }
+STATE_MEDIOLANO = {
+    id = 3003
+    provinces = { "x4692fa" }
+}
+STATE_KION_SEA = {
+    id = 3004
+    provinces = { "x3882e7" }
+}
+STATE_ELER_SEA = {
+    id = 3005
+    provinces = { "x447cc9" }
+}
+STATE_CORSAIR_SEA = {
+    id = 3006
+    provinces = { "x486fa3" }
+}
+STATE_EAST_OCEAN = {
+    id = 3007
+    provinces = { "x0a1fe8" }
+}
