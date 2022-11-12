@@ -52,3 +52,18 @@ STATE_HAYHA = {
     id = 410
     provinces = { "xAC7328" "xB5283C" "xCB7026" "xD4905A" "xDF791E" "xE37B27" "xE7B389" "xF4A949" "xF4B481" "xF6A05A" }
 }
+
+STATE_ABFILLYA = {
+    id = 411
+    provinces = { "x69380D" "x7E3C45" "x8C5421" "x9A1C2E" "xB2631C" "xD4A57C" "xDFC847" "xE0D490" "xE36173" "xEFD0A9" "xFDB75C" }
+}
+
+STATE_HIGH_MARETLAS = {
+    id = 412
+    provinces = { "x5818E2" "x682130" "x6D1D27" "x7C243F" "x810B24" "x8A4B54" "x8C440F" "x942245" "xA2123F" "xA3213C" "xAA4157" "xB94B4B" "xBC6E7B" "xCB7739" "xE3346A" "xE62A64" "xE76F18" "xEA203D" "xF06582" }
+}
+
+STATE_QAWASMANE = {
+    id = 413
+    provinces = { "x6C4313" "xA37524" "xB4AE8C" "xBA862C" "xBAA633" "xC18316" "xC28B4B" "xDEAD2A" "xDED6AA" "xE0B66E" "xE6AB44" "xEAC688" "xEADE99" "xEECF9A" "xF1B449" "xFFED89" }
+}
