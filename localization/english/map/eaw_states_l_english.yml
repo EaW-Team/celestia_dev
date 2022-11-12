@@ -56,3 +56,8 @@
  STATE_TAILA_IMSAN:0 "Taila Imsan"
  STATE_TAFILALT:0 "Tafilalt"
  STATE_MAREAKECH:0 "Mareakech"
+ STATE_BUCKKALA:0 "Buckkala"
+ STATE_AGADIR:0 "Agadir"
+ STATE_HAYHA:0 "Hayha"
+ STATE_TROTADLA:0 "Trotadla"
+ STATE_HORSEZ:0 "Horsez"

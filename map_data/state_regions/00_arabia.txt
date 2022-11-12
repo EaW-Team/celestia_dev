@@ -4,26 +4,51 @@
 }
 
 STATE_MANELILLA = {
-id = 401
-    provinces = {  }
+    id = 401
+    provinces = { "x73442B" "x954114" "x9B5116" "xB56338" "xBD7A10" "xD3742E" "xD38B50" "xDB7945" "xE09C30" "xE3A470" "xE47D29" "xF8B64F" }
 }
 
 STATE_TROTGIERS = {
-id = 402
-    provinces = {  }
+    id = 402
+    provinces = { "x844833" "x9A4628" "xB65B2C" "xC3892E" "xC94415" "xDC6809" "xDC9B35" "xF7BC5F" }
 }
 
 STATE_TAILA_IMSAN = {
-id = 403
-    provinces = {  }
+    id = 403
+    provinces = { "x744717" "x7F3203" "x864714" "x884D1B" "xA4572C" "xA45B47" "xA96011" "xAD7514" "xB260A2" "xBA5010" "xBB6014" "xDE512B" "xE1912A" "xE67C43" "xE99369" "xEDBE4E" "xEE9523" "xEF922F" "xF3A378" }
 }
 
 STATE_TAFILALT = {
-id = 404
-    provinces = {  }
+    id = 404
+    provinces = { "x6D3111" "x84371C" "xA86D3D" "xB18118" "xB2560B" "xB97C3B" "xBC7923" "xC86413" "xCA22B8" "xCC6938" "xCC7A36" "xCD5C21" "xD74BBC" "xDBA35A" "xE39745" "xE3AF3E" "xE3C687" "xE4814E" "xE7C98A" "xEDB948" }
 }
 
 STATE_MAREAKECH = {
-id = 405
-    provinces = {  }
+    id = 405
+    provinces = { "x743B27" "xA8330B" "xCC7222" "xD8842A" "xE03D17" "xE08D44" "xE49F56" "xFA9B4D" }
+}
+
+STATE_BUCKKALA = {
+    id = 406
+    provinces = { "x9D662A" "xB4860C" "xD18E46" "xD37918" "xDD6931" "xE4B379" "xEEB6E3" }
+}
+
+STATE_AGADIR = {
+    id = 407
+    provinces = { "xAC4723" "xB88E34" "xC7542C" "xD78A30" "xD87013" "xD97B48" "xDBC188" "xE17F5D" "xE3BB8B" "xE7B448" "xF4A082" }
+}
+
+STATE_HORSEZ = {
+    id = 408
+    provinces = { "x8D462D" "x984020" "x9F500B" "xB05738" "xB34620" "xB75E3E" "xD59F8B" "xD5B96E" "xE86739" "xEE6D3F" "xF0A348" }
+}
+
+STATE_TROTADLA = {
+    id = 409
+    provinces = { "x450E2A" "x551010" "x612B2B" "x612F5C" "x87104E" "x883E23" "x8E604F" "x920D0D" "x952689" "xAB4C2C" }
+}
+
+STATE_HAYHA = {
+    id = 410
+    provinces = { "xAC7328" "xB5283C" "xCB7026" "xD4905A" "xDF791E" "xE37B27" "xE7B389" "xF4A949" "xF4B481" "xF6A05A" }
 }
