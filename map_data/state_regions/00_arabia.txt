@@ -2,3 +2,28 @@
     id = 400
     provinces = { "x2E103C" "x58316A" "x6F4F1C" "x8546A3" "xA8721C" "xBB7FD7" "xC94A12" "xD3A863" "xDD9A30" }
 }
+
+STATE_MANELILLA = {
+id = 401
+    provinces = {  }
+}
+
+STATE_TROTGIERS = {
+id = 402
+    provinces = {  }
+}
+
+STATE_TAILA_IMSAN = {
+id = 403
+    provinces = {  }
+}
+
+STATE_TAFILALT = {
+id = 404
+    provinces = {  }
+}
+
+STATE_MAREAKECH = {
+id = 405
+    provinces = {  }
+}

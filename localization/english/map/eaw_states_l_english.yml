@@ -51,3 +51,8 @@
  STATE_WOLFREST:0 "Wolfrest"
  STATE_KOTAILIA:0 "Kotailia"
  STATE_CEMARETA:0 "Cemareta"
+ STATE_MANELILLA:0 "Manelilla"
+ STATE_TROTGIERS:0 "Trotgiers"
+ STATE_TAILA_IMSAN:0 "Taila Imsan"
+ STATE_TAFILALT:0 "Tafilalt"
+ STATE_MAREAKECH:0 "Mareakech"
