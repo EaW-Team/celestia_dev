@@ -112,3 +112,113 @@ STATE_BISHAH = {
     id = 422
     provinces = { "x2D130B" "x3B1005" "x4D2216" "x5E5AA1" "x64301F" "x7A4939" "xAC5B41" "xDC4213" "xDFA492" }
 }
+
+STATE_BADIMANE_ASH_SHAM = {
+    id = 423
+    provinces = { "x362021" "x51192B" "x62171C" "x8F5155" "x93494E" "x9C5F64" "xA41F28" "xC13F11" "xCA2834" "xD59681" "xE26337" "xE75826" "xEB8460" "xEE9C85" }
+}
+
+STATE_AL_COLTIF = {
+    id = 424
+    provinces = { "x563403" "x8D510B" "xA06013" "xA56810" "xBC222C" "xC57B23" "xCD9048" "xD77F45" "xDCC5A9" "xDE933A" "xDEB688" "xE7BB87" "xF0B46E" "xFBBA6D" }
+}
+
+STATE_MASAB = {
+    id = 425
+    provinces = { "x64380D" "x8B4E12" "xC17A35" "xC88718" "xD19124" "xD68A07" "xE59D21" "xE6AD4C" "xF1C882" }
+}
+
+STATE_QUATMARE = {
+    id = 426
+    provinces = { "x845D0A" "xA36E14" "xAC9C50" "xC8710B" "xCA7B0A" "xCF8F35" "xD4C982" "xD79B36" "xDA9B12" "xDBA633" "xE0C71C" "xE69332" "xE8C17F" "xEFAE51" }
+}
+
+STATE_JABAL_TROTBAIQ = {
+    id = 427
+    provinces = { "x8F4818" "x9D5B2F" "xA8961A" "xA96A0F" "xA9752B" "xB9794E" "xCD8C2F" "xD6CD9A" "xD8B513" "xDCC235" "xDCCD78" "xE2B575" "xE9C499" "xFADD3C" }
+}
+
+STATE_HORSEMUZ = {
+    id = 428
+    provinces = { "xAE7D2C" "xCFC0A6" "xD4B787" "xDEC69E" "xE1C698" "xF1DEBD" "xF3BD63" "xFAB94C" }
+}
+
+STATE_YABMANEIN = {
+    id = 429
+    provinces = { "x482110" "x743C16" "xC0A372" "xC56C31" "xC6BAAB" "xCE852F" "xEDB24A" "xEEDB71" "xEFD293" }
+}
+
+STATE_DAWASIRE = {
+    id = 430
+    provinces = { "x5A1B0A" "x5E2412" "x634138" "x8A3118" "x8F7168" "x914936" "xB34E2F" "xC24625" "xC38979" "xC94926" "xF57451" }
+}
+
+STATE_AL_YAMANEMAH = {
+    id = 431
+    provinces = { "x925241" "xA27262" "xA65944" "xB1454C" "xD68765" "xDD5B2F" "xE44E1C" "xEBC5B4" "xEF9279" "xEF9A7D" "xF46E33" }
+}
+
+STATE_AL_MANEID = {
+    id = 432
+    provinces = { "x382208" "x533410" "x571E0C" "x611D08" "xAB6D15" "xBA7B30" "xD9864F" "xEA4F1F" }
+}
+
+STATE_AWAL = {
+    id = 433
+    provinces = { "x311E03" "x35250E" "x49300D" "x4B1407" "x854012" "x872C04" "x8D5A12" "x985F0D" "xA5660E" "xA93F10" "xD58F2E" "xD7794F" }
+}
+
+STATE_QATHOOF = {
+    id = 434
+    provinces = { "x3D1A0E" "x66392A" "x7C5218" "x8A2A10" "x9D7741" "x9F681B" "xB39417" "xB74D1E" "xDF775B" "xDF9D42" }
+}
+
+STATE_SADDLEAYR = {
+    id = 435
+    provinces = { "x632210" "x732B30" "x784D42" "x8B751F" "x963109" "xB84D23" "xBB6848" "xC0451A" "xCE4D2A" "xD23E2B" "xD36B5E" "xDE9C85" "xDF4D14" "xE68762" }
+}
+
+STATE_AL_FARASIATAN = {
+    id = 436
+    provinces = { "x671F24" "x6C493A" "x6F1A1F" "x8B474B" "xC14E1C" "xD03640" }
+}
+
+STATE_OUJMAREDA = {
+    id = 437
+    provinces = { "x361201" "x3F1E10" "x642D15" "x66411F" "x7F5249" "x863511" "xA94011" "xC3724E" "xCC6C59" "xD2A175" "xD3DDFF" "xE37F26" "xE54829" "xE68B63" "xEC8F7D" }
+}
+
+STATE_MAREKKAH = {
+    id = 438
+    provinces = { "x301012" "x5E0CF8" "x632E27" "x644743" "x853E34" "xB32D36" "xB82E37" "xE38389" "xF79E92" }
+}
+
+STATE_QUNFUDHAH = {
+    id = 439
+    provinces = { "x79583B" "x945E03" "xB68E6A" "xC2841A" "xCCA98A" "xD1973C" "xDF8636" "xE2B288" }
+}
+
+STATE_TROTAIF = {
+    id = 440
+    provinces = { "x6B3712" "xC16320" "xC26928" "xC96419" "xCA7130" "xD49C4C" "xD6972F" "xDAB270" "xDB935E" "xDF935C" "xE28644" "xE97017" }
+}
+
+STATE_TROTUBAH = {
+    id = 440
+    provinces = { "x60391D" "x864312" "xA35922" "xB25512" "xBC8660" "xC56521" "xDEAD89" "xE47B2E" "xE77019" "xEC7A2A" "xF2D19A" }
+}
+
+STATE_MANEDINAH = {
+    id = 441
+    provinces = { "x8B5F16" "x96681C" "xA6662E" "xAC5202" "xBA780B" "xCC8366" "xD38A11" "xE2A642" "xE9AD48" "xF0C885" "xF5D195" "xF7AD31" }
+}
+
+STATE_JEDDNEIGHA = {
+    id = 442
+    provinces = { "x9A3B1E" "x9A6434" "xC2691B" "xC94011" "xD4843D" "xDF8C6F" "xED9648" "xF2B987" }
+}
+
+STATE_Ma'din_Stallionlaym = {
+    id = 443
+    provinces = { "xA06819" "xAE6804" "xAF7A22" "xB9AE9B" "xC5A01F" "xCB8C33" "xCDA107" "xD3AA6F" "xDA9A2F" "xDBC167" "xDDC46F" "xE0BA38" "xE0CAA6" "xE2B872" "xE6B877" "xEFAB49" }
+}
