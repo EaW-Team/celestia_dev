@@ -64,3 +64,8 @@
  STATE_ABFILLYA:0 "Abfillya"
  STATE_HIGH_MARETLAS:0 "High Maretlas"
  STATE_QAWASMANE:0 "Qawasmane"
+ STATE_MANEKNES:0 "Maneknes"
+ STATE_GHAZZMARE:0 "Ghazzmare"
+ STATE_ILPONWA:0 "Ilponwa"
+ STATE_MARECALAT:0 "Marecalat"
+ STATE_JAFFMARE:0 "Jaffmare"

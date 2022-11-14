@@ -67,3 +67,28 @@ STATE_QAWASMANE = {
     id = 413
     provinces = { "x6C4313" "xA37524" "xB4AE8C" "xBA862C" "xBAA633" "xC18316" "xC28B4B" "xDEAD2A" "xDED6AA" "xE0B66E" "xE6AB44" "xEAC688" "xEADE99" "xEECF9A" "xF1B449" "xFFED89" }
 }
+
+STATE_MANEKNES = {
+    id = 414
+    provinces = { "x5742BF" "x711346" "x754432" "x8D3F69" "x93320F" "x993757" "x9A3368" "xA33E69" "xC03560" "xD03E8A" "xD7592D" "xD794BC" "xDB6D91" "xE14176" "xE2638A" }
+}
+
+STATE_GHAZZMARE = {
+    id = 415
+    provinces = { "x813B1C" "x914F0F" "x953308" "xCA7420" "xD05B28" "xD19263" "xF7B646" }
+}
+
+STATE_ILPONWA = {
+    id = 416
+    provinces = { "x67240C" "x72493A" "x8C521A" "x900F39" "x992334" "xA03A16" "xA12F47" "xAA7C6C" "xB7175B" "xCD5770" "xDC666E" }
+}
+
+STATE_MARECALAT = {
+    id = 417
+    provinces = { "xC5861A" "xD7BC25" "xDBA241" "xEBC481" "xECA52B" "xEEB14A" "xF0E18C" }
+}
+
+STATE_JAFFMARE = {
+    id = 418
+    provinces = { "x4D572D" "x779420" "x7B2F09" "xA1C043" "xB38327" "xB57A09" "xC0D341" "xC4AE85" "xCAC820" "xD3A141" "xD3B477" "xDBC293" "xDC9C7C" "xE3A26D" "xEBAC32" "xEEAC2C" "xF3CD84" "xF4B844" }
+}
