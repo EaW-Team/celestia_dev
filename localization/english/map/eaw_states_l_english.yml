@@ -69,3 +69,7 @@
  STATE_ILPONWA:0 "Ilponwa"
  STATE_MARECALAT:0 "Marecalat"
  STATE_JAFFMARE:0 "Jaffmare"
+ STATE_NAJGALLOP:0 "Najgallop"
+ STATE_AFOALAJ:0 "Afoalaj"
+ STATE_ABU_MAREISH:0 "Abu Mareish"
+ STATE_BISHAH:0 "Bishah"

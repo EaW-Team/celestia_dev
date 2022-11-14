@@ -92,3 +92,23 @@ STATE_JAFFMARE = {
     id = 418
     provinces = { "x4D572D" "x779420" "x7B2F09" "xA1C043" "xB38327" "xB57A09" "xC0D341" "xC4AE85" "xCAC820" "xD3A141" "xD3B477" "xDBC293" "xDC9C7C" "xE3A26D" "xEBAC32" "xEEAC2C" "xF3CD84" "xF4B844" }
 }
+
+STATE_NAJGALLOP = {
+    id = 419
+    provinces = { "x34190C" "x89311A" "x9B461C" "xA03316" "xA65B1F" "xBC5B2A" "xC7610F" "xCB7862" "xD85617" "xD88169" "xE69A5C" "xE77943" "xE94E25" "xEC5E19" }
+}
+
+STATE_AFOALAJ = {
+    id = 420
+    provinces = { "x24190E" "x3C2D1F" "x6A3F15" "x6B3908" "xAB8174" "xD49F6C" "xDE6945" }
+}
+
+STATE_ABU_MAREISH = {
+    id = 421
+    provinces = { "x3A1503" "x4A2216" "x9B351A" "xA86341" "xBE7E6A" "xCF8F7E" "xE0522C" }
+}
+
+STATE_BISHAH = {
+    id = 422
+    provinces = { "x2D130B" "x3B1005" "x4D2216" "x5E5AA1" "x64301F" "x7A4939" "xAC5B41" "xDC4213" "xDFA492" }
+}
