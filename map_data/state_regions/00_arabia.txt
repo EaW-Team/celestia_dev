@@ -222,3 +222,23 @@ STATE_Ma'din_Stallionlaym = {
     id = 443
     provinces = { "xA06819" "xAE6804" "xAF7A22" "xB9AE9B" "xC5A01F" "xCB8C33" "xCDA107" "xD3AA6F" "xDA9A2F" "xDBC167" "xDDC46F" "xE0BA38" "xE0CAA6" "xE2B872" "xE6B877" "xEFAB49" }
 }
+
+STATE_AQABAH = {
+    id = 444
+    provinces = { "x5D3012" "x5D3E13" "x68300A" "x7E5A29" "x8B5305" "x995F0F" "x9E4A12" "xB38A1B" "xC57D19" }
+}
+
+STATE_HADITHA = {
+    id = 445
+    provinces = { "x4F411A" "x785C11" "x958C26" "xA44E28" "xC6981D" "xD04B10" "xD6CB4E" "xDEAC25" }
+}
+
+STATE_JABAL_SHAMMARE = {
+    id = 446
+    provinces = { "x25240C" "x3D3C24" "x68630D" "x835A2A" "x928D53" "x97630A" "xBEBB85" "xC1B828" "xC5BD24" "xDBCF49" "xDF7B23" "xE69F26" "xEDC966" }
+}
+
+STATE_AL_KAHB = {
+    id = 447
+    provinces = { "x2B0E05" "x35160B" "x4C352D" "x5B1B05" "x622512" "x6C4537" "x7C5D0B" "x8A3A0F" "x8A6320" "x955741" "xA83B14" "xAA5526" "xAE785B" "xC3B193" "xCB8918" "xD5663F" "xD7A142" "xF4B74E" }
+}

@@ -95,3 +95,7 @@
  STATE_MANEDINAH:0 "Manedinah"
  STATE_JEDDNEIGHA:0 "Jeddneigha"
  STATE_Madin_Stallionlaym:0 "Ma'din Stallionlaym"
+ STATE_AQABAH:0 "Aqabah"
+ STATE_HADITHA:0 "Haditha"
+ STATE_JABAL_SHAMMARE:0 "Jabal-Shammare"
+ STATE_AL_KAHB:0 "Al-Kahb"
