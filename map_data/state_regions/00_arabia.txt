@@ -218,7 +218,7 @@ STATE_JEDDNEIGHA = {
     provinces = { "x9A3B1E" "x9A6434" "xC2691B" "xC94011" "xD4843D" "xDF8C6F" "xED9648" "xF2B987" }
 }
 
-STATE_Ma'din_Stallionlaym = {
+STATE_Madin_Stallionlaym = {
     id = 443
     provinces = { "xA06819" "xAE6804" "xAF7A22" "xB9AE9B" "xC5A01F" "xCB8C33" "xCDA107" "xD3AA6F" "xDA9A2F" "xDBC167" "xDDC46F" "xE0BA38" "xE0CAA6" "xE2B872" "xE6B877" "xEFAB49" }
 }

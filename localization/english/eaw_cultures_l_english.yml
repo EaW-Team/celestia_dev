@@ -30,6 +30,7 @@
  equestrian_culture_group:0 "Equestrian"
  riverpony_culture_group:0 "Riverpony"
  karthinian_culture_group:0 "Karthinian"
+ arabian_culture_group:0 "Arabian"
 # Cultral Descriptives
  aboriginal_griffon:0 "Aboriginal"
 #Pony Cultures
@@ -38,3 +39,5 @@
  ponaidhean:0 "Pònaidh"
 #Griffon Cultures
  aboriginal:0 "Aboriginal"
+#Horse Cultures
+ cimrannine:0 "Cimrannine"

@@ -124,3 +124,12 @@ sun_worship = {
 	}
 	color = rgb{ 255 232 61 }
 }
+
+#Horse Religion
+watrzya = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		horse_religion_group
+	}
+	color = rgb{ 127 0 0 }
+}

@@ -1,0 +1,11 @@
+
+SDL = { # Saddle Arabia
+	color = { 50  105  70 }
+	
+	country_type = recognized
+	
+	tier = empire
+	
+	capital = STATE_TROTGIERS
+	cultures = { cimrannine }
+}
