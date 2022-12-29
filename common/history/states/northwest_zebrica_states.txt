@@ -38,6 +38,54 @@ STATES = {
 		}
 		add_homeland = sumareians
 	}
+	
+	s:STATE_DUR-BURRO = {
+		create_state = {
+			country = c:AST
+    			owned_provinces = { "x4A4732" "x574631" "x5E1607" "x6A6422" "x802E11" "x934917" "xB0A334" "xCC4617" "xDB7836" "xE4E0BD" "xECDA46" }
+		}
+		add_homeland = asstyrian
+	}
+	
+	s:STATE_ONAGERAN = {
+		create_state = {
+			country = c:AST
+    			owned_provinces = { "x949176" "x9D611A" "xAAA770" "xE1791E" "xEC974C" }
+		}
+		add_homeland = asstyrian
+	}
+	
+	s:STATE_DONKRA = {
+		create_state = {
+			country = c:AST
+    			owned_provinces = { "x2E0D04" "x51190A" "x672A0C" "x6B170C" "x8B281B" "xA15511" "xA54312" "xB02B07" }
+		}
+		add_homeland = asstyrian
+	}
+	
+	s:STATE_ASSUR = {
+		create_state = {
+			country = c:AST
+    			owned_provinces = { "x4E2806" "x5E3108" "x7A6E07" "x7E6F3B" "x94560C" "x987E26" "xA19466" "xB18D12" "xB96112" "xBE814C" "xC9B82F" "xCBB772" "xD8CEAA" "xDE9353" "xDFD023" "xEEBD93" "xEEDA93" "xF08B33" }
+		}
+		add_homeland = asstyrian
+	}
+	
+	s:STATE_DONKEYTU = {
+		create_state = {
+			country = c:AST
+    			owned_provinces = { "x372513" "x512B09" "x514703" "x633D1B" "x635A1B" "x7F7215" "x8C4613" "x8C7C13" "x918A57" "x9C4C07" "xAAA059" "xB18863" "xB8B182" "xBFB14C" "xD3B351" "xD3B545" "xD5BF2B" "xDFCA37" "xE0954C" "xE48C25" "xE4E1D5" }
+		}
+		add_homeland = asstyrian
+	}
+	
+	s:STATE_JENNYVEH = {
+		create_state = {
+			country = c:AST
+    			owned_provinces = { "x2D270B" "x433927" "x444729" "x474229" "x504B36" "x572309" "x632A0E" "x6A2405" "x705F3D" "x736838" "x876C39" "x905C2A" "x929B0A" "x9E925A" "xA2A754" "xA4AF29" "xAC5520" "xB29B3D" "xB2B66C" "xBCC346" "xC06B38" "xC8CF60" "xCC5B23" "xD4B09A" "xD4BA9B" "xE0E858" "xE4AC6A" "xE8A14E" "xF0A77B" "xF0CD2C" }
+		}
+		add_homeland = asstyrian
+	}
 
 }
 

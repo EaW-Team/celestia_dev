@@ -28,6 +28,17 @@ ANS = { # Anseruk
 	
 	tier = principality
 	
-	capital = STATE_NIBURRO
+	capital = STATE_ANSERUK
 	cultures = { sumareians }
+}
+
+AST = { # Asstyria
+	color = { 40  75  60 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ASSUR
+	cultures = { asstyrian }
 }
