@@ -18,5 +18,16 @@ YEM = { # Yemane
 	tier = principality
 	
 	capital = STATE_MANE'A
-	cultures = { Yemani }
+	cultures = { yemani }
+}
+
+ANS = { # Anseruk
+	color = { 40  75  60 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_NIBURRO
+	cultures = { sumareians }
 }

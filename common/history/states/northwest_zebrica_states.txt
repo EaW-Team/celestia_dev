@@ -1,0 +1,43 @@
+STATES = {
+    s:STATE_ASINUS = {
+		create_state = {
+			country = c:ANS
+    			owned_provinces = { "x191004" "x37240D" "x642509" "x645646" "x7D4D10" "x84581F" "xA56D25" "xD9B381" "xDB9133" "xDD8A65" "xE5A457" "xFFA127" }
+		}
+		add_homeland = sumareians
+	}
+	
+	s:STATE_NIBURRO = {
+		create_state = {
+			country = c:ANS
+    			owned_provinces = { "x665744" "x71621A" "x925B14" "x9E7E56" "xC27B1E" "xC33A1F" "xD2BB60" "xD2CDB9" "xE7E3D3" "xEAA348" "xEDE6CC" "xEFD778" "xF1A33E" "xF3CE3C" "xFFCB8E" }
+		}
+		add_homeland = sumareians
+	}
+	
+	s:STATE_JACKISH = {
+		create_state = {
+			country = c:ANS
+    			owned_provinces = { "x2C1F11" "x4B3C2D" "x4F4030" "x4F5618" "x624414" "x674624" "x702C11" "x725D11" "x776757" "x7B4510" "x7D4A18" "x7E5D3D" "x8A5338" "x8C5A38" "x9C5E1F" "xA16F3E" "xA57352" "xA58668" "xA6542C" "xBEB24B" "xBF6E1C" "xC25A15" "xC78645" "xCA833D" "xD6A16C" "xDDB485" "xDE8B2A" "xE2874A" "xE2895E" "xE3BBA7" "xEFA651" "xEFE2B7" "xF5A14E" "xF5A656" }
+		}
+		add_homeland = sumareians
+	}
+	
+	s:STATE_SFURUPPAK = {
+		create_state = {
+			country = c:ANS
+    			owned_provinces = { "x2D1812" "x362C26" "x4E301D" "x6F210D" "x7D5339" "x7F3927" "x846B5B" "x884736" "x884E24" "x8E6F48" "x904317" "xA84228" "xA95420" "xA95521" "xB4961C" "xB7A066" "xBC4628" "xBD692D" "xC3855F" "xC47339" "xC6593D" "xCDAA1B" "xD78A77" "xDD9161" "xDF7F67" "xE1643A" "xE29259" "xE29362" "xE2CA66" "xE6D09A" "xF7855F" }
+		}
+		add_homeland = sumareians
+	}
+	
+	s:STATE_ANSERUK = {
+		create_state = {
+			country = c:ANS
+    			owned_provinces = { "x36300D" "x3E392E" "x412B20" "x463420" "x4B2919" "x563514" "x675E2C" "x797168" "x7B470F" "x7F501D" "x845F18" "x886F3E" "x898154" "xAA8641" "xAC992D" "xBD8346" "xC29E8D" "xC2BA8D" "xC7945E" "xC9AE79" "xCF6B3A" "xE4D167" "xE87F18" "xEDC94A" "xEF7134" "xF9D389" }
+		}
+		add_homeland = sumareians
+	}
+
+}
+

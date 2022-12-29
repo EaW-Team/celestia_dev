@@ -133,3 +133,12 @@ watrzya = {
 	}
 	color = rgb{ 127 0 0 }
 }
+
+#Donkey Religion
+God-Monarch_Cult = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		donkey_religion_group
+	}
+	color = rgb{ 127 2 5 }
+}
