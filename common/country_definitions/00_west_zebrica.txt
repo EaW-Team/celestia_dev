@@ -18,5 +18,5 @@ YEM = { # Yemane
 	tier = principality
 	
 	capital = STATE_MANE'A
-	cultures = { Yemane }
+	cultures = { Yemani }
 }
