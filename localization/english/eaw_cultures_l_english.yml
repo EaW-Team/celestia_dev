@@ -37,6 +37,7 @@
  equestrian:0 "Equestrian"
  new_marelander:0 "New Marelander"
  ponaidhean:0 "Pònaidh"
+ wittenlandic:0 "Wittenlandic"
 #Griffon Cultures
  aboriginal:0 "Aboriginal"
 #Horse Cultures
@@ -44,3 +45,6 @@
  yemani:0 "Yemani"
  #Donkies cultures
  sumareians:0 "Sumareians"
+ asstyrian:0 "Asstyrian"
+ #Zebra cultures
+ kásan:0 "Kásan"

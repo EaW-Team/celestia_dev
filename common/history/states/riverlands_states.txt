@@ -34,4 +34,121 @@ STATES = {
 		
 		add_homeland = ponaidhean
 	}
+	
+	s:STATE_SEGURO = {
+		create_state = {
+			country = c:ZES
+			owned_provinces = { "x053955" "x062A3C" "x54A54C" "x854A5A" "xA0F5A5" "xAEB40C" }
+		}
+		
+		add_homeland = kásan
+	}
+	
+	s:STATE_BYMNONIA = {
+		create_state = {
+			country = c:ZES
+			owned_provinces = { "x0560BE" "x05D24B" "x33ABD5" "x598AE2" "x83A54A" "xAD635C" "xADA8CA" "xB14884" }
+		}
+		
+		add_homeland = kásan
+	}
+	
+	s:STATE_FIRESHORE = {
+		create_state = {
+			country = c:ZES
+			owned_provinces = { "x09518C" "x098D96" "x331803" "x339CBC" "x54001A" "x55C913" "x5D0F42" "x83C34F" "x88BAA4" "x971E6C" "xAD4BDE" "xAFAB1B" "xB1AB5C" "xB1C993" }
+		}
+		
+		add_homeland = kásan
+	}
+	
+	s:STATE_DITHREABH = {
+		create_state = {
+			country = c:ZES
+			owned_provinces = { "x06ED00" "x30C7B2" "xAD3C5C" "xAD5A61" "xB118A1" "xC0BFA9" "xEA6C90" }
+		}
+		
+		add_homeland = kásan
+	}
+	
+	s:STATE_WITTEN = {
+		create_state = {
+			country = c:WIT
+			owned_provinces = { "x069987" "x3045A3" "x5A842E" "x5DA2B0" "x5DC392" "x83120E" "x835D9A" "xAE24DE" }
+		}
+		
+		add_homeland = wittenlandic
+	}
+	
+	s:STATE_ELISAY = {
+		create_state = {
+			country = c:WIT
+			owned_provinces = { "x053337" "x070900" "x07548C" "x07C05F" "x094B05" "x09662D" "x0993B4" "x2F633F" "x313C49" "x315A4E" "x317853" "x3312DE" "x5B1E83" "x852104" "x859C59" "x87810E" "x87BD18" "xAD8AC5" "xAF06E3" "xAF9FD9" "xB163AB" "xB19034" }
+		}
+		
+		add_homeland = wittenlandic
+	}
+	
+	s:STATE_BARRAD = {
+		create_state = {
+			country = c:WIT
+			owned_provinces = { "x073687" "x078114" "x313908" "x31668F" "x5945DD" "x5B6910" "x5D1B83" "x5DCC5B" "x830C54" "x838745" "x846C90" "x854E8B" "x859918" "xAD0FD4" "xAF510C" "xAF7E93" "xAFBDDE" "xAFC920" }
+		}
+		
+		add_homeland = wittenlandic
+	}
+	
+	s:STATE_PAPAGLIA = {
+		create_state = {
+			country = c:WIT
+			owned_provinces = { "x0775D2" "x09690A" "x30BA0D" "x338DD0" "x339F30" "x5D183D" "x832A59" "x850363" "x871BBD" "xB14EA2" "xB15A48" }
+		}
+		
+		add_homeland = wittenlandic
+	} 
+	
+	s:STATE_NORBEAK = {
+		create_state = {
+			country = c:WIT
+			owned_provinces = { "x33001C" "x335DD5" "x33B717" "x5D8DDD" "x5E0306" "x8751A9" "x877036" "xB16689" "xB1A293" }
+		}
+		
+		add_homeland = wittenlandic
+	} 
+	
+	s:STATE_FYRD = {
+		create_state = {
+			country = c:WIT
+			owned_provinces = { "x00C30A" "x09785A" "x33A862" "x33AEB2" "x5D72B5" "x85C3C2" "x879090" "xAD4557" "xB10316" "xB139CF" "xB175D9" "xB17E07" "xB193DE" "xB2C002" }
+		}
+		
+		add_homeland = wittenlandic
+	} 
+	
+	s:STATE_DARNISH_HIGHLANDS = {
+		create_state = {
+			country = c:WIT
+			owned_provinces = { "x05AE28" "x07B1DC" "x09A5E1" "x2F4817" "x2FC308" "x31B45D" "x31D262" "x5B2D06" "x5B8A56" "x8133E0" "x858DD6" "x87664A" "x878481" "xAF2D16" "xB1245C" }
+		}
+		
+		add_homeland = wittenlandic
+	} 
+	
+	s:STATE_CEMRICIA = {
+		create_state = {
+			country = c:WIT
+			owned_provinces = { "x065D4B" "x09249B" "x09AB32" "x33C012" "x5A3010" "x870095" "x874B22" "xB19652" }
+		}
+		
+		add_homeland = wittenlandic
+	}
+	
+	s:STATE_HENGESTDELU = {
+		create_state = {
+			country = c:WIT
+			owned_provinces = { "x0542B9" "x056F41" "x05C919" "x07CFE1" "x312A85" "x5AD201" "x851281" "xAD6CC0" "xAEC0B1" }
+		}
+		
+		add_homeland = wittenlandic
+	} 
 }
