@@ -26,8 +26,30 @@ WIT = { # Wittenland
 	
 	country_type = recognized
 	
-	tier = principality
+	tier = kingdom
 	
 	capital = STATE_WITTEN
 	cultures = { wittenlandic }
+}
+
+RCT = { # River Republic
+	color = { 58 190 95 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_RIJEKA
+	cultures = { rijekan }
+}
+
+LCT = { # Lake City 
+	color = { 58 190 95 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_JEZERAGRAD
+	cultures = { lakepony }
 }

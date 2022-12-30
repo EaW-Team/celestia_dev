@@ -150,5 +150,104 @@ STATES = {
 		}
 		
 		add_homeland = wittenlandic
+	}
+	
+	s:STATE_NEIGHRETVA = {
+		create_state = {
+			country = c:RCT
+			owned_provinces = { "x069FDC" "x07450A" "x09A8BE" "x09AB9B" "x5D1EC4" "x5D3988" "x5E210B" "x5E9024" "x7E094F" "x8396C7" "x872795" "x873681" "x880686" "x88BD81" "xAEABDE" "xAF1502" "xAF608E" "xB103E3" "xB25493" }
+		}
+		
+		add_homeland = rijekan
+	}
+	
+	s:STATE_WILD_VODINA = {
+		create_state = {
+			country = c:RCT
+			owned_provinces = { "x3169D0" "x33243F" "x336603" "x5D63C9" }
+		}
+		
+		add_homeland = rijekan
+	} 
+	
+	s:STATE_RIJEKA = {
+		create_state = {
+			country = c:RCT
+			owned_provinces = { "x09C6C3" "x2E5333" "x31003F" "x337212" "x5D244C" "x5D8A33" "x5D96D8" "x5DC63D" "x875D4F" "x87C9BD" }
+		}
+		
+		add_homeland = rijekan
+	} 
+	
+	s:STATE_COLTONIA = {
+		create_state = {
+			country = c:RCT
+			owned_provinces = { "x089687" "x094828" "x096350" "x3439B2" "x540915" "x5D0647" "x5D5724" "x860613" "x8709C7" "x87905E" "x885113" "xA8872A" "xB160CF" "xB2368E" "xB27298" }
+		}
+		
+		add_homeland = rijekan
+	} 
+	
+	s:STATE_COLTOVAC = {
+		create_state = {
+			country = c:RCT
+			owned_provinces = { "x085AE1" "x088A46" "x320012" "x34B780" "x57C91F" "x5C0392" "x5C06D3" "x5C8D06" "x869086" "x86B1CC" "x88D28B" "xAF6025" "xB02AD9" "xB09307" }
+		}
+		
+		add_homeland = rijekan
+	} 
+	
+	s:STATE_SVETLAZEMLJA = {
+		create_state = {
+			country = c:LCT
+			owned_provinces = { "x060091" "x06CF41" "x071882" "x096C4B" "x09B496" "x2F759E" "x2FB1A8" "x30B4BC" "x33035D" "x333F03" "x335A2B" "x33A894" "x590CB0" "x59781F" "x5D6F0B" "x5EAB33" "x830F31" "x8733A4" "x877E31" "x87AE95" "xADABA7" "xB10CDE" "xFF0428" "xFF1178" }
+		}
+		
+		add_homeland = lakepony
+	} 
+	
+	s:STATE_BUCKA = {
+		create_state = {
+			country = c:LCT
+			owned_provinces = { "x0900F8" "x351623" "x573FE2" "x578DE2" "x579F42" "x57C642" "x5D5DAB" "x5DAB15" "x63C596" "x8275DB" "x87728B" "xAB729D" "xFFFC00" }
+		}
+		
+		add_homeland = lakepony
+	} 
+	
+	s:STATE_JEZERAGRAD = {
+		create_state = {
+			country = c:LCT
+			owned_provinces = { "x06B13C" "x081E41" "x5A8AB5" "x5D06DD" "x5D9FD3" "x5E2AD3" "x849CB8" "x84BABD" "x87061D" "x87095E" "xAE9F39" "xB1099D" }
+		}
+		
+		add_homeland = lakepony
+	} 
+	
+	s:STATE_COLTSOVO = {
+		create_state = {
+			country = c:LCT
+			owned_provinces = { "x093C82" "x096F28" "x0E28F8" "x2E00C1" "x339C53" "x575142" "x575760" "x824513" "x853F9F" "x85A831" "xAC182F" "xAC4893" "xAC993E" "xB13902" }
+		}
+		
+		add_homeland = lakepony
+	} 
+	
+	s:STATE_COLTUBAR = {
+		create_state = {
+			country = c:LCT
+			owned_provinces = { "x034E1E" "x042DDC" "x313CDF" "x582A42" "x583CA1" "x588147" "x814263" "x81A2C2" "xAF0339" }
+		}
+		
+		add_homeland = lakepony
+	} 
+	
+	s:STATE_SHAYRMIA = {
+		create_state = {
+			country = c:LCT
+			owned_provinces = { "x041BAF" "x04D241" "x0999D2" "x2D4EC1" "x2D519E" "x584292" "x5B2ABF" "x5D3C92" "x816F1D" "xAF4EC5" "xB12DC0" "xB1750C" "xFF1028" "xFF2678" }
+		}
+		
+		add_homeland = lakepony
 	} 
 }
