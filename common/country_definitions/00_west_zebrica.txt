@@ -11,7 +11,7 @@ SDL = { # Saddle Arabia
 }
 
 YEM = { # Yemane
-	color = { 40  75  60 }
+	color = { 106 38 44 }
 	
 	country_type = recognized
 	
@@ -22,7 +22,7 @@ YEM = { # Yemane
 }
 
 ANS = { # Anseruk
-	color = { 40  75  60 }
+	color = { 54 117 136 }
 	
 	country_type = recognized
 	
@@ -33,7 +33,7 @@ ANS = { # Anseruk
 }
 
 ASS = { # Asstyria
-	color = { 40  75  60 }
+	color = { 100 100 150 }
 	
 	country_type = recognized
 	
