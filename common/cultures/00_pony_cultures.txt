@@ -394,3 +394,53 @@ bakaran={
 		1 = equestrian
 	}
 }
+
+deponyan={
+	color= rgb{ 40 211 153 }
+	religion = forest_worship
+	traits = { riverpony_culture_group pony_heritage }
+	male_common_first_names={
+		"Thunder mac" "Duke mac" "Star mac" "Brisk mac" "Steel mac" "Flash mac" "Wild mac" "Platinum mac" "Rapid mac" "Blue mac" "Lighthoof mac" "Ebony mac" "Torch mac" "Big mac" "Burnt mac" "Feather mac" 
+		"Filthy mac" "Hard mac" "Cream mac" "Carrot mac" "Foam mac" "Piles mac" "Rusty mac" "Silver mac" "Trouble mac" "Caramel mac" "Lavender mac" "Golden mac" "Tough mac" "Ace mac" "Black mac" "Brindle mac" "Bush mac" "Cobalt mac" 
+		"Emerald mac" "Evening mac" "Ginger mac" "Grape mac" "Hammer mac" "Hay mac" "Iron mac" "Lapis mac" "Lead mac" "Lime mac" "Lucky mac" "Pine mac" "Prance mac" "Rough mac" "Sealed mac" "Shiny mac" "Tall mac" "Cloudy mac" "White mac" "Sand mac" "Stellar mac" 
+		"Storm mac" "Warm mac" "Midnight mac" "Moonshadow mac" "Moonlight mac" "Starry mac" "Stars mac" "Moon mac" "Night mac" "Flaming mac" "Tiny mac"
+	}
+	female_common_first_names = {
+		"Cherry nic" "Amber nic" "Scarlet nic" "Emerald nic" "Mythic nic" "Lotus nic" "Pink nic" "Cup nic" "Starlight nic" "Velvet nic" "Orange nic" "Sapphire nic" "Tree nic" 
+		"Marble nic" "Limestone nic" "Caramel nic" "Candy nic" "Lavender nic" "Red nic" "Azure nic" "Blueberry nic" "Strawberry nic" "Corn nic" "Crimson nic" "Daisy nic" "Flurry nic" "Green nic" "Grape nic" 
+		"Jasmine nic" "Lilac nic" "Lily nic" "Minty nic" "Snowy nic" "Ocean nic" "Rainbow nic" "Sunset nic" "Purple nic" "Raspberry nic" "Raven nic" "Spring nic" "Sun nic" "Winter nic" "Lemon nic" "Pearly nic" "Sea nic" "Sprinkle nic" "Midnight nic" 
+		"Moonshadow nic" "Velvet nic" "Moonlight nic" "Chrimson nic" "Raven nic" "Harrowed nic" "Willow nic"
+	}
+	noble_last_names = {
+		Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Polomare Song Hugger Trotsworth Bucks McColt 
+		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
+		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
+		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
+		Trotter Light Clover Dusk Sky Rose Tiara Heart Call Cool Dancer Hawk Bark
+	}	
+	common_last_names={
+		Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Polomare Song Hugger Trotsworth Bucks McColt 
+		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
+		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
+		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
+		Trotter Light Clover Dusk Sky Rose Tiara Heart Call Cool Dancer Hawk Bark
+	}
+
+	male_regal_first_names = {
+		"Thunder mac" "Duke mac" "Star mac" "Brisk mac" "Steel mac" "Flash mac" "Wild mac" "Platinum mac" "Rapid mac" "Blue mac" "Lighthoof mac" "Ebony mac" "Torch mac" "Big mac" "Burnt mac" "Feather mac" 
+		"Filthy mac" "Hard mac" "Cream mac" "Carrot mac" "Foam mac" "Piles mac" "Rusty mac" "Silver mac" "Trouble mac" "Caramel mac" "Lavender mac" "Golden mac" "Tough mac" "Ace mac" "Black mac" "Brindle mac" "Bush mac" "Cobalt mac" 
+		"Emerald mac" "Evening mac" "Ginger mac" "Grape mac" "Hammer mac" "Hay mac" "Iron mac" "Lapis mac" "Lead mac" "Lime mac" "Lucky mac" "Pine mac" "Prance mac" "Rough mac" "Sealed mac" "Shiny mac" "Tall mac" "Cloudy mac" "White mac" "Sand mac" "Stellar mac" 
+		"Storm mac" "Warm mac" "Midnight mac" "Moonshadow mac" "Moonlight mac" "Starry mac" "Stars mac" "Moon mac" "Night mac"
+	}
+	female_regal_first_names = {
+		"Cherry nic" "Amber nic" "Scarlet nic" "Emerald nic" "Mythic nic" "Lotus nic" "Pink nic" "Cup nic" "Starlight nic" "Velvet nic" "Orange nic" "Sapphire nic" "Tree nic" 
+		"Marble nic" "Limestone nic" "Caramel nic" "Candy nic" "Lavender nic" "Red nic" "Azure nic" "Blueberry nic" "Strawberry nic" "Corn nic" "Crimson nic" "Daisy nic" "Flurry nic" "Green nic" "Grape nic" 
+		"Jasmine nic" "Lilac nic" "Lily nic" "Minty nic" "Snowy nic" "Ocean nic" "Rainbow nic" "Sunset nic" "Purple nic" "Raspberry nic" "Raven nic" "Spring nic" "Sun nic" "Winter nic" "Lemon nic" "Pearly nic" "Sea nic" "Sprinkle nic" "Midnight nic" 
+		"Moonshadow nic" "Velvet nic" "Moonlight nic" "Chrimson nic" "Raven nic"
+	}
+
+	graphics = ponies
+	ethnicities = {
+		1 = equestrian
+	}
+}

@@ -75,3 +75,14 @@ BAK = { # Bakara
 	capital = STATE_BAKARA
 	cultures = { bakaran }
 }
+
+DEP = { # Deponya
+	color = { 44 121 23 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	capital = STATE_DEPONYA
+	cultures = { deponyan }
+}
