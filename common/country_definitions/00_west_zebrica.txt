@@ -32,7 +32,7 @@ ANS = { # Anseruk
 	cultures = { sumareians }
 }
 
-AST = { # Asstyria
+ASS = { # Asstyria
 	color = { 40  75  60 }
 	
 	country_type = recognized

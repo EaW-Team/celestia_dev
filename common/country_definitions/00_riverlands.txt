@@ -44,7 +44,7 @@ RCT = { # River Republic
 }
 
 LCT = { # Lake City 
-	color = { 58 190 95 }
+	color = { 161 81 63 }
 	
 	country_type = recognized
 	
@@ -52,4 +52,26 @@ LCT = { # Lake City
 	
 	capital = STATE_JEZERAGRAD
 	cultures = { lakepony }
+}
+
+NIM = { # Nimbusia 
+	color = { 107 205 237 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_NIMBUSIA
+	cultures = { nimbusian }
+}
+
+BAK = { # Bakara
+	color = { 56 67 139 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_BAKARA
+	cultures = { bakaran }
 }

@@ -249,5 +249,77 @@ STATES = {
 		}
 		
 		add_homeland = lakepony
-	} 
+	} 	
+	
+	s:STATE_NIMBUSIA = {
+		create_state = {
+			country = c:NIM
+			owned_provinces = { "x054596" "x096CB4" "x333608" "x336F35" "x59A5A6" "x5C9C88" "x866363" "xAD032F" "xAD4216" "xAD6F9D" "xB13348" "xB16934" "xB16C11" "xB1A53E" }
+		}
+		
+		add_homeland = nimbusian
+	}
+	
+	s:STATE_OREINO_TROPO = {
+		create_state = {
+			country = c:NIM
+			owned_provinces = { "x059FA5" "x0912A5" "x098AB9" "x09CCE1" "x2F36B7" "x2FCFAD" "x30181C" "x33574E" "x338D3A" "x33AE1C" "x33B43A" "x59D22E" "x5D2D47" "x5D5ACE" "x5D90BA" "x8730C7" "x87602C" "xB106C0" "xB13007" "xB18D57" "xB1A81B" }
+		}
+		
+		add_homeland = nimbusian
+	}
+	
+	s:STATE_KATAIGIDA = {
+		create_state = {
+			country = c:NIM
+			owned_provinces = { "x07A25A" "x2FA226" "x31A5DA" "x593938" "x59699C" "x5B5DCE" "x5BC660" "x8300AE" "x833F95" "x836C1D" "x85424A" "x85604F" "x857E54" "x8E45EB" "xAD158E" "xAD9C25" "xAF27C5" }
+		}
+		
+		add_homeland = nimbusian
+	}
+	
+	s:STATE_PTERYGAPOLIS = {
+		create_state = {
+			country = c:NIM
+			owned_provinces = { "x082D5A" "x084E3C" "x08B7CD" "x2D8721" "x31C653" "x3230DA" "x325D62" "x327E44" "x329908" "x5C60E2" "x5C9047" "x5CBDCE" "x5D6333" "x860954" "x8693C7" "xB00CD4" "xB0B44D" }
+		}
+		
+		add_homeland = nimbusian
+	}
+	
+	s:STATE_BAKARA = {
+		create_state = {
+			country = c:BAK
+			owned_provinces = { "x00654E" "x086C41" "x30992B" "x328DC6" "x5C0F38" "x5C27B5" "x840636" "x84BD31" "x86483B" "x86BDDB" "xB00FB1" "xB04BBB" "xB069C0" }
+		}
+		
+		add_homeland = bakaran
+	}
+	
+	s:STATE_KOTAILIA = {
+		create_state = {
+			country = c:BAK
+			owned_provinces = { "x0515C8" "x05BA00" "x08C92D" "x2F6094" "x310F2B" "x329F26" "x32AEA8" "x591EA6" "x59A53D" "x5A2497" "x5CA2A6" "x5CB129" "x5CC910" "x63C697" "x846913" "x86A527" "x86B4A9" "xAD60B1" "xAD6C57" "xAD871B" "xAEA89D" "xAED211" "xB0A8A7" "xD3F1CA" "xFF3CA0" }
+		}
+		
+		add_homeland = bakaran
+	}
+	
+	s:STATE_VETAILJE = {
+		create_state = {
+			country = c:BAK
+			owned_provinces = { "x0603A5" "x064B55" "x06C923" "x089CA5" "x2F5A0D" "x2FB41C" "x306CDA" "x59B79C" "x5A1829" "x832127" "xA8844D" "xAD2D0C" "xAD8193" "xAE2ACF" "xAE48D4" "xAE8A98" "xAEB720" }
+		}
+		
+		add_homeland = bakaran
+	}
+	
+	s:STATE_VETAILJE = {
+		create_state = {
+			country = c:BAK
+			owned_provinces = { "x07AB55" "x081546" "x0A3014" "x0A6696" "x0A8A23" "x320CB7" "x34C9AD" "x5C8A29" "x5CAE4C" "x5E8D47" "x866640" "xB2000C" "xB21B34" }
+		}
+		
+		add_homeland = bakaran
+	}
 }
