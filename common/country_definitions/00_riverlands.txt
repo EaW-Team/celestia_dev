@@ -11,7 +11,7 @@ FRE = { # Ponhiden
 }
 
 ZES = { # kása free state
-	color = { 40 211 153 }
+	color = { 249 249 61 }
 	
 	country_type = unrecognized
 	
