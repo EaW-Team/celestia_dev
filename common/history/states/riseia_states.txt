@@ -1,7 +1,7 @@
 STATES = {
     s:STATE_FARASRAH = {
 		create_state = {
-			country = c:YEM
+			country = c:YAM
     			owned_provinces = { "x887527" "xB1471A" "xC0AD65" }
 		}
 		add_homeland = yemani
@@ -9,7 +9,7 @@ STATES = {
 	
 	s:STATE_AHOOVEZ = {
 		create_state = {
-			country = c:YEM
+			country = c:YAM
     			owned_provinces = { "x5A3220" "x822404" "xB0360E" "xD4987E" "xD7B67B" "xE1AA4A" "xE3683F" "xE58753" "xE6AE9B" "xE6CB9E" "xEFCC3A" "xF36E28" "xF4BD5D" "xF89267" }
 		}
 		add_homeland = yemani
@@ -17,7 +17,7 @@ STATES = {
 	
 	s:STATE_HOOFEIDA = {
 		create_state = {
-			country = c:YEM
+			country = c:YAM
     			owned_provinces = { "x3F2517" "x533F34" "x623014" "x7A3816" "x855B44" "x8D5131" "xB08F7D" "xB64F19" "xBA7956" "xDD7842" "xE8AF90" "xF19D71" }
 		}
 		add_homeland = yemani
@@ -25,7 +25,7 @@ STATES = {
 	
 	s:STATE_MANE'A = {
 		create_state = {
-			country = c:YEM
+			country = c:YAM
     			owned_provinces = { "x3F0C1F" "x481F05" "x5D2A11" "x873912" "xB55C25" }
 		}
 		add_homeland = yemani
@@ -33,7 +33,7 @@ STATES = {
 	
 	s:STATE_TAILZ = {
 		create_state = {
-			country = c:YEM
+			country = c:YAM
     			owned_provinces = { "x492002" "x55462B" "x5F3C24" "x683E27" "x693011" "x6B3519" "x7D2243" "x8C6C33" "xA06D52" "xA6826E" "xA85418" "xAC450C" "xB17555" "xC49036" "xC89377" "xF29666" }
 		}
 		add_homeland = yemani
@@ -41,7 +41,7 @@ STATES = {
 	
 	s:STATE_MAREKALLA = {
 		create_state = {
-			country = c:YEM
+			country = c:YAM
     			owned_provinces = { "x2A180B" "x553117" "x6E3A0C" "x7D563A" "x87751C" "x9C5428" "xA67313" "xAA5811" "xB27B1B" "xB89E71" "xBE8D38" "xD3AC68" "xD4972F" "xDA9C27" "xDC6917" "xE2A376" "xE86B1E" "xECD1A3" "xF78B3E" }
 		}
 		add_homeland = yemani
@@ -49,7 +49,7 @@ STATES = {
 	
 	s:STATE_AL-SHAYHR = {
 		create_state = {
-			country = c:YEM
+			country = c:YAM
     			owned_provinces = { "x381B0C" "x6D4631" "x753A1A" "x7B320C" "x855135" "x9D4211" "xB16343" "xBE51B2" "xE73A79" "xE99D77" }
 		}
 		add_homeland = yemani
@@ -107,6 +107,54 @@ STATES = {
 		create_state = {
 			country = c:OSQ
     			owned_provinces = { "x1E6031" "x2F5D1B" "x3B7720" "x3BAC5B" "x41712B" "x557447" "x5A150C" "x69AF4A" "x70B660" "x7CA464" "x812015" "x89F35B" "x8AAA7B" "x91C679" "x9ED779" "xA2EB82" "xA4C093" "xA5D98E" "xA8C98D" "xAAE07E" "xB2FC91" "xB3D49F" }
+		}
+		add_homeland = alameez
+	}
+	
+	s:STATE_MAREIB = {
+		create_state = {
+			country = c:MTA
+    			owned_provinces = { "x150B09" "x18E56F" "x1F0F0A" "x241B1A" "x25A34C" "x310F0B" "x32140C" "x37211B" "x377945" "x3DC95B" "x431208" "x502041" "x511C16" "x521387" "x6515F0" "x6621A0" "x6CD96C" "x74378D" "x7916E8" "x8446B8" "x86281D" "xA23D32" "xC73EB5" }
+		}
+		add_homeland = safhiyyin
+	}
+	
+	s:STATE_CASABRONCO = {
+		create_state = {
+			country = c:MTA
+    			owned_provinces = { "x142612" "x1C0813" "x291222" "x2F0E29" "x3A0F32" "x3C0E63" "x431911" "x47087D" "x4B0E31" "x4B1C16" "x4E0933" "x58251F" "x602A41" "x612F44" "x663D38" "x68403C" "x69075C" "x6C8563" "x6F114B" "x702118" "x73423D" "x752219" "x753129" "x754843" "x773224" "x7F2D63" "x80176C" "x8A375A" "x8B2965" "x915B54" "x962782" "x963724" "x97B28E" "x9FC790" "xAA4E43" }
+		}
+		add_homeland = safhiyyin
+	}
+	
+	s:STATE_BEIHOOF = {
+		create_state = {
+			country = c:MTA
+    			owned_provinces = { "x091F0C" "x0A180C" "x0F2612" "x122F16" "x1A2E1D" "x1A7C28" "x1F0833" "x203623" "x222D24" "x284D2D" "x29103F" "x307C47" "x35773F" "x3DD15C" "x4BEF30" "x521E14" "x53170B" "x571306" "x5E190C" "x612E4D" "x661D59" "x722819" "x72B580" "x863727" "x8C3625" "x904B84" "xB35947" "xE93B19" }
+		}
+		add_homeland = safhiyyin
+	}
+	
+	s:STATE_TENKOZOGO = {
+		create_state = {
+			country = c:MTA
+    			owned_provinces = { "x660D67" "x6E9967" "x7AE669" "x7EBF73" "x8B4570" "x8B5D4C" "x98177E" "xB65985" "xC26543" "xE0673B" "xE95019" }
+		}
+		add_homeland = safhiyyin
+	}
+	
+	s:STATE_BUCKZERTE = {
+		create_state = {
+			country = c:DOF
+    			owned_provinces = { "x2E160A" "x351C10" "x6E3417" "x938B2B" "xB19385" "xC1A082" "xC9BA0D" "xCA8563" "xCD5B23" "xD76025" "xDC926E" "xEFAE75" "xFD7F41" }
+		}
+		add_homeland = ahfar
+	}
+	
+	s:STATE_MAREOUSSE = {
+		create_state = {
+			country = c:DOF
+    			owned_provinces = { "x6C431F" "xA18D7B" "xA75B18" "xDA834A" "xEFB28A" }
 		}
 		add_homeland = alameez
 	}

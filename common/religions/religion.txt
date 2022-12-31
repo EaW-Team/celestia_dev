@@ -134,6 +134,22 @@ watrzya = {
 	color = rgb{ 127 0 0 }
 }
 
+aitrzya = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		horse_religion_group
+	}
+	color = rgb{ 112 50 12 }
+}
+
+magic = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		horse_religion_group
+	}
+	color = rgb{ 127 14 15 }
+}
+
 #Donkey Religion
 God-Monarch_Cult = {
 	texture = "gfx/interface/icons/religion_icons/catholic.dds"

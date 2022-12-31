@@ -10,7 +10,7 @@ SDL = { # Saddle Arabia
 	cultures = { cimrannine }
 }
 
-YEM = { # Yemane
+YAM = { # Yemane
 	color = { 106 38 44 }
 	
 	country_type = recognized
@@ -63,4 +63,26 @@ OSQ = { # Osqat
 	
 	capital = STATE_SADLHARA
 	cultures = { alameez }
+}
+
+MTA = { # Maretania 
+	color = { 69 143 107 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_MAREIB
+	cultures = { safhiyyin }
+}
+
+DOF = { # Al-Dofa 
+	color = { 120 15 55 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_BUCKZERTE
+	cultures = { ahfar }
 }
