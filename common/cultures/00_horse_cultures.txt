@@ -65,3 +65,105 @@ yemani={
 	
 	graphics = ponies
 }
+
+hamdini={
+	color= rgb{ 0.34 0.48 0.71 }
+	religion = watrzya
+	traits = { arabian_culture_group horse_heritage }
+	obsessions = {
+		coffee
+	}
+	male_common_first_names={
+		Yazid Taous Sakhra Hatmini Kabir Hamza Hazzan Aleem Fahim Hafiz Halil Hasan Husam Hussayn Hoofyan Sadd'lan Hay'dle Sadl’han
+		Ha’feer Iha’rup Haneem Qofran Hazsof
+	}
+	female_common_first_names = {
+		Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand Parween Paymaneh Paywand
+		Qamara Rafiqa Rasa Rashida Reshawna Taneen Yagana Yakta Yasmin Zaynab Yas'nab Ho’faria Hof'iqa
+	}
+	noble_last_names = {
+		al-Qasimi al-Qofran al-Afifh al-Zahra al-Jabrid al-Jarwanid al-Ho’faria al-Hamza al-Aleem al-Adila al-Nadiyya al-Qamara
+	}	
+	common_last_names={
+		al-Qasimi al-Qofran al-Afifh al-Zahra al-Jabrid al-Jarwanid al-Ho’faria al-Hamza al-Aleem al-Adila al-Nadiyya al-Qamara
+	}
+
+	male_regal_first_names = {
+		Yazid Taous Sakhra Hatmini Kabir Hamza Hazzan Aleem Fahim Hafiz Halil Hasan Husam Hussayn Hoofyan Sadd'lan Hay'dle Sadl’han
+		Ha’feer Iha’rup Haneem Qofran Hazsof
+	}
+	female_regal_first_names = {
+		Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand Parween Paymaneh Paywand
+		Qamara Rafiqa Rasa Rashida Reshawna Taneen Yagana Yakta Yasmin Zaynab Yas'nab Ho’faria Hof'iqa
+	}
+	
+	graphics = ponies
+}
+
+safhiyyin={
+	color= rgb{ 0.34 0.48 0.71 }
+	religion = watrzya
+	traits = { arabian_culture_group horse_heritage }
+	obsessions = {
+		coffee
+	}
+	male_common_first_names={
+		Yazid Taous Sakhra Hatmini Kabir Hamza Hazzan Aleem Fahim Hafiz Halil Hasan Husam Hussayn Hoofyan Sadd'lan Hay'dle Sadl’han
+		Ha’feer Iha’rup Haneem Qofran Hazsof
+	}
+	female_common_first_names = {
+		Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand Parween Paymaneh Paywand
+		Qamara Rafiqa Rasa Rashida Reshawna Taneen Yagana Yakta Yasmin Zaynab Yas'nab Ho’faria Hof'iqa
+	}
+	noble_last_names = {
+		al-Qasimi al-Qofran al-Afifh al-Zahra al-Jabrid al-Jarwanid al-Ho’faria al-Hamza al-Aleem al-Adila al-Nadiyya al-Qamara
+	}	
+	common_last_names={
+		al-Qasimi al-Qofran al-Afifh al-Zahra al-Jabrid al-Jarwanid al-Ho’faria al-Hamza al-Aleem al-Adila al-Nadiyya al-Qamara
+	}
+
+	male_regal_first_names = {
+		Yazid Taous Sakhra Hatmini Kabir Hamza Hazzan Aleem Fahim Hafiz Halil Hasan Husam Hussayn Hoofyan Sadd'lan Hay'dle Sadl’han
+		Ha’feer Iha’rup Haneem Qofran Hazsof
+	}
+	female_regal_first_names = {
+		Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand Parween Paymaneh Paywand
+		Qamara Rafiqa Rasa Rashida Reshawna Taneen Yagana Yakta Yasmin Zaynab Yas'nab Ho’faria Hof'iqa
+	}
+	
+	graphics = ponies
+}
+
+alameez={
+	color= rgb{ 0.34 0.48 0.71 }
+	religion = watrzya
+	traits = { arabian_culture_group horse_heritage }
+	obsessions = {
+		coffee
+	}
+	male_common_first_names={
+		Yazid Taous Sakhra Hatmini Kabir Hamza Hazzan Aleem Fahim Hafiz Halil Hasan Husam Hussayn Hoofyan Sadd'lan Hay'dle Sadl’han
+		Ha’feer Iha’rup Haneem Qofran Hazsof
+	}
+	female_common_first_names = {
+		Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand Parween Paymaneh Paywand
+		Qamara Rafiqa Rasa Rashida Reshawna Taneen Yagana Yakta Yasmin Zaynab Yas'nab Ho’faria Hof'iqa
+	}
+	noble_last_names = {
+		al-Qasimi al-Qofran al-Afifh al-Zahra al-Jabrid al-Jarwanid al-Ho’faria al-Hamza al-Aleem al-Adila al-Nadiyya al-Qamara
+	}	
+	common_last_names={
+		al-Qasimi al-Qofran al-Afifh al-Zahra al-Jabrid al-Jarwanid al-Ho’faria al-Hamza al-Aleem al-Adila al-Nadiyya al-Qamara
+	}
+
+	male_regal_first_names = {
+		Yazid Taous Sakhra Hatmini Kabir Hamza Hazzan Aleem Fahim Hafiz Halil Hasan Husam Hussayn Hoofyan Sadd'lan Hay'dle Sadl’han
+		Ha’feer Iha’rup Haneem Qofran Hazsof
+	}
+	female_regal_first_names = {
+		Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand Parween Paymaneh Paywand
+		Qamara Rafiqa Rasa Rashida Reshawna Taneen Yagana Yakta Yasmin Zaynab Yas'nab Ho’faria Hof'iqa
+	}
+	
+	graphics = ponies
+}

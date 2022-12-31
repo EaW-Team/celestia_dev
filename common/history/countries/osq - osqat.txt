@@ -1,5 +1,5 @@
 COUNTRIES = {
-	c:ANS = {
+	c:OSQ = {
 		
 		effect_starting_technology_tier_3_tech = yes
 		
@@ -23,7 +23,7 @@ COUNTRIES = {
 		
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 2
+			level = 1
 		}
 
 		set_institution_investment_level = {

@@ -1,5 +1,5 @@
 COUNTRIES = {
-	c:ANS = {
+	c:HMR = {
 		
 		effect_starting_technology_tier_3_tech = yes
 		
@@ -7,7 +7,7 @@ COUNTRIES = {
 		add_technology_researched = stock_exchange
 		add_technology_researched = empiricism
 		
-		activate_law = law_type:law_theocracy
+		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy 
 		activate_law = law_type:law_religious_schools
 		activate_law = law_type:law_freedom_of_conscience
@@ -23,7 +23,7 @@ COUNTRIES = {
 		
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 2
+			level = 1
 		}
 
 		set_institution_investment_level = {

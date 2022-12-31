@@ -42,3 +42,25 @@ ASS = { # Asstyria
 	capital = STATE_ASSUR
 	cultures = { asstyrian }
 }
+
+HMR = { # Haymirite 
+	color = { 205 10 10 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_MARESTA
+	cultures = { hamdini }
+}
+
+OSQ = { # Osqat 
+	color = { 191 110 62 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_SADLHARA
+	cultures = { alameez }
+}

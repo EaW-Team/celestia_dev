@@ -54,5 +54,61 @@ STATES = {
 		}
 		add_homeland = yemani
 	}
+	
+	s:STATE_MARESTA = {
+		create_state = {
+			country = c:HMR
+    			owned_provinces = { "x073CA5" "x0E3F15" "x1C331F" "x1E2720" "x3C831D" "x4B8D54" "x5ABD68" "x5FAC3D" "x638A4C" "x6B9E4C" "x6E8660" "x7BBF52" "x8BCA65" "x95CA75" "x9AB588" "x9AC081" "x9DAA94" "xA4CE8B" "xA4CF72" "xA4DB8B" "xB3DA99" "xB8EC99" }
+		}
+		add_homeland = hamdini
+	}
+	
+	s:STATE_AL-GALLOPYDAH = {
+		create_state = {
+			country = c:HMR
+    			owned_provinces = { "x4E7437" "x5FA65B" "x60824B" "x6EA94B" "x7A926C" "x83B366" "x9FCF82" "xB6E19B" "xBDCFB3" "xC0F4A1" "xC49235" "xCEE5BF" "xE0BA74" "xE1AD4D" "xF48E4F" }
+		}
+		add_homeland = hamdini
+	}
+	
+	s:STATE_WUSTROTA = {
+		create_state = {
+			country = c:HMR
+    			owned_provinces = { "x1B02F8" "x36EB50" "x4FE66C" "x578D4A" "x5DB77B" "x5ECC44" "x5FDD89" "x68A959" "x6CD380" "x6EE752" "x73C560" "x75ED86" "x79A631" "x81CB70" "x84BF27" "x8DBE6E" "x95A58B" "xA6D58A" "xA8D38D" "xBDE57F" "xC8D779" "xDBF6B2" }
+		}
+		add_homeland = hamdini
+	}
+	
+	s:STATE_KOLTHIRI = {
+		create_state = {
+			country = c:HMR
+    			owned_provinces = { "x2117EC" "x37DC7D" "x416448" "x41774B" "x4C104F" "x539F4B" "x59BF7B" "x5FD455" "x60C773" "x62EB54" "x69116E" "x71DE9F" "x73E068" "x7BCD9E" "xA05748" "xA8DAA3" "xADEF45" "xC8553E" }
+		}
+		add_homeland = hamdini
+	}
+	
+	s:STATE_SADLHARA = {
+		create_state = {
+			country = c:OSQ
+    			owned_provinces = { "x2102E8" "x301714" "x3B1611" "x41973A" "x42050E" "x431711" "x44694D" "x45D74F" "x492621" "x497E45" "x4A0F23" "x4BC142" "x4C150F" "x552B26" "x58AC6C" "x59A55E" "x5B2822" "x5F261F" "x5FB15D" "x64253A" "x643A35" "x681F16" "x6E150A" "x73C879" "x763830" "x77DC6E" "x781342" "x7A190B" "x7C1445" "x7C274F" "x7D4932" "x7DEF85" "x7F183A" "x80554F" "x833930" "x89EC86" "x923125" "x925048" "x97593D" "x9C5C54" "xA4EA84" "xA63022" "xA8372A" "xAB2A66" "xB12567" "xB65447" "xC05F35" "xC3366F" "xDA5F28" }
+		}
+		add_homeland = alameez
+	}
+	
+	s:STATE_SAHMANEDA = {
+		create_state = {
+			country = c:OSQ
+    			owned_provinces = { "x093E10" "x0C5D18" "x1B914D" "x1D6326" "x233726" "x2AC66C" "x2E6836" "x2F843A" "x33A34D" "x3ADC6F" "x41A56B" "x68170D" "x6E9663" "xB3E487" }
+		}
+		add_homeland = alameez
+	}
+	
+	s:STATE_KOLTBYLIA = {
+		create_state = {
+			country = c:OSQ
+    			owned_provinces = { "x1E6031" "x2F5D1B" "x3B7720" "x3BAC5B" "x41712B" "x557447" "x5A150C" "x69AF4A" "x70B660" "x7CA464" "x812015" "x89F35B" "x8AAA7B" "x91C679" "x9ED779" "xA2EB82" "xA4C093" "xA5D98E" "xA8C98D" "xAAE07E" "xB2FC91" "xB3D49F" }
+		}
+		add_homeland = alameez
+	}
 
 }
