@@ -87,8 +87,8 @@ DOF = { # Al-Dofa
 	cultures = { ahfar }
 }
 
-KAR = { # Al-Dofa 
-	color = { 120 15 55 }
+KAR = { # Karkadannistan
+	color = { 62 129 20 }
 	
 	country_type = recognized
 	
