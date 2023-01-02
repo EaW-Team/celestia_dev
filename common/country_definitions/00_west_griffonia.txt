@@ -6,5 +6,5 @@ JER = { # Aquileia
 	tier = kingdom
 	
 	capital = STATE_AQUILA
-	cultures = { aquileian }
+	cultures = { aquileian aquileian_pony }
 }
