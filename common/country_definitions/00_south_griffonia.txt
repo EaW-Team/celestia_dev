@@ -9,3 +9,14 @@ EQC = { # New Mareland
 	capital = STATE_SUNSET
 	cultures = { new_marelander }
 }
+
+WNG = { # Wingbardy
+	color = { 151 110 255 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_KARTHIN
+	cultures = { karthinian }
+}

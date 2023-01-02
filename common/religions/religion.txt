@@ -158,3 +158,12 @@ God-Monarch_Cult = {
 	}
 	color = rgb{ 127 2 5 }
 }
+
+#Griffon Religion
+arconate = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		griffon_religion_group
+	}
+	color = rgb{ 127 2 5 }
+}
