@@ -86,3 +86,14 @@ DOF = { # Al-Dofa
 	capital = STATE_BUCKZERTE
 	cultures = { ahfar }
 }
+
+KAR = { # Al-Dofa 
+	color = { 120 15 55 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ARDAKMANE
+	cultures = { karkad }
+}
