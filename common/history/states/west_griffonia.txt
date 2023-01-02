@@ -1,0 +1,155 @@
+STATES = {
+    s:STATE_AQUILA = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x005D23" "x00AECD" "x2AB14E" "x2B1580" "x542160" "x544860" "xA842BB" "xA851A7" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_VYZIMA = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x543F97" "x54B18D" "x7E3F3B" "x7EB40E" "xA84E61" "xA8B78E" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_LITTLEBAY = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x2A60A3" "x3399A8" "x5457E2" "x546324" "x54B4CE" "x7E09B8" "x7EC390" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_MANETUA = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x000037" "x056950" "x0857A0" "x087882" "x08A22D" "x0948BE" "x0969A0" "x2A7BCB" "x303F85" "x32A5AD" "x5A15E2" "x5C1EBA" "x5D8101" "x7C984B" "x866CC7" "xA85AA2" "xA8D2B6" "xAD8161" "xAE3984" "xAF1598" "xB05420" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_PRIDEA = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x04035F" "x043FD2" "x092155" "x2CBA26" "x316008" "x3324D5" "x336C21" "x588797" "x59AB5B" "x5B0F97" "x5C42DD" "x5D0610" "x853981" "xAF9611" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_PELIS = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x003996" "x00425F" "x00784B" "x00A228" "x2A4826" "x2A5121" "x2ABD8F" "x544BA6" "x5C301A" "x7E5722" "x7EA8CC" "x7EABA9" "x9B1476" "xA80FE3" "xA8AB4D" "xFD92A2" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_RILA = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x270CEC" "x324B9E" "x328A85" "x329C49" "x547E4C" "x549910" "x5C5160" "x7E4E27" "x7E9C90" "x8657BD" "xA89F11" "xA98793" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_CRIMSON_SHORE = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x075A41" "x08481E" "x2F7E99" "x3215B2" "x5951B5" "x5A2401" "x5AC3E2" "x5C6F01" "x843F36" "x85CCBD" "x89D8A5" "xADC325" "xB0CF11" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_ORVALILLO = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x063FAF" "x06A500" "x0824C8" "x082A19" "x084200" "x08B48C" "x2C3F9E" "x300008" "x3015A8" "x301EA3" "x311512" "x3157A3" "x321B3A" "x322D99" "x327B03" "x32962B" "x54CCB5" "x5A27AB" "x5C4E1F" "x5C7BA6" "x5C99AB" "x807B22" "x843C59" "x8484D1" "x85AE4F" "x8612B8" "x86455E" "x86519F" "x867E27" "x8690BD" "x869C2C" "x86BD0E" "xAE0025" "xAE03CF" "xAF2A39" "xB05457" "xB081A7" "xB0933E" "xB09FAC" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_VINOVIA = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x0272A0" "x05B105" "x05C087" "x072114" "x078D82" "x0896BE" "x08A81E" "x09A200" "x18B70D" "x3009D0" "x30573A" "x325A58" "x326012" "x32993F" "x32AB9E" "x32CF58" "x33A580" "x5C1529" "x5C1806" "x5C6392" "x5CAE1F" "x840FD1" "x85571D" "x86064A" "x8618A9" "x861B86" "x866613" "x86A55E" "x870990" "xB009CA" "xB01E07" "xB05734" "xB06993" "xBADDB3" "xE05DD6" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_SKYALUZZO = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x02A5DC" "x04060F" "x0742C3" "x07C98C" "x0933B4" "x097B00" "x09CCAA" "x2ACFBC" "x2F698F" "x30A5A3" "x337E80" "x547551" "x5A1EB0" "x85B12C" "x874BB8" "xAD09E3" "xADAE84" "xB01B2A" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_POMOVARRA = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x091BA0" "x094E46" "x2F695D" "x309C08" "x3254D0" "x332162" "x590F8D" "x5A57DD" "x5D6C2E" "x83BA86" "x84A8C7" "x874845" "x87844F" "x879C36" "xA2B1E5" "xB145A7" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_CAM = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x099691" "x3348CB" "x33C699" "x5D24E2" "x5D99B5" "x5DC91A" "x842131" "x87C059" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_WESTKEEP = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x0975AF" "x09A237" "x09CFBE" "x30A2C6" "x335D08" "x339912" "x5439DD" "x5A5ABA" "x5AA547" "x5AA824" "x5D4E29" "x84ABA4" "x872763" "xB1CC3E" "xFF3DFE" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_FLOWERINO = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x05210A" "x07B4B9" "x31A8B7" "x31B73A" "x5BAB38" "x5D6088" "x83154F" "x8345B3" "x83C0A4" "xAFB139" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_ILLEAGLE = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x0615D2" "x069F46" "x06B482" "x312494" "x319003" "x31CC0D" "x5B549C" "x5BBABA" "x5CA2DD" "x85BD3B" "x85C0AE" "x8654B3" "xAF5A9D" "xAFC60C" "xB0A59D" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+	
+	s:STATE_MESHORIO = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x07C33C" "x088428" "x08CFB4" "x25D5A4" "x594E0B" "x86339A" "xAD57B6" "xAFC0BB" "xAFCF3E" "xB01E9D" "xB07225" "xB0B10C" }
+		}
+		add_homeland = aquileian
+		add_homeland = aquileian_pony
+	}
+
+}

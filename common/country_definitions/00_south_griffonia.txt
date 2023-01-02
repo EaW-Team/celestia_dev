@@ -15,7 +15,7 @@ WNG = { # Wingbardy
 	
 	country_type = recognized
 	
-	tier = principality
+	tier = kingdom
 	
 	capital = STATE_KARTHIN
 	cultures = { karthinian }
