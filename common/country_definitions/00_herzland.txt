@@ -1,0 +1,10 @@
+EMP = { # The Empire
+	color = { 229 138 47 }
+	
+	country_type = recognized
+	
+	tier = empire
+	
+	capital = STATE_GRIFFENHEIM
+	cultures = { herzlander }
+}
