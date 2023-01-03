@@ -6,5 +6,5 @@ EMP = { # The Empire
 	tier = empire
 	
 	capital = STATE_GRIFFENHEIM
-	cultures = { herzlander }
+	cultures = { griffenhimer }
 }
