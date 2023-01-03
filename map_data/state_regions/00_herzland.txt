@@ -17,3 +17,63 @@ STATE_HELHEIM = {
     id = 397
     provinces = { "x08668C" "x087850" "x08C09B" "x3200DF" "x327BD0" "x327EAD" "x32C31C" "x5A6C1A" "x5C0360" "x5CC69C" "x845D3B" "x8606E0" "x861840" "x863FA9" "xAA0F89" "xAF8725" "xB01BC0" "xB0422A" "xB0630C" "xB075CF" }
 }
+
+STATE_KING'S_REALM = {
+    id = 555
+    provinces = {  }
+}
+
+STATE_STRAßMARK = {
+    id = 554
+    provinces = {  }
+}
+
+STATE_KATERIN = {
+    id = 423
+    provinces = {  }
+}
+
+STATE_LINGERMILL = {
+    id = 506
+    provinces = {  }
+}
+
+STATE_ANGELCLAW = {
+    id = 547
+    provinces = {  }
+}
+
+STATE_ANGRIVER = {
+    id = 411
+    provinces = {  }
+}
+
+STATE_SOUTHERN_SCHEIßWALD = {
+    id = 422
+    provinces = {  }
+}
+
+STATE_GREENBACK = {
+    id = 398
+    provinces = {  }
+}
+
+STATE_BIRTHPLACE = {
+    id = 402
+    provinces = {  }
+}
+
+STATE_FALCONIA = {
+    id = 665
+    provinces = {  }
+}
+
+STATE_ROMAU = {
+    id = 674
+    provinces = {  }
+}
+
+STATE_YALE = {
+    id = 439
+    provinces = {  }
+}
