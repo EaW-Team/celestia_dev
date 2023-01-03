@@ -4,7 +4,7 @@ STATES = {
 			country = c:EMP
     			owned_provinces = { "x052AD2" "x087B2D" "x2A57A8" "x2F4B58" "x2F4E35" "x2F99C1" "x2FB7C6" "x32123F" "x414E29" "x599C42" "x59BA47" "x5A485B" "x5B14F5" "x5B14F6" "x5C091A" "x5C15BF" "x833631" "x844BDB" "x846F9A" "x86724F" "xAD2752" "xAD39B1" }
 		}
-		add_homeland = griffenhimer
+		add_homeland = herzlander
 	}
 	
 	s:STATE_INTERRIVER = {
@@ -12,7 +12,7 @@ STATES = {
 			country = c:EMP
     			owned_provinces = { "x064537" "x0690C3" "x08129B" "x0872C8" "x08BD55" "x320353" "x325A21" "x326FC1" "x32C0D5" "x5C39E2" "x5C840B" "x839FC2" "x86213B" "x86878B" "xB00993" "xB00F1B" "xB024BB" "xB06F48" "xB08A0C" }
 		}
-		add_homeland = griffenhimer
+		add_homeland = herzlander
 	}
 	
 	s:STATE_HELHEIM = {
@@ -20,7 +20,7 @@ STATES = {
 			country = c:EMP
     			owned_provinces = { "x08668C" "x087850" "x08C09B" "x3200DF" "x327BD0" "x327EAD" "x32C31C" "x5A6C1A" "x5C0360" "x5CC69C" "x845D3B" "x8606E0" "x861840" "x863FA9" "xAA0F89" "xAF8725" "xB01BC0" "xB0422A" "xB0630C" "xB075CF" }
 		}
-		add_homeland = griffenhimer
+		add_homeland = herzlander
 	}
 	
 	s:STATE_GRIFFENHEIM = {
@@ -28,6 +28,103 @@ STATES = {
 			country = c:EMP
     			owned_provinces = { "x323662" "x5A218D" "x860C9A" }
 		}
-		add_homeland = griffenhimer
+		add_homeland = herzlander
 	}
+	
+	s:STATE_KING'S_REALM = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x05575A" "x0A1EB4" "x0A3CB9" "x852A63" "x8854BD" "x888145" "x88CFAE" "xB2573E" "xB29348" "xB2A5A7" "xC7105E" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_STRAßMARK = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x058A32" "x05AB14" "x05BDD7" "x05CF37" "x2F33A3" "x2F57C6" "x2F6CD0" "x2F8DB2" "x2FC058" "x315185" "x593624" "x596F51" "xAD1B43" "xADA893" "xADBA57" "xAF2DE3" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_KATERIN = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x051EC3" "x05B4DC" "x073F82" "x074E05" "x077B8C" "x0845AA" "x088D5A" "x08C3DC" "x2D789E" "x2FAE94" "x319C12" "x31BA17" "x32690D" "x3275B2" "x3290DA" "x32CFC1" "x5430E2" "x59C3D8" "x5B6388" "x5C0983" "x5C0CC4" "x82999A" "x82A540" "x856609" "x860927" "x865790" "x86A21D" "x86C640" "x86C91D" "xAC8ABB" "xAF3C02" "xB09F16" "xB0AE98" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_LINGERMILL = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x048D3C" "x072D23" "x0800A5" "x091E14" "x2E3F12" "x2E48A3" "x2E90BC" "x2EA55D" "x337BA3" "x580001" "x58122E" "x5C901A" "x5DCCC4" "x85091D" "xAC69D9" "xAC9C1B" "xAF2AA2" "xB154C0" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_ANGELCLAW = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x04B1C8" "x0584AA" "x08873C" "x092128" "x2E3617" "x5878E2" "x5C9F9C" "x5D7592" "x83249A" "x860C04" "x864531" "x8727CC" "x875454" "xACAE48" "xAD9389" "xB12A4D" "xB13F89" "xB15AB1" "xB17B93" "xB196BB" "xB1B79D" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_ANGRIVER = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x040C2D" "x043396" "x043C91" "x0472E1" "x0842CD" "x2DAB44" "x2E0FAD" "x2E3921" "x2E7562" "x2ECC30" "x322A26" "x32454E" "x32518F" "x32C6C6" "x5C2DA6" "x5C7E51" "x5C812E" "x5C935B" "x5CA897" "x5CC3BF" "x826659" "x82ABC7" "x867BB3" "x87CF45" "xB03F4D" "xB07E34" "xB08AD9" "xB157D4" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_SOUTHERN_SCHEIßWALD = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x005428" "x08273C" "x097E14" "x09993C" "x2FD2B7" "x320F94" "x33304E" "x5815D8" "x590038" "x595A47" "x5D6FD8" "x855DDB" "x86ABAE" "x87933B" "xAD812A" "xAE4E5C" "xB05D1B" "xB0C989" "xB11EA7" "xB1D2C5" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_GREENBACK = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x086623" "x088AAF" "x088D8C" "x08B1AF" "x08CCD7" "x32151C" "x3221C1" "x322ABC" "x32900D" "x32B430" "x5C189C" "x5C2D3D" "x5C78C9" "x5C938D" "x5CC356" "x8630BD" "x863C63" "x866022" "x867B4A" "x8684AE" "x86C6D6" "xB03FE3" "xB07ECA" "xB0872F" "xB0AE2F" "xB0C957" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_BIRTHPLACE = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x058787" "x0806C3" "x080CE1" "x089037" "x18E4B7" "x320944" "x320F62" "x5C12E2" "x5C2442" "x5C5751" "x8627C2" "x865AD1" "x866F0E" "x8681D1" "x868A36" "xAC1BD9" "xB0728E" "xB08452" "xB08DB6" "xB0A8DE" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_FALCONIA = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x0599B4" "x05BA96" "x063991" "x0696E1" "x08D25F" "x2F8A08" "x2F9C35" "x2FB75D" "x5945A6" "x85A554" "xADB716" "xAE3611" }
+		}
+		add_homeland = romauan
+	}
+	
+	s:STATE_ROMAU = {
+		create_state = {
+			country = c:RAM
+    			owned_provinces = { "x051B19" "x2F4226" }
+		}
+		add_homeland = romauan
+	}
+	
+	s:STATE_YALE = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x0578D2" "x08814B" "x2F1E99" "x2F872B" "x324580" "x3284CB" "x5CB7B0" "x832745" "x834B04" "x839009" "x86BA31" "xAD271B" "xAD3C25" "xAD4E84" }
+		}
+		add_homeland = herzlander
+	}
+	
 }

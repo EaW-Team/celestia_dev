@@ -6,5 +6,16 @@ EMP = { # The Empire
 	tier = empire
 	
 	capital = STATE_GRIFFENHEIM
-	cultures = { griffenhimer }
+	cultures = { herzlander }
+}
+
+RAM = { # Romau
+	color = { 149 57 219 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ROMAU
+	cultures = { romauan }
 }
