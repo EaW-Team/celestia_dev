@@ -204,7 +204,7 @@ aquileian ={
 	graphics = generic
 }
 
-herzlander ={
+griffenhimer ={
 	color= rgb{ 0.34 0.48 0.71 }
 	religion = arconate
 	traits = { herzlander_group griffon_heritage }
