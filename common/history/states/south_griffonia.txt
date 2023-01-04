@@ -71,4 +71,39 @@ STATES = {
 		add_homeland = karthinian
 	}
 	
+	s:STATE_SPARLETO = {
+		create_state = {
+			country = c:ARA
+    			owned_provinces = { "x03515F" "x0387E1" "x06633C" "x06AEC8" "x0793D7" "x2D8A62" "x2DB162" "x2EB4DF" "x31609E" "x5A00AB" "x5A1BD3" "x5B631F" "x83038B" "x834B3B" "x83AB04" "x843604" "x845A5E" "xAB603E" "xAD90E3" "xAE5DDE" "xAE9FA2" "xB1BA11" }
+		}
+	}
+	
+	s:STATE_GOLDENFEATHER = {
+		create_state = {
+			country = c:FRA
+    			owned_provinces = { "x083FB9" "x099C46" "x2AB708" "x32423A" "x32603F" "x576C9C" "x5930D3" "x5C1833" "x5C63BF" "x5CCC51" "x81481D" "x833013" "x835159" "x861BB3" "x86A24A" "x86D2AE" "xA8513E" "xA86925" "xAB4B9D" "xAD12B1" "xAD54D9" "xAF6302" "xB0002F" }
+		}
+	}
+	
+	s:STATE_ROAMEO = {
+		create_state = {
+			country = c:FRA
+    			owned_provinces = { "x052791" "x0581A0" "x09B42D" "x2F18B2" "x2F9680" "x591B33" "x591E10" "x592D92" "x597542" "x7F0FA9" "x837B9F" "xAC3320" "xAD4EBB" "xB087C5" }
+		}
+	}
+	
+	s:STATE_EATELA = {
+		create_state = {
+			country = c:FRA
+    			owned_provinces = { "x08A84B" "x322158" "x32ABCB" "x5C24D8" "x5D519C" "x8654E0" "x86CFD1" "xB0D252" }
+		}
+	}
+	
+	s:STATE_FRANCISTRIA = {
+		create_state = {
+			country = c:FRA
+    			owned_provinces = { "x0339E1" "x057EC3" "x0618AF" "x085DBE" "x0909D7" "x09393C" "x2F00CB" "x300F8A" "x59573D" "x5A4824" "x5ABA83" "x5C81C4" "x5CCF2E" "x5DC329" "x843390" "x8472DB" "x868445" "x87C08B" "xAE0989" "xAE6398" "xAF96A7" "xAFD2B1" "xB0A5CA" "xB10657" "xB136BB" "xB18148" "xB1C30C" }
+		}
+	}
+	
 }

@@ -228,5 +228,26 @@ STATES = {
     			owned_provinces = { "xB1C02F" }
 		}
 	}
+	
+	s:STATE_TARRIN = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x03AEE1" "x06A223" "x07BA0A" "x096319" "x311EDA" "x315DC1" "x333635" "x336699" "x3381C1" "x57459C" "x5AD2CE" "x5B1B3D" "x5B5A24" "x5B72A1" "x5BABCE" "x5D0F0B" "x7EAE86" "x811E9F" "x844EB8" "x851EBD" "x855DA4" "x859FCC" "x87128B" "x8787C2" "xAE3FD9" "xAE7BE3" "xAE9361" "xAE9CC5" "xB1150C" "xB1BAA7" }
+		}
+	}
+	
+	s:STATE_CHÂTEAU_ACCUEILLANT = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x005ADC" "x095A1E" "x09C68C" "x2A845D" "x5678A1" "x5D0FD8" "x5DCC8D" "x7E4BE0" "x8490E0" "x8639B8" "x87541D" "xA8B107" }
+		}
+	}
+	
+	s:STATE_TRANSISTA = {
+		create_state = {
+			country = c:JER
+    			owned_provinces = { "x3306D0" "x4E419B" "x5D601F" "x5DBA2E" "x87639F" "x878D4A" "x87CF0E" "xB199C5" }
+		}
+	}
 
 }

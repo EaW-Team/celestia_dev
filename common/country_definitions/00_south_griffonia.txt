@@ -20,3 +20,25 @@ WNG = { # Wingbardy
 	capital = STATE_KARTHIN
 	cultures = { karthinian }
 }
+
+ARA = { # Arantiga
+	color = { 242 141 208 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_SPARLETO
+	cultures = {  }
+}
+
+FRN = { # Francistria
+	color = { 118 81 212 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_FRANCISTRIA
+	cultures = {  }
+}
