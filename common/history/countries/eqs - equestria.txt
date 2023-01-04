@@ -23,10 +23,13 @@ COUNTRIES = {
 		add_technology_researched = central_archives
 		add_technology_researched = urban_planning
 		add_technology_researched = colonization
+		add_technology_researched = law_enforcement
 		
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
 		activate_law = law_type:law_public_schools
+		activate_law = law_type:law_public_health_insurance
+		activate_law = law_type:law_poor_laws
 		activate_law = law_type:law_freedom_of_conscience
 		activate_law = law_type:law_women_own_property
 		activate_law = law_type:law_per_capita_based_taxation
@@ -41,6 +44,11 @@ COUNTRIES = {
 		set_institution_investment_level = {
 			institution = institution_schools
 			level = 3
+		}
+		
+		set_institution_investment_level = {
+			institution = institution_health
+			level = 2
 		}
 
 	}
