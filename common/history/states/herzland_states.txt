@@ -223,4 +223,52 @@ STATES = {
 		add_homeland = feathisian
 	}
 	
+	s:STATE_AVIAN = {
+		create_state = {
+			country = c:VER
+    			owned_provinces = { "x086005" "x0984C8" "x2F54BC" "x317EA3" "x32D235" "x335780" "x337830" "x33A5B7" "x54D23D" "x5984C4" "x59C3AB" "x5C4B42" "x5D30BA" "x5D48A1" "x864EC2" "x86994F" "xAD30B6" "xAD8DA2" "xAE84A7" "xAFB4AC" "xB05D84" "xB09CCF" "xB10FBB" "xB1992F" "xB1B1AC" "xB1BD84" }
+		}
+		add_homeland = verenian
+	}
+	
+	s:STATE_COMRICK = {
+		create_state = {
+			country = c:VER
+    			owned_provinces = { "x31BAAD" "x5B8124" "x5D0056" "x5D5447" "x877EC7" "xAF6643" "xB1542A" }
+		}
+		add_homeland = verenian
+	}
+	
+	s:STATE_BALEFIRE = {
+		create_state = {
+			country = c:VER
+    			owned_provinces = { "x053614" "x059023" "x059300" "x074E9B" "x076682" "x077B23" "x07B10F" "x07CC37" "x2F0C0D" "x312A1C" "x31A84E" "x593F56" "x5B215B" "x5B2438" "x5C5133" "x832D36" "x8563C2" "x8599AE" }
+		}
+		add_homeland = verenian
+	}
+	
+	s:STATE_ERIE = {
+		create_state = {
+			country = c:VER
+    			owned_provinces = { "x039941" "x09188C" "x31B48F" "x3212A8" "x5C03C9" "x5C4E56" "x836663" "x8412AE" "x849386" "x8527B8" "x859604" "x8651D6" "x869C63" "xAB96C0" "xAF8A02" }
+		}
+		add_homeland = verenian
+	}
+	
+	s:STATE_EYRIE = {
+		create_state = {
+			country = c:VER
+    			owned_provinces = { "x073096" "x081B96" "x08A50A" "x0942A0" "x2D691C" "x2DAE21" "x3269A3" "x32A88A" "x5C6C24" "x5CAB0B" "x870C3B" "x8796AE" "x87B790" "xAB4EDE" "xB01816" "xB16002" }
+		}
+		add_homeland = verenian
+	}
+	
+	s:STATE_VERENIA = {
+		create_state = {
+			country = c:VER
+    			owned_provinces = { "x062732" "x086900" "x2D9CC1" "x30B426" "x3212D5" "x326C80" "x5C1215" "x5C1556" "x5C335B" "x861595" "x8636DB" "x869F09" "x86C04F" "xB0395C" "xB063A2" "xB066E3" "xB0A289" }
+		}
+		add_homeland = verenian
+	}
+	
 }
