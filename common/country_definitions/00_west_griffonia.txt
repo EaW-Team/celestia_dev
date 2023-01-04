@@ -8,3 +8,14 @@ JER = { # Aquileia
 	capital = STATE_AQUILA
 	cultures = { aquileian aquileian_pony }
 }
+
+TRD = { # Aquileia
+	color = { 182 194 233 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_SKYFALL
+	cultures = {  }
+}

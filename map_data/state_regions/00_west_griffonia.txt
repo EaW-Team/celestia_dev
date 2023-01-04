@@ -82,3 +82,63 @@ STATE_MESHORIO = {
     id = 524
     provinces = { "x07C33C" "x088428" "x08CFB4" "x25D5A4" "x594E0B" "x86339A" "xAD57B6" "xAFC0BB" "xAFCF3E" "xB01E9D" "xB07225" "xB0B10C" }
 }
+
+STATE_FLOWENA = {
+    id = 442
+    provinces = { "xB127A2" }
+}
+
+STATE_LISSAY = {
+    id = 493
+    provinces = { "x08665A" "x08750F" "x0918C3" "x09454B" "x3269DA" "x32D29E" "x331B44" "x3369AD" "x337E4E" "x33B15D" "x33BA58" "x5C1B47" "x5C21CE" "x5C6C5B" "x5DB783" "x5DBDD8" "x861EC7" "x871E04" "x873090" "x874227" "x877B54" "x87BA04" "xB06CD4" }
+}
+
+STATE_EAGLETON = {
+    id = 494
+    provinces = { "x082D2D" "x086937" "x3230AD" "x326CB7" "x32BA21" "x5C6F38" "x5CAB42" "x86244F" "x86272C" "x86AEC2" "x86C022" "xB02AAC" "xB07816" "xB0998E" "xB0B143" }
+}
+
+STATE_FALCONTOWN = {
+    id = 495
+    provinces = { "x32249E" "x328D30" "x5C4801" "x5CD2D8" "x5D8D10" "x5DABAB" "x861B1D" "x869331" "x86960E" "xB02A43" }
+}
+
+STATE_GLENSI = {
+    id = 496
+    provinces = { "x050028" "x08211E" "x0887D2" "x5C8DD3" "x860059" "x864B81" "xB018E3" "xB096B1" }
+}
+
+STATE_CLOUDGUARD = {
+    id = 457
+    provinces = { "x05B446" "x092A23" "x092AB9" "x097546" "x098155" "x09B70A" "x332D3A" "x3378C6" "x3390AD" "x33A82B" "x33D2D5" "x551801" "x592151" "x5C99E2" "x5D09BA" "x5D5A01" "x5D7B47" "x5D932E" "x5DB410" "x875D81" "xB11B61" "xB13F20" "xB17ED4" "xB1B457" }
+}
+
+STATE_TWÖCHANERWALD = {
+    id = 436
+    provinces = { "x00E1FF" "x095400" "x098D2D" "x09AE0F" "x09CF55" "x328A53" "x33063A" "x33B18F" "x866FA4" "x867281" "x873C9F" "xB14BC5" "xB1CCD4" }
+}
+
+STATE_FEZERA = {
+    id = 390
+    provinces = { "x0875A5" "x321E17" "x32393F" "x327826" "x32C3B2" "x33369E" "x333F99" "x5C2197" "x5C874C" "x5D391F" "x5DC6D3" "x7EC63B" "x862418" "x874E63" "x87A80E" "xB02798" "xB07502" "xB0BDB1" "xB18AAC" "xB1AB8E" "xFF3278" "xFF3878" }
+}
+
+STATE_VLEUGELAND = {
+    id = 396
+    provinces = { "x083037" "x09A5AA" "x5C543D" "x5C7242" "x5D421A" "x5D8442" "x862759" "x862A36" "x87575E" "xB02DB6" "xB12739" "xB172C5" "xB1A22A" "xB1B489" }
+}
+
+STATE_OLDEBEKEN = {
+    id = 379
+    provinces = { "x028496" "x0899C8" "x5A9CAB" "x7E66A4" "x860C31" "x8675C2" "xB07843" "xB09648" "xB16620" }
+}
+
+STATE_GRIFFTON = {
+    id = 380
+    provinces = { "x083CDC" "x090350" "x093C19" "x323F5D" "x5D6CC4" "x86AE8B" "x8724B8" "x876F45" "x87B109" "x87C954" "xA9279D" "xB151E3" }
+}
+
+STATE_SKYFALL = {
+    id = 381
+    provinces = { "xB1C02F" }
+}
