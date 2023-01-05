@@ -1,0 +1,50 @@
+STATES = {
+    s:STATE_BUCKURE = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x0014F8" "x2002F8" "x216337" "x3BB76F" "x3F1D14" "x45100A" "x4F1606" "x502B0E" "x5ADFB2" "x5B1109" "x763726" "x7F2A20" "x8B1D11" "x8B2317" "x952216" "x952F13" "x95D47F" "xABF3DA" "xB94A3E" "xB9574C" "xCD684C" "xE4402E" }
+		}
+		add_homeland = mazwis
+	}
+	
+	s:STATE_ZIANI = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x064EC8" "x0D711E" "x168328" "x329F0C" "x3B7228" "x3F6D46" "x4DD664" "x75E688" "xE39121" }
+		}
+		add_homeland = mazwis
+	}
+	
+	s:STATE_FUTA_ZALLON = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x14B85A" "x2BD25E" "x345721" "x367B29" "x3D5429" "x449E6A" "x51DF8D" "x73DA92" "x8EE7A9" "x93BB9F" "xB6E5C5" }
+		}
+		add_homeland = mazwis
+	}
+	
+	s:STATE_BENZUGU = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x294D0A" "x396116" "x4E02E8" "x638744" "x638E3C" "x7BB259" "x7CF036" "xBFD4AD" }
+		}
+		add_homeland = mazwis
+	}
+	
+	s:STATE_GWITZIKO = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x18723E" "x2ACC2A" "x458327" "x4BAD75" "x53941B" "x68AE5A" "x6BCC63" "x6EE32E" "x7ECA7E" "x81C04B" "x9AE070" "x9BB988" "x9BD390" "xC8F0AF" }
+		}
+		add_homeland = mazwis
+	}
+	
+	s:STATE_BAMBUCK = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x34A349" "x457454" "x59A352" "x59C34F" "x6BE35E" "x72DD67" "x80E876" "x8DF083" "x94DA8D" "x97CD92" "x98C594" }
+		}
+		add_homeland = mazwis
+	}
+
+}
