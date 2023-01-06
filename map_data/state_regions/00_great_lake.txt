@@ -27,3 +27,28 @@ STATE_BAMBUCK = {
     id = 959
     provinces = { "x34A349" "x457454" "x59A352" "x59C34F" "x6BE35E" "x72DD67" "x80E876" "x8DF083" "x94DA8D" "x97CD92" "x98C594" }
 }
+
+STATE_ANZONGO = {
+    id = 939
+    provinces = { "x887836" "x8B7D6B" "xB09426" "xB6AF94" "xCFAA13" "xE0C65D" "xFBE68F" }
+}
+
+STATE_ZARABARA = {
+    id = 940
+    provinces = { "x4E251B" "x7B2E1B" "x884E0F" "xB56208" "xCF4522" "xD08855" "xD99058" "xF17C29" }
+}
+
+STATE_ZAIRBANDA = {
+    id = 941
+    provinces = { "x986036" "x9D7B60" "xAF5815" "xB49B79" "xD09F5B" "xD3B285" "xD4AE91" "xE09A3C" "xE96D0D" "xF1924A" "xF2BC94" "xF8D6BC" }
+}
+
+STATE_ZIBIRIDUGU = {
+    id = 945
+    provinces = { "x30AC39" "x561E18" "x666E5E" "x76965A" "x93EE42" "x9DBD80" "xB4E985" "xD36B60" }
+}
+
+STATE_ZAO = {
+    id = 948
+    provinces = { "x143E0C" "x18561C" "x2C5524" "x3719E8" "x42B82B" "x58AB47" "x77B12F" "x77E960" "x854841" "x85976F" "x932F24" "xA5CE72" "xAED57E" }
+}
