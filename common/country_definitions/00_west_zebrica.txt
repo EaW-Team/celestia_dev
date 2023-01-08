@@ -97,3 +97,25 @@ KAR = { # Karkadannistan
 	capital = STATE_ARDAKMANE
 	cultures = { karkad }
 }
+
+ABY = { # Abyssinia
+	color = { 56 120 191 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_PANTHERA
+	cultures = { Abyssinian }
+}
+
+MGY = { # Maregypt
+	color = { 255 220 104 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_SOMNAMBULA
+	cultures = { maregyptian }
+}

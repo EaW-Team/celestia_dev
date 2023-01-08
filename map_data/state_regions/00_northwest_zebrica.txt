@@ -52,3 +52,33 @@ STATE_ANSERUK = {
     id = 790
     provinces = { "x36300D" "x3E392E" "x412B20" "x463420" "x4B2919" "x563514" "x675E2C" "x797168" "x7B470F" "x7F501D" "x845F18" "x886F3E" "x898154" "xAA8641" "xAC992D" "xBD8346" "xC29E8D" "xC2BA8D" "xC7945E" "xC9AE79" "xCF6B3A" "xE4D167" "xE87F18" "xEDC94A" "xEF7134" "xF9D389" }
 }
+
+STATE_PANTHERA = {
+    id = 775
+    provinces = { "x0E3D1A" "x1BBD43" "x224029" "x2D743F" "x443424" "x693B24" "x6CDC88" "x6F5235" "x85B792" "xA46C35" "xAE8F3B" "xC14D14" "xE0BC5C" "xE59554" "xE8D090" "xECCA6E" }
+}
+
+STATE_TIGERAY = {
+    id = 776
+    provinces = { "x20A540" "x250C30" "x2A6137" "x392B24" "x58645B" "x5C117D" "x86752D" "x94451E" "xA352C7" "xABE8B9" }
+}
+
+STATE_AMHAPURA = {
+    id = 777
+    provinces = { "x2E2233" "x4E1C29" "x5E1855" "x683E49" "x6F1D68" "x871FB5" "x9A772B" "xA2377D" "xA51138" "xAF576E" "xBB9EC8" "xC26EE7" "xCB6C17" "xCE987D" "xD1B707" "xDA1548" "xDC8AC0" "xEB5CDF" }
+}
+
+STATE_SOMNAMBULA = {
+    id = 733
+    provinces = { "x8B2964" "x924B15" "xA91265" "xBB81A1" "xEC61AD" }
+}
+
+STATE_NEIGHILE_DELTA = {
+    id = 734
+    provinces = { "x300E28" "x370F2E" "x45273E" "x531043" "x57264C" "x594354" "x5F0D4B" "x682735" "x6E5067" "x7B455C" "x922B79" "x981632" }
+}
+
+STATE_TROTANIS = {
+    id = 737
+    provinces = { "x33091B" "x4E2544" "x660A24" "x911E3F" "xBA1846" "xBE627E" "xCC97A7" }
+}
