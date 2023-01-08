@@ -82,3 +82,33 @@ STATE_TROTANIS = {
     id = 737
     provinces = { "x33091B" "x4E2544" "x660A24" "x911E3F" "xBA1846" "xBE627E" "xCC97A7" }
 }
+
+STATE_MAREJ = {
+    id = 731
+    provinces = { "x382557" "x416218" "x4F1EA5" "x512B94" "x6F2DE2" "x8D5327" "xA884E7" "xBE5F15" "xBEA591" "xC17E4A" "xC43DCC" "xDA772C" "xDC782C" "xDDB08E" "xE79C63" "xF38AF9" }
+}
+
+STATE_MARETROUH = {
+    id = 732
+    provinces = { "x4B0A2E" "x59361C" "x5A5538" "x5B152D" "x73390D" "x847732" "x857936" "x87771C" "xB15713" "xB8A433" "xBD5477" "xDDCD70" }
+}
+
+STATE_MANEPHIS = {
+    id = 735
+    provinces = { "x441632" "x4F162F" "x613909" "x684551" "x714C20" "x79490E" "x874A6C" "x881F42" "x8E4A61" "x904163" "xB56F1A" "xB77F3A" "xB83964" "xC75E8C" "xC7BE8D" }
+}
+
+STATE_HAYXOR = {
+    id = 736
+    provinces = { "x392718" "x3D0B3F" "x451221" "x4A173C" "x5C0B43" "x774112" "x805D3E" "x865088" "x942142" "xA88594" "xAF3087" "xBA8557" "xCC6390" }
+}
+
+STATE_SINEIGHI = {
+    id = 738
+    provinces = { "x431428" "x49202C" "x492333" "x6B364C" "x723B20" "x734D44" "x820C2F" "x92345B" "xA34460" "xA97358" "xB24E1B" "xC7305D" }
+}
+
+STATE_MANEISRATA = {
+    id = 740
+    provinces = { "x632A3A" "x6E2F0F" "x842C45" "x85344B" "xB14A17" "xD29170" "xE66626" "xEE814B" }
+}

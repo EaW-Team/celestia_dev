@@ -1,0 +1,10 @@
+BAT = { # Chiropterra
+	color = { 0 33 71 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_EXILES_LANDING
+	cultures = { chiropterran }
+}

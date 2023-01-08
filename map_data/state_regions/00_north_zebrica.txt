@@ -1,0 +1,29 @@
+﻿STATE_NEW_SOUTH_BUCKCASTLE = {
+    id = 689
+    provinces = { "x406D3E" "x487947" "x4D2C3C" "x750726" "x7D3E11" "x7F3F11" "x7FB87D" "x923564" "xD32556" "xD5600D" }
+}
+
+STATE_HOWLING_MOUNTAINS = {
+    id = 690
+    provinces = { "x663512" "x842C5F" "x93195C" "x946992" "xA85F2B" "xC38E68" "xD06417" "xFB791C" }
+}
+
+STATE_NEW_MAREIDIAN = {
+    id = 691
+    provinces = { "x420C1B" "x572332" "x5CB8C2" "x7B9B9F" "x931654" "x932D4A" "x945A30" "xAB602A" "xC84167" }
+}
+
+STATE_THE_IMPERIAL_HILLS = {
+    id = 712
+    provinces = { "x3B8A50" "x4F290F" "x532036" "x72143C" "xA80B4F" "xA94C0A" }
+}
+
+STATE_EXILES_LANDING = {
+    id = 713
+    provinces = { "x35884B" "x6BCA84" "x82C393" "xB65B1A" "xCC8A5B" }
+}
+
+STATE_HUIACTLALI = {
+    id = 815
+    provinces = { "x56C132" "x662A3B" "x733F1A" "x95B18C" "x98330E" "xA5D794" "xC42C57" "xDC762D" }
+}
