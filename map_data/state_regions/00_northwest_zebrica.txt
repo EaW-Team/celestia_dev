@@ -112,3 +112,28 @@ STATE_MANEISRATA = {
     id = 740
     provinces = { "x632A3A" "x6E2F0F" "x842C45" "x85344B" "xB14A17" "xD29170" "xE66626" "xEE814B" }
 }
+
+STATE_DAHSHOOF = {
+    id = 758
+    provinces = { "x18050D" "x3C071E" "x420821" "x511A32" "x772B40" "x841C3A" "x93134A" "xB5A216" "xBC8897" "xC6723E" }
+}
+
+STATE_MAREYDUM = {
+    id = 759
+    provinces = { "x371D14" "x3E160B" "x533128" "x57362C" "x61352A" "x633B2E" "x6C311D" "x772815" "x793C28" "xA54120" "xA636AC" "xB43617" "xBD715E" }
+}
+
+STATE_BENI_HAYSAN = {
+    id = 760
+    provinces = { "x4D132B" "x57253A" "x631234" "x680A31" "x681739" "x7A3624" "xA93C6A" "xAB3667" "xC47596" }
+}
+
+STATE_ASSYUT = {
+    id = 761
+    provinces = { "x6D1D40" "x791540" "x791562" "x7B233C" "x8A0A2E" "x9F0B35" "xA2637E" "xB23F71" "xB45190" }
+}
+
+STATE_ZUSH = {
+    id = 766
+    provinces = { "x48091B" "x490B25" "x49180B" "x5D072B" "x67162D" "x684237" "x770827" "x77250F" "x822E46" "x881344" "xA6153E" "xB6317A" "xC64368" "xCE879B" }
+}

@@ -183,6 +183,46 @@ STATES = {
 		add_homeland = maregyptian
 	}
 	
+	s:STATE_DAHSHOOF = {
+		create_state = {
+			country = c:MGY
+    			owned_provinces = { "x18050D" "x3C071E" "x420821" "x511A32" "x772B40" "x841C3A" "x93134A" "xB5A216" "xBC8897" "xC6723E" }
+		}
+		add_homeland = maregyptian
+	}
+	
+	s:STATE_MAREYDUM = {
+		create_state = {
+			country = c:MGY
+    			owned_provinces = { "x371D14" "x3E160B" "x533128" "x57362C" "x61352A" "x633B2E" "x6C311D" "x772815" "x793C28" "xA54120" "xA636AC" "xB43617" "xBD715E" }
+		}
+		add_homeland = maregyptian
+	}
+	
+	s:STATE_BENI_HAYSAN = {
+		create_state = {
+			country = c:MGY
+    			owned_provinces = { "x4D132B" "x57253A" "x631234" "x680A31" "x681739" "x7A3624" "xA93C6A" "xAB3667" "xC47596" }
+		}
+		add_homeland = maregyptian
+	}
+	
+	s:STATE_ASSYUT = {
+		create_state = {
+			country = c:MGY
+    			owned_provinces = { "x6D1D40" "x791540" "x791562" "x7B233C" "x8A0A2E" "x9F0B35" "xA2637E" "xB23F71" "xB45190" }
+		}
+		add_homeland = maregyptian
+	}
+	
+	s:STATE_ZUSH = {
+		create_state = {
+			country = c:MGY
+    			owned_provinces = { "x48091B" "x490B25" "x49180B" "x5D072B" "x67162D" "x684237" "x770827" "x77250F" "x822E46" "x881344" "xA6153E" "xB6317A" "xC64368" "xCE879B" }
+		}
+		add_homeland = maregyptian
+	}
+	
 	
 
 }
