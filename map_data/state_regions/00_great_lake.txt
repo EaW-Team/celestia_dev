@@ -52,3 +52,18 @@ STATE_ZAO = {
     id = 948
     provinces = { "x143E0C" "x18561C" "x2C5524" "x3719E8" "x42B82B" "x58AB47" "x77B12F" "x77E960" "x854841" "x85976F" "x932F24" "xA5CE72" "xAED57E" }
 }
+
+STATE_GHABA = {
+    id = 950
+    provinces = { "x1302EC" "x1A02F4" "x339152" "x4F390F" "x74AD6E" "x75D36C" "x8CF35A" "x91552F" "x95D76B" "xB8F19C" "xC78A17" }
+}
+
+STATE_REEM = {
+    id = 951
+    provinces = { "x0A09AA" "x1402F0" "x9A4611" "xA87109" "xC89E4E" "xEE965F" "xF3B642" }
+}
+
+STATE_ZOMBORI = {
+    id = 952
+    provinces = { "x520EF8" "x904B16" "x976A14" "xAF6024" "xB18C6F" "xB79A63" "xBE8518" "xC0875B" "xCC952F" "xD6A64A" "xE36B0E" "xE7995D" "xEEB549" }
+}

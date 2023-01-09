@@ -83,7 +83,7 @@ DOF = { # Al-Dofa
 	
 	tier = principality
 	
-	capital = STATE_BUCKZERTE
+	capital = STATE_MAREOUSSE
 	cultures = { ahfar }
 }
 
@@ -118,4 +118,15 @@ MGY = { # Maregypt
 	
 	capital = STATE_SOMNAMBULA
 	cultures = { maregyptian }
+}
+
+REE = { # Re'em
+	color = { 211 184 179 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_REEM
+	cultures = { re'emite }
 }
