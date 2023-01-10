@@ -70,5 +70,245 @@ STATES = {
 		}
 		add_homeland = karkad
 	}
+	
+	s:STATE_SEMANE = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x0A2508" "x0D2D0F" "x122810" "x132314" "x132D17" "x14230F" "x152A16" "x193929" "x1A2B23" "x1C261F" "x1C2E1B" "x23351D" "x243020" "x253630" "x27332D" "x293729" "x2D472B" "x2F692B" "x313533" "x325726" "x345C35" "x3C6651" "x3D5144" "x3EAE4B" "x495F54" "x4DB052" "x4F6F50" "x57935A" "x598E53" "x60A940" "x60C96D" "x62C166" "x65A268" "x67453C" "x69D376" "x7DA17F" "x7EDCA6" "x89DF81" "x8CC58D" "x98CA93" "xB4EC72" "xBEF1B4" "xD17318" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_TROTABAD = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x0E552E" "x31A628" "x33782E" "x34732F" "x37773A" "x3E7F39" "x3FA544" "x417A3D" "x4E9649" "x50A54A" "x5EE454" "x6EBF67" "x76A45F" "x8AE060" "xAB3E2F" "xC7675B" "xD87037" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_TROTRAN = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x0B2A0F" "x13361A" "x141F15" "x193E20" "x1B5A27" "x1C2A1C" "x1C2E20" "x1E2D21" "x204527" "x205327" "x214F28" "x27442B" "x2C5326" "x2F4132" "x315831" "x335139" "x36663F" "x3B7B44" "x3C513D" "x3E853E" "x48614A" "x4A8C57" "x4D8057" "x536F55" "x53925A" "x58825B" "x5A7A5C" "x5BAA60" "x5BD169" "x66AB68" "x689A72" "x6AC96F" "x6B9F66" "x6DE574" "x70D565" "x73B881" "x73C478" "x73EB66" "x74E77B" "x76B276" "x77B58D" "x80D580" "x83BE79" "x85BE52" "x85C97E" "x89BD8F" "x92BE8A" "x9AB59C" "x9AD09E" "xA2EBB7" "xA5CA83" "xA7D565" "xB3E5DE" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_TROTBAS = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x0D2512" "x102C16" "x103818" "x121F0F" "x122418" "x152919" "x153821" "x172219" "x18231A" "x20331C" "x283E2D" "x293825" "x2A3B27" "x2D473A" "x31AF5C" "x356445" "x37522A" "x375730" "x416737" "x46845F" "x54C67B" "x70432B" "x758B88" "x77E156" "x793713" "x815D3D" "x854C19" "x95543D" "x9CD06E" "xB65E2E" "xDF9378" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_TROTKRIT = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x181F19" "x213522" "x326335" "x394A19" "x3D5F38" "x489A3B" "x4A202A" "x50E538" "x541423" "x725044" "x8F4F38" "x93CB27" "xADD65E" "xB64A24" "xC06E25" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_MARESQAT = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x688140" "x99C77B" "x9AAC7F" "x9EC461" "xB1C88D" "xB2DE6C" "xBEE08E" "xC0E08D" "xE2F28C" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_SUHMANE = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x0E350E" "x102710" "x161F16" "x1B3B1B" "x1C4316" "x1E271C" "x293D26" "x33512E" "x4B8D3D" "x578857" "x587253" "x6A8538" "x70AD53" "x72C261" "x76A755" "x76A976" "x83BC67" "x85DC8F" "x96C08E" "x9EC26B" "xA7D192" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_MANEZWA = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x1B3220" "x24562F" "x305329" "x512335" "x542509" "x56844D" "x56A945" "x58874E" "x60B54F" "x67BB57" "x6B9123" "x6DE255" "x72A568" "x762042" "x89EA75" "x8B441B" "x94AE62" "x99B494" "xA2E894" "xA6CE9E" "xB45620" "xB6CE88" "xBAF053" "xBBF352" "xBFD694" "xC5E48B" "xCBEC8C" "xF2A54A" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_SHAYDA = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x093B09" "x102310" "x104610" "x173F17" "x1A2B1A" "x1C401C" "x2E5D2E" "x31B74A" "x6D9972" "x70DA7C" "x78E063" "x7BEA54" "x85C08B" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_ASH-SMAREQIYAH = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x246B31" "x295331" "x2F9D44" "x381526" "x416A20" "x495B43" "x4A733C" "x5D3219" "x5DB73F" "x618345" "x6AB94E" "x6E893D" "x6E9A5E" "x75A165" "x81ED6C" "x83A678" "x89B47B" "x8D4A22" "x8EC17C" "x953656" "x95D264" "x98D483" "xA8D584" "xACE898" "xBD6A27" "xD17035" "xE06D4A" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_MAREGOSTAN = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x122912" "x172417" "x1E3018" "x1F2D1F" "x223E22" "x283528" "x335133" "x42543A" "x496B39" "x563826" "x598544" "x617242" "x617955" "x626F49" "x759D54" "x76CF4A" "x7EA16D" "x813E16" "x81A168" "x82C04F" "x83B26C" "x83BD66" "x85A746" "x884E2E" "x8C9B85" "x8ED76B" "x96B27F" "xAA6018" "xADDD95" "xB3D1A4" "xB67650" "xC77142" "xCD6328" "xDEAB53" "xEE9726" "xF5B341" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_COLTKUK = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x1D7143" "x1F894F" "x451F1A" "x54C788" "x7E3127" "x844711" "xA75D1A" "xA96538" "xCE5747" "xDF857A" "xDF905C" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_YAZHOOVES = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x105630" "x166430" "x22A91B" "x267F2D" "x268545" "x26B555" "x318728" "x3C8B58" "x40B675" "x41B269" "x48B650" "x48CA76" "x4B9559" "x4CC674" "x4F8B4D" "x50D168" "x53CB69" "x56E747" "x57AF76" "x6ACE97" "x7E9E7D" "x866023" "xB68840" "xCD6D2D" "xCD792D" "xD19434" "xE28B3C" "xEBAB71" "xEC9228" "xF6AA6C" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_LAHIJMANE = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x34B130" "x477345" "x558854" "x57D854" "x598057" "x5AAB57" "x66EF8D" "x6DC56B" "x6DEF5C" "x6FA86E" "x73E070" "x76A875" "x8AA888" "x8AB589" "x90D38E" "x90D58F" "xADE8AB" "xC0D696" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_JABAL-TAILIQ = {
+		create_state = {
+			country = c:MTO
+    			owned_provinces = { "x3B6142" "x54BF68" "x567C5D" "x61996B" "x63C175" }
+		}
+		add_homeland = maretonian
+	}
+	
+	s:STATE_HISANLAB = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x032C0F" "x062910" "x062A0B" "x081006" "x0C431B" "x10190D" "x10321B" "x123A18" "x161815" "x18281C" "x263421" "x275B36" "x283520" "x344E3C" "x3E563B" "x57A24F" "x67B85F" "x814A3C" "x8CDE76" "x945342" "xA0D89A" "xB98266" "xCCA98D" "xCF6E4B" "xD0AE9D" "xD49779" "xDDA572" "xDE7847" "xE58A5D" "xE69248" "xE99340" "xEEA37E" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_ARDABUCKLAN = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x0B270D" "x111B11" "x116717" "x132113" "x152A17" "x191F19" "x1E7926" "x213810" "x233823" "x234D2E" "x28351E" "x2A382A" "x2F4D25" "x3E5828" "x455440" "x5E893B" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_SAMANEWAT = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x0D3010" "x122319" "x1D2319" "x1F331B" "x2A4A20" "x51AA32" "x62B545" "x73B03F" "x84B859" "x9BDE63" "x9ECB78" "xA0C681" "xA6E274" "xB5E989" "xB7E88F" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_ZANJAN = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x081308" "x0B1D0B" "x0F380E" "x143707" "x151715" "x192019" "x1B2717" "x1B3A1B" "x1C321C" "x1E3321" "x1F4C1E" "x29491E" "x2A7628" "x6DB355" "xBBE896" "xE0FFEB" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_KIRMANESHAH = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x071C09" "x142E17" "x1A251D" "x1B4228" "x1E3920" "x1E3F28" "x204523" "x213427" "x21420E" "x293D2B" "x3F6B4D" "x4B9E65" "x516D1C" "x529993" "x78503A" "xA05F3C" "xC97C52" "xE27F30" "xE3985D" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_KARBUCKLA = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x3E827C" "x47974A" "x497773" "x532D36" "x53B2AA" "x69350B" "x7FC681" "x865C3A" "x88B731" "x8C2840" "x995E73" "x9CE89F" "xACC185" "xAF6020" "xB6743F" "xDB833B" "xEBA872" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_HOOVEYZEH = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x532336" "x55102C" "x5A2821" "x633D4C" "x66304D" "x7FA23C" "x87443B" "x895375" "x8C3356" "x96C241" "x9F315D" "xA4B08D" "xA53A2C" "xA64437" "xC0DA8F" "xC1DE8A" "xCC5F51" "xD4F98E" "xE88422" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_AJLOUN = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x0F3D1E" "x275335" "x365D27" "x4D6E4C" "x81F585" "x99E87C" "xA1BB97" "xA4D4A1" "xA5D891" "xA6DFA4" "xAEEB97" "xBFEEAE" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_KHORRAMANEABAD = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x1F3119" "x21301B" "x266111" "x273C20" "x2F4D24" "x3C5633" "x407A2B" "x497439" "x5A1910" "x5C2E0D" "x5E874F" "x63BB43" "x82B880" "x8F3D10" "x95A775" "xACCC71" "xAD5E25" "xBFF262" "xC0ED6C" "xC1DC90" "xC96A36" "xD3EAA7" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_MALAMANEIR = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x162B0F" "x192116" "x1D3813" "x233A1A" "x23401C" "x255618" "x2B1626" "x396728" "x3D5F32" "x437532" "x446539" "x47912A" "x5C9A3A" "x60A04A" "x693731" "x6BB84D" "x6E5428" "x763166" "x80B647" "x82C568" "x914C1A" "x933124" "x934C33" "x98773F" "xC7623E" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_BUCKKA = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x290E1A" "x36071B" "x386C2E" "x3C5E2F" "x448337" "x497740" "x584139" "x660F34" "x72CF60" "x75AF38" "x779B79" "x7DA255" "x7EAF4A" "x7EE385" "x8C5E4F" "x8FD294" "x96C662" "x9B4426" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_SARYGAM = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x1E350D" "x1F6E1F" "x29471C" "x2C0E25" "x304626" "x311823" "x36192F" "x3C9A3E" "x3D5030" "x406028" "x431608" "x443629" "x452609" "x48603D" "x493D32" "x4D7133" "x51813C" "x53733C" "x548F28" "x552312" "x57943C" "x592039" "x5A3F28" "x5DD45F" "x64475E" "x653C17" "x6B431F" "x733F55" "x773925" "x783F0C" "x7FB369" "x83D560" "x8EDC6C" "x91531B" "x91D95D" "x96305B" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_MANEGAHR = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x1C3E1C" "x2F471D" "x305421" "x335F34" "x386D39" "x4D6841" "x519A52" "x559149" "x567946" "x6BBB5B" "x6ED65A" "x70C572" "x73B267" "x80F082" "x8ACB7D" "x95DB96" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_WASIT = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x293F2C" "x4D3F45" "x4F2537" "x507E55" "x635058" "x71334E" "x754459" "x7B636D" "x7C2E4F" "x966077" "x9A5372" "x9F7084" "xA73465" "xBB7392" "xCA9565" "xD399B2" "xD97AA2" "xE0689B" }
+		}
+		add_homeland = aestlonian
+	}
+	
+	s:STATE_ZARMAREJ = {
+		create_state = {
+			country = c:AES
+    			owned_provinces = { "x164918" "x184B1E" "x1B3823" "x243E2D" "x265B39" "x285227" "x315228" "x3A6C3B" "x427240" "x44654D" "x479A45" "x487F46" "x4E715B" "x4FA44D" "x50683F" "x50B473" "x5B9D59" "x6AB667" "xA1B57C" "xA8D456" "xCBE894" }
+		}
+		add_homeland = aestlonian
+	}
 
 }
