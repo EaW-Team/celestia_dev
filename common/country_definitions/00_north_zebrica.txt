@@ -8,3 +8,14 @@ BAT = { # Chiropterra
 	capital = STATE_EXILES_LANDING
 	cultures = { chiropterran }
 }
+
+HIP = { # hippogriffia
+	color = { 129 227 238 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_MOUNT_ARIS
+	cultures = { hippogriffion }
+}
