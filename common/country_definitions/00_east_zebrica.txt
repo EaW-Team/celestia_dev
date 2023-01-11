@@ -1,0 +1,10 @@
+KIR = { # Kiria
+	color = { 237 45 0 }
+	
+	country_type = recognized
+	
+	tier = empire
+	
+	capital = STATE_VERMILION_BASIN
+	cultures = { kirian }
+}
