@@ -19,3 +19,14 @@ HIP = { # hippogriffia
 	capital = STATE_MOUNT_ARIS
 	cultures = { hippogriffion }
 }
+
+CTH = { # Colthage
+	color = { 233 255 218 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_COLTHAGE
+	cultures = { Colthaginian }
+}

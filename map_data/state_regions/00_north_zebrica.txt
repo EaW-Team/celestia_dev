@@ -82,3 +82,88 @@ STATE_EASTWINGS = {
     id = 1203
     provinces = { "x094209" "x0B630B" "x143014" "x153F15" "x224498" "x268026" "x286328" "x2BB741" "x2EA0CE" "x385538" "x489354" "x52B061" "x5BA35B" "x6C2014" "x8751C1" "xB05F20" "xBA6FA7" }
 }
+
+STATE_ALAUDID_RANGE = {
+    id = 699
+    provinces = { "x15732D" "x398C4E" "x3E1605" "x4E200C" "x54805F" "x54C643" "x5CAF70" "x80391B" "xD65B27" "xE0AD98" }
+}
+
+STATE_KARAMANE = {
+    id = 700
+    provinces = { "x0E8D53" "x3DB780" "x4B6157" "x5FCA9A" "x63A386" "x6D877B" "xA4C7B7" "xBB8056" "xBE3918" }
+}
+
+STATE_ZUR = {
+    id = 701
+    provinces = { "x0A5B4C" "x2A8070" "x2E7F70" "x405B56" "x671D3A" "x75483D" "x871541" "xA44E39" "xDC8A76" }
+}
+
+STATE_SOPHOOVENE = {
+    id = 702
+    provinces = { "x0A3F28" "x0F623D" "x20714C" "x364E43" "x408A68" "x537B69" "x6D3B2A" "x7A9086" "x933118" "x97C3AF" "xA2634D" "xC66750" "xE25524" }
+}
+
+STATE_ZEBINOP = {
+    id = 703
+    provinces = { "x0A5717" "x12571D" "x1F3E2C" "x243D28" "x2C392E" "x2D4E3B" "x3F5F4C" "x5E9C78" "x7B5345" "x853113" "x8B5F4F" "xB25433" "xCAA395" "xE3A58F" }
+}
+
+STATE_AMANESYA = {
+    id = 704
+    provinces = { "x126334" "x155D33" "x1A492E" "x3B9C64" "x5B1530" "x618067" "x67C28D" "x6F4E43" "x9A204F" "xAA4410" "xB14924" "xB54F2C" "xE38C6E" }
+}
+
+STATE_ZEORDU = {
+    id = 705
+    provinces = { "x377742" "x40B553" "x67B074" "x78D988" "x94D49E" "x9AB19E" "xD95D1E" "xE89265" }
+}
+
+STATE_TROTKAT = {
+    id = 706
+    provinces = { "x1EB437" "x638869" "x66C976" "x7F3B18" "x823F1C" "x85E896" "x8AB892" "xA6603C" "xAD6845" "xB4E0BC" "xE39B76" "xE3B69E" "xE5773F" }
+}
+
+STATE_SIVMAREAS = {
+    id = 709
+    provinces = { "x082D28" "x0C5F39" "x12623D" "x177E4F" "x185653" "x1C423C" "x1E5039" "x24563F" "x4E976A" "x50321D" "x6B3610" "xA2C8C2" }
+}
+
+STATE_ZJERBA = {
+    id = 714
+    provinces = { "x736FAF" "xFFCE58" }
+}
+
+STATE_ZAMITHA = {
+    id = 852
+    provinces = { "x0CBD6C" "x147936" "x20724C" "x2B8E61" "x3FBB68" "x428538" "x4C7B66" "x612C1E" "x68C1B0" "x6CAB62" "x8B7058" "x98DF8D" "xA3380A" "xCF884A" }
+}
+
+STATE_COLTHAGE = {
+    id = 875
+    provinces = { "x115C42" "x176236" "x186C4E" "x289C84" "x53A689" "x63A47E" "x653D2F" "x7D3D26" "x9CC8BF" "xA96750" "xBD4115" "xC8DFDA" }
+}
+
+STATE_ZALIHLI = {
+    id = 876
+    provinces = { "x0EC975" "x103524" "x148E57" "x30AAA4" "x5FC686" "x6ADCA9" }
+}
+
+STATE_TEFEMANEI = {
+    id = 877
+    provinces = { "x2F8D7F" "x436E68" "x608C85" "x612E18" "x6EA49C" "x74380E" "x7A3B20" "x963A5D" "xAE5415" "xC26239" "xCA3971" "xD04B12" "xE16092" }
+}
+
+STATE_KIZIL-ZEB = {
+    id = 1093
+    provinces = { "x0D361A" "x115D29" "x193C24" "x1B3B25" "x20422B" "x26A04B" "x29DC60" "x2D934C" "x349150" "x3F7951" "x5BA471" "x649874" "x6AB883" "x73402E" "x77AF7A" "x93BEA0" "xA0E1C7" }
+}
+
+STATE_GOATLESTAN = {
+    id = 1094
+    provinces = { "x4F699F" "x532515" "x5D81CE" "x77E24A" "x86391F" "x92310F" "xA6644D" "xAAE7CF" "xB51753" "xC16241" "xC84518" "xD74A18" }
+}
+
+STATE_QATRAIN = {
+    id = 1095
+    provinces = { "x1D562A" "x366D42" "x439855" "x76BCA0" "xA5EFD2" }
+}
