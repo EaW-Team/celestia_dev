@@ -8,3 +8,14 @@ KIR = { # Kiria
 	capital = STATE_VERMILION_BASIN
 	cultures = { kirian }
 }
+
+GFS = { # Vrystaat
+	color = { 224 139 47 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_GRIFFEVELD
+	cultures = { vrystaatan }
+}
