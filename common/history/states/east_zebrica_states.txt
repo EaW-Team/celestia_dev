@@ -270,4 +270,52 @@ STATES = {
 		}
 		add_homeland = vrystaatan
 	}
+	
+	s:STATE_MZINGA = {
+		create_state = {
+			country = c:ZLU
+    			owned_provinces = { "x263417" "x273E0F" "x2A691C" "x30441B" "x3C4136" "x424423" "x517947" "x62B250" "x8DAD48" }
+		}
+		add_homeland = Zebluan
+	}
+	
+	s:STATE_ZANA = {
+		create_state = {
+			country = c:ZLU
+    			owned_provinces = { "x2EB341" "x2F1E12" "x376A45" "x502910" "x545E48" "x5E6A50" "x67AA7A" "x7ED275" "x81D34F" "x824A22" "x8EBD71" "xA1C19A" "xB7E9B2" "xC5CDAA" }
+		}
+		add_homeland = Zebluan
+	}
+	
+	s:STATE_EWASO_ZEBRO = {
+		create_state = {
+			country = c:ZLU
+    			owned_provinces = { "x0C9932" "x177D2F" "x185E2B" "x197231" "x1F9E5A" "x1FAE61" "x23B847" "x386442" "x3F9B58" "x40BA61" "x4D7959" "x52D145" "x53C16E" "x54D48F" "x564235" "x97BCA1" "x9CCD98" "x9EC89D" "xA8BBAA" "xBEDFC7" }
+		}
+		add_homeland = Zebluan
+	}
+	
+	s:STATE_ITHEBRA = {
+		create_state = {
+			country = c:ZLU
+    			owned_provinces = { "x1D502E" "x243420" "x303C2C" "x457354" "x5B834E" "x5F6D64" "x69B767" "x6C8E77" "x899B83" "xA2BDAB" }
+		}
+		add_homeland = Zebluan
+	}
+	
+	s:STATE_KISMANEYO = {
+		create_state = {
+			country = c:ZLU
+    			owned_provinces = { "x186C4F" "x19A540" "x34834A" "x39B15A" "x5B8767" "x6ECD9F" "x92C37A" "x94C396" "x95AA8A" "x9DB0A7" "xB8DBCA" "xC1E4B0" }
+		}
+		add_homeland = Zebluan
+	}
+	
+	s:STATE_ZARAWA = {
+		create_state = {
+			country = c:ZLU
+    			owned_provinces = { "x428C57" "x4B904F" "x4E674B" "x65674B" "x65CD79" "x72E060" "x799882" "x8DA78F" "x8DD06C" "x95E094" "x99D2A9" "x9DD7A1" "xBEE5C1" }
+		}
+		add_homeland = Zebluan
+	}
 }

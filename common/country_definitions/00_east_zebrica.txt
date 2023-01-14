@@ -19,3 +19,14 @@ GFS = { # Vrystaat
 	capital = STATE_GRIFFEVELD
 	cultures = { vrystaatan }
 }
+
+ZLU = { # Zeblu
+	color = { 120 71 121 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ZARAWA
+	cultures = { zebluan }
+}
