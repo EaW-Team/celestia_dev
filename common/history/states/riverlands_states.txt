@@ -62,7 +62,7 @@ STATES = {
 		add_homeland = kásan
 	}
 	
-	s:STATE_DITHREABH = {
+	s:STATE_ILHAS_LAGOSTA = {
 		create_state = {
 			country = c:ZES
 			owned_provinces = { "x06ED00" "x30C7B2" "xAD3C5C" "xAD5A61" "xB118A1" "xC0BFA9" "xEA6C90" }
