@@ -68,6 +68,56 @@ STATE_AMHAPURA = {
     provinces = { "x2E2233" "x4E1C29" "x5E1855" "x683E49" "x6F1D68" "x871FB5" "x9A772B" "xA2377D" "xA51138" "xAF576E" "xBB9EC8" "xC26EE7" "xCB6C17" "xCE987D" "xD1B707" "xDA1548" "xDC8AC0" "xEB5CDF" }
 }
 
+STATE_MEDAFI = {
+    id = 786
+    provinces = { "x593C19" "x798217" "x8D866A" "xB38224" "xC7BD97" "xD7B52C" "xDAC058" }
+}
+
+STATE_DIMETI = {
+    id = 785
+    provinces = { "x524612" "x847222" "xA88D14" "xC0AD55" "xCAB976" "xCBC5AA" "xD5C685" "xE5C840" "xEDDD93" }
+}
+
+STATE_PURRK'ELE = {
+    id = 773
+    provinces = { "x534822" "x666434" "x674229" "x6F4C2A" "x787763" "x917205" "xA35D18" "xA39013" "xAD5215" "xC4AA98" "xD6D14F" "xE9DA75" "xEAC6A2" "xEBC6A2" "xEC9540" "xF4CB90" }
+}
+
+STATE_KATOUM = {
+    id = 772
+    provinces = { "x321809" "x40A59D" "x42291A" "x72462C" "x875E22" "x9E5A30" "xAD683F" "xBB7B1E" "xD39169" "xDEB969" "xE0A248" "xF4D7C6" "xF56F1E" }
+}
+
+STATE_PAWRITREA = {
+    id = 771
+    provinces = { "x6A5950" "x6C4F25" "x6D7F37" "x775A31" "x7D3103" "x8D8A43" "x938D28" "xA35424" "xBAB34B" "xC0937C" "xC0DC6C" "xC1D094" "xC5ED4A" "xCD8F23" "xCE6938" "xD3DABF" "xD58F2A" "xDF952C" "xE8E063" "xE9A20A" "xEBC389" "xEEE76F" }
+}
+
+STATE_KOM_MAREBO = {
+    id = 764
+    provinces = { "x693224" "x86250B" "x975D2A" "xA35849" "xD34620" "xDA7014" "xE2866C" "xE5A17D" "xEB8C39" }
+}
+
+STATE_MAU = {
+    id = 774
+    provinces = { "x3F1E61" "x4B0D2B" "x56473F" "x564D42" "x643F14" "x815420" "x83BE78" "x8561AB" "x893DD6" "x97215B" "xA70C59" "xBAEEAF" "xBB713B" "xC1853E" "xD67D14" "xEDC7AC" }
+}
+
+STATE_OROMEOWIA = {
+    id = 778
+    provinces = { "x4D2816" "x4E2613" "x632F08" "x6E492E" "x716630" "x795132" "x7E3512" "x8B340A" "xA88A2D" "xAFB06F" "xB06F7A" "xB84912" "xBA5532" "xCE8B49" "xCEB487" "xD21E3B" "xD78861" "xD8772E" "xE4C157" }
+}
+
+STATE_DOLLO = {
+    id = 781
+    provinces = { "x453502" "x4A1A26" "x512631" "x794728" "x7A3308" "x7C5A3C" "x8E1232" "x8F5A2B" "xCC6B14" "xD57D48" "xEDE49A" "xEFB694" }
+}
+
+STATE_MEOWTEKEL = {
+    id = 782
+    provinces = { "x150810" "x17020F" "x1D1315" "x2A0B1E" "x451131" "x48062E" "x972D48" "xB87C8C" "xDE3460" }
+}
+
 STATE_SOMNAMBULA = {
     id = 733
     provinces = { "x8B2964" "x924B15" "xA91265" "xBB81A1" "xEC61AD" }
