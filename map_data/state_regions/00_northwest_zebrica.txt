@@ -118,6 +118,31 @@ STATE_MEOWTEKEL = {
     provinces = { "x150810" "x17020F" "x1D1315" "x2A0B1E" "x451131" "x48062E" "x972D48" "xB87C8C" "xDE3460" }
 }
 
+STATE_CATORAHE = {
+    id = 779
+    provinces = { "x360726" "x3C2735" "x3E151F" "x3F0F1B" "x43A59D" "x462616" "x533418" "x542F39" "x543349" "x600B43" "x69402C" "x726E4A" "x733344" "x740B28" "x81472A" "x9A0A69" "xA08063" "xA5520E" "xA76073" "xA9707F" "xC59D7A" "xC5B73F" "xC92651" "xCC8B6B" "xD16707" "xE5B9C5" "xE76C30" }
+}
+
+STATE_MEOWUAK = {
+    id = 780
+    provinces = { "x69D382" "x7F8520" "x875977" "xC73093" "xC74D9D" "xDCE284" "xDD8EA6" "xE3DEBA" "xF24F81" }
+}
+
+STATE_JIRATI = {
+    id = 783
+    provinces = { "x330B19" "x351E24" "x450F22" "x461E2C" "x5C1F35" "x623E54" "x643A45" "x691027" "x692B41" "x6B082A" "x730E32" "x731435" "x9C4C68" "xA61548" "xC92A62" "xCB5A82" "xD3879B" "xEAD2A0" "xEFAF26" }
+}
+
+STATE_PURRSIA = {
+    id = 784
+    provinces = { "x0D4C3F" "x1B9076" "x23AD8F" "x30806E" "x324193" "x6C7BC9" }
+}
+
+STATE_Katkat = {
+    id = 1201
+    provinces = { "x341A21" "x8A616C" "xC94271" "xCF3F64" "xD16B9B" }
+}
+
 STATE_SOMNAMBULA = {
     id = 733
     provinces = { "x8B2964" "x924B15" "xA91265" "xBB81A1" "xEC61AD" }
