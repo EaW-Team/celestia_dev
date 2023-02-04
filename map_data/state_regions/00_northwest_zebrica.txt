@@ -138,7 +138,7 @@ STATE_PURRSIA = {
     provinces = { "x0D4C3F" "x1B9076" "x23AD8F" "x30806E" "x324193" "x6C7BC9" }
 }
 
-STATE_Katkat = {
+STATE_KATKAT = {
     id = 1201
     provinces = { "x341A21" "x8A616C" "xC94271" "xCF3F64" "xD16B9B" }
 }
