@@ -86,5 +86,61 @@ STATES = {
 		}
 		
 	}
+	
+	s:STATE_ZAUDENI = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x0C3516" "x225D31" "x254716" "x27813E" "x285115" "x285F0F" "x30C355" "x438B22" "x549137" "x564E2B" "x5B858A" "x6ED588" "x7F500A" "x8A5A13" "xD9846E" "xDF9D3A" "xF2AA3E" "xFAC575" }
+		}
+		
+	}
+	
+	s:STATE_WAZAD = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x132D07" "x1F4A0C" "x3A8021" "x3B6F23" "x40662E" "x508438" "x5C9227" "x6AA450" }
+		}
+		
+	}
+	
+	s:STATE_TIMBUCKTU = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x433807" "x53340B" "x883C06" "x915F1C" "x9E4610" "xA0623B" "xAC5619" "xBB89A4" "xD37838" "xED7F30" "xEE6510" "xEE8C4F" "xEF9758" "xEFB090" "xF4B080" }
+		}
+		
+	}
+	
+	s:STATE_ZODH = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x2B2405" "x431E07" "x5A3118" "x77630F" "x8A7B38" "x9E850F" "xBCA128" "xC0541F" "xCEC084" "xDAC879" "xDC8F58" "xE37322" "xE3C326" "xE56A12" "xEBCB41" "xFFE2B5" }
+		}
+		
+	}
+	
+	s:STATE_BAGHZENA = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x55250D" "x7B3D16" "x8A240B" "x996E1B" "xA4552D" "xAC7409" "xB24712" "xB49884" "xBD4A11" "xC2A623" "xC77019" "xCD8958" "xCF9E85" "xD45434" "xD45E23" "xD56119" "xD59418" "xE3AE47" "xE3DAAF" "xEB9266" "xEF7D43" }
+		}
+		
+	}
+	
+	s:STATE_MARESHI = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x4E2907" "x503711" "x7CA9AF" "x820948" "x875426" "x8B4F18" "x8E6642" "x9ED956" "xAB32BD" "xB0631E" "xC4E59B" "xC9CDA4" "xD27827" "xD4D9A8" "xDB8C44" "xDBE67B" "xE6AE7B" }
+		}
+		
+	}
+	
+	s:STATE_ZIFE = {
+		create_state = {
+			country = c:MAZ
+    			owned_provinces = { "x4E5B16" "x5B6B4B" "x699112" "x70BE53" "x7D7131" "x814915" "x85A268" "x85C843" "x8CA02F" "x8DC15A" "x96B50E" "xABE372" "xB58151" "xB6CD51" }
+		}
+		
+	}
 
 }
