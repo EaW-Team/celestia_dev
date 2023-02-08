@@ -103,3 +103,39 @@ STATE_ZIFE = {
     provinces = { "x4E5B16" "x5B6B4B" "x699112" "x70BE53" "x7D7131" "x814915" "x85A268" "x85C843" "x8CA02F" "x8DC15A" "x96B50E" "xABE372" "xB58151" "xB6CD51" }
 }
 
+STATE_AORANDA = {
+    id = 949
+    provinces = { "x13A31D" "x188D09" "x4ACC54" "x4CEB58" "x527F55" "x5FFF6B" "x6002F4" "x67C8B9" "x6CBF72" "x7AC87F" "x9EE6A3" }
+}
+
+STATE_BONOMANE = {
+    id = 963
+    provinces = { "x106015" "x47AA0B" "x4F842F" "x5FA224" "x6219F4" "x6EA72B" "x74D43A" "x759462" "x7AB059" "x8CD95D" "xA5E76B" "xB4F78B" }
+}
+
+STATE_UGABI = {
+    id = 964
+    provinces = { "x599C51" "x61AC61" "x698367" "x80CA71" "x8AB082" "xA2C186" "xAAC7CB" }
+}
+
+STATE_RUGUZU = {
+    id = 967
+    provinces = { "x21A41B" "x462883" "x87EB73" "x8FCF8C" "xA3C191" "xABE588" }
+}
+
+STATE_NKORE = {
+    id = 966
+    provinces = { "x137E40" "x2BA03F" "x3BE73B" "x6B946B" "x6BB06B" "x99D678" }
+}
+
+STATE_KARGAWEZE = {
+    id = 965
+    provinces = { "x3BC776" "x43E69F" "x4ADAB7" "x51956D" "x63EFED" "x6765B9" "xB3CCB0" }
+}
+
+STATE_KOTOZO = {
+    id = 970
+    provinces = { "x0F6B16" "x18471C" "x1AAC25" "x2B531B" "x2C3715" "x48BC50" "x5AA23B" "x5B17EC" "x626E48" "x668658" "x67C7B9" "x67D1B9" "x87A34A" "xA7EDAD" }
+}
+
+
