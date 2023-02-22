@@ -31,4 +31,68 @@ STATES = {
 		add_homeland = Centaur
 	}
 	
+	s:STATE_ORTA_YAYLA = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x14A418" "x5D9F66" "x6AD376" "x6AD981" "x6DC556" "x84A53C" "x8AB985" "x91A860" "xA9EE14" "xACE6B8" "xAFD45E" "xB7C795" "xC4EB70" "xC5C182" "xC6D89E" "xD0EE8F" "xEEE114" }
+		}
+		add_homeland = Centaur
+	}
+	
+	s:STATE_NURAYIYE = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x115613" "x2D6513" "x2FD35A" "x3ECD2F" "x4FC36D" "x50A43F" "x5F946D" "x79D168" "x8CDCA1" "x97F76C" "xB1D16C" "xC5ED70" "xC6DD93" }
+		}
+		add_homeland = Centaur
+	}
+	
+	s:STATE_DOGU_KIYISI = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x0A7BA0" "x2F823D" "x3BD081" "x5E9FA6" "x5ED171" "x65C452" "x94BE8C" "xAACB9B" }
+		}
+		add_homeland = Centaur
+	}
+	
+	s:STATE_CENUB_TEPELERI = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x071B2D" "x313CB2" "x31B7A3" "x348AC6" "x34C6D0" "x4B5086" "x5BBA24" "x5BC9A6" "x85901D" "x859F9F" "x85AE22" "x9EB4A8" "xAF841B" "xE0C6A2" "xEC696A" }
+		}
+		add_homeland = Centaur
+	}
+	
+	s:STATE_DOGU_YAYLA = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x076996" "x14A257" "x1E7D37" "x53A67A" "x5B8D9C" "x8818B3" "x8AC6A6" "x8FC4A8" "x94A89E" "x9EEAB2" "xB266C0" }
+		}
+		add_homeland = Centaur
+	}
+	
+	s:STATE_SIGINAK = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x1CA934" "x3C6C09" "x3EC741" "x5D9027" "x62A01F" "x698364" "x7EDE80" "xB4CDAF" }
+		}
+		add_homeland = Centaur
+	}
+	
+	s:STATE_KUZEY_KIYISI = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x136E14" "x18951A" "x19901C" "x213D15" "x365937" "x3D6F3E" "x468F23" "x5A9F5B" "x60BB61" "x629B63" }
+		}
+		add_homeland = Centaur
+	}
+	
+	s:STATE_DÖRTKÖPRÜ = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x082708" "x0F6311" "x129E1C" "x193A1A" "x3F7342" "x41B349" "x5AA25C" "x68B226" "x6EBA4A" "x709E66" "x71BB76" "x8EC161" "x97BA4C" "xA3CBA4" }
+		}
+		add_homeland = Centaur
+	}
+	
 }
