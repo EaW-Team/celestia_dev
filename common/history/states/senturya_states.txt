@@ -1,0 +1,34 @@
+STATES = {
+    s:STATE_BIRINCI_TOPRAK = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x23762E" "x2A641A" "x30AC41" "x34673B" "x4C8750" "x4E8221" "x4F6128" "x527538" "x5F7329" "x67891E" "x7C943B" "x88A044" "x89B95E" "x98B754" "xA1C785" "xA6C455" "xA8CC46" "xABEA73" "xAFC480" "xBED7A8" "xC9D5A7" "xCBF277" "xD7E7B5" }
+		}
+		add_homeland = Centaur
+	}
+	
+	s:STATE_ECAIB_MESE = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x077819" "x07A2C3" "x0C7923" "x193712" "x1C712E" "x1FA039" "x1FA07A" "x22622F" "x243F1E" "x266F36" "x29561F" "x2EAD70" "x312D30" "x314B35" "x315AB7" "x3C6F31" "x3E422B" "x476F4F" "x4B9059" "x4F8543" "x52AA65" "x59874F" "x5B30B0" "x5B3F33" "x5B5D38" "x5B7B3D" "x5BB747" "x5BC6C9" "x5CB56F" "x5D7D56" "x5ED277" "x5FC474" "x618E57" "x6CCC80" "x6D9364" "x7ACC68" "x856F3B" "x857EBD" "x858D40" "x85BAC7" "x8BC197" "x95DBA4" "xAF9F43" "xB6E0BE" }
+		}
+		add_homeland = Centaur
+	}
+	
+	s:STATE_QERBI_TEPELIKLER = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x24382F" "x299762" "x376D53" "x3D9B50" "x42A129" "x43883D" "x46312A" "x489F30" "x4FB865" "x509323" "x50CE59" "x517547" "x56C96D" "x5A8556" "x5C804E" "x5D2F0D" "x689F85" "x71C99E" "x75B17A" "x76D16C" "x854C2E" "x86C980" "x8D5932" "x8EE19F" "x90BF84" "x92BF8E" "x9A7D25" "xA5D9A0" "xC0743D" "xC35F29" "xCC9A75" }
+		}
+		add_homeland = Centaur
+	}
+	
+	s:STATE_GIZLI_ADALAR = {
+		create_state = {
+			country = c:CNT
+    			owned_provinces = { "x14310D" "x184C0D" "x1D620E" "x4C692D" "x6B9263" "x808E46" "x8BC74B" "x8CA721" "x929681" "x9BAF49" "xB2D42B" "xB3C179" "xC2D66C" "xCCE761" "xDBA57D" }
+		}
+		add_homeland = Centaur
+	}
+	
+}
