@@ -1,0 +1,9 @@
+﻿STATE_SRI_CERVIDAE = {
+    id = 726
+    provinces = { "x0B3635" "x0F4C6E" "x123E0F" "x1A5857" "x279F57" "x28678B" "x305A71" "x33B8AD" "x427473" "x798CED" "x7CCCCB" }
+}
+
+STATE_MATADEERA = {
+    id = 727
+    provinces = { "x117438" "x177A72" "x22B536" "x3A9046" "x75CC81" "x84B089" }
+}

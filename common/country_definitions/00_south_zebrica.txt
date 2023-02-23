@@ -17,5 +17,5 @@ GAR = { # Gargiloya
 	tier = kingdom
 	
 	capital = STATE_BIRINCI_TOPRAK
-	cultures = { centaur }
+	cultures = { gargoyle }
 }
