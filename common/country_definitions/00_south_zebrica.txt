@@ -8,3 +8,14 @@ CNT = { # Senturya
 	capital = STATE_BIRINCI_TOPRAK
 	cultures = { centaur }
 }
+
+GAR = { # Gargiloya
+	color = { 132 132 130 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_BIRINCI_TOPRAK
+	cultures = { centaur }
+}
