@@ -28,5 +28,16 @@ SAG = { # Stagataka
 	tier = kingdom
 	
 	capital = STATE_STAGATAKA
-	cultures = { Stagatakan }
+	cultures = { stagatakan }
+}
+
+HIN = { # Doelhi
+	color = { 255 119 119 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_DOELHI
+	cultures = { doelhian }
 }
