@@ -142,4 +142,28 @@ STATES = {
 		}
 		add_homeland = doelhian
 	}
+	
+	s:STATE_HART = {
+		create_state = {
+			country = c:HAT
+    			owned_provinces = { "x14A62D" "x1B7129" "x1F9734" "x22652E" "x318619" "x385430" "x3D8249" "x46085D" "x469130" "x4CDC23" "x57C937" "x5BB542" "x5E8360" "x6BB66E" "x701E56" "x73E353" "x75D786" "x7E0F48" "x80E863" "xA6D89B" "xB14771" "xB7DCAC" "xC3711A" }
+		}
+		add_homeland = doelhian
+	}
+	
+	s:STATE_DEERWAR = {
+		create_state = {
+			country = c:DEW
+    			owned_provinces = { "x127133" "x21A90F" "x21C13C" "x29731F" "x2F7246" "x396641" "x3B091D" "x4BA63E" "x57C049" "x5ADA49" "x630E44" "x6CA940" "x6CC48B" "x7DC234" "x7E1756" "x89D37F" "x8F3784" "x8FE184" "x99C966" "x9DD21A" "x9EE994" "xA1E359" "xA3E09B" "xB4EDA4" "xB5DC73" "xB6DF4E" "xC8DD92" "xD84BC6" }
+		}
+		add_homeland = doelhian
+	}
+	
+	s:STATE_ANTLAHORE = {
+		create_state = {
+			country = c:ANH
+    			owned_provinces = { "x12471B" "x125A1F" "x235D2D" "x268235" "x296633" "x2A482F" "x2F0C1F" "x378544" "x47BA5B" "x54112C" "x610B3A" "x702140" "x792230" "x801563" "x822D59" "xA75865" "xB3E0A6" "xC22564" "xC75F71" "xC77194" "xCE62AC" }
+		}
+		add_homeland = doelhian
+	}
 }
