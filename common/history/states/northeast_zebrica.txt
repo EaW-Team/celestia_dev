@@ -14,4 +14,76 @@ STATES = {
 		}
 		add_homeland = Stagpalese
 	}
+	
+	s:STATE_FRASKAL = {
+		create_state = {
+			country = c:CTL
+    			owned_provinces = { "x157222" "x163D0D" "x1E6F29" "x28B43A" "x30B551" "x314D2A" "x36CF4A" "x38BA49" "x3D9648" "x43681D" "x44E09C" "x477F4E" "x48CE5A" "x56D367" "x5F8C54" "x639E36" "x6AB41E" "x74E383" "x74F585" "x81B24E" "x95E5A0" "xB6DD98" "xCDECAD" }
+		}
+		add_homeland = chitali
+	}
+	
+	s:STATE_MAHORNA = {
+		create_state = {
+			country = c:CTL
+    			owned_provinces = { "x1E8141" "x33563F" "x40B85E" "x4BA069" "x527F62" "x55B778" "x77A075" "x884F11" "xDBB49B" "xDD8C59" "xE68E58" "xE8B08E" "xEB752B" }
+		}
+		add_homeland = chitali
+	}
+	
+	s:STATE_HAARIHUS = {
+		create_state = {
+			country = c:CTL
+    			owned_provinces = { "x12882F" "x164B20" "x1BB040" "x3B5323" "x44BE62" "x4E8826" "x659237" "x85C644" "x88531B" "xAE5A26" "xB15319" "xC6741E" "xDC8629" }
+		}
+		add_homeland = chitali
+	}
+	
+	s:STATE_DITAR = {
+		create_state = {
+			country = c:CTL
+    			owned_provinces = { "x325B28" "x45663D" "x497120" "x497826" "x588D23" "x599A17" "x609629" "x649059" "x6FB528" "x7BAA4B" "x8DEF42" "x94CF59" "x96B676" "x98D659" "xA2DD65" "xA3C681" "xA3DB79" "xB8DF91" }
+		}
+		add_homeland = chitali
+	}
+	
+	s:STATE_DEHLER = {
+		create_state = {
+			country = c:CTL
+    			owned_provinces = { "x0D6912" "x0F3611" "x104513" "x12377B" "x127112" "x155513" "x182D53" "x1B4CA9" "x1EB825" "x204329" "x279827" "x294B8B" "x33864C" "x36923A" "x3ACA66" "x3C6E3A" "x5684DA" "x5F82C4" "x69BA2C" "x6F9E4E" "x78A385" "x8894AC" "x88D49F" "x8CB786" "xA0D398" }
+		}
+		add_homeland = chitali
+	}
+	
+	s:STATE_OSTKRANBI = {
+		create_state = {
+			country = c:CTL
+    			owned_provinces = { "x134928" "x1E6D3C" "x1F6131" "x227A1F" "x2B4833" "x2BDB48" "x30883F" "x378745" "x3D8057" "x3FA850" "x49B773" "x55BA46" "x5CA051" "x5CB072" "x64AB58" "x65DC79" "x69CA5A" "x6BAA3E" "x7AB771" "x7DC16C" "x7DCC71" "x7ED341" "x8AEBA7" "x8CC85E" "x97EB8A" "x98D46E" "x9EDFB1" "xA0D738" "xA0EB6B" "xB3D27A" "xB9ED57" "xBBE59E" }
+		}
+		add_homeland = chitali
+	}
+	
+	s:STATE_MERKAANAN_FORESTS = {
+		create_state = {
+			country = c:CTL
+    			owned_provinces = { "x031D03" "x081008" "x093622" "x0B5A36" "x0C2A0C" "x0C610C" "x0F340F" "x114511" "x119242" "x143124" "x15603E" "x178244" "x1A441A" "x1C7C50" "x1D9D52" "x1F6D1F" "x1FA368" "x244A90" "x24A34B" "x274437" "x29684C" "x2C4B3E" "x33B533" "x359168" "x36B02B" "x3FB470" "x45BA85" "x46D672" "x55A640" "x55B13E" "x5C974C" "x63B484" "x6CE64D" "x758E6F" "x84E86B" "x85DD6D" "x95BB5F" "x9BE633" "xAAD09F" }
+		}
+		add_homeland = chitali
+	}
+	
+	s:STATE_KANELIMPRA = {
+		create_state = {
+			country = c:CTL
+    			owned_provinces = { "x175A17" "x25A340" "x398E32" "x518C33" "x539E64" "x6CAC4C" "x72A957" "x73D76A" "x88DC5D" "x95D475" "x9BF861" "xA7DC86" "xB2D484" "xB8F7B2" "xBAE7A4" }
+		}
+		add_homeland = chitali
+	}
+	
+	s:STATE_GONDEERANA = {
+		create_state = {
+			country = c:CTL
+    			owned_provinces = { "x12CE3B" "x16AB16" "x183C18" "x2C592C" "x2E9D42" "x377843" "x378447" "x3C803F" "x448B59" "x44E968" "x4A6232" "x51AF65" "x65A077" "x69BC7B" "x6BDA83" "x6CB079" "x71B72A" "x81DB91" "x98D4A5" }
+		}
+		add_homeland = chitali
+	}
 }
