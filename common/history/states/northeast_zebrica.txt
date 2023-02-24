@@ -1,18 +1,18 @@
 STATES = {
     s:STATE_SRI_CERVIDAE = {
 		create_state = {
-			country = c:SPL
+			country = c:HRV
     			owned_provinces = { "x0B3635" "x0F4C6E" "x123E0F" "x1A5857" "x279F57" "x28678B" "x305A71" "x33B8AD" "x427473" "x798CED" "x7CCCCB" }
 		}
-		add_homeland = Stagpalese
+		add_homeland = hirvimaaian
 	}
 	
 	s:STATE_MATADEERA = {
 		create_state = {
-			country = c:SPL
+			country = c:HRV
     			owned_provinces = { "x117438" "x177A72" "x22B536" "x3A9046" "x75CC81" "x84B089" }
 		}
-		add_homeland = Stagpalese
+		add_homeland = hirvimaaian
 	}
 	
 	s:STATE_FRASKAL = {

@@ -1,12 +1,12 @@
-SPL = { # Stagpal
-	color = { 137 183 124 }
+HRV = { # Uusi Hirvimaa
+	color = { 255 204 255 }
 	
 	country_type = recognized
 	
 	tier = principality
 	
 	capital = STATE_SRI_CERVIDAE
-	cultures = { stagpalese }
+	cultures = { hirvimaaian }
 }
 
 CTL = { # Chital
