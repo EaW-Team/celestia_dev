@@ -109,11 +109,17 @@ STATE_CASABRONCO = {
 STATE_MAREOUSSE = {
     id = 988
     provinces = { "x2E160A" "x351C10" "x6E3417" "x938B2B" "xB19385" "xC1A082" "xC9BA0D" "xCA8563" "xCD5B23" "xD76025" "xDC926E" "xEFAE75" "xFD7F41" }
+	
+	arable_land = 22
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
 }
 
 STATE_BUCKZERTE = {
     id = 989
     provinces = { "x6C431F" "xA18D7B" "xA75B18" "xDA834A" "xEFB28A" }
+	
+	arable_land = 18
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
 }
 
 STATE_BEIHOOF = {

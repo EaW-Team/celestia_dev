@@ -55,6 +55,22 @@ POPS = {
 			}
 		}
 	}
+	s:STATE_BUCKZERTE = {
+		region_state:DOF = {
+			create_pop = {
+				culture = ahfar
+				size = 68420
+			}
+		}
+	}
+	s:STATE_MAREOUSSE = {
+		region_state:DOF = {
+			create_pop = {
+				culture = alameez
+				size = 177145
+			}
+		}
+	}
 
 
 }
