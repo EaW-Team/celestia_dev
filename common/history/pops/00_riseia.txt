@@ -1,0 +1,60 @@
+POPS = {
+	s:STATE_FARASRAH = {
+		region_state:YAM = {
+			create_pop = {
+				culture = yemani
+				size = 571699
+			}
+		}
+	}
+	s:STATE_AHOOVEZ = {
+		region_state:YAM = {
+			create_pop = {
+				culture = yemani
+				size = 212368
+			}
+		}
+	}
+	s:STATE_HOOFEIDA = {
+		region_state:YAM = {
+			create_pop = {
+				culture = yemani
+				size = 265320
+			}
+		}
+	}
+	s:STATE_MANE'A = {
+		region_state:YAM = {
+			create_pop = {
+				culture = yemani
+				size = 719400
+			}
+		}
+	}
+	s:STATE_TAILZ = {
+		region_state:YAM = {
+			create_pop = {
+				culture = yemani
+				size = 93245
+			}
+		}
+	}
+	s:STATE_MAREKALLA = {
+		region_state:YAM = {
+			create_pop = {
+				culture = yemani
+				size = 518681
+			}
+		}
+	}
+	s:STATE_AL-SHAYHR = {
+		region_state:YAM = {
+			create_pop = {
+				culture = yemani
+				size = 228030
+			}
+		}
+	}
+
+
+}

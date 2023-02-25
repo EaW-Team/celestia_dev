@@ -1,36 +1,64 @@
 ﻿STATE_FARASRAH = {
+    subsistence_building = "building_subsistence_farms"
     id = 788
     provinces = { "x887527" "xB1471A" "xC0AD65" }
+	
+	arable_land = 35
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
 STATE_AHOOVEZ = {
+    subsistence_building = "building_subsistence_farms"
     id = 789
     provinces = { "x5A3220" "x822404" "xB0360E" "xD4987E" "xD7B67B" "xE1AA4A" "xE3683F" "xE58753" "xE6AE9B" "xE6CB9E" "xEFCC3A" "xF36E28" "xF4BD5D" "xF89267" }
+	
+	arable_land = 14
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
 STATE_HOOFEIDA = {
+    subsistence_building = "building_subsistence_farms"
     id = 954
     provinces = { "x3F2517" "x533F34" "x623014" "x7A3816" "x855B44" "x8D5131" "xB08F7D" "xB64F19" "xBA7956" "xDD7842" "xE8AF90" "xF19D71" }
+	
+	arable_land = 26
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
 STATE_MANE'A = {
+    subsistence_building = "building_subsistence_farms"
     id = 956
     provinces = { "x3F0C1F" "x481F05" "x5D2A11" "x873912" "xB55C25" }
+	
+	arable_land = 42
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
 STATE_TAILZ = {
+    subsistence_building = "building_subsistence_pasture"
     id = 955
     provinces = { "x492002" "x55462B" "x5F3C24" "x683E27" "x693011" "x6B3519" "x7D2243" "x8C6C33" "xA06D52" "xA6826E" "xA85418" "xAC450C" "xB17555" "xC49036" "xC89377" "xF29666" }
+	
+	arable_land = 7
+    arable_resources = { "bg_livestock_ranches" }
 }
 
 STATE_MAREKALLA = {
+    subsistence_building = "building_subsistence_farms"
     id = 957
     provinces = { "x2A180B" "x553117" "x6E3A0C" "x7D563A" "x87751C" "x9C5428" "xA67313" "xAA5811" "xB27B1B" "xB89E71" "xBE8D38" "xD3AC68" "xD4972F" "xDA9C27" "xDC6917" "xE2A376" "xE86B1E" "xECD1A3" "xF78B3E" }
+	
+	arable_land = 31
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
 STATE_AL-SHAYHR = {
+    subsistence_building = "building_subsistence_pasture"
     id = 958
     provinces = { "x381B0C" "x6D4631" "x753A1A" "x7B320C" "x855135" "x9D4211" "xB16343" "xBE51B2" "xE73A79" "xE99D77" }
+	
+	arable_land = 15
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
 STATE_MARESTA = {
