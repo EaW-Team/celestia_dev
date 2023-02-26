@@ -30,3 +30,91 @@ UEI = { # uzerasi
 	capital = STATE_MZIZIMA
 	cultures = { uzerasian }
 }
+
+TEC = { # Thundercliffs
+	color = { 133 122 91 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_THUNDER_CLIFFS
+	cultures = { yeti }
+}
+
+SRE = { # Stormseye
+	color = { 144 100 91 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_EYE_OF_THE_STORM
+	cultures = { yeti }
+}
+
+MAC = { # Maelcoast
+	color = { 136 55 200 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_MAELSTROM_COAST
+	cultures = { yeti }
+}
+
+TPE = { # Tempshore
+	color = { 122 66 77 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_TEMPEST_SHORES
+	cultures = { yeti }
+}
+
+WDR = { # Windborn
+	color = { 112 23 91 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_WINDBORN
+	cultures = { yeti }
+}
+
+KRE = { # Karen
+	color = { 35 232 141 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_KAREN
+	cultures = { yeti }
+}
+
+HSM = { # Highstorm
+	color = { 22 140 55 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_HIGHSTORMS
+	cultures = { yeti }
+}
+
+RND = { # Rainguard
+	color = { 200 80 171 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_RAINGUARD
+	cultures = { yeti }
+}

@@ -31,6 +31,72 @@ VES = { # Vesalipolis
 	cultures = { changelings }
 }
 
+VAK = { # Vraks
+	color = { 88 67 22 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_VRAKS
+	cultures = { changelings }
+}
+
+LYC = { # Lyctida
+	color = { 78 22 122 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_LYCTIDA
+	cultures = { changelings }
+}
+
+NEV = { # Neverwarm
+	color = { 65 21 190 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_NEVERWARM_POINT
+	cultures = { changelings }
+}
+
+DIT = { # Ditrysium
+	color = { 65 21 190 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_DITRYSIUM
+	cultures = { changelings }
+}
+
+GOR = { # Gorak
+	color = { 200 41 88 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_GORAK
+	cultures = { changelings }
+}
+
+SOR = { # Soryth
+	color = { 88 88 88 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_SORYTH
+	cultures = { changelings }
+}
+
 CCS = { # Crucis
 	color = { 60 64 86 }
 	

@@ -66,4 +66,76 @@ STATES = {
 		}
 	}
 	
+	s:STATE_THUNDER_CLIFFS = {
+		create_state = {
+			country = c:TEC
+    			owned_provinces = { "x1202E8" "x216717" "x21C46E" "x2F19F0" "x33A167" "x3919F0" "x3E6315" "x3EDD42" "x3EDD89" "x4F8614" "x51E597" "x599351" "x6C2E15" "x83E1AF" "xA8E7C5" "xBC6130" "xD18A63" "xDEC5B8" "xDFDAD8" "xE0B095" "xE99C71" }
+				add_homeland = yeti
+		}
+	}
+	
+	s:STATE_EYE_OF_THE_STORM = {
+		create_state = {
+			country = c:SRE
+    			owned_provinces = { "x562F12" "x918A2E" "xA45F2D" "xA49C2B" "xC4BB31" }
+				add_homeland = yeti
+		}
+	}
+	
+	s:STATE_THUNDER_POINT = {
+		create_state = {
+			country = c:SRE
+    			owned_provinces = { "x1D7821" "x36963B" "x4CA350" "x63C468" "x6D6930" }
+				add_homeland = yeti
+		}
+	}
+	
+	s:STATE_MAELSTROM_COAST = {
+		create_state = {
+			country = c:MAC
+    			owned_provinces = { "x0D740D" "x148E1A" "x474315" "x4A8A2A" "x58A61B" "x67DB6C" "x6FE074" "x77AC5D" "x7B670E" "xAA6F45" "xC7E890" "xC7FC90" "xF2893E" }
+				add_homeland = yeti
+		}
+	}
+	
+	s:STATE_TEMPEST_SHORES = {
+		create_state = {
+			country = c:TPE
+    			owned_provinces = { "x115A15" "x188E1E" "x1C6D20" "x399D3E" "x407518" "x568830" "x72401D" "x77A257" "x859F71" "x88DA49" }
+				add_homeland = yeti
+		}
+	}
+	
+	s:STATE_WINDBORN = {
+		create_state = {
+			country = c:WDR
+    			owned_provinces = { "x0B542A" "x16743E" "x1702E8" "x17088A" "x19E8B0" "x2BD215" "x2D19E8" "x301BF0" "x31C97B" "x3619F8" "x386B0B" "x389D2A" "x3B1BF4" "x3B8B3D" "x3D1BE8" "x3F7F36" "x4419F4" "x5B9686" "x64DEA0" "x7BFF69" "xA9DB7D" }
+				add_homeland = yeti
+		}
+	}
+	
+	s:STATE_KAREN = {
+		create_state = {
+			country = c:KRE
+    			owned_provinces = { "x1502F4" "x196450" "x227A24" "x2FAF32" "x32BC1F" "x3B7C19" "x3E1BEC" "x491BF0" "x509829" "x59C56D" "x74AA65" "x74B651" "x91C992" "x9DCA85" "xAECF53" "xB4DB4A" "xCEE26F" "xD6E2B6" "xDEF0AE" "xE4AD77" "xEC733D" "xEF0520" }
+				add_homeland = yeti
+		}
+	}
+	
+	s:STATE_HIGHSTORMS = {
+		create_state = {
+			country = c:HSM
+    			owned_provinces = { "x0AA45A" "x0D452A" "x126428" "x127947" "x143726" "x16790E" "x18A03C" "x37A46F" "x42EE35" "x530923" "x600625" "x6B1B37" "x7B330C" "x86EB79" "x885314" "x8F3C0F" "x98E031" "xAC6109" "xAD440A" "xAD441B" "xAF1A4E" "xB58D5F" "xB83C0B" "xC2DEC0" "xD07E1E" "xD0EB86" "xDC733A" "xDF5D17" "xE06B3D" "xEF952B" "xF9D3A7" }
+				add_homeland = yeti
+		}
+	}
+	
+	s:STATE_RAINGUARD = {
+		create_state = {
+			country = c:RND
+    			owned_provinces = { "x032716" "x061F13" "x08301C" "x0E5207" "x103322" "x133825" "x1A2C23" "x1B5437" "x202F27" "x22D37E" "x264B39" "x2B0628" "x2F0B17" "x307D28" "x390922" "x42103E" "x422D40" "x4B2E38" "x4D0611" "x670D3C" "x701D68" "x70F2B3" "x742C38" "x7DA70B" "x821374" "x83DAB0" "x97426E" "x9FDC29" "xA01747" "xA1C63E" "xABD55B" "xAC2E5A" "xB217A3" "xB2D554" "xC11733" "xC16F4E" "xD11CBA" "xD5197A" "xE24C10" }
+				add_homeland = yeti
+		}
+	}
+	
 }

@@ -69,5 +69,82 @@ STATES = {
 			owned_provinces = { "x0009C8" "x03C9A5" "x03CFC3" "x547E15" "x5700C4" "x81C3A4" "x99F6F8" "xAC723E" "xC6E8CC" }
 		}
 	}
+	
+	s:STATE_VRAKS = {
+		create_state = {
+			country = c:VAK
+			owned_provinces = { "x00CC05" "x037241" "x0384A0" "x03A8C3" "x2A78B7" "x2AA53F" "x5766E2" "x7E4E54" "x816963" "x81B145" "xA80648" "xA84252" "xA8AEC0" }
+		}
+	}
+	
+	s:STATE_DIM_GARDEN = {
+		create_state = {
+			country = c:VAK
+			owned_provinces = { "x004291" "x00B141" "x0633D7" "x2A7299" "x7ED2A9" "xA83C34" "xB00CA7" }
+		}
+	}
+	
+	s:STATE_LYCTIDA = {
+		create_state = {
+			country = c:LYC
+			owned_provinces = { "x003032" "x00C928" "x066FE1" "x2ABA49" "x7E4B13" "x7E75BD" "x847B40" }
+		}
+	}
+	
+	s:STATE_SOULLESS_MOUNTAINS = {
+		create_state = {
+			country = c:LYC
+			owned_provinces = { "x2A7E3F" "x2F061C" "x31CCDA" "x33C385" "x543356" "x54BDC9" "x5B3601" "x5BB156" "x7EC04A" "x8321BD" "x83662C" "x854804" "xA8210C" "xA884E3" "xA8C3CA" }
+		}
+	}
+	
+	s:STATE_NEVERWARM_POINT = {
+		create_state = {
+			country = c:NEV
+			owned_provinces = { "x0003AA" "x075D87" "x544892" "x5AB7A6" "x5B9010" "x85B195" "xAD48CA" }
+		}
+	}
+	
+	s:STATE_DITRYSIUM = {
+		create_state = {
+			country = c:DIT
+			owned_provinces = { "x007E9B" "x043C5F" "x0721E1" "x07A814" "x0869CD" "x2A4512" "x2D93C6" "x5481BF" "x5B720B" "x7E1E8B" "x87C3CC" "xA84E93" "xAA9002" }
+		}
+	}
+	
+	s:STATE_CHANGELING_FJORDS = {
+		create_state = {
+			country = c:DIT
+			owned_provinces = { "x030946" "x03CC82" "x324EB2" "x326C4E" "x32C65D" "x5C6329" "x5C8D3D" "x81C0C7" "x82365E" "x8666A9" "x86CF3B" "x91EE28" "xAF30C0" "xAFABB1" "xB0D2BB" "xCA7C1B" }
+		}
+	}
+	
+	s:STATE_GORAK = {
+		create_state = {
+			country = c:GOR
+			owned_provinces = { "x00CEAE" "x0A1A28" "x159073" "x16CFE3" "x1800D6" "x3041AE" "x43DC3C" "x447863" "x56E460" "x574691" "x5B8A88" "x656BAC" "x7BC0F4" "x802A2E" "x858D09" "x89B790" "x8DA0AB" "x99554D" "xA05364" "xA3193D" "xA82793" "xB0CA9B" "xC577AB" "xC5AD8B" "xDBD6D4" "xE6FE78" "xEBB187" "xF13A5F" }
+		}
+	}
+	
+	s:STATE_WHITEHOOVES = {
+		create_state = {
+			country = c:GOR
+			owned_provinces = { "x007B10" "x0787C8" "x27EC04" "x282501" "x299113" "x48A021" "x4B2F9D" "x4CAFDE" "x546617" "x5D04E1" "x6B0667" "x6C17F7" "x6D84E3" "x780E76" "x78EA57" "x7C5C31" "x80AEC7" "x84B581" "x8DED3A" "x9FFE8B" "xA9D41B" "xAF4561" "xCBC26F" "xD8A503" "xE11E74" "xEFF87A" "xF11DD5" "xFDB636" }
+		}
+	}
+	
+	s:STATE_SORYTH = {
+		create_state = {
+			country = c:SOR
+			owned_provinces = { "x0DE68D" "x1352AC" "x18068D" "x1F98D0" "x32F121" "x4551F7" "x4ABDB2" "x56392E" "x5760E9" "x579924" "x57BBD8" "x5F2388" "x88110D" "x8EB27D" "x9C29A3" "xA3B642" "xA4AAD6" "xA5CC9B" "xABE74C" "xAE4218" "xB4CA42" "xBA1DC9" "xCD4AF2" "xE80DB1" "xF3D838" "xF9B67C" "xFAB48D" }
+		}
+	}
+	
+	s:STATE_NORTHERN_SADDENING_SHORE = {
+		create_state = {
+			country = c:SOR
+			owned_provinces = { "x139DE7" "x1B9F01" "x1E0564" "x1FDDBA" "x210AB8" "x228633" "x2441E1" "x2B4FFC" "x320326" "x326C21" "x3CE91F" "x4CAD51" "x4FD1AF" "x60C868" "x64EAE9" "x6D8B64" "x7276B1" "x7536A4" "x7C2859" "x803063" "x836065" "x873649" "x92E79B" "x9A0609" "x9C33A3" "x9C36CA" "xA438E0" "xA5E8DB" "xA77AE3" "xBABF6A" "xBC0930" "xD16761" "xDE95A6" "xE02516" "xE477A5" "xEB81C2" "xF51922" "xF7CCD2" "xF96CD3" "xFBC3EC" "xFE08BA" }
+		}
+	}
 
 }
