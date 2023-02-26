@@ -1,0 +1,73 @@
+STATES = {
+	s:STATE_GREAT_MARSH = {
+		create_state = {
+			country = c:SUS
+			owned_provinces = {"x03B49B" "x2C0C5D" "x2DCCBC" "x2E4B80" "x3084C1" "x4B8849" "x56241A" "x57813D" "x57AB1A" "x57CF3D" "x57D21A" "x582424" "x582701" "x8003DB" "x81009A" "x81AE9A" "x81C05E" "xAA065C" "xAA18BB" "xAB031B" "xABC3DE" "xABC6BB" "xAC42A2" "xAC5125"  }
+		}
+	}
+	
+	s:STATE_WILD_LANDS = {
+		create_state = {
+			country = c:SUS
+			owned_provinces = { "x0393B9" "x0572B4" "x059396" "x05C01E" "x2D8199" "x2DA5BC" "x2DC017" "x2F2AA8" "x2F7258" "x2FC39E" "x57875B" "x57939C" "x59C61F" "x80C959" "x81399A" "x814E3B" "x8184BD" "x81995E" "x81B1DB" "x8330A9" "x836CB3" "xAB9039" "xAB9FBB" "xAD21CA" "xAD6F34" }
+		}
+	}
+	
+	s:STATE_KALLSKOG = {
+		create_state = {
+			country = c:SUS
+			owned_provinces = { "x041E23" "x05AEBE" "x2DA899" "x2E3644" "x2E5726" "x2FB13F" "x5760C4" "x5839C4" "x584E01" "x585D83" "x592D29" "x825181" }
+		}
+	}
+	
+	s:STATE_SVARM = {
+		create_state = {
+			country = c:VAD
+			owned_provinces = { "xA89F3E" "xAB75DE" "xAB999D" "xAB9CDE" }
+		}
+	}
+	
+	s:STATE_WINDIGO_FOREST = {
+		create_state = {
+			country = c:VAD
+			owned_provinces = { "x047BDC" "x2AA81C" "x31B1B2" "x7EAE1D" "x815118" "x821B63" "xA872B6" "xB09061" }
+		}
+	}
+	
+	s:STATE_WHERE_HIVES_START = {
+		create_state = {
+			country = c:VAD
+			owned_provinces = { "x0342DC" "x0345B9" "x03543C" "x03785F" "x038ABE" "x2D455D" "x2D57BC" "x574E97" "x575D1A" "x577E60" "x5790BF" "xAB2D98" "xAB4239" "xAB51BB" "xAB78BB" }
+		}
+	}
+	
+	
+	s:STATE_VESALIPOLIS = {
+		create_state = {
+			country = c:VES
+			owned_provinces = { "x00184B" "x00392D" "x2A3CAD" "x546CB5" "x54751A" "x54A2A1" "x817881" "xA815CA" }
+		}
+	}
+	
+	s:STATE_GHOSTLY_SQUARE = {
+		create_state = {
+			country = c:CCS
+			owned_provinces = { "x2DBDA3" "x3B4F3F" "x5703A1" "x57C301" "x81C9C2" "x846CBD" "x84B74A" "xABCC43" }
+		}
+	}
+	
+	s:STATE_DEADLY_FOREST = {
+		create_state = {
+			country = c:CCS
+			owned_provinces = { "x2286B1" "x2D5D44" "x2DBAC6" "x2E0F44" "x819F81" "x81C681" "x823C45" "xABA202" "xABC625" "xBC6064" }
+		}
+	}
+	
+	s:STATE_KATEMARSH = {
+		create_state = {
+			country = c:CCS
+			owned_provinces = { "x0009C8" "x03C9A5" "x03CFC3" "x547E15" "x5700C4" "x81C3A4" "x99F6F8" "xAC723E" "xC6E8CC" }
+		}
+	}
+
+}

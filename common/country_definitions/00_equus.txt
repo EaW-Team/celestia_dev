@@ -1,0 +1,44 @@
+SUS = { # Sicarus
+	color = { 112 85 42 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_GREAT_MARSH
+	cultures = { changelings }
+}
+
+VAD = { # Volistad
+	color = { 123 56 83 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_SVARM
+	cultures = { changelings }
+}
+
+VES = { # Vesalipolis
+	color = { 60 64 86 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_VESALIPOLIS
+	cultures = { changelings }
+}
+
+CCS = { # Crucis
+	color = { 60 64 86 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_GHOSTLY_SQUARE
+	cultures = { changelings }
+}
+
