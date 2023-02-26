@@ -29,15 +29,17 @@ STATES = {
 	
 	s:STATE_ZANZIBUCK = {
 		create_state = {
-			country = c:MAZ
+			country = c:UEI
     			owned_provinces = { "x0D4B3A" "x2C7A64" "x439F85" "x487B21" "x7DE1C5" "xC7D190" }
+				add_homeland = uzerasian
 		}
 	}
 	
 	s:STATE_COMAREOS = {
 		create_state = {
-			country = c:MAZ
+			country = c:UEI
     			owned_provinces = { "x486B2D" "x6FAA43" "x80A919" "xA0D579" "xC7DE90" }
+				add_homeland = uzerasian
 		}
 	}
 	
@@ -50,8 +52,17 @@ STATES = {
 	
 	s:STATE_MZIZIMA = {
 		create_state = {
-			country = c:MAZ
+			country = c:UEI
     			owned_provinces = { "x297265" "x3019F4" "x311BF4" "x32BB62" "x34E573" "x3819EC" "x3CB575" "x4119E8" "x4EB873" "x52D580" "x5AC08C" "x5BE98D" "x609573" "x69ED98" "x82CE9D" "x85B89E" "x89F3AF" "x90F389" "xADFFCA" "xB5EBC8" "xCEFFDF" "xDAFFE7" }
+				add_homeland = uzerasian
+		}
+	}
+	
+	s:STATE_MZIZIMA = {
+		create_state = {
+			country = c:UEI
+    			owned_provinces = { "x0AE978" "x0D6538" "x0F884B" "x155936" "x15A55C" "x189C59" "x248453" "x28A163" "x2B19F4" "x2D8F5D" "x31B634" "x3219E8" "x35EB8F" "x3C19E8" "x3D9A6B" "x4219EC" "x43CF88" "x4619E8" "x4C1BE8" "x4E1BF0" "x4F1BF4" "x501BF8" "x6402F0" "x6EA589" "x72E3AA" "x87C9A7" "x8DDA8F" "xC2A951" "xEDD789" }
+				add_homeland = uzerasian
 		}
 	}
 	

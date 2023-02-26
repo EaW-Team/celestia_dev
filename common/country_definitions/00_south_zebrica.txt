@@ -19,3 +19,14 @@ GAR = { # Gargiloya
 	capital = STATE_BIRINCI_TOPRAK
 	cultures = { gargoyle }
 }
+
+UEI = { # uzerasi
+	color = { 121 136 251 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_MZIZIMA
+	cultures = { uzerasian }
+}
