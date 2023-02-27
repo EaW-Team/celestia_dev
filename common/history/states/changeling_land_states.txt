@@ -140,11 +140,61 @@ STATES = {
 		}
 	}
 	
+	s:STATE_JEM_HIGHLANDS = {
+		create_state = {
+			country = c:SOR
+			owned_provinces = { "x073000" "x0F2423" "x10A952" "x18217B" "x2B993F" "x2E5229" "x57B249" "x654A18" "x83361D" "x902B5A" "xAFCFD4" "xB14C02" "xB86E42" "xCD6DAA" "xD6AAF6" }
+		}
+	}
+	
 	s:STATE_NORTHERN_SADDENING_SHORE = {
 		create_state = {
 			country = c:SOR
 			owned_provinces = { "x139DE7" "x1B9F01" "x1E0564" "x1FDDBA" "x210AB8" "x228633" "x2441E1" "x2B4FFC" "x320326" "x326C21" "x3CE91F" "x4CAD51" "x4FD1AF" "x60C868" "x64EAE9" "x6D8B64" "x7276B1" "x7536A4" "x7C2859" "x803063" "x836065" "x873649" "x92E79B" "x9A0609" "x9C33A3" "x9C36CA" "xA438E0" "xA5E8DB" "xA77AE3" "xBABF6A" "xBC0930" "xD16761" "xDE95A6" "xE02516" "xE477A5" "xEB81C2" "xF51922" "xF7CCD2" "xF96CD3" "xFBC3EC" "xFE08BA" }
 		}
 	}
+	
+	s:STATE_SVARTFOREST = {
+		create_state = {
+			country = c:LKX
+			owned_provinces = { "x0706B9" "x076C0A" "x07AE32" "x080F28" "x21B3D9" "x228262" "x2A9F21" "x2FBADC" "x314203" "x38156E" "x3EB21D" "x48B868" "x513511" "x577224" "x5B0633" "x6B4541" "x7AAADA" "x85430F" "x85CC54" "x891FE7" "x8FAFAB" "x994A36" "x9F2E36" "xA77EBD" "xAE7EC0" "xAF1E61" "xC2D9D1" "xC4576E" "xCDB93C" "xDDA1D8" "xF9BAB5" "xFB9EA1" }
+		}
+	}
+	
+	s:STATE_TOTLES = {
+		create_state = {
+			country = c:LKX
+			owned_provinces = { "x036C23" "x31AE08" "x3239A8" "x32B499" "x349949" "x5A7B9C" "x5DC04C" "x865109" "xAB8120" "xAEBDA7" "xAF878E" "xB05489" }
+		}
+	}
+	
+	s:STATE_KLADBISCHE = {
+		create_state = {
+			country = c:LKX
+			owned_provinces = { "x059EBD" "x0A5700" "x0BF1EE" "x109E55" "x1A7CB7" "x1D3C44" "x20EFDC" "x2D22D1" "x316F8A" "x340EC0" "x3E3CD8" "x49AEB9" "x4D5289" "x517A85" "x53C36B" "x585E4A" "x5B1860" "x693AF6" "x6F286C" "x732BBC" "x7BDA36" "x82C82E" "x82D3F8" "x855786" "x871E31" "x9F1E97" "xB49059" "xC4F1E3" "xCDAFBA" "xD155AF" "xD3E041" "xE60D3E" }
+		}
+	}
+	
+	s:STATE_DEN = {
+		create_state = {
+			country = c:ANX
+			owned_provinces = { "x0366EB" "x128D5B" "x45F160" "x4978F5" "x65F380" "x84761B" "x929E94" "xB42087" "xC1071D" "xC55FE2" "xC6A63E" "xCBB1C6" }
+		}
+	}
+	
+	s:STATE_MAJOR_FOREST = {
+		create_state = {
+			country = c:ANX
+			owned_provinces = { "x068141" "x192D91" "x1A5D62" "x1E7F9F" "x2515CE" "x2B6B54" "x313380" "x3EDB4B" "x44CC32" "x49826C" "x4A1FAE" "x52290B" "x54AB9C" "x5827CE" "x5AB4C9" "x5B09DD" "x685658" "x6E08F3" "x6E352D" "x793F5D" "x81B422" "x850C5E" "x86608B" "xA98F14" "xABB7A2" "xB045D4" "xBAD83B" "xD406E8" "xDACF09" "xF98347" }
+		}
+	}
+	
+	s:STATE_HOORORND = {
+		create_state = {
+			country = c:HOO
+			owned_provinces = { "x06022F" "x297A78" "x3F509E" "x451511" "x58B41F" "x70B8B3" "x766430" "xAC24D0" "xE296B5" "xEE1C40" "xF4ED1C" "xFD306A" }
+		}
+	}
+	
 
 }
