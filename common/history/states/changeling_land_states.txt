@@ -196,5 +196,26 @@ STATES = {
 		}
 	}
 	
+	s:STATE_KILLING_SWAMPS = {
+		create_state = {
+			country = c:PNE
+			owned_provinces = { "x00150A" "x0045D2" "x03A582" "x0454A5" "x2A0C49" "x2A188A" "x2A6935" "x2AA262" "x541B0B" "x543C51" "x54785B" "x54A5E2" "x7E789A" "x7E7BDB" "x7EA863" "x7EC604" "xAB66C5" "xAB6CE3" "xAC1BA2" }
+		}
+	}
+	
+	s:STATE_THEY_HEAR = {
+		create_state = {
+			country = c:PNE
+			owned_provinces = { "x009FE1" "x033600" "x045782" "x2D6021" "x3103B2" "x5763A1" "x584847" "x7E3FD1" "x84C6CC" }
+		}
+	}
+	
+	s:STATE_TAINAHOLM = {
+		create_state = {
+			country = c:PNE
+			owned_provinces = { "x006F19" "x543633" "x5452D2" "x54CF29" "x7E8163" "xA8002A" "xA81289" "xA86C98" "xA8783E" }
+		}
+	}
+	
 
 }
