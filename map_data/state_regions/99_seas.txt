@@ -8,7 +8,7 @@ STATE_WORLD_OCEAN_EAST = {
 }
 STATE_WORLD_OCEAN_WEST = {
     id = 3002
-    provinces = { "x2D4F87" }
+    provinces = {}
 }
 STATE_MEDIOLANO = {
     id = 3003

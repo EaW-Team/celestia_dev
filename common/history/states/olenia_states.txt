@@ -177,14 +177,126 @@ STATES = {
 	s:STATE_BORTBYTING_HOGLAND = {
 		create_state = {
 			country = c:OLE
-    			owned_provinces = {  }
+    			owned_provinces = { "x007BBE" "x024BA0" "x0321C3" "x04BDA0" "x318D8F" "x324E49" "x5B151F" "x5BAE15" "x830F5E" "x83429F" "x844213" "x85189F" "x8536A4" "x8554A9" "x85CF9A" "xAD243E" "xAF5A07" "xAFB416" "xAFD21B" "xB121B1" "xB133DE" }
 		}
 	}
 	
-	s:STATE_BORTBYTING_HOGLAND = {
+	s:STATE_GREEN_VALLEY = {
 		create_state = {
 			country = c:OLE
-    			owned_provinces = { "x007BBE" "x024BA0" "x0321C3" "x04BDA0" "x318D8F" "x324E49" "x5B151F" "x5BAE15" "x830F5E" "x83429F" "x844213" "x85189F" "x8536A4" "x8554A9" "x85CF9A" "xAD243E" "xAF5A07" "xAFB416" "xAFD21B" "xB121B1" "xB133DE" }
+    			owned_provinces = { "x06841E" "x2DCF03" "x5A2D33" "x5AC629" "x6B43E3" "x811881" "xAE819D" }
+		}
+	}
+	
+	s:STATE_WINTERFELL = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x04B4A5" "x2D2103" "x2D2444" "x2E128A" "x2E7E5D" "x2EB726" "x58A229" "x8042C2" "xAB1B02" "xAE3334" }
+		}
+	}
+	
+	s:STATE_TRÄDVÄGG = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x04CF00" "x05244B" "x05BD41" "x07009B" "x2E48DA" "x2F392B" "x5651A1" "x573C01" "x593CAB" "x59B4BF" "x805422" "x810622" "x837B36" "x847E1D" "xAB90A2" "xABC902" "xAD7EB6" "xAF9334" }
+		}
+	}
+	
+	s:STATE_HÄRLIGHAMN = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x048196" "x2D36A3" "x2E4253" "x2E72B7" "x2E87C1" "x2EA83A" "x5787C4" "x58B142" "x820909" "xAC6CB6" }
+		}
+	}
+	
+	s:STATE_NORRA_VIKAR = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x030C23" "x040332" "x0536AA" "x05C982" "x07692D" "x0778AF" "x078732" "x2D0FA3" "x2F27CB" "x2F330D" "x2F7535" "x5727C4" "x592A4C" "x810345" "x813F81" "x837859" "x83C381" "x83C99F" "xAB06C5" "xAB30A2" "xAD332A" "xADC602" }
+		}
+	}
+	
+	s:STATE_KETOALANKO = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x056FD7" "x2EAEC1" "x2EB7BC" "x2EC91C" "x325A8A" "x5DA8CE" "x879959" "xB10934" }
+		}
+	}
+	
+	s:STATE_PEURAMAA = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x045D41" "x048441" "x584B5B" "x5CB71A" "x82188B" "xACBDCA" "xAE6F3E" }
+		}
+	}
+	
+	s:STATE_PEURAMETSÄ = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x08570A" "x580C10" "x58A2BF" "x58BAA6" "x825740" "x82A5A9" "x82BD27" "xAC5AC0" }
+		}
+	}
+	
+	s:STATE_POROLA = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x040FD7" "x2E60C1" "x58995B" "xAC0C57" }
+		}
+	}
+	
+	s:STATE_MÄNNIKKÖ = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x040CC3" "x2E21A3" "x5B3697" "x5B7829" "x857BA9" }
+		}
+	}
+	
+	s:STATE_CERVUS = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x044219" "x044B14" "x073341" "x5821B0" "x5B0CBA" "x82D231" "x855AC7" }
+		}
+	}
+	
+	s:STATE_VALOLAHTI = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x2EC362" "x587538" "x58ABBA" "x850F3B" }
+		}
+	}
+	
+	s:STATE_KARPALOSUOT = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x2E1E30" "x2E6335" "x5CC9DD" "x8227A4" "x82C963" "xAC3FC5" "xAF6FA7" }
+		}
+	}
+	
+	s:STATE_DOELAND = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x04AB41" "x2E3303" "x2E9F3F" "x5BB433" "xACA8C0" }
+		}
+	}
+	
+	s:STATE_VUONOLA = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x5812C4" "x5881DD" "xAC18C5" "xAC7EE3" "xACBA20" }
+		}
+	}
+	
+	s:STATE_SUMMERSIDE_BAY = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x577EC9" "xAC2A25" }
+		}
+	}
+	
+	s:STATE_GOLDENSHORE = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x2D0985" "x2D0CC6" "x2D7B49" "x2E8D49" "x3E02F8" "x584506" "x945D10" "xAC00B1" }
 		}
 	}
 }
