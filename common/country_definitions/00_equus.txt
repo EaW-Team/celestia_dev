@@ -152,3 +152,14 @@ PNE = { # Phantine
 	cultures = { changelings }
 }
 
+OLE = { # Olenia
+	color = { 224 225 249 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_PRIDEA
+	cultures = { Olenian }
+}
+

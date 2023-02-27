@@ -1,0 +1,36 @@
+STATES = {
+    s:STATE_PRIDEA = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x2D7E26" "x2D8103" "x2DCC26" "x2E7808" "x2E8480" "x30C0CB" "x5A6660" "x5AC34C" "x82845E" "x842DD6" "x84C9A9" "xAB0384" }
+		}
+	}
+	
+	s:STATE_GRANHALVÖN = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x0472AA" "x57D283" "x586929" "x810004" "x823627" "x825A4A" "x826CA9" "x826F86" "xAC7207" "xACC9A2" }
+		}
+	}
+	
+	s:STATE_DROWNED_ANTLER_MARSH = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x031E82" "x039046" "x047587" "x055ACD" "x07030F" "x3027D5" "x30753F" "x30C3A8" "x58C3A1" "x5BA206" "x8172C7" "x819CA4" "x8215AE" "x85A586" "x870063" }
+		}
+	}
+	
+	s:STATE_ELK_SHORE = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x037BA5" "x037E82" "x2DF1BE" "x2E1221" "x31068F" "x5A2A56" "x8175A4" "x853918" "xAB7825" }
+		}
+	}
+	
+	s:STATE_SNOWFLAKE = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x030605" "x043C28" "x2E5449" "x586C06" "x58725B" "x818A45" "x81AE04" "x81D227" "x8469E0" "xABC348" }
+		}
+	}
+}
