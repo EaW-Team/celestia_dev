@@ -33,4 +33,158 @@ STATES = {
     			owned_provinces = { "x030605" "x043C28" "x2E5449" "x586C06" "x58725B" "x818A45" "x81AE04" "x81D227" "x8469E0" "xABC348" }
 		}
 	}
+	
+	s:STATE_VAVERFRONT = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x0299A0" "x2C18CB" "x56C083" "x56C6D8" "x5903E2" }
+		}
+	}
+	
+	s:STATE_SÖDRA_STRANDEN = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x03BD96" "x564B1A" "x565DDD" "x57B138" "x8006B8" "x801818" "x803FAE" "xAB6939" "xABA5D9" }
+		}
+	}
+	
+	s:STATE_BLUEBIRD_FOREST = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x02031E" "x2C6912" "x2C8A58" "x3B1D62" "x562A01" "x566C92" "x583683" "x809059" "xAAB4BB" }
+		}
+	}
+	
+	s:STATE_WINTER_WYVERN_LANDS = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x02B7A5" "x02D237" "x2C39AD" "x2CBD03" "x81A259" "xAA12CA" "xAA6311" }
+		}
+	}
+	
+	s:STATE_MUTEFLOW = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x05660F" "x2D6F3A" "x2E9C3A" "x56B560" "x598A15" "x6938BF" "x81B4B8" "x838D95" "xA95452" "xA9A598" "xAF03A2" }
+		}
+	}
+	
+	s:STATE_LUMIVUORET = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x036946" "x042DA5" "x043F05" "x046328" "x046605" "x2E4285" "x54983F" "x5833A6" "x823904" "x826004" "xAB7548" "xAC3C84" "xAC4E48" "xD16A1E" }
+		}
+	}
+	
+	s:STATE_URSA-VUORI = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x039323" "x0672BE" "x2E6985" "x585115" "x820381" "x822431" "x824EDB" "xAC0602" }
+		}
+	}
+	
+	s:STATE_HOOF_PENINSULA = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x02154B" "x563C2E" "x570F47" "x571224" "x57BD47" "x86BA9A" }
+		}
+	}
+	
+	s:STATE_MANTY_CREEK = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x026691" "x80A222" "x816622" "xAAC684" "xB04ECF" }
+		}
+	}
+	
+	s:STATE_WHITE_RANGE = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x044E55" "x827B95" "xAC4BD4" "xAC8D98" }
+		}
+	}
+	
+	s:STATE_HORN_SKOG = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x02362D" "x0278BE" "x2C7B3F" "x2C9C21" "x502D3A" "x568DD8" "x569FA1" "x76648D" "x800F4A" "x802ADB" "x802D81" "x803C3B" "x80605E" "x806090" "x80B13B" "x80C304" "x9E85BF" "xAA009D" "xAA3FBB" "xAA9620" }
+		}
+	}
+	
+	s:STATE_CLEARPINE = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x2D96A3" "x58BA3D" "x5B990B" "x864B4F" }
+		}
+	}
+	
+	s:STATE_SOLGUD_BERGSKEDJA = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x2D7EBC" "x576F47" "x816345" "xAC6384" }
+		}
+	}
+	
+	s:STATE_ÖSTSKOG = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x190F36" "x2D663F" "x2F4437" "x464F83" "x47883C" "x4A773D" "x4A783D" "x582147" "x804E9A" "x834670" "xAC39A7" "xAD3607" "xAD9016" }
+		}
+	}
+	
+	s:STATE_SMALA_SKOGAR = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x036F00" "x041B46" "x2E1EC6" "x2E3026" "x2E66A8" "x334871" "x334872" "x4F6681" "xAFBA9D" }
+		}
+	}
+	
+	s:STATE_BERGSLIV = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x2DA803" "x57CFA6" "x824BC7" "x828A18" "x82D25E" "xAC1B0C" }
+		}
+	}
+	
+	s:STATE_WETBANKS = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x057E5A" "x071EA0" "x2D7280" "x59368D" "x5975D8" "x5D960B" "xADCC20" "xAF3925" "xAF572A" "xFF3D83" }
+		}
+	}
+	
+	s:STATE_PÄLSSTICK_HALVÖN = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x044246" "x05155F" "x0548A0" "x0581CD" "x05A2AF" "x064814" "x2FA80D" "x312462" "x5890C9" "x59099C" "x591E3D" "x59750B" "x59784C" "x59BDBA" "x5B5747" "x82934A" "x83788B" "x837BCC" "x83AE0E" "x8578CC" "x8596D1" "x85AEB8" "x85B4D6" "xAC39DE" "xAD12DE" "xAD9F2F" "xAF1B20" "xAF9952" }
+		}
+	}
+	
+	s:STATE_FEER_DALAR = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x0636B4" "x2D6CC6" "x31AB94" "x33A2A3" "x540324" "x5963AB" "x7E39B3" "x829CDB" "x831518" "x85758B" "x859390" "xAB8DC5" "xB16C3E" }
+		}
+	}
+	
+	s:STATE_TREVLIGVIND = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x05CFA0" "x078A0F" "x085A4B" "x08AB28" "x091519" "x2F81DA" "x2F9617" "x2FCC03" "x593F1F" "x5978B5" "x5A931A" "x825D27" "x839CAE" "xAB69A2" "xADBAC0" }
+		}
+	}
+	
+	s:STATE_BORTBYTING_HOGLAND = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = {  }
+		}
+	}
+	
+	s:STATE_BORTBYTING_HOGLAND = {
+		create_state = {
+			country = c:OLE
+    			owned_provinces = { "x007BBE" "x024BA0" "x0321C3" "x04BDA0" "x318D8F" "x324E49" "x5B151F" "x5BAE15" "x830F5E" "x83429F" "x844213" "x85189F" "x8536A4" "x8554A9" "x85CF9A" "xAD243E" "xAF5A07" "xAFB416" "xAFD21B" "xB121B1" "xB133DE" }
+		}
+	}
 }
