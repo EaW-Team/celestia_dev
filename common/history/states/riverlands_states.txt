@@ -358,4 +358,67 @@ STATES = {
 		
 		add_homeland = deponyan
 	}
+	
+	s:STATE_SILVERFALLS = {
+		create_state = {
+			country = c:FIR
+			owned_provinces = { "x002AE1" "x074B91" "x0784BE" "x0A038C" "x315D94" "x31873F" "x34060D" "x34489E" "x34601C" "x5A81BA" "x5B7E1A" "x8521D1" "x857218" "x85819A" "x85C94A" "xAF6616" "xAF72BB" }
+		}
+		
+		add_homeland = Hillponies
+	}
+	
+	s:STATE_BONEDRIFT = {
+		create_state = {
+			country = c:FIR
+			owned_provinces = { "x013CAA" "x0700F0" "x0745D7" "x075A14" "x0A00E8" "x0A3355" "x0A515A" "x0A81BE" "x0C00F0" "x318A1C" "x340330" "x343394" "x3457B7" "x346917" "x5B5192" "x5B6F97" "x5E2DB0" "x5E4B1F" "x5E7560" "x5E96AB" "x7E81CC" "x855413" "x88309A" "x88A227" "x88A8AE" "x88B1A9" "x88B486" "xAF2452" "xAFBD48" "xB212CF" "xB25120" "xB2A2CA" "xB2CC11" }
+		}
+		
+		add_homeland = Hillponies
+	}
+	
+	s:STATE_COLDMOUTH = {
+		create_state = {
+			country = c:FIR
+			owned_provinces = { "x0A00AF" "x0A451E" "x0A54A0" "x0A5ABE" "x0A9387" "x340C94" "x344BDF" "x34A244" "x34ABA8" "x34BD08" "x5A0042" "x5E1E97" "x5E2D1A" "x883F1D" "xAEBD3E" "xAECCC0" "xAF813E" "xB26F25" "xB287A2" }
+		}
+		
+		add_homeland = Hillponies
+	}
+	
+	s:STATE_SKULL_GROVES = {
+		create_state = {
+			country = c:FIR
+			owned_provinces = { "x05724B" "x05B7B9" "x0ABDC8" "x0F28E8" "x2F3F49" "x34843F" "x34C049" "x5518CE" "x598D56" "x59AE38" "x59CF1A" "x5B12AB" "x5E0CCE" "x5EA5C4" "x83454A" "x8357A9" "x83D29A" "x880F4F" "x889F4A" "xAD5A2A" "xB230D4" }
+		}
+		
+		add_homeland = Hillponies
+	}
+	
+	s:STATE_ENDLESSEN = {
+		create_state = {
+			country = c:FIR
+			owned_provinces = { "x32212B" "x325D35" "x5C124C" "x5C60B5" "x5C9CBF" "x5E4597" "x835D31" "x854590" "x8615CC" }
+		}
+		
+		add_homeland = Hillponies
+	}
+	
+	s:STATE_EYEHILL = {
+		create_state = {
+			country = c:FIR
+			owned_provinces = { "x0709CD" "x5E0F15" "x5E575B" "x5E5A38" "x882118" "x883031" "x885D22" "x889C9F" }
+		}
+		
+		add_homeland = Hillponies
+	}
+	
+	s:STATE_TEALEA = {
+		create_state = {
+			country = c:FIR
+			owned_provinces = { "x070CAA" "x07753C" "x07961E" "x07B146" "x07C0C8" "x3196C1" "x31C349" "x5E42BA" "x8524AE" "x855136" "x8560B8" "x85BDA4" "x85CC27" "x8815D6" "x882736" "xAF6339" "xAFA220" "xAFAEC5" "xAFCFA7" }
+		}
+		
+		add_homeland = Hillponies
+	}
 }

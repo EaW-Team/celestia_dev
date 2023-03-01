@@ -86,3 +86,14 @@ DEP = { # Deponya
 	capital = STATE_DEPONYA
 	cultures = { deponyan }
 }
+
+FIR = { # Firtree
+	color = { 62 97 88 }
+	
+	country_type = unrecognized
+	
+	tier = principality
+	
+	capital = STATE_BONEDRIFT
+	cultures = { hillponies }
+}

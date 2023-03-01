@@ -52,3 +52,25 @@ VER = { # Verenia
 	capital = STATE_VERENIA
 	cultures = { verenian }
 }
+
+LNS = { # longsword
+	color = { 203 193 202 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_SWORDSSON
+	cultures = { longswordian }
+}
+
+HLQ = { # Hellquill
+	color = { 226 210 213 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_HELLQUILL
+	cultures = { longswordian }
+}

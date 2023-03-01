@@ -271,4 +271,59 @@ STATES = {
 		add_homeland = verenian
 	}
 	
+	s:STATE_LONGBOWGRIFF = {
+		create_state = {
+			country = c:LNS
+    			owned_provinces = { "x040FA0" "x097823" "x2F2D1C" "x2F6649" "x3300B2" "x338D03" "x59309C" "x598AAB" "x5D00F4" "x838D2C" "x85C018" "x879304" "xAD0639" "xAF752F" "xB11B93" }
+		}
+		add_homeland = longswoardian
+	}
+	
+	s:STATE_PANACEA = {
+		create_state = {
+			country = c:LNS
+    			owned_provinces = { "x0915AF" "x099F23" "x2EC021" "x333358" "x594883" "x599033" "x5D36D8" "x5D9083" "x821545" "x8339A4" "x87B44A" "xAF008E" "xB1B7CA" "xB1CC07" }
+		}
+		add_homeland = longswoardian
+	}
+	
+	s:STATE_SWORDSSON = {
+		create_state = {
+			country = c:LNS
+    			owned_provinces = { "x047B46" "x04C9AF" "x2E7EC6" "x599C0B" "x5BAEE2" "x8227DB" "x822D95" "x82B79F" "x82C3AE" "x839F8B" "xAC2A5C" "xAC3016" "xAC6F61" "xAC78C5" "xACC62F" }
+		}
+		add_homeland = longswoardian
+	}
+	
+	s:STATE_HELLQUILL = {
+		create_state = {
+			country = c:HLQ
+    			owned_provinces = { "x08AB91" "x30D2C1" "x5AB73D" "x5C9C56" "x5C9F33" "x861222" "x862481" "x86A2B3" "xB02D20" "xB0A811" "xB26316" }
+		}
+		add_homeland = Hellquillian
+	}
+	
+	s:STATE_LONE_DOMAIN = {
+		create_state = {
+			country = c:HLQ
+    			owned_provinces = { "x0703DC" "x08065A" "x085182" "x089932" "x3115DF" "x3209DA" "x325403" "x32934E" "x329CB2" "x5C0C5B" "x5C14F7" "x5C3CBF" "x5C5783" "x5C96CE" "x5CA210" "x5CC633" "x837EA9" "x862A9F" "x863645" "x863F40" "x867E90" "x86A590" "xB039C5" "xB042C0" }
+		}
+		add_homeland = Hellquillian
+	}
+	
+	s:STATE_BRIGHTCREEKS = {
+		create_state = {
+			country = c:HLQ
+    			owned_provinces = { "x06A2B9" "x07A5A0" "x07B423" "x07C3A5" "x07D228" "x317B99" "x31999E" "x31AB62" "x5BA8C4" "x5BABA1" "x85152C" "xAF272F" "xAF90C0" "xAF939D" "xAFB1A2" "xAFC025" }
+		}
+		add_homeland = Hellquillian
+	}
+	
+	s:STATE_SONDERSUNE = {
+		create_state = {
+			country = c:HLQ
+    			owned_provinces = { "x07879B" "x084541" "x0A5D9B" "x0A6941" "x2A2D62" "x32B70D" "x347B44" "x5E4E60" "x5E513D" "x5EAE29" "x5EC951" "x865A04" "x86C9B3" "xB0CC34" }
+		}
+		add_homeland = Hellquillian
+	}
 }
