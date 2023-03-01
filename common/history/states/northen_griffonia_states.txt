@@ -39,4 +39,54 @@ STATES = {
 		add_homeland = cloudburyan
 	}
 	
+	s:STATE_BLEAKSPIRE = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x01034B" "x054E5F" "x076650" "x078455" "x2F0930" "x307294" "x310C80" "x591888" "x5B3C88" "x5BA85B" "x83A827" "x85ABDB" "x85C9E0" "xA8C020" "xAD3F39" "xAF2484" "xAF45CA" "xAF63CF" "xAF81D4" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+	s:STATE_CAVEGROVE = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x054E91" "x056055" "x0590B9" "x05ABE1" "x2DC080" "x2F63D5" "x577842" "x59D2C4" "x5C00B5" "x5C7E83" "x835A54" "x837518" "x865D45" "xAA33E3" "xAD03C5" "xAD1E89" "xAD5DD4" "xAD7898" "xADA861" "xB05761" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+	s:STATE_LOSTGATE = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x03151E" "x039C1E" "x039F5F" "x03B1BE" "x066091" "x06AB1E" "x06BAA0" "x06C028" "x08399B" "x0854C3" "x086F87" "x2D0362" "x2D8D3F" "x309F1C" "x327208" "x32B7DA" "x32BD94" "x5709BF" "x57A21F" "x57A560" "x5C3F06" "x5C3F9C" "x5CBD38" "x810C40" "x81CFE0" "x848718" "x84969A" "x85A5BD" "x868104" "x86C0B8" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+	s:STATE_WINDFORD = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x023941" "x0324A0" "x03B746" "x0628EC" "x2D189E" "x314299" "x316F21" "x327E17" "x32BD62" "x32C68F" "x32C93A" "x5B12D8" "x5C360B" "x8618D6" "x86B413" "xABA820" "xABD261" "xAE7802" "xAF57C0" "xB006B6" "xB021DE" "xB048DE" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+	s:STATE_SQUARK = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x050646" "x089F50" "x2C6080" "x2F248A" "x32A2D0" "x590C47" "x596656" "x5D6077" "x7E6390" "x816C40" "x8369D6" "x83993B" "x83B463" "xAD512F" "xAD9CBB" "xADB7E3" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+	s:STATE_BREDOLAND = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x0678DC" "x08AED2" "x096CE1" "x3187D5" "x32CCAD" "x331553" "x336F62" "x579C01" "x5C4524" "x5CA551" "x5CC015" "x5D72E2" "x5D93C4" "x84C3B8" "x864286" "x87210E" "x879645" "xAE2DAC" "xAFAE5C" "xB06C07" "xB0AB52" "xB0C616" "xB1579D" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+	
+	
 }
