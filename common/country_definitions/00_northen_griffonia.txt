@@ -1,0 +1,10 @@
+CLO = { # Cloudbury
+	color = { 255 214 177 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_CLOUDBURY
+	cultures = { cloudburyan }
+}

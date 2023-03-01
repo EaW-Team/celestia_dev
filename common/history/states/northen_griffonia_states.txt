@@ -1,0 +1,42 @@
+STATES = {
+    s:STATE_WINGHAGEN = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x005114" "x00AB23" "x053C32" "x05991E" "x072A46" "x09CF87" "x2E45C6" "x2FBAA3" "x5409AB" "x540FC9" "x5445B5" "x590629" "x59242E" "x7EBD9F" "x8515C2" "x86813B" "x879922" "xB03652" "xB0C0C5" "xB1122F" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+	s:STATE_CLOUDBURY = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x055D14" "x057B19" "x05C6A5" "x1100F0" "x2FAE62" "x59270B" "x595492" "x59811A" "x599F1F" "x59B1E2" "x8309A9" "x835713" "x83A29F" "x867E5E" "xAD0C2A" "xAD5A93" "xADA520" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+	s:STATE_BLÅLAND = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x079928" "x083905" "x087232" "x0875DC" "x08B737" "x08C996" "x2A0CF8" "x2D9980" "x322DD0" "x323C85" "x324B08" "x577B1F" "x578AA1" "x5DC606" "x812D22" "x818D22" "x865727" "x866C31" "x869C95" "xAC60A7" "xAE180C" "xAE4593" "xB02425" "xB06FB1" "xB0B793" "xC3F30D" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+	s:STATE_ROTTEN_RIFT = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x080382" "x1200F4" "x2C30B2" "x2E5A03" "x301E3A" "x32BAB7" "x5C1E24" "x5C9915" "x5D96A1" "x8621A4" "x863CCC" "xB04B25" "xD042FD" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+	s:STATE_DØENDEJORD = {
+		create_state = {
+			country = c:CLO
+    			owned_provinces = { "x08B45A" "x094514" "x0B00EC" "x2000F0" "x2DD244" "x326385" "x334894" "x5C51C9" "x5C7EBA" "x8633D1" "x86544A" "x87C986" "xB03684" "xB057CA" }
+		}
+		add_homeland = cloudburyan
+	}
+	
+}
