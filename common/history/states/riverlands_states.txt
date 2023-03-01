@@ -365,7 +365,7 @@ STATES = {
 			owned_provinces = { "x002AE1" "x074B91" "x0784BE" "x0A038C" "x315D94" "x31873F" "x34060D" "x34489E" "x34601C" "x5A81BA" "x5B7E1A" "x8521D1" "x857218" "x85819A" "x85C94A" "xAF6616" "xAF72BB" }
 		}
 		
-		add_homeland = Hillponies
+		add_homeland = firtreen
 	}
 	
 	s:STATE_BONEDRIFT = {
@@ -374,7 +374,7 @@ STATES = {
 			owned_provinces = { "x013CAA" "x0700F0" "x0745D7" "x075A14" "x0A00E8" "x0A3355" "x0A515A" "x0A81BE" "x0C00F0" "x318A1C" "x340330" "x343394" "x3457B7" "x346917" "x5B5192" "x5B6F97" "x5E2DB0" "x5E4B1F" "x5E7560" "x5E96AB" "x7E81CC" "x855413" "x88309A" "x88A227" "x88A8AE" "x88B1A9" "x88B486" "xAF2452" "xAFBD48" "xB212CF" "xB25120" "xB2A2CA" "xB2CC11" }
 		}
 		
-		add_homeland = Hillponies
+		add_homeland = firtreen
 	}
 	
 	s:STATE_COLDMOUTH = {
@@ -383,7 +383,7 @@ STATES = {
 			owned_provinces = { "x0A00AF" "x0A451E" "x0A54A0" "x0A5ABE" "x0A9387" "x340C94" "x344BDF" "x34A244" "x34ABA8" "x34BD08" "x5A0042" "x5E1E97" "x5E2D1A" "x883F1D" "xAEBD3E" "xAECCC0" "xAF813E" "xB26F25" "xB287A2" }
 		}
 		
-		add_homeland = Hillponies
+		add_homeland = firtreen
 	}
 	
 	s:STATE_SKULL_GROVES = {
@@ -392,7 +392,7 @@ STATES = {
 			owned_provinces = { "x05724B" "x05B7B9" "x0ABDC8" "x0F28E8" "x2F3F49" "x34843F" "x34C049" "x5518CE" "x598D56" "x59AE38" "x59CF1A" "x5B12AB" "x5E0CCE" "x5EA5C4" "x83454A" "x8357A9" "x83D29A" "x880F4F" "x889F4A" "xAD5A2A" "xB230D4" }
 		}
 		
-		add_homeland = Hillponies
+		add_homeland = firtreen
 	}
 	
 	s:STATE_ENDLESSEN = {
@@ -401,7 +401,7 @@ STATES = {
 			owned_provinces = { "x32212B" "x325D35" "x5C124C" "x5C60B5" "x5C9CBF" "x5E4597" "x835D31" "x854590" "x8615CC" }
 		}
 		
-		add_homeland = Hillponies
+		add_homeland = firtreen
 	}
 	
 	s:STATE_EYEHILL = {
@@ -410,7 +410,7 @@ STATES = {
 			owned_provinces = { "x0709CD" "x5E0F15" "x5E575B" "x5E5A38" "x882118" "x883031" "x885D22" "x889C9F" }
 		}
 		
-		add_homeland = Hillponies
+		add_homeland = firtreen
 	}
 	
 	s:STATE_TEALEA = {
@@ -419,6 +419,96 @@ STATES = {
 			owned_provinces = { "x070CAA" "x07753C" "x07961E" "x07B146" "x07C0C8" "x3196C1" "x31C349" "x5E42BA" "x8524AE" "x855136" "x8560B8" "x85BDA4" "x85CC27" "x8815D6" "x882736" "xAF6339" "xAFA220" "xAFAEC5" "xAFCFA7" }
 		}
 		
-		add_homeland = Hillponies
+		add_homeland = firtreen
+	}
+	
+	s:STATE_MOONSHINE = {
+		create_state = {
+			country = c:FAR
+			owned_provinces = { "x0087CD" "x07C3D2" "x086C14" "x08AB5F" "x317BC6" "x322408" "x32AEDF" "x5C2788" "x869F40" "x86B19F" "xAD001B" "xAD6C89" "xB05D52" "xB1248E" }
+		}
+		
+		add_homeland = farbrookian
+	}
+	
+	s:STATE_FARBROOK = {
+		create_state = {
+			country = c:FAR
+			owned_provinces = { "x05183C" "x05391E" "x056F0A" "x2F095D" "x2F728A" "x2F75CB" "x33849E" "x339FC6" "x33CF2B" "x59992E" "x5B7E47" "x85C913" "x868759" "xAD15BB" "xADA20C" "xAF1BB6" "xAF36DE" "xAF8107" "xAFCC93" "xB11ED4" }
+		}
+		
+		add_homeland = farbrookian
+	}
+	
+	s:STATE_FURLAND = {
+		create_state = {
+			country = c:FAR
+			owned_provinces = { "x05A58C" "x07B72D" "x0951B9" "x2D9F9E" "x2DA2DF" "x2E305D" "x2EB449" "x2F3C9E" "x2F96AD" "x571842" "x583997" "x58CFB0" "x5B3C1F" "x823C18" "x827B63" "x8284C7" "x857E86" "x87A5C7" "xAC8748" }
+		}
+		
+		add_homeland = farbrookian
+	}
+	
+	s:STATE_OCHME = {
+		create_state = {
+			country = c:FAR
+			owned_provinces = { "x093691" "x09C005" "x2A27DA" "x2C158A" "x2FBA3A" "x2FBD80" "x333912" "x33543A" "x5B2715" "x5D871F" "x5DA247" "x5DD2AB" "x87002C" "x878A9F" "xA86611" "xB103AC" "xB13311" "xB14E39" "xB2811B" }
+		}
+		
+		add_homeland = farbrookian
+	}
+	
+	s:STATE_LOSTHOPE = {
+		create_state = {
+			country = c:FAR
+			owned_provinces = { "x058755" "x2F4503" "x2F8AD5" "x59211A" "x5A4547" "x5BA2D3" "x5BC0D8" "x85694A" "x85874F" "x85C359" "xAF005C" "xAF8ACF" }
+		}
+		
+		add_homeland = farbrookian
+	}
+	
+	s:STATE_FORGOTTEN_FOREST = {
+		create_state = {
+			country = c:FAR
+			owned_provinces = { "x052A05" "x0A7582" "x227811" "x314544" "x5B7860" "x5E1256" "x832404" "xAD2784" "xAF213E" "xB0725C" }
+		}
+		
+		add_homeland = farbrookian
+	}
+	
+	s:STATE_STORMWINGIA = {
+		create_state = {
+			country = c:WAT
+			owned_provinces = { "x06B1A5" "x314E12" "x31A821" "x5E3615" "x5E3C9C" "x5EB724" "x85124F" "x856395" "x88A845" "xB2062A" }
+		}
+		
+		add_homeland = watertowner
+	}
+	
+	s:STATE_NADLE = {
+		create_state = {
+			country = c:WAT
+			owned_provinces = { "x01C000" "x068D19" "x069C9B" "x309099" "x3454DA" "x5AB11F" "x5AC0A1" "x84A51D" "x8878E0" "xAE7B16" "xB08484" }
+		}
+		
+		add_homeland = watertowner
+	}
+	
+	s:STATE_WATERTOWN = {
+		create_state = {
+			country = c:WAT
+			owned_provinces = { "x2FCFDA" "x3175DF" "x882D54" }
+		}
+		
+		add_homeland = watertowner
+	}
+	
+	s:STATE_HORT = {
+		create_state = {
+			country = c:WAT
+			owned_provinces = { "x05CC5A" "x0800F4" "x0A6323" "x0ACF91" "x344B12" "x3472DF" "x5EB106" "x881295" "x888AA9" "x889681" "xA80925" "xB24ED9" "xB29902" }
+		}
+		
+		add_homeland = watertowner
 	}
 }
