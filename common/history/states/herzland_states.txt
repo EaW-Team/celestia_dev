@@ -143,6 +143,46 @@ STATES = {
 		add_homeland = herzlander
 	}
 	
+	s:STATE_OSNABEAK = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x050CCD" "x05A5C3" "x07A537" "x2F0F4E" "x2F2D53" "x2F9C9E" "x2FCF44" "x5996BA" "x5B6F2E" "x5B7EB0" "x5B8D33" "x5B9CB5" "x830045" "x831B09" "x8381BD" "x83BDC7" "x858131" "x8590B3" "x859F36" "xAD843E" "xADA243" "xAF84B1" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_WINTERBELL = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x03751E" "x079991" "x308D85" "x313F26" "x315D2B" "x319CA8" "x3236CB" "x33C630" "x5884BA" "x590F24" "x5A36C4" "x5AA5DD" "x5AB460" "x5D994C" "x7E78D1" "x841E54" "x84BA27" "x85669F" "x86480E" "xAF7284" "xB10C11" "xB14293" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_READEWETTER = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x021BD2" "x070032" "x3066BC" "x313FBC" "x327B3A" "x328D99" "x5CBAC4" "xABB4C5" "xAF6920" "xAF8448" "xB0D225" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_DWARFTAIL = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x025D00" "x03BD00" "x03D2A0" "x050C00" "x09603C" "x2C7244" "x2D2721" "x2F3C08" "x309962" "x562DE2" "x572AA1" "x596C10" "x5A154C" "x5B069C" "x5B24A1" "x5B42A6" "x5B60AB" "x5BBD97" "x5D0088" "x819063" "x8318C2" "x84158B" "x8493BD" "x852722" "x8572AE" "xAA7EA2" "xABCF20" "xAC5402" "xAD1802" "xAD7211" "xAE3952" "xAE755C" }
+		}
+		add_homeland = herzlander
+	}
+	
+	s:STATE_STARCLAW = {
+		create_state = {
+			country = c:EMP
+    			owned_provinces = { "x028123" "x030F00" "x0763A5" "x079FAF" "x07CF14" "x0878B9" "x300903" "x302AB2" "x3063DF" "x31A230" "x31CFB7" "x31D294" "x32C9A3" "x3D3549" "x5A9CE2" "x5BC9D3" "x847581" "x85301D" "xABA543" "xAC1211" "xAEC084" "xAF9C2F" "xB08798" }
+		}
+		add_homeland = herzlander
+	}
+	
 	s:STATE_FALCONIA = {
 		create_state = {
 			country = c:EMP
