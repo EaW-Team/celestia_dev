@@ -199,7 +199,7 @@ STATES = {
 	
 	s:STATE_SOUTH_SCARLET = {
 		create_state = {
-			country = c:SIC
+			country = c:SIM
     			owned_provinces = { "x060F14" "x0675C8" "x06D2B4" "x2A4B30" "x301294" "x308AA8" "x30C3D5" "x5AC656" "x5D578D" "x8415B8" "x848404" "x875A0E" "x87B75E" "xAE3020" "xAE5443" }
 		}
 		add_homeland = sicameonese
@@ -207,7 +207,7 @@ STATES = {
 	
 	s:STATE_NORTH_SCARLET = {
 		create_state = {
-			country = c:SIC
+			country = c:SIM
     			owned_provinces = { "x062D19" "x303099" "x305D21" "x311826" "x3384D5" "x5A331A" "x5A60A1" "x5ABD8D" "x874ECC" "xA80FAC" "xAE0C93" "xB12184" }
 		}
 		add_homeland = sicameonese
@@ -215,7 +215,7 @@ STATES = {
 	
 	s:STATE_QUERUSCOS = {
 		create_state = {
-			country = c:SIC
+			country = c:SIM
     			owned_provinces = { "x04A246" "x2EA5C6" "x2EBDAD" "x302117" "x582A15" "x583310" "x586960" "x58C02E" "x5A03B5" "x5ABAB0" "x82062C" "x826CE0" "x84451D" "x8472A4" "xAE7525" }
 		}
 		add_homeland = sicameonese
@@ -223,7 +223,7 @@ STATES = {
 	
 	s:STATE_MIDORIA = {
 		create_state = {
-			country = c:SIC
+			country = c:SIM
     			owned_provinces = { "x061E00" "x078DB9" "x079C3C" "x07ABBE" "x301B5D" "x3087CB" "x5B7B06" "x5BB1BF" "x82CF1D" "x857836" "x8587B8" "x85963B" "xAC9F5C" "xAEA216" "xAF6C34" "xAF7BB6" "xAF8A39" "xAF99BB" "xAFA83E" "xAFB7C0" }
 		}
 		add_homeland = sicameonese
@@ -231,7 +231,7 @@ STATES = {
 	
 	s:STATE_VALLE_DEL_TRIDENTE = {
 		create_state = {
-			country = c:SIC
+			country = c:SIM
     			owned_provinces = { "x04A2DC" "x066305" "x066646" "x06B1D2" "x304880" "x306685" "x31BDC1" "x5863D8" "x58961A" "x58A847" "x5A8A4C" "x5B8438" "x823690" "x82BDBD" "x8433BD" "x844E81" "xAC3911" "xAE3361" }
 		}
 		add_homeland = sicameonese
@@ -239,7 +239,7 @@ STATES = {
 	
 	s:STATE_ERITROCEFALIA = {
 		create_state = {
-			country = c:SIC
+			country = c:SIM
     			owned_provinces = { "x045DD7" "x047EB9" "x0506AF" "x061BB9" "x0696AA" "x0751AF" "x076032" "x076FB4" "x077505" "x077E37" "x2E6058" "x2E813A" "x2E9399" "x315430" "x3163B2" "x31903A" "x31C312" "x59B14C" "x5A6F8D" "x5BC692" "x8257D6" "x82873B" "x833CB8" "x836940" "xAE45C0" }
 		}
 		add_homeland = sicameonese
@@ -247,7 +247,7 @@ STATES = {
 	
 	s:STATE_ARAHNO_RIDGE = {
 		create_state = {
-			country = c:SIC
+			country = c:SIM
     			owned_provinces = { "x059CC8" "x064500" "x068DAF" "x06A250" "x06C60F" "x2F453A" "x2F72C1" "x302ADF" "x306CA3" "x307849" "x30A5D0" "x5A1515" "x5A303D" "x83B4CC" "x841E1D" "x844240" "x8490A9" "x84A209" "xAD9948" "xAE1B16" "xAE66A2" "xAEB12F" "xAECC57" }
 		}
 		add_homeland = sicameonese
@@ -255,7 +255,7 @@ STATES = {
 	
 	s:STATE_LEVE = {
 		create_state = {
-			country = c:SIC
+			country = c:SIM
     			owned_provinces = { "x042414" "x042D0F" "x04635F" "x066C00" "x2E2794" "x2E308F" "x2E66DF" "x5803AB" "x829C45" "x846322" "x850FA4" "xAC2A8E" "xAC5A57" }
 		}
 		add_homeland = sicameonese
@@ -263,7 +263,7 @@ STATES = {
 	
 	s:STATE_KEOWEN = {
 		create_state = {
-			country = c:SIC
+			country = c:SIM
     			owned_provinces = { "x04BA2D" "x0657C3" "x2E002B" "x58245B" "x5872C4" "x827545" "xAEA589" }
 		}
 		add_homeland = sicameonese
@@ -271,10 +271,98 @@ STATES = {
 	
 	s:STATE_SNOWTOPS = {
 		create_state = {
-			country = c:SIC
+			country = c:SIM
     			owned_provinces = { "x051255" "x06B4AF" "x07CCA0" "x08C900" "x2F15D5" "x2F90C6" "x30BADA" "x30C95D" "x316626" "x591856" "x5A9F56" "x5ABD5B" "x5BB710" "x84369A" "x84C0DB" "xAC7B39" "xAEB4D9" "xAEC38E" "xB0392F" }
 		}
 		add_homeland = sicameonese
+	}
+	
+	s:STATE_ASTER'S_LANDING = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x0A390F" "x0AB123" "x0ACF28" "x340F08" "x34B1C6" "x870CA4" "x87AE63" "x88CC04" "xB1845C" "xB1B1E3" }
+		}
+		add_homeland = asterionese
+	}
+	
+	s:STATE_PHOCAPETRA = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x334E53" "x336C58" "x34094E" "x34AE85" "x5D6610" "x5DA21A" "x5DBD42" "x876990" "x8784B8" "x881509" "xB27E3E" "xB2BA48" }
+		}
+		add_homeland = asterionese
+	}
+	
+	s:STATE_KETTA = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x00FF00" "x092405" "x0969D7" "x0A45B4" "x0ACC4B" "x3342AD" "x337EB7" "x339F99" "x380CF4" "x3D0CF4" "x540638" "x5D4251" "x5D8138" "x5E1E2E" "x5E3F10" "x5E4BB5" "x5ECF0B" "x879618" "x884E36" "xB15D8E" "xB2242F" "xB2CCA7" }
+		}
+		add_homeland = asterionese
+	}
+	
+	s:STATE_LILLAI = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x09600F" "x097B37" "x099C19" "x09B741" "x0A5437" "x347899" "x5D0924" "x5E5D15" "x5E7B1A" "x85B440" "x8745D1" "x8748AE" "x8781DB" "x879FE0" "x886095" "xB100A2" "xB11BCA" "xB14852" "xB1A261" "xB1B4C0" "xB2909D" "xB2AEA2" "xB2CF84" }
+		}
+		add_homeland = asterionese
+	}
+	
+	s:STATE_THERMORION = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x009650" "x0A931E" "x3306A3" "x332785" "x33638F" "x342753" "x343C8F" "x5D452E" "x5E1288" "x87184A" "x87A59A" "x88248B" "xB16657" "xB19998" }
+		}
+		add_homeland = asterionese
+	}
+	
+	s:STATE_COLOE = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x060FE1" "x064B87" "x0A7519" "x3003DF" "x306C0D" "x7ECF36" "xAEC35C" "xB20907" "xB2270C" "xB28AE3" }
+		}
+		add_homeland = asterionese
+	}
+	
+	s:STATE_GELION = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x060CA0" "x306F4E" "x3399DF" "x5A72CE" "x5D7E5B" "x5D9C60" "x5EC983" "x84574A" "xAE5ACA" "xAE96D4" }
+		}
+		add_homeland = asterionese
+	}
+	
+	s:STATE_KEKION = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x0AC382" "x34C603" "x844BA4" "x84CF5E" }
+		}
+		add_homeland = asterionese
+	}
+	
+	s:STATE_AETIEA = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x05783C" "x066CCD" "x06B75A" "x09965F" "x0A5714" "x301262" "x305D8A" "x30AB58" "x345A94" "x5A0660" "x5A3383" "x5A8151" "x5AAED8" "x5ABA1A" "x83CC4A" "x84004F" "x849013" "x849354" "xAD18CF" "xAE4B48" "xAE660C" "xAE8D43" "xFF0000" }
+		}
+		add_homeland = asterionese
+	}
+	
+	s:STATE_SOUTH_AETIEA = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x0A0C87" "x5A90D3" "x5ACCDD" "x5DABE2" "x84A2D6" "xAE42B6" }
+		}
+		add_homeland = asterionese
+	}
+	
+	s:STATE_THEBOS = {
+		create_state = {
+			country = c:MIT
+    			owned_provinces = { "x303003" "xAE1BE3" "xE6EA19" }
+		}
+		add_homeland = asterionese
 	}
 	
 }

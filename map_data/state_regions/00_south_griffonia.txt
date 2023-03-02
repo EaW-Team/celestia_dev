@@ -279,3 +279,58 @@ STATE_SNOWTOPS = {
     id = 570
     provinces = { "x051255" "x06B4AF" "x07CCA0" "x08C900" "x2F15D5" "x2F90C6" "x30BADA" "x30C95D" "x316626" "x591856" "x5A9F56" "x5ABD5B" "x5BB710" "x84369A" "x84C0DB" "xAC7B39" "xAEB4D9" "xAEC38E" "xB0392F" }
 }
+
+STATE_ASTER'S_LANDING = {
+    id = 386
+    provinces = { "x0A390F" "x0AB123" "x0ACF28" "x340F08" "x34B1C6" "x870CA4" "x87AE63" "x88CC04" "xB1845C" "xB1B1E3" }
+}
+
+STATE_PHOCAPETRA = {
+    id = 462
+    provinces = { "x334E53" "x336C58" "x34094E" "x34AE85" "x5D6610" "x5DA21A" "x5DBD42" "x876990" "x8784B8" "x881509" "xB27E3E" "xB2BA48" }
+}
+
+STATE_KETTA = {
+    id = 463
+    provinces = { "x00FF00" "x092405" "x0969D7" "x0A45B4" "x0ACC4B" "x3342AD" "x337EB7" "x339F99" "x380CF4" "x3D0CF4" "x540638" "x5D4251" "x5D8138" "x5E1E2E" "x5E3F10" "x5E4BB5" "x5ECF0B" "x879618" "x884E36" "xB15D8E" "xB2242F" "xB2CCA7" }
+}
+
+STATE_LILLAI = {
+    id = 464
+    provinces = { "x09600F" "x097B37" "x099C19" "x09B741" "x0A5437" "x347899" "x5D0924" "x5E5D15" "x5E7B1A" "x85B440" "x8745D1" "x8748AE" "x8781DB" "x879FE0" "x886095" "xB100A2" "xB11BCA" "xB14852" "xB1A261" "xB1B4C0" "xB2909D" "xB2AEA2" "xB2CF84" }
+}
+
+STATE_THERMORION = {
+    id = 465
+    provinces = { "x009650" "x0A931E" "x3306A3" "x332785" "x33638F" "x342753" "x343C8F" "x5D452E" "x5E1288" "x87184A" "x87A59A" "x88248B" "xB16657" "xB19998" }
+}
+
+STATE_COLOE = {
+    id = 466
+    provinces = { "x060FE1" "x064B87" "x0A7519" "x3003DF" "x306C0D" "x7ECF36" "xAEC35C" "xB20907" "xB2270C" "xB28AE3" }
+}
+
+STATE_GELION = {
+    id = 468
+    provinces = { "x060CA0" "x306F4E" "x3399DF" "x5A72CE" "x5D7E5B" "x5D9C60" "x5EC983" "x84574A" "xAE5ACA" "xAE96D4" }
+}
+
+STATE_KEKION = {
+    id = 469
+    provinces = { "x0AC382" "x34C603" "x844BA4" "x84CF5E" }
+}
+
+STATE_AETIEA = {
+    id = 513
+    provinces = { "x05783C" "x066CCD" "x06B75A" "x09965F" "x0A5714" "x301262" "x305D8A" "x30AB58" "x345A94" "x5A0660" "x5A3383" "x5A8151" "x5AAED8" "x5ABA1A" "x83CC4A" "x84004F" "x849013" "x849354" "xAD18CF" "xAE4B48" "xAE660C" "xAE8D43" "xFF0000" }
+}
+
+STATE_SOUTH_AETIEA = {
+    id = 655
+    provinces = { "x0A0C87" "x5A90D3" "x5ACCDD" "x5DABE2" "x84A2D6" "xAE42B6" }
+}
+
+STATE_THEBOS = {
+    id = 656
+    provinces = { "x303003" "xAE1BE3" "xE6EA19" }
+}
