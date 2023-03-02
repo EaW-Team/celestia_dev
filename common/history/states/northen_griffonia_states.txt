@@ -82,7 +82,7 @@ STATES = {
 	s:STATE_BREDOLAND = {
 		create_state = {
 			country = c:CLO
-    			owned_provinces = { "x0678DC" "x08AED2" "x096CE1" "x3187D5" "x32CCAD" "x331553" "x336F62" "x579C01" "x5C4524" "x5CA551" "x5CC015" "x5D72E2" "x5D93C4" "x84C3B8" "x864286" "x87210E" "x879645" "xAE2DAC" "xAFAE5C" "xB06C07" "xB0AB52" "xB0C616" "xB1579D" }
+    			owned_provinces = { "x0678DC" "x08AED2" "x08BAAA" "x096CE1" "x3187D5" "x32CCAD" "x331553" "x336F62" "x579C01" "x5C4524" "x5CA551" "x5CC015" "x5D72E2" "x5D93C4" "x84C3B8" "x864286" "x87210E" "x879645" "xAE2DAC" "xAFAE5C" "xB06C07" "xB0AB52" "xB0C616" "xB1579D" }
 		}
 		add_homeland = cloudburyan
 	}

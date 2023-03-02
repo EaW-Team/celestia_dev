@@ -72,5 +72,16 @@ HLQ = { # Hellquill
 	tier = principality
 	
 	capital = STATE_HELLQUILL
-	cultures = { longswordian }
+	cultures = { hellquillian }
+}
+
+BOI = { # Griffonstone
+	color = { 105 66 112 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_GRIFFONSTONE
+	cultures = { griffonstonian }
 }

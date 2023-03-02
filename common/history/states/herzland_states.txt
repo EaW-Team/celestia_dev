@@ -406,4 +406,92 @@ STATES = {
 		}
 		add_homeland = Hellquillian
 	}
+	
+	s:STATE_WOHNSITZ = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x03ABA0" "x051532" "x2FC02B" "x595A1A" "x8851E0" "xAE60BB" "xB27B61" }
+		}
+		add_homeland = griffonstonian
+	}
+	
+	s:STATE_GRIFFONSTONE = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x055419" "x05755F" "x0AD2D2" "x2F2A12" "x2F5799" "x32CF8A" "x597B60" "x59B429" "x59C688" "x5B69DD" "x5E305B" "x8324D1" "x837EE0" "x83C909" "x84B159" "xAD2134" "xAD72DE" "xAED2DE" "xB03093" "xB22AB6" "xB2B42A" }
+		}
+		add_homeland = griffonstonian
+	}
+	
+	s:STATE_CREEPER_MOUNTAINS = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x072DB9" "x078AA5" "x07C6AF" "x31303A" "x31488A" "x317512" "x595460" "x8569B3" "xAEA557" "xAEAE52" "xAF8D16" "xAFC32F" "xB25461" }
+		}
+		add_homeland = griffonstonian
+	}
+	
+	s:STATE_GALE = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x095A55" "x329380" "x341E8A" "x347803" "x541583" "x5B87E2" "x5E6C97" "x86B786" "x877259" "xB29F20" }
+		}
+		add_homeland = griffonstonian
+	}
+	
+	s:STATE_COALFALL = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x0003E1" "x044523" "x06ABB4" "x0781E1" "x0839D2" "x0AA54B" "x338A5D" "x340053" "x34A8CB" "x34B40D" "x584B24" "x5C06A6" "x5C4897" "x5D4B15" "x5E06B0" "x5EBA01" "x822A81" "x835DC7" "x86008B" "x862D13" "x88453B" "x8872C2" "xAD6048" "xAE8411" "xAF605C" "xB084BB" "xB09C02" "xB284C5" }
+		}
+		add_homeland = griffonstonian
+	}
+	
+	s:STATE_NANIWICH = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x089F82" "x0A57E1" "x2F0653" "x2F7B53" "x314858" "x319F85" "x323694" "x32A517" "x34D212" "x5B4BD8" "x5CD20B" "x5E098D" "x5E639C" "x5EBACE" "x83BD5E" "x854E59" "x885DB8" "xAD2AC5" "xAD5198" "xADAB3E" "xADC0DE" "xB00F84" }
+		}
+		add_homeland = griffonstonian
+	}
+	
+	s:STATE_BLACKHOLLOW = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x068A05" "x06A80A" "x0715A5" "x0733AA" "x306F80" "x31A299" "x59365B" "x59CF51" "x5A7201" "x5B2A29" "x5D7BB0" "x831BD6" "x8339DB" "x850022" "x851E27" "x853C2C" "x858A95" "x85B71D" "xAF21A7" }
+		}
+		add_homeland = griffonstonian
+	}
+	
+	s:STATE_SOLARSPIKE = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x071850" "x31362B" "x31665D" "x318462" "x32188F" "x860F0E" "xAF3FAC" "xB0128E" "xFF0A28" }
+		}
+		add_homeland = griffonstonian
+	}
+	
+	s:STATE_SOLARSPIKE = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x0763DC" "x0A1550" "x3436D5" "x5E87BF" "x5EC3C9" "x8360DB" "x885ADB" "xB233B1" "xB2ABC5" }
+		}
+		add_homeland = griffonstonian
+	}
+	
+	s:STATE_MURKBEAK = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x081205" "x0990A0" "x0AB18C" "x5E7B83" "x849F95" "x863027" "x869981" "x874E95" "xAD7E20" "xB030CA" }
+		}
+		add_homeland = griffonstonian
+	}
+	
+	s:STATE_STONE_HIGHLAND = {
+		create_state = {
+			country = c:BOI
+    			owned_provinces = { "x073655" "x342DDA" "x349608" "x57B4E2" "x810963" "x81CC9F" "x857BE0" "xAF7E61" }
+		}
+		add_homeland = griffonstonian
+	}
 }
