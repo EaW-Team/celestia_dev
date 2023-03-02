@@ -87,6 +87,100 @@ STATES = {
 		add_homeland = cloudburyan
 	}
 	
+	s:STATE_SÖDERBOTTEN = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x0121B9" "x01429B" "x0172CD" "x0193AF" "x01B491" "x024205" "x059641" "x2B451C" "x2B9630" "x2BB712" "x2C4585" "x5527BA" "x55489C" "x557801" "x5599B0" "x55BA92" "x5915AB" "x597E3D" "x7F0959" "x7F7B81" "x7FBD13" "x8363B8" "xA96F4D" "xAA3F84" "xAD6639" }
+		}
+		add_homeland = vedinan
+	}
 	
+	s:STATE_SYDVÄSTLAND = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x027514" "x02C6BE" "x2B0358" "x2B243A" "x2C1521" "x2C99DA" "x5506D8" "x5618A1" "x564BB0" "x569C5B" "x56BD3D" "x56CF06" "x7F9C31" "x803C04" "x80C0BD" "xAA0F20" "xAA214D" }
+		}
+		add_homeland = vedinan
+	}
+	
+	s:STATE_KUNGLAND = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x058137" "x0921BE" "x1000EC" "x5933B0" "x59845B" "x59CCA6" "x5D7806" "x833F2C" "x83C6C2" "x83D204" "xA8BDAC" "xAD4834" "xAD93C0" "xADC943" "xB14261" "xB17B2A" }
+		}
+		add_homeland = vedinan
+	}
+	
+	s:STATE_BORÅSLAND = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x013937" "x023F5F" "x0251BE" "x0275E1" "x028741" "x072705" "x2A393A" "x2A3C17" "x2A45DF" "x2A6380" "x2AB42B" "x2AC0D0" "x2C543F" "x2C8AC1" "x2CABA3" "x30242B" "x544B3D" "x5454A1" "x54C010" "x54C351" "x566C60" "x7E4EBD" "x7E7527" "x7EB74F" "x7ED213" "x806FE0" "x8439AE" "xA80093" "xA85DE3" "xA8A284" "xA9122A" "xAA3CDE" "xAA609D" }
+		}
+		add_homeland = vedinan
+	}
+	
+	s:STATE_ÖSTLAND = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x006991" "x00B41E" "x05721E" "x05C950" "x062141" "x0960A5" "x09934B" "x2A0F26" "x2AB79E" "x2F84B7" "x3093DA" "x336049" "x337585" "x348162" "x54A8BF" "x559329" "x59C342" "x5D27BF" "x5DD215" "x7E42AE" "x7E9018" "x7EAB40" "x83AE45" "x840081" "x871259" "x875AA4" "xA8B19D" "xADB1C5" "xADCFCA" "xAE2A02" "xAF1843" "xB15D25" "xB1D25C" }
+		}
+		add_homeland = vedinan
+	}
+	
+	s:STATE_SNÄLLAND = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x0212A0" "x0245AF" "x02965A" "x02C905" "x054250" "x07484B" "x2C7894" "x2CBABC" "x2CCC85" "x2F364E" "x33B4D0" "x561B4C" "x563983" "x5B03BF" "x7EC6D1" "x800C9F" "x801ECC" "x806F13" "x833C4F" "x8387DB" "xA88139" "xAA422F" "xAA7293" "xAA84C0" "xAA93D9" "xAAA5A2" "xAAC33E" "xAD0084" "xAD3FCF" "xB11E3E" "xB1A8B1" }
+		}
+		add_homeland = vedinan
+	}
+	
+	s:STATE_SKYRIM = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x000314" "x001E3C" "x004819" "x06428C" "x079F19" "x2A4B99" "x2AA512" "x2C3603" "x2F51DF" "x30450D" "x30548F" "x318494" "x543CBA" "x546601" "x54B7AB" "x5A488D" "x5A5710" "x5B8715" "x7E3363" "x7E4281" "x7EBA2C" "x80279A" "xA812C0" "xA82761" "xA84598" "xA8AE2A" "xA8C611" "xAE4E8E" "xAF6F11" "xB03C39" "xB05A3E" }
+		}
+		add_homeland = vedinan
+	}
+	
+	s:STATE_EAGLETON = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x0533CD" "x058A9B" "x058DDC" "x095DC8" "x0F00E8" "x336C8A" "x33B7AD" "x5B0F01" "x5D039C" "x5D3301" "x7F6CCC" "x83B740" "x855D0E" "x873FE0" "x8793D1" "x87998B" "xAD304D" "xAD8A5C" "xB1211B" "xFF3DFD" }
+		}
+		add_homeland = vedinan
+	}
+	
+	s:STATE_HÖGLAND = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x0054BE" "x006000" "x00BD50" "x2C301C" "x30545D" "x30B1DF" "x30B703" "x30C98F" "x33CF94" "x5D3024" "x5D3F3D" "x5D8AC9" "x5D9051" "x832190" "x832DCC" "x853F09" "x8742BD" "x87BDAE" "xA8C952" "xB115D9" "xB190CA" }
+		}
+		add_homeland = vedinan
+	}
+	
+	s:STATE_FLODBOTTEN = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x01B79B" "x05AB4B" "x06AE5F" "x077291" "x09A514" "x0E00F8" "x2FAECB" "x305A17" "x31570D" "x336326" "x599347" "x5A9F88" "x5B5A8D" "x877B86" "x87CFDB" "xAF4289" "xAFCC61" }
+		}
+		add_homeland = vedinan
+	}
+	
+	s:STATE_FJÄRRLAND = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x065DB4" "x09185A" "x300035" "x30ABC1" "x33C90D" "x5A45B0" "x5A903D" "x5ACC47" "x8418CC" "x844831" "x8648A4" "xAE7839" "xB05143" "xB1C6B6" }
+		}
+		add_homeland = vedinan
+	}
+	
+	s:STATE_WINTERHOLD = {
+		create_state = {
+			country = c:VED
+    			owned_provinces = { "x005455" "x3106C6" "x31CC44" "x547B38" "x5BCFC4" "x626262" "x7EBAC2" "x851B4A" "x85394F" "x85D245" "xAF00C5" }
+		}
+		add_homeland = vedinan
+	}
 	
 }
