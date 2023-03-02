@@ -130,17 +130,12 @@ STATE_VLEUGELAND = {
 
 STATE_OLDEBEKEN = {
     id = 379
-    provinces = { "x028496" "x0899C8" "x5A9CAB" "x7E66A4" "x860C31" "x8675C2" "xB07843" "xB09648" "xB16620" }
+    provinces = { "x028496" "x0899C8" "x5A9CAB" "x7E66A4" "x860C31" "x8675C2" "xB07843" "xB09648" "xB16620" "xB1C02F" }
 }
 
 STATE_GRIFFTON = {
     id = 380
     provinces = { "x083CDC" "x090350" "x093C19" "x323F5D" "x5D6CC4" "x86AE8B" "x8724B8" "x876F45" "x87B109" "x87C954" "xA9279D" "xB151E3" }
-}
-
-STATE_SKYFALL = {
-    id = 381
-    provinces = { "xB1C02F" }
 }
 
 STATE_TARRIN = {

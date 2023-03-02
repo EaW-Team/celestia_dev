@@ -199,6 +199,10 @@ STATES = {
 			country = c:JER
     			owned_provinces = { "x0875A5" "x321E17" "x32393F" "x327826" "x32C3B2" "x33369E" "x333F99" "x5C2197" "x5C874C" "x5D391F" "x5DC6D3" "x7EC63B" "x862418" "x874E63" "x87A80E" "xB02798" "xB07502" "xB0BDB1" "xB18AAC" "xB1AB8E" "xFF3278" "xFF3878" }
 		}
+		create_state = {
+			country = c:FEZ
+    			owned_provinces = { "x32C3B2" }
+		}
 	}
 	
 	s:STATE_VLEUGELAND = {
@@ -213,6 +217,10 @@ STATES = {
 			country = c:EMP
     			owned_provinces = { "x028496" "x0899C8" "x5A9CAB" "x7E66A4" "x860C31" "x8675C2" "xB07843" "xB09648" "xB16620" }
 		}
+		create_state = {
+			country = c:TRD
+    			owned_provinces = { "xB1C02F" }
+		}
 	}
 	
 	s:STATE_GRIFFTON = {
@@ -220,12 +228,9 @@ STATES = {
 			country = c:EMP
     			owned_provinces = { "x083CDC" "x090350" "x093C19" "x323F5D" "x5D6CC4" "x86AE8B" "x8724B8" "x876F45" "x87B109" "x87C954" "xA9279D" "xB151E3" }
 		}
-	}
-	
-	s:STATE_SKYFALL = {
 		create_state = {
-			country = c:TRD
-    			owned_provinces = { "xB1C02F" }
+			country = c:GIT
+    			owned_provinces = { "x093C19" }
 		}
 	}
 	

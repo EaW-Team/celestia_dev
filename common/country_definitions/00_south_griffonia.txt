@@ -86,3 +86,14 @@ MIT = { # Asterion
 	capital = STATE_ASTER'S_LANDING
 	cultures = { asterionese }
 }
+
+CYA = { # Cyanolisia
+	color = { 87 104 169 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_THYMÍAUSHAFEN
+	cultures = { cyanolisian }
+}

@@ -365,4 +365,36 @@ STATES = {
 		add_homeland = asterionese
 	}
 	
+	s:STATE_SALMARKT = {
+		create_state = {
+			country = c:CYA
+    			owned_provinces = { "x072428" "x3127A8" "x317235" "x3181B7" "x5A429C" "x5A5DC4" "x5B1BA6" "x5B39AB" "x5BB49C" "x5BD2A1" "x840359" "x852DA9" "xAE932A" }
+		}
+		add_homeland = cyanolisian
+	}
+	
+	s:STATE_AUROPALLIETA = {
+		create_state = {
+			country = c:CYA
+    			owned_provinces = { "x06844B" "x068AD2" "x06A8D7" "x088A19" "x2EC6A8" "x307ED0" "x5B6C83" "x8466CC" "x8524DB" "xAE63C5" "xAE694D" "xAFB1CF" }
+		}
+		add_homeland = cyanolisian
+	}
+	
+	s:STATE_CANNABIA = {
+		create_state = {
+			country = c:CYA
+    			owned_provinces = { "x049019" "x0618DC" "x061E96" "x06CFD7" "x072ADC" "x0769C3" "x07B450" "x07C091" "x305A44" "x30D258" "x312D5D" "x316C44" "x317885" "x31B7D0" "x5A00D8" "x5A6F24" "x5A7BC9" "x5AA851" "x5B482E" "x5B6FC4" "x5BBA51" "x5C7556" "x846045" "x84ABD1" "x855A31" "xAC09AC" "xAE4E25" "xAE81CA" "xAF275C" "xAF302A" }
+		}
+		add_homeland = cyanolisian
+	}
+	
+	s:STATE_THYMÍAUSHAFEN = {
+		create_state = {
+			country = c:CYA
+    			owned_provinces = { "x058D46" "x2F33DA" "x596038" "x5966BF" "x5A634C" "x5B69A6" "x85BA90" "xAE78CF" "xAF339D" "xAF4E2F" "xAF5DB1" }
+		}
+		add_homeland = cyanolisian
+	}
+	
 }
