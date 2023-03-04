@@ -1,0 +1,30 @@
+STATES = {
+	s:STATE_PYTHAGOREA = {
+		create_state = {
+			country = c:RPU
+			owned_provinces = { "x5A57A6" "x5A39A1" }
+		}
+		
+		create_state = {
+			country = c:LOE
+			owned_provinces = { "xAE219D" "x06CC96" "x06AE91" "x5E3956" "x0A9041" "x5E69BA" }
+		}
+		
+		create_state = {
+			country = c:PAO
+			owned_provinces = { "x069F0F" "xAE5102" "xAEAB11" "x5A6906" "x5A0C1A" }
+		}
+		
+		create_state = {
+			country = c:ADA
+			owned_provinces = { "x065A0A" "x5A6629" "x5A870B" "x5AC315" "xB25D5C" "x0A63B9" "x34871C" "x6521B2" }
+		}
+	}
+	
+	s:STATE_BALISEMONT = {
+		create_state = {
+			country = c:RPU
+			owned_provinces = { "x303621" "x300999" }
+		}
+	}
+}

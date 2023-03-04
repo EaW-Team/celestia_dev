@@ -1,0 +1,54 @@
+RPU = { # Riaportu
+	color = { 78 223 141 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_PYTHAGOREA
+	cultures = {  }
+}
+
+LOU = { # Loule
+	color = { 89 116 121 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_PYTHAGOREA
+	cultures = {  }
+}
+
+LOU = { # Loule
+	color = { 129 62 167 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_PYTHAGOREA
+	cultures = {  }
+}
+
+PAO = { # Pythagoros
+	color = { 149 88 42 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_PYTHAGOREA
+	cultures = {  }
+}
+
+ADA = { # Agradia
+	color = { 212 222 232 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_PYTHAGOREA
+	cultures = {  }
+}
