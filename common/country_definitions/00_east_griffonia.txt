@@ -9,19 +9,8 @@ RPU = { # Riaportu
 	cultures = {  }
 }
 
-LOU = { # Loule
+LOE = { # Loule
 	color = { 89 116 121 }
-	
-	country_type = recognized
-	
-	tier = principality
-	
-	capital = STATE_PYTHAGOREA
-	cultures = {  }
-}
-
-LOU = { # Loule
-	color = { 129 62 167 }
 	
 	country_type = recognized
 	
@@ -50,5 +39,71 @@ ADA = { # Agradia
 	tier = principality
 	
 	capital = STATE_PYTHAGOREA
+	cultures = {  }
+}
+
+BET = { # Balisemont
+	color = { 55 47 123 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_BALISEMONT
+	cultures = {  }
+}
+
+RMC = { # Rey Macaco
+	color = { 91 122 44 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ECOLE
+	cultures = {  }
+}
+
+CEI = { # Colegio
+	color = { 16 48 61 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ECOLE
+	cultures = {  }
+}
+
+CEI = { # Colegio
+	color = { 25 144 100 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ECOLE
+	cultures = {  }
+}
+
+VRR = { # Viartorre
+	color = { 49 82 57 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_GUARDIAN_FIELD
+	cultures = {  }
+}
+
+CAE = { # Camafeu
+	color = { 156 200 10 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_GUARDIAN_FIELD
 	cultures = {  }
 }

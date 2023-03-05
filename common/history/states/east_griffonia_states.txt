@@ -26,5 +26,39 @@ STATES = {
 			country = c:RPU
 			owned_provinces = { "x303621" "x300999" }
 		}
+		
+		create_state = {
+			country = c:BET
+			owned_provinces = { "x5A99CE" "x5A0F5B" "xAE7248" "x843F63" "x307508" "x06159B" }
+		}
+		
+		create_state = {
+			country = c:RMC
+			owned_provinces = { "x5A968D" }
+		}
+	}
+	
+	s:STATE_ECOLE = {
+		create_state = {
+			country = c:RMC
+			owned_provinces = { "xAEBA93" "x305703" "x5AD297" "x06275F" }
+		}
+		
+		create_state = {
+			country = c:CEI
+			owned_provinces = { "x2A9C44" "x84990E" "x5A7888" "x5D9397" }
+		}
+	}
+	
+	s:STATE_GUARDIAN_FIELD = {
+		create_state = {
+			country = c:VRR
+			owned_provinces = { "x30848A" "xAE42E3" "xAE6084" "xAC2193" }
+		}
+		
+		create_state = {
+			country = c:CAE
+			owned_provinces = { "x2E1812" "x2E575D" "x585ADD" "x581B92" "xACB7AC" "x848127" "x06810A" }
+		}
 	}
 }
