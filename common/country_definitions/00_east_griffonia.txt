@@ -75,17 +75,6 @@ CEI = { # Colegio
 	cultures = {  }
 }
 
-CEI = { # Colegio
-	color = { 25 144 100 }
-	
-	country_type = recognized
-	
-	tier = principality
-	
-	capital = STATE_ECOLE
-	cultures = {  }
-}
-
 VRR = { # Viartorre
 	color = { 49 82 57 }
 	
@@ -105,5 +94,16 @@ CAE = { # Camafeu
 	tier = principality
 	
 	capital = STATE_GUARDIAN_FIELD
+	cultures = {  }
+}
+
+OPI = { # Opinicus
+	color = { 135 140 80 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_NIGHT_FOREST_SOUTH
 	cultures = {  }
 }
