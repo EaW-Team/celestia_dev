@@ -107,3 +107,14 @@ OPI = { # Opinicus
 	capital = STATE_NIGHT_FOREST_SOUTH
 	cultures = {  }
 }
+
+BRF = { # Brodfeld
+	color = { 208 147 57 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_KIVESSIN
+	cultures = { Brodfeldian }
+}

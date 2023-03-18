@@ -104,4 +104,60 @@ STATES = {
 			owned_provinces = { "x09B7D7" "x0A0F32" "x0A849B" "x340C2B" "x5B9697" "x5E4E92" "x842AC2" "x85C69F" "x88330E" "xB14E0C" "xB1CF1B" "xB248BB" "xB26039" }
 		}
 	}
+	
+	s:STATE_SYDIA = {
+		create_state = {
+			country = c:BRF
+			owned_provinces = { "x067B50" "x2C42DF" "x30722B" "x308D53" "x30B453" "x5B6633" "x5BA5B0" "x845195" "x847E4A" "x854BAE" "xAE06D9" }
+		}
+	}
+	
+	s:STATE_GRIFFONWILL = {
+		create_state = {
+			country = c:BRF
+			owned_provinces = { "x050FAA" "x08CC0A" "x3060CB" "x30CF80" "x59000B" "x5A0C83" "x5DB133" "x880931" }
+		}
+	}
+	
+	s:STATE_KIVESSIN = {
+		create_state = {
+			country = c:BRF
+			owned_provinces = { "x2F78DF" "x8533C7" "xAD75BB" "xAD9F02" "xAF09C0" "xAF544D" "xAF7252" }
+		}
+	}
+	
+	s:STATE_TERRIBLE_MARSH = {
+		create_state = {
+			country = c:BRF
+			owned_provinces = { "x071BC3" "x090696" "x2F2458" "x2F8A3F" "x330917" "x5B6C51" "x5BC93D" "x8303B8" "x834E18" "x84B7E0" "x850640" "x876927" "xAF78A2" }
+		}
+	}
+	
+	s:STATE_BRODFELD = {
+		create_state = {
+			country = c:BRF
+			owned_provinces = { "x0636E1" "x069955" "x0900DC" "x2F5112" "x309CD5" "x30B112" "x30B730" "x312DC6" "x314BCB" "x5A2D60" "x5B4E4C" "x8430E0" "x846C86" "x848A8B" "x856FD1" "x866336" "xAE6F07" "xAE8D0C" "xAEC916" "xAF9057" }
+		}
+	}
+	
+	s:STATE_LIFOV = {
+		create_state = {
+			country = c:BRF
+			owned_provinces = { "x05180F" "x311E44" "x594B97" "x596CDD" "x599901" "x5B3047" "x5B57B0" "x836F5E" "x84215E" "x8551CC" }
+		}
+	}
+	
+	s:STATE_WHITE_FLOWER = {
+		create_state = {
+			country = c:BRF
+			owned_provinces = { "x0060CD" "x052D46" "x08999B" "x08CC41" "x2E4E94" "x318708" "x331830" "x331BDA" "x5C3FD3" "x5C48CE" "x5C7833" "x5C9601" "x86BD45" "xAC2D02" "xADA5B6" "xB081DE" }
+		}
+	}
+	
+	s:STATE_ACUTE_FOREST = {
+		create_state = {
+			country = c:BRF
+			owned_provinces = { "x075D1E" "x081823" "x08334B" "x08845F" "x093FC3" "x172BEF" "x318D26" "x31C930" "x348DA3" "x5A4B01" "x5AA510" "x5B30DD" "x5B33BA" "x5B90A6" "x5BCCB0" "x5C458D" "x5CCF01" "x821E40" "x84A890" "x84C695" "x85363B" "x857245" "x859327" "x85BDD1" "x86B7BD" "x872A40" "xAF39BB" "xAF75C5" "xB05A11" "xB19CA2" }
+		}
+	}
 }
