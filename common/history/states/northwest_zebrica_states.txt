@@ -170,7 +170,7 @@ STATES = {
 	s:STATE_OROMEOWIA = {
 		create_state = {
 			country = c:ABY
-    			owned_provinces = { "x4D2816" "x4E2613" "x632F08" "x6E492E" "x716630" "x795132" "x7E3512" "x8B340A" "xA88A2D" "xAFB06F" "xB06F7A" "xB84912" "xBA5532" "xCE8B49" "xCEB487" "xD21E3B" "xD78861" "xD8772E" "xE4C157"  }
+    			owned_provinces = { "x4AB59A" "x4D2816" "x4E2613" "x632F08" "x6E492E" "x716630" "x795132" "x7E3512" "x8B340A" "xA88A2D" "xAFB06F" "xB06F7A" "xB84912" "xBA5532" "xCE8B49" "xCEB487" "xD21E3B" "xD78861" "xD8772E" "xE4C157"  } 
 		}
 		add_homeland = Abyssinian
 	}

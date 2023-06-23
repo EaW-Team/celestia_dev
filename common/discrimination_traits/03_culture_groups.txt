@@ -6,3 +6,6 @@ riverpony_culture_group={
 
 karthinian_culture_group={
 }
+feline_culture_group = {
+	
+}

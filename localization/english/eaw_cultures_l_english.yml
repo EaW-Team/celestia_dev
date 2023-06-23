@@ -31,6 +31,7 @@
  riverpony_culture_group:0 "Riverpony"
  karthinian_culture_group:0 "Karthinian"
  arabian_culture_group:0 "Arabian"
+ feline_culture_group:0 "Feline"
 # Cultral Descriptives
  aboriginal_griffon:0 "Aboriginal"
 #Pony Cultures
@@ -61,5 +62,10 @@
  #Donkies cultures
  sumareians:0 "Sumareians"
  asstyrian:0 "Asstyrian"
+ #Cats Cultures
+ amhaira:0 "Amhaira"
+ tigeray:0 "Tigeray"
+ pawritrean:0 "Pawritrean"
+ orowmeow:0 "Oromeow"
  #Zebra cultures
  kásan:0 "Kásan"

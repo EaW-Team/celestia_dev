@@ -167,3 +167,12 @@ arconate = {
 	}
 	color = rgb{ 127 2 5 }
 }
+
+#Cat Religion
+tailemeowedo = {
+	texture = "gfx/interface/icons/religion_icons/tailemeowedo.dds"
+	traits = {
+		cat_religion_group	
+	}
+	color = { 255 102 153 }
+}

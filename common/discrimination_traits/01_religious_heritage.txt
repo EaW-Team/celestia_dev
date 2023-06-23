@@ -21,3 +21,6 @@ diamond_dog_religion_group = {
 changeling_religion_group = {
 	heritage = yes
 }
+cat_religion_group = {
+	heritage = yes
+}

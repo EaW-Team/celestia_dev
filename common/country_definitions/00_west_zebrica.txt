@@ -100,13 +100,10 @@ KAR = { # Karkadannistan
 
 ABY = { # Abyssinia
 	color = { 56 120 191 }
-	
 	country_type = recognized
-	
 	tier = kingdom
-	
+	cultures = { amhaira }
 	capital = STATE_PANTHERA
-	cultures = { Abyssinian }
 }
 
 MGY = { # Maregypt

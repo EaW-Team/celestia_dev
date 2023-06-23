@@ -1,2 +1,5 @@
 ﻿aboriginal_griffon = {
 }
+feline_culture_group = {
+	
+}

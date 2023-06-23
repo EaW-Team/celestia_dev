@@ -1,0 +1,10 @@
+POPS = {
+	s:STATE_PANTHERA = {
+		region_state:ABY = {
+			create_pop = {
+				culture = amhaira
+				size = 177525
+			}
+		}
+	}
+}

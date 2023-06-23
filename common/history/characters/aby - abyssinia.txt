@@ -1,0 +1,10 @@
+CHARACTERS = {
+	c:ABY = {
+		create_character = {
+			template = ABY_mewodora_clawomonid
+		}
+		create_character = {
+			template = ABY_mawkonnen_clawomonid
+		}
+	}
+}
