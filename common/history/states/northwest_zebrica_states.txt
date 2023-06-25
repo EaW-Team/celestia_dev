@@ -87,150 +87,6 @@ STATES = {
 		add_homeland = asstyrian
 	}
 	
-	s:STATE_PANTHERA = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x0E3D1A" "x1BBD43" "x224029" "x2D743F" "x443424" "x693B24" "x6CDC88" "x6F5235" "x85B792" "xA46C35" "xAE8F3B" "xC14D14" "xE0BC5C" "xE59554" "xE8D090" "xECCA6E" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_TIGERAY = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x20A540" "x250C30" "x2A6137" "x392B24" "x58645B" "x5C117D" "x86752D" "x94451E" "xA352C7" "xABE8B9" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_AMHAPURA = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x2E2233" "x4E1C29" "x5E1855" "x683E49" "x6F1D68" "x871FB5" "x9A772B" "xA2377D" "xA51138" "xAF576E" "xBB9EC8" "xC26EE7" "xCB6C17" "xCE987D" "xD1B707" "xDA1548" "xDC8AC0" "xEB5CDF" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_MEDAFI = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x593C19" "x798217" "x8D866A" "xB38224" "xC7BD97" "xD7B52C" "xDAC058" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_DIMETI = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x524612" "x847222" "xA88D14" "xC0AD55" "xCAB976" "xCBC5AA" "xD5C685" "xE5C840" "xEDDD93" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_PURRK'ELE = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x534822" "x666434" "x674229" "x6F4C2A" "x787763" "x917205" "xA35D18" "xA39013" "xAD5215" "xC4AA98" "xD6D14F" "xE9DA75" "xEAC6A2" "xEBC6A2" "xEC9540" "xF4CB90" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_KATOUM = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x321809" "x40A59D" "x42291A" "x72462C" "x875E22" "x9E5A30" "xAD683F" "xBB7B1E" "xD39169" "xDEB969" "xE0A248" "xF4D7C6" "xF56F1E" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_PAWRITREA = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x6A5950" "x6C4F25" "x6D7F37" "x775A31" "x7D3103" "x8D8A43" "x938D28" "xA35424" "xBAB34B" "xC0937C" "xC0DC6C" "xC1D094" "xC5ED4A" "xCD8F23" "xCE6938" "xD3DABF" "xD58F2A" "xDF952C" "xE8E063" "xE9A20A" "xEBC389" "xEEE76F" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_KOM_MAREBO = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x693224" "x86250B" "x975D2A" "xA35849" "xD34620" "xDA7014" "xE2866C" "xE5A17D" "xEB8C39" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_MAU = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x3F1E61" "x4B0D2B" "x56473F" "x564D42" "x643F14" "x815420" "x83BE78" "x8561AB" "x893DD6" "x97215B" "xA70C59" "xBAEEAF" "xBB713B" "xC1853E" "xD67D14" "xEDC7AC" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_OROMEOWIA = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x4AB59A" "x4D2816" "x4E2613" "x632F08" "x6E492E" "x716630" "x795132" "x7E3512" "x8B340A" "xA88A2D" "xAFB06F" "xB06F7A" "xB84912" "xBA5532" "xCE8B49" "xCEB487" "xD21E3B" "xD78861" "xD8772E" "xE4C157"  } 
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_DOLLO = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x453502" "x4A1A26" "x512631" "x794728" "x7A3308" "x7C5A3C" "x8E1232" "x8F5A2B" "xCC6B14" "xD57D48" "xEDE49A" "xEFB694" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_MEOWTEKEL = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x150810" "x17020F" "x1D1315" "x2A0B1E" "x451131" "x48062E" "x972D48" "xB87C8C" "xDE3460" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_CATORAHE = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x360726" "x3C2735" "x3E151F" "x3F0F1B" "x43A59D" "x462616" "x533418" "x542F39" "x543349" "x600B43" "x69402C" "x726E4A" "x733344" "x740B28" "x81472A" "x9A0A69" "xA08063" "xA5520E" "xA76073" "xA9707F" "xC59D7A" "xC5B73F" "xC92651" "xCC8B6B" "xD16707" "xE5B9C5" "xE76C30" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_MEOWUAK = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x69D382" "x7F8520" "x875977" "xC73093" "xC74D9D" "xDCE284" "xDD8EA6" "xE3DEBA" "xF24F81" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_JIRATI = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x330B19" "x351E24" "x450F22" "x461E2C" "x5C1F35" "x623E54" "x643A45" "x691027" "x692B41" "x6B082A" "x730E32" "x731435" "x9C4C68" "xA61548" "xC92A62" "xCB5A82" "xD3879B" "xEAD2A0" "xEFAF26" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_PURRSIA = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x0D4C3F" "x1B9076" "x23AD8F" "x30806E" "x324193" "x6C7BC9" }
-		}
-		add_homeland = Abyssinian
-	}
-	
-	s:STATE_KATKAT = {
-		create_state = {
-			country = c:ABY
-    			owned_provinces = { "x341A21" "x8A616C" "xC94271" "xCF3F64" "xD16B9B" }
-		}
-		add_homeland = Abyssinian
-	}
-	
 	s:STATE_SOMNAMBULA = {
 		create_state = {
 			country = c:MGY
@@ -239,18 +95,18 @@ STATES = {
 		add_homeland = maregyptian
 	}
 	
-	s:STATE_SOMNAMBULA = {
+	s:STATE_NEIGHILE_DELTA = {
 		create_state = {
 			country = c:MGY
-    			owned_provinces = { "x300E28" "x370F2E" "x45273E" "x531043" "x57264C" "x594354" "x5F0D4B" "x682735" "x6E5067" "x7B455C" "x922B79" "x981632" }
+    			owned_provinces = { "x370F2E" "x45273E" "x531043" "x57264C" "x594354" "x5F0D4B" "x682735" "x6E5067" "x7B455C" "x922B79" "x981632" }
 		}
 		add_homeland = maregyptian
-	}
+	} 
 	
 	s:STATE_TROTANIS = {
 		create_state = {
 			country = c:MGY
-    			owned_provinces = { "x33091B" "x4E2544" "x660A24" "x911E3F" "xBA1846" "xBE627E" "xCC97A7" }
+    			owned_provinces = { "x4E2544" "x660A24" "x911E3F" "xBA1846" }
 		}
 		add_homeland = maregyptian
 	}
@@ -290,7 +146,7 @@ STATES = {
 	s:STATE_SINEIGHI = {
 		create_state = {
 			country = c:MGY
-    			owned_provinces = { "x431428" "x49202C" "x492333" "x6B364C" "x723B20" "x734D44" "x820C2F" "x92345B" "xA34460" "xA97358" "xB24E1B" "xC7305D" }
+    			owned_provinces = { "x431428" "x49202C" "x492333" "x6B364C" "x723B20" "x734D44" "x820C2F" "x92345B" "xA34460" "xA97358" "xB24E1B" "xC7305D" "xBE627E" "xCC97A7" "x33091B" }
 		}
 		add_homeland = maregyptian
 	}
@@ -343,7 +199,13 @@ STATES = {
 		add_homeland = maregyptian
 	}
 	
-	
+	s:STATE_COLTUBA = {
+		create_state = {
+			country = c:MGY
+			owned_provinces = { "x45280F" "x743A08" "x7F3F17" "x8D380A" "xA2546A" "xA44E24" "xA47258" "xB44D16" "xC1774F" "xD57E53" }
+		}
+		add_homeland = maregyptian
+	}
 
 }
 

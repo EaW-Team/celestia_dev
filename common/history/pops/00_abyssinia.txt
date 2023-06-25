@@ -3,7 +3,267 @@ POPS = {
 		region_state:ABY = {
 			create_pop = {
 				culture = amhaira
-				size = 177525
+				size = 451339
+			}
+			create_pop = {
+				culture = tigeray 
+				size = 61827
+			}
+			create_pop = {
+				culture = oromeow
+				size = 49461
+			}
+			create_pop = {
+				culture = pawritrean
+				size = 55644
+			}
+		}
+	}
+	s:STATE_KOM_MAREBO = {
+		region_state:ABY = {
+			create_pop = {
+				culture = pawritrean
+				size = 3686
+			}
+		}
+	}
+	s:STATE_KATOUM = {
+		region_state:ABY = {
+			create_pop = {
+				culture = pawritrean
+				size = 32091
+			}
+		}
+	}
+	s:STATE_PAWRITREA = {
+		region_state:ABY = {
+			create_pop = {
+				culture = pawritrean
+				size = 187656
+			}
+			create_pop = {
+				culture = oromeow
+				size = 29042
+			}
+			create_pop = {
+				culture = tigeray
+				size = 2234
+			}
+			create_pop = {
+				culture = amhaira
+				size = 4468
+			}
+		}
+	}
+	s:STATE_PURRK'ELE = {
+		region_state:ABY = {
+			create_pop = {
+				culture = pawritrean
+				size = 77463
+			}
+			create_pop = {
+				culture = amhaira
+				size = 4164
+			}
+			create_pop = {
+				culture = oromeow
+				size = 1665
+			}
+		}
+	}
+	s:STATE_OROMEOWIA = {
+		region_state:ABY = {
+			create_pop = {
+				culture = oromeow
+				size = 121914
+			}
+			create_pop = {
+				culture = pawritrean
+				size = 3849
+			}
+			create_pop = {
+				culture = amhaira
+				size = 2566
+			}
+		}
+	}
+	s:STATE_MAU = {
+		region_state:ABY = {
+			create_pop = {
+				culture = oromeow
+				size = 125341
+			}
+			create_pop = {
+				culture = pawritrean
+				size = 8023
+			}
+		}
+	}
+	s:STATE_MEOWTEKEL = {
+		region_state:ABY = {
+			create_pop = {
+				culture = oromeow
+				size = 82971
+			}
+			create_pop = {
+				culture = amhaira
+				size = 1234
+			}
+			create_pop = {
+				culture = pawritrean
+				size = 768
+			}
+		}
+	}
+	s:STATE_JIRATI = {
+		region_state:ABY = {
+			create_pop = {
+				culture = oromeow
+				size = 122796
+			}
+			create_pop = {
+				culture = amhaira
+				size = 356
+			}
+			create_pop = {
+				culture = tigeray
+				size = 6541
+			}
+		}
+	}
+	s:STATE_KATKAT = {
+		region_state:ABY = {
+			create_pop = {
+				culture = oromeow
+				size = 97852
+			}
+			create_pop = {
+				culture = amhaira
+				size = 12354
+			}
+			create_pop = {
+				culture = tigeray
+				size = 3654
+			}
+			create_pop = {
+				culture = pawritrean
+				size = 1234
+			}
+		}
+	}
+	s:STATE_DOLLO = {
+		region_state:ABY = {
+			create_pop = {
+				culture = oromeow
+				size = 17756 
+			}
+		}
+	}
+	s:STATE_CATORAHE = {
+		region_state:ABY = {
+			create_pop = {
+				culture = oromeow
+				size = 149365
+			}
+			create_pop = {
+				culture = amhaira
+				size = 38460
+			}
+		}
+	}
+	s:STATE_AMHAPURA = {
+		region_state:ABY = {
+			create_pop = {
+				culture = amhaira
+				size = 189508
+			}
+			create_pop = {
+				culture = tigeray
+				size = 21782
+			}
+			create_pop = {
+				culture = oromeow
+				size = 6534
+			}
+		}
+	}
+	s:STATE_MEOWUAK = {
+		region_state:ABY = {
+			create_pop = {
+				culture = amhaira
+				size = 29061
+			}
+			create_pop = {
+				culture = tigeray
+				size = 32770
+			}
+			create_pop = {
+				culture = pawritrean
+				size = 3214
+			}
+		}
+	}
+	s:STATE_PURRSIA = {
+		region_state:ABY = {
+			create_pop = {
+				culture = amhaira
+				size = 129317
+			}
+			create_pop = {
+				culture = pawritrean
+				size = 2135
+			}
+			create_pop = {
+				culture = tigeray
+				size = 748
+			}
+			create_pop = {
+				culture = oromeow
+				size = 7321
+			}
+		}
+	}
+	s:STATE_DIMETI = {
+		region_state:ABY = {
+			create_pop = {
+				culture = amhaira
+				size = 184425
+			}
+			create_pop = {
+				culture = tigeray
+				size = 14838
+			}
+			create_pop = {
+				culture = pawritrean
+				size = 12718
+			}
+		}
+	}
+	s:STATE_TIGERAY = {
+		region_state:ABY = {
+			create_pop = {
+				culture = tigeray
+				size = 291240
+			}
+			create_pop = {
+				culture = amhaira
+				size = 53237
+			}
+			create_pop = {
+				culture = oromeow
+				size = 2314
+			}
+		}
+	}
+	s:STATE_MEDAFI = {
+		region_state:ABY = {
+			create_pop = {
+				culture = tigeray
+				size = 156768
+			}
+			create_pop = {
+				culture = amhaira
+				size = 2456
 			}
 		}
 	}

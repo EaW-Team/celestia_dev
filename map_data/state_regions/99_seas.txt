@@ -30,3 +30,11 @@ STATE_EAST_OCEAN = {
     id = 3007
     provinces = { "x0a1fe8" }
 }
+STATE_ABYSSINIAN_COAST = {
+    id = 3008
+    provinces = { "x8870c1" }
+}
+STATE_GREEN_BAY = {
+    id = 3009
+    provinces = { "x9e83b8" }
+}
