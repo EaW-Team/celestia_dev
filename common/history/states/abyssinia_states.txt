@@ -65,7 +65,7 @@ s:STATE_PAWRITREA = {
 
 s:STATE_KOM_MAREBO = {
 	create_state = {
-		country = c:ABY
+		country = c:MGY
 			owned_provinces = { "x693224" "x86250B" "x975D2A" "xA35849" "xD34620" "xDA7014" "xE2866C" "xE5A17D" "xEB8C39" }
 	}
 	add_homeland = pawritrean

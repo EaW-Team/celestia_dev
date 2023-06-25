@@ -99,7 +99,7 @@ KAR = { # Karkadannistan
 }
 
 ABY = { # Abyssinia
-	color = { 56 120 191 }
+	color = { 51 102 204 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { amhaira }
@@ -114,7 +114,7 @@ MGY = { # Maregypt
 	tier = kingdom
 	
 	capital = STATE_SOMNAMBULA
-	cultures = { maregyptian }
+	cultures = { lower_maregyptian }
 }
 
 REE = { # Re'em
@@ -148,4 +148,20 @@ AES = { # Aestlonia
 	
 	capital = STATE_AJLOUN
 	cultures = { aestlonian }
+}
+
+MDL = { #Manedalusia
+	color = { 0 153 0 }
+	country_type = recognized
+	tier = principality
+	capital = STATE_COLTUBA
+	cultures = { manedalusian }
+}
+
+KLG = { #Klugetown
+	color = { 88 88 88 }
+	country_type = recognized
+	tier = principality
+	capital = STATE_KLUGETOWN
+	cultures = { upper_maregyptian }
 }

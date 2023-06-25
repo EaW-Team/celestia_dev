@@ -27,3 +27,39 @@ ABY = {
 		color2 = "red"
 	}
 }
+
+MGY = {
+	#Maregypt Flag
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+
+	colored_emblem = {
+		texture = "maregyptian_emblem.dds"
+		color1 = "white"
+		color2 = "white"
+	}
+}
+
+KLG = {
+	#Klugetown Flag
+	pattern = "pattern_solid.tga"
+	color1 = "grey"
+
+	colored_emblem = {
+		texture = "klugetown_emblem.dds"
+		color1 = "grey"
+		color2 = "black"
+	}
+}
+
+MDL = {
+	#Manedalusia Flag
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+
+	colored_emblem = {
+		texture = "manedalusia_emblem.dds"
+		color1 = "white"
+		color2 = "yellow"
+	}
+}
