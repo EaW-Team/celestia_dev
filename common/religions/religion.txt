@@ -161,7 +161,7 @@ God-Monarch_Cult = {
 
 #Griffon Religion
 arconate = {
-	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	texture = "gfx/interface/icons/religion_icons/archonism.dds"
 	traits = {
 		griffon_religion_group
 	}

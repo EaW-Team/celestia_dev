@@ -236,7 +236,7 @@ STATES = {
 			country = c:GFS
     			owned_provinces = { "x64AA47" "x76C66B" "x7B8C8E" "x7DCD5A" "x89AD84" "x91BD7F" "x97E477" "xAFD69F" "xB5CEAA" }
 		}
-		add_homeland = vrystaatan
+		add_homeland = kompel
 	}
 	
 	s:STATE_GRIFFEVELD = {
@@ -244,7 +244,7 @@ STATES = {
 			country = c:GFS
     			owned_provinces = { "x249C32" "x558949" "x68D575" "x9AE27C" "x9F816C" "xA0C987" "xABCEA3" "xC3E2A5" "xD09063" "xD7EE87" "xDAAD8D" }
 		}
-		add_homeland = vrystaatan
+		add_homeland = kompel
 	}
 	
 	s:STATE_ZEBELLENDAM = {
@@ -252,7 +252,7 @@ STATES = {
 			country = c:GFS
     			owned_provinces = { "x3E7950" "x4F8B64" "x6CBB84" "x7EF094" "x81C684" "x8CC29F" "x96A58D" }
 		}
-		add_homeland = vrystaatan
+		add_homeland = kompel
 	}
 	
 	s:STATE_GRIFF_REINET = {
@@ -260,7 +260,7 @@ STATES = {
 			country = c:GFS
     			owned_provinces = { "x297E3A" "x61705A" "x68ECC2" "x6A8E5A" "x6CBC7C" "x6EC78D" "x74C152" "x81C98F" "x82B480" "x97B28C" "xB6E3BE" }
 		}
-		add_homeland = vrystaatan
+		add_homeland = kompel
 	}
 	
 	s:STATE_ZIMPOPO = {
@@ -268,7 +268,7 @@ STATES = {
 			country = c:GFS
     			owned_provinces = { "x41AC3E" "x59D87A" "x6CC26A" "x739573" "xACE57A" "xC2DAAC" }
 		}
-		add_homeland = vrystaatan
+		add_homeland = kompel
 	}
 	
 	s:STATE_MZINGA = {

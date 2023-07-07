@@ -3,3 +3,6 @@
 feline_culture_group = {
 	
 }
+zebrican_griffon_group = {
+	
+}

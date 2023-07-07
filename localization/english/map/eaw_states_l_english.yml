@@ -137,3 +137,8 @@
  STATE_NEIGHILE_DELTA:0 "Neighile Delta"
  STATE_SOMNAMBULA:0 "Somnambula"
  STATE_MAREJ:0 "Marej"
+ STATE_NIEUW_ROTTENDESTAAT:0 "Nieuw Rottendestaat"
+ STATE_GRIFF_REINET:0 "Griff-Reinet"
+ STATE_GRIFFEVELD:0 "Griffeveld"
+ STATE_ZEBELLENDAM:0 "Zebellendam"
+ STATE_ZIMPOPO:0 "Zimpopo"

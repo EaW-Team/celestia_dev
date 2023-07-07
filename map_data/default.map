@@ -11,6 +11,8 @@ sea_starts = {
 	x2d4f87 x6fb3de
 	#Abyssinia
 	x9e83b8 x8870c1
+	#East Zebrica
+	x5d89f5
 }
 lakes = {
 	###Riverlands###
@@ -19,4 +21,6 @@ lakes = {
 	xa0f5a5
 	xea6c90
 	x310f2b
+	#East Zebrica
+	x7b8c8e
 }

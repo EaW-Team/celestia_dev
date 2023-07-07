@@ -38,3 +38,7 @@ STATE_GREEN_BAY = {
     id = 3009
     provinces = { "x9e83b8" }
 }
+STATE_PEACEFUL_SEA = {
+    id = 3010
+    provinces = { "x5d89f5" }
+}
