@@ -145,7 +145,7 @@ STATE_VESPERTINE_VALLEY = {
 
 STATE_NIEUW_ROTTENDESTAAT = {
     id = 911
-    provinces = { "x64AA47" "x76C66B" "x7B8C8E" "x7DCD5A" "x89AD84" "x91BD7F" "x97E477" "xAFD69F" "xB5CEAA" } 
+    provinces = { "x64AA47" "x76C66B" "x7B8C8E" "x7DCD5A" "x89AD84" "x91BD7F" "x97E477" "xAFD69F" "xB5CEAA" }
     subsistence_building = { "building_subsistence_fishing_villages" }
     traits = { state_trait_river1 state_trait_river2 }
     city = "x91BD7F"
@@ -165,9 +165,7 @@ STATE_GRIFFEVELD = {
     farm = "xDAAD8D"
     mine = "xD09063"
     arable_land = 32
-    arable_resources = {
-        "bg_livestock_ranches" "bg_maize_farms" "bg_sugar_plantations" "bg_wheat_farms" "bg_rye_farms"
-    }
+    arable_resources = { "bg_livestock_ranches" "bg_maize_farms" "bg_sugar_plantations" "bg_wheat_farms" "bg_rye_farms" }
     capped_resources = {
         bg_iron_mining = 8
         bg_logging = 11
@@ -185,9 +183,7 @@ STATE_ZEBELLENDAM = {
     farm = "x96A58D"
     mine = "x3E7950"
     arable_land = 27
-    arable_resources = {
-        "bg_livestock_ranches" "bg_maize_farms" "bg_wheat_farms" "bg_rye_farms"
-    }
+    arable_resources = { "bg_livestock_ranches" "bg_maize_farms" "bg_wheat_farms" "bg_rye_farms" }
     capped_resources = {
         bg_iron_mining = 9
         bg_logging = 4
@@ -197,16 +193,14 @@ STATE_ZEBELLENDAM = {
 STATE_GRIFF_REINET = {
     id = 914
     provinces = { "x297E3A" "x61705A" "x68ECC2" "x6A8E5A" "x6CBC7C" "x6EC78D" "x74C152" "x81C98F" "x82B480" "x97B28C" "xB6E3BE" }
-    subsistence_building = {"building_subsistence_farms"}
+    subsistence_building = { "building_subsistence_farms" }
     traits = { state_trait_river1 }
     city = "x74C152"
     port = "x74C152"
     farm = "x6EC78D"
     mine = "x81C98F"
     arable_land = 23
-    arable_resources = {
-        "bg_livestock_ranches" "bg_maize_farms" "bg_wheat_farms" "bg_rye_farms"
-    }
+    arable_resources = { "bg_livestock_ranches" "bg_maize_farms" "bg_wheat_farms" "bg_rye_farms" }
     capped_resources = {
         bg_iron_mining = 17
         bg_logging = 5
@@ -218,14 +212,12 @@ STATE_GRIFF_REINET = {
 STATE_ZIMPOPO = {
     id = 915
     provinces = { "x41AC3E" "x59D87A" "x6CC26A" "x739573" "xACE57A" "xC2DAAC" }
-    subsistence_building = { "building_subsistence_pastures"}
+    subsistence_building = { "building_subsistence_pastures" }
     traits = { state_trait_river2 }
     city = "xC2DAAC"
     farm = "x59D87A"
     arable_land = 18
-    arable_resources = {
-        "bg_livestock_ranches" "bg_maize_farms" "bg_wheat_farms" "bg_rye_farms"
-    }
+    arable_resources = { "bg_livestock_ranches" "bg_maize_farms" "bg_wheat_farms" "bg_rye_farms" }
     capped_resources = {
         bg_logging = 3
     }
