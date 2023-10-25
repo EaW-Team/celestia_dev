@@ -5,22 +5,18 @@ adjacencies = "adjacencies.csv"
 wrap_x = yes
 
 sea_starts = {
-	#South Griffonia
-	x46c8fa x4692fa x3882e7 x447cc9 x486fa3 x0a1fe8
-	#World Ocean
-	x2d4f87 x6fb3de
-	#Abyssinia
-	x9e83b8 x8870c1
-	#East Zebrica
-	x5d89f5
+	#Griffonia
+	x46c8fa x060a06 x4692fa x3882e7 x447cc9 x486fa3 x0a1fe8 x9e3b96 xfbadef x52ff8a xEF74C4 x23ADBF x785844 x72E02A xCE5386 x37719B x907398 x0327B3 xA108BA xEB6354 x23335D
+	#Zebrica
+	x8870c1 x9e83b8 x5d89f5 x8B11C9 xA24515 x07F886 x3C0B88 xA653B6 x23D488 x27CDD7 x960167 x697E27 x891377 x47FDD9 xFA1390 x779D5F xEA79D6 x34006F xF5EBD9 x3D492A x38698A x34C40C xA1C2C2 x15BEBA xCB1DC3 x6C5C1C x4F040F x7BA221 x327EA7 xACF406 xE6F966 x36E5F2 x00FCAB x77AD95 xC3AE56 
+	#Equus
+	x26fe6f x35c078 x28ef8a x8CEF62 xE9C466 x784DBC xECCD1F x3FD880 xDD5F5D xA20357 xF346FE xEE8E68 xF7D8F8 xDF768C x2D4F87 x537A86 x83D455 x2320F0 x7DE652 xAA2F45 xBA8022 xC93063
 }
 lakes = {
-	###Riverlands###
-	x2d4f87
-	x081546
-	xa0f5a5
-	xea6c90
-	x310f2b
-	#East Zebrica
+	#Griffonia
+	x081546 xa0f5a5 xea6c90 x310f2b x6fb3de
+	#Zebrica
 	x7b8c8e
+	#Equus
+	x0D06F8
 }
