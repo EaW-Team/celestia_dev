@@ -14,9 +14,8 @@ object={
 	generated_content=yes
 	layer="semidynamic"
 	pdxmesh="tree_rainforest_002_mesh"
-	count=1
-	transform="5623.062500 0.000000 2649.298828 0.000000 0.704627 0.000000 0.709578 0.329862 0.329862 0.329862
-"}
+	count=0
+}
 object={
 	name="rainforest_generator_1_2"
 	clamp_to_water_level=no
