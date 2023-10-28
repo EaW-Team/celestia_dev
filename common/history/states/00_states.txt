@@ -60,4 +60,18 @@ STATES = {
 		}
 		add_homeland = equestrian
 	}
+	s:STATE_PUERTO_CABALLO = {
+		create_state = {
+			country = c:PCB
+			owned_provinces = { "x4F2B23" "x680A3F" "x6EA15F" "xA7467D" "xA8E454" "xAC4E20" "xBF267D" "xD89933" "xE27A46" "xECE475" "xF8B94D" "xF9A67C" "xdb2c31"  }
+		}
+		add_homeland = caballo
+	}
+	s:STATE_MATROTANZAS = {
+		create_state = {
+			country = c:PCB
+			owned_provinces = { "x744126" "x8E593E" "xB75828" "xC896A2" "xD1B93F" "xDC8B62" "xE9A52F" "xF4CE65" }
+		}
+		add_homeland = caballo
+	}
 }

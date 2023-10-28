@@ -1,0 +1,26 @@
+﻿ POPS = {
+	s:STATE_PUERTO_CABALLO = {
+		region_state:PCB = {
+			create_pop = {
+				culture = caballo
+				size = 423124
+			}
+			create_pop = {
+				culture = equestrian
+				size = 87324
+			}
+		}
+	}
+	s:STATE_MATROTANZAS = {
+		region_state:PCB = {
+			create_pop = {
+				culture = caballo
+				size = 231564
+			}
+			create_pop = {
+				culture = equestrian
+				size = 13215
+			}
+		}
+	}
+ }

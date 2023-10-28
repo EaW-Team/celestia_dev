@@ -11,3 +11,47 @@ STATE_BITTERBERRY_FIELDS = {
     id = 4
     provinces = { "x026E69" "x0A1B5E" "x0A4861" "x0D5C91" "x0E653E" "x112026" "x127843" "x148C7E" "x1A6517" "x23529A" "x247797" "x272E8C" "x28288A" "x2D5A0A" "x2E7895" "x2EAA72" "x2F9185" "x31952E" "x320C81" "x32797A" "x337149" "x371973" "x381285" "x3A4DC5" "x3B7839" "x3E309C" "x4552FE" "x4DAC94" "x518CA3" "x53A9D7" "x5C2B2B" "x5E055A" "x5F97B5" "x629B9C" "x630808" "x650948" "x686C13" "x6C4DAA" "x6E0581" "x70408A" "x7077D9" "x707BAA" "x711717" "x723583" "x734EBE" "x7583BC" "x76559E" "x7984C9" "x7ADEB1" "x7E1717" "x7EC7A1" "x81E77D" "x822A8A" "x85DCEC" "x85EC9D" "x8C0762" "x8E22A1" "x970850" "x9A8023" "x9E26B3" "x9E6280" "xA65FA7" "xA6D086" "xA8D5E7" "xAC3BAE" "xACBDC9" "xAF91EC" "xB766AE" "xBCB029" "xBE7AC9" "xBE8080" "xC7A4B6" "xD776B8" }
 }
+STATE_PUERTO_CABALLO = {
+    id = 1193
+    subsistence_building = "building_subsistence_fishing_villages"
+    provinces = { "x4F2B23" "x680A3F" "x6EA15F" "xA7467D" "xA8E454" "xAC4E20" "xBF267D" "xD89933" "xDB2C31" "xE27A46" "xECE475" "xF8B94D" "xF9A67C" }
+    city = "xF8B94D"
+    port = "xF8B94D"
+    farm = "xECE475"
+    mine = "x6EA15F"
+    wood = "xA7467D"
+    arable_land = 26
+    arable_resources = { "bg_tobacco_plantations" "bg_coffee_plantations" "bg_cotton_plantations" "bg_sugar_plantations" "bg_rice_farms" "bg_banana_farms" }
+    capped_resources = {
+        bg_iron_mining = 23
+        bg_logging = 31
+        bg_fishing = 7
+    }
+    resource = {
+        type = "bg_gold_fields"
+        depleted_type = "bg_gold_mining"
+        undiscovered_amount = 7
+    }
+    resource = {
+        type = "bg_coal_mining"
+        undiscovered_amount = 4
+    }
+    naval_exit_id = 3020
+}
+STATE_MATROTANZAS = {
+    id = 1194
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x744126" "x8E593E" "xB75828" "xC896A2" "xD1B93F" "xDC8B62" "xE9A52F" "xF4CE65" }
+    city = "x744126"
+    port = "x744126"
+    farm = "xDC8B62"
+    wood = "x8E593E"
+    arable_land = 47
+    arable_resources = { "bg_tobacco_plantations" "bg_coffee_plantations" "bg_cotton_plantations" "bg_sugar_plantations" "bg_rice_farms" "bg_banana_farms" "bg_rubber_plantations" }
+    capped_resources = {
+        bg_logging = 24
+        bg_fishing = 7
+        bg_iron_mining = 5
+    }
+    naval_exit_id = 3020
+}

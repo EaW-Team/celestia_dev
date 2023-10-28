@@ -1,0 +1,166 @@
+﻿PCB_ponse_cocktail = {
+	first_name = Ponse
+	last_name = Cocktail
+	historical = yes
+	culture = cu:caballo
+	female = no
+	birth_date = 959.9.4
+	interest_group = ig_intelligentsia
+	ideology = ideology_liberal
+	traits = {
+
+	}
+}
+PCB_flower_cocktail = {
+	first_name = Flower
+	last_name = Cocktail
+	historical = yes
+	culture = cu:caballo
+	female = yes
+	birth_date = 928.3.12
+	interest_group = ig_rural_folks
+	ideology = ideology_agrarian
+	traits = {
+
+	}
+}
+PCB_agave_palma = {
+	first_name = Agave
+	last_name = Palma
+	historical = yes
+	culture = cu:caballo
+	female = no
+	birth_date = 893.4.30
+	interest_group = ig_petite_bourgeoisie
+	ideology = ideology_meritocratic
+	traits = {
+
+	}
+}
+PCB_bagasse_coltstro = {
+	first_name = Bagasse
+	last_name = Coltstro
+	historical = yes
+	culture = cu:caballo
+	female = no
+	birth_date = 978.3.4
+	interest_group = ig_trade_unions
+	ideology = ideology_proletarian
+	traits = {
+
+	}
+}
+PCB_buckio_buckista = {
+	first_name = Buckio
+	last_name = Buckista
+	historical = yes
+	culture = cu:caballo
+	female = no
+	birth_date = 970.7.23
+	interest_group = ig_armed_forces
+	ideology = ideology_patriotic
+	traits = {
+
+	}
+}
+PCB_roca_roja = {
+	first_name = Roca
+	last_name = Roja
+	historical = yes
+	culture = cu:caballo
+	female = no
+	birth_date = 977.2.6
+	interest_group = ig_trade_unions
+	ideology = ideology_proletarian
+	traits = {
+
+	}
+}
+PCB_sandia_pip = {
+	first_name = Sandia
+	last_name = Pip
+	historical = yes
+	culture = cu:caballo
+	female = yes
+	birth_date = 976.5.5
+	interest_group = ig_trade_unions
+	ideology = ideology_proletarian
+	traits = {
+
+	}
+}
+PCB_cuerda = {
+	first_name = Cuerda
+	historical = yes
+	culture = cu:caballo
+	female = no
+	birth_date = 945.9.24
+	interest_group = ig_rural_folks
+	ideology = ideology_agrarian
+	traits = {
+
+	}
+}
+PCB_quesadilla = {
+	first_name = Quesadilla
+	historical = yes
+	culture = cu:caballo
+	female = no
+	birth_date = 940.8.14
+	interest_group = ig_landowners
+	ideology = ideology_paternalistic
+	traits = {
+
+	}
+}
+PCB_silver_spark = {
+	first_name = Silver
+	last_name = Spark
+	historical = yes
+	culture = cu:equestrian
+	religion = harmony
+	female = no
+	ruler = yes
+	birth_date = 870.12.17
+	ig_leader = yes
+	interest_group = ig_landowners
+	ideology = ideology_statocratic
+	traits = {
+		expensive_tastes
+		basic_colonial_administrator
+
+	}
+}
+PCB_golden_charm = {
+	first_name = Golden
+	last_name = Charm
+	historical = yes
+	culture = cu:equestrian
+	religion = harmony
+	female = no
+	is_general = yes
+	hq = region_puerto_caballo
+	birth_date = 866.12.17
+	interest_group = ig_armed_forces
+	ideology = ideology_loyalist
+	traits = {
+		wrathful
+		innovative
+	}
+}
+PCB_lunar_hoof = {
+	first_name = Lunar
+	last_name = Hoof
+	historical = yes
+	culture = cu:equestrian
+	religion = harmony
+	female = yes
+	is_admiral = yes
+	birth_date = 870.12.17
+	interest_group = ig_armed_forces
+	ideology = ideology_loyalist
+	traits = {
+		experienced_naval_commander
+		tactful
+	}
+}

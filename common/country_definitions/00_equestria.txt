@@ -1,4 +1,4 @@
-EQS = { # Equestria
+﻿EQS = { # Equestria
 	color = { 136 213 244 }
 	
 	country_type = recognized
@@ -40,4 +40,16 @@ BUF = {
 	
 	capital = STATE_BUFFALO_TRIBE
 	cultures = { comanche }
+}
+
+PCB = {
+	color = { 140 65 166 }
+
+	country_type = colonial
+
+	tier = principality
+
+	capital = STATE_PUERTO_CABALLO
+
+	cultures = { equestrian caballo	}
 }

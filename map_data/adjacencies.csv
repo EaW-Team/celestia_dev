@@ -2,3 +2,5 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 x4eeccf;xf87030;sea;-1;3980;2908;3964;2903;;Ireland-Scotland
 xc73093;x533418;sea;x8870c1;4197;1307;4205;1313;;Meowuak-Catorahe
 x43a59d;x533418;sea;x8870c1;4201;1328;4202;1319;;Catorahe-SmallIsland
+xa7467d;xd89933;sea;xeccd1f;3301;1842;3310;1828;;Puerto_Caballo
+xf9a67c;xdb2c31;sea;xeccd1f;3220;1825;3214;1824;;Puerto_Caballo
