@@ -9,3 +9,5 @@
  STATE_GREEN_BAY:0 "Green Bay"
  STATE_PEACEFUL_SEA:0 "Peaceful Sea"
  STATE_STARRY_SEA:0 "Starry Sea"
+ STATE_LUNA_OCEAN:0 "Luna Ocean"
+ STATE_PEGASI_GULF:0 "Pegasi Gulf"

@@ -10,6 +10,7 @@
 	traits = {
 
 	}
+	trait_generation = { }
 }
 PCB_flower_cocktail = {
 	first_name = Flower
@@ -23,6 +24,7 @@ PCB_flower_cocktail = {
 	traits = {
 
 	}
+	trait_generation = { }
 }
 PCB_agave_palma = {
 	first_name = Agave
@@ -36,6 +38,7 @@ PCB_agave_palma = {
 	traits = {
 
 	}
+	trait_generation = { }
 }
 PCB_bagasse_coltstro = {
 	first_name = Bagasse
@@ -49,6 +52,7 @@ PCB_bagasse_coltstro = {
 	traits = {
 
 	}
+	trait_generation = { }
 }
 PCB_buckio_buckista = {
 	first_name = Buckio
@@ -62,6 +66,7 @@ PCB_buckio_buckista = {
 	traits = {
 
 	}
+	trait_generation = { }
 }
 PCB_roca_roja = {
 	first_name = Roca
@@ -75,6 +80,7 @@ PCB_roca_roja = {
 	traits = {
 
 	}
+	trait_generation = { }
 }
 PCB_sandia_pip = {
 	first_name = Sandia
@@ -88,6 +94,7 @@ PCB_sandia_pip = {
 	traits = {
 
 	}
+	trait_generation = { }
 }
 PCB_cuerda = {
 	first_name = Cuerda
@@ -100,6 +107,7 @@ PCB_cuerda = {
 	traits = {
 
 	}
+	trait_generation = { }
 }
 PCB_quesadilla = {
 	first_name = Quesadilla
@@ -112,6 +120,7 @@ PCB_quesadilla = {
 	traits = {
 
 	}
+	trait_generation = { }
 }
 PCB_silver_spark = {
 	first_name = Silver
@@ -124,12 +133,13 @@ PCB_silver_spark = {
 	birth_date = 870.12.17
 	ig_leader = yes
 	interest_group = ig_landowners
-	ideology = ideology_statocratic
+	ideology = ideology_stratocratic
 	traits = {
 		expensive_tastes
 		basic_colonial_administrator
 
 	}
+	trait_generation = { }
 }
 PCB_golden_charm = {
 	first_name = Golden
@@ -147,6 +157,7 @@ PCB_golden_charm = {
 		wrathful
 		innovative
 	}
+	trait_generation = { }
 }
 PCB_lunar_hoof = {
 	first_name = Lunar
@@ -163,4 +174,5 @@ PCB_lunar_hoof = {
 		experienced_naval_commander
 		tactful
 	}
+	trait_generation = { }
 }

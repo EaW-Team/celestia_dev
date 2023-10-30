@@ -9,6 +9,10 @@
 				culture = equestrian
 				size = 87324
 			}
+			create_pop = {
+				culture = thestral
+				size = 7214
+			}
 		}
 	}
 	s:STATE_MATROTANZAS = {

@@ -27,6 +27,7 @@
  donkey_heritage:0 "Donkey"
  harpy_heritage:0 "Harpy"
 # Cultral Groups
+ buffalo_culture_group:0 "Buffalo"
  equestrian_culture_group:0 "Equestrian"
  riverpony_culture_group:0 "Riverpony"
  karthinian_culture_group:0 "Karthinian"
@@ -34,9 +35,12 @@
  feline_culture_group:0 "Feline"
  zebrican_griffon_group:0 "Zebrican Griffon"
 # Cultral Descriptives
+ buffalo:0 "Buffalo"
  aboriginal_griffon:0 "Aboriginal"
 #Pony Cultures
  equestrian:0 "Equestrian"
+ thestral:0 "Thestral"
+ trotsan:0 "Trotsan"
  caballo:0 "Caballo"
  new_marelander:0 "New Marelander"
  ponaidhean:0 "Pònaidh"

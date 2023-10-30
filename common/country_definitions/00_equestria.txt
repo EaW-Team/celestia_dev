@@ -1,12 +1,12 @@
 ﻿EQS = { # Equestria
-	color = { 136 213 244 }
+	color = { 112 250 105 }
 	
 	country_type = recognized
 	
 	tier = empire
 	
 	capital = STATE_CANTERLOT
-	cultures = { british }
+	cultures = { equestrian }
 }
 
 CRY = {
@@ -38,8 +38,19 @@ BUF = {
 	
 	tier = principality
 	
-	capital = STATE_BUFFALO_TRIBE
+	capital = STATE_DOO_NIDAHALTINGOO
 	cultures = { comanche }
+}
+
+TRT = {
+	color = { 113 166 189 }
+
+	country_type = colonial
+
+	tier = kingdom
+
+	capital = STATE_CENTRAL_TROTSAS
+	cultures = { equestrian }
 }
 
 PCB = {
@@ -50,6 +61,5 @@ PCB = {
 	tier = principality
 
 	capital = STATE_PUERTO_CABALLO
-
-	cultures = { equestrian caballo	}
+	cultures = { equestrian }
 }

@@ -1,2 +1,16 @@
 ﻿DIPLOMACY = {
+	c:EQS = {
+		create_diplomatic_pact = {
+			country = c:PCB
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:EQC
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:TRT
+			type = puppet
+		}
+	}
 }

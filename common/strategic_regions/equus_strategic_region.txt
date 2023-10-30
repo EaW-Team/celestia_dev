@@ -1,0 +1,10 @@
+﻿region_puerto_caballo = {
+	capital_province = xF8B94D
+	map_color = rgb { 144 65 166 }
+	states = { STATE_PUERTO_CABALLO STATE_MATROTANZAS }
+}
+region_south_west_equus = {
+	capital_province = x036632
+	map_color = rgb { 133 133 133 }
+	states = { STATE_SOUTH_TROTSAS STATE_SAN_PALOMINO_DESERT STATE_FURRY_MOUNTAINS STATE_WEST_TROTSAS STATE_COAST_OF_SORROW STATE_TSOH_HALGAI STATE_DOO_NIDAHALTINGOO  }
+}
