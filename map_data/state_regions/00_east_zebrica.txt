@@ -145,7 +145,7 @@ STATE_VESPERTINE_VALLEY = {
 
 STATE_NIEUW_ROTTENDESTAAT = {
     id = 911
-    provinces = { "x64AA47" "x76C66B" "x7B8C8E" "x7DCD5A" "x89AD84" "x91BD7F" "x97E477" "xAFD69F" "xB5CEAA" }
+    provinces = {}
     subsistence_building = { "building_subsistence_fishing_villages" }
     traits = { state_trait_river1 state_trait_river2 }
     city = "x91BD7F"
@@ -158,7 +158,7 @@ STATE_NIEUW_ROTTENDESTAAT = {
 
 STATE_GRIFFEVELD = {
     id = 912
-    provinces = { "x249C32" "x558949" "x68D575" "x9AE27C" "x9F816C" "xA0C987" "xABCEA3" "xC3E2A5" "xD09063" "xD7EE87" "xDAAD8D" }
+    provinces = { "x249C32" "x558949" "x64AA47" "x68D575" "x76C66B" "x7B8C8E" "x7DCD5A" "x89AD84" "x91BD7F" "x97E477" "x9AE27C" "x9F816C" "xA0C987" "xABCEA3" "xAFD69F" "xB5CEAA" "xC3E2A5" "xD09063" "xD7EE87" "xDAAD8D" }
     subsistence_building = { "building_subsistence_farms" }
     traits = { state_trait_river2 }
     city = "x9AE27C"
@@ -176,7 +176,7 @@ STATE_GRIFFEVELD = {
 
 STATE_ZEBELLENDAM = {
     id = 913
-    provinces = { "x3E7950" "x4F8B64" "x6CBB84" "x7EF094" "x81C684" "x8CC29F" "x96A58D" }
+    provinces = {}
     subsistence_building = { "building_subsistence_pastures" }
     traits = { state_trait_river1 state_trait_river2 }
     city = "x4F8B64"
@@ -192,7 +192,7 @@ STATE_ZEBELLENDAM = {
 
 STATE_GRIFF_REINET = {
     id = 914
-    provinces = { "x297E3A" "x61705A" "x68ECC2" "x6A8E5A" "x6CBC7C" "x6EC78D" "x74C152" "x81C98F" "x82B480" "x97B28C" "xB6E3BE" }
+    provinces = { "x297E3A" "x3E7950" "x41AC3E" "x4F8B64" "x59D87A" "x61705A" "x68ECC2" "x6A8E5A" "x6CBB84" "x6CBC7C" "x6CC26A" "x6EC78D" "x739573" "x74C152" "x7EF094" "x81C684" "x81C98F" "x82B480" "x8CC29F" "x96A58D" "x97B28C" "xACE57A" "xB6E3BE" "xC2DAAC" }
     subsistence_building = { "building_subsistence_farms" }
     traits = { state_trait_river1 }
     city = "x74C152"
@@ -211,7 +211,7 @@ STATE_GRIFF_REINET = {
 
 STATE_ZIMPOPO = {
     id = 915
-    provinces = { "x41AC3E" "x59D87A" "x6CC26A" "x739573" "xACE57A" "xC2DAAC" }
+    provinces = {}
     subsistence_building = { "building_subsistence_pastures" }
     traits = { state_trait_river2 }
     city = "xC2DAAC"
@@ -225,30 +225,30 @@ STATE_ZIMPOPO = {
 
 STATE_MZINGA = {
     id = 1127
-    provinces = { "x263417" "x273E0F" "x2A691C" "x30441B" "x3C4136" "x424423" "x517947" "x62B250" "x8DAD48" }
+    provinces = {}
 }
 
 STATE_ZANA = {
     id = 1128
-    provinces = { "x2EB341" "x2F1E12" "x376A45" "x502910" "x545E48" "x5E6A50" "x67AA7A" "x7ED275" "x81D34F" "x824A22" "x8EBD71" "xA1C19A" "xB7E9B2" "xC5CDAA" }
+    provinces = { "x263417" "x273E0F" "x2A691C" "x2EB341" "x2F1E12" "x30441B" "x376A45" "x3C4136" "x424423" "x502910" "x517947" "x545E48" "x5E6A50" "x62B250" "x67AA7A" "x7ED275" "x81D34F" "x824A22" "x8DAD48" "x8EBD71" "xA1C19A" "xB7E9B2" "xC5CDAA" }
 }
 
 STATE_EWASO_ZEBRO = {
     id = 1129
-    provinces = { "x0C9932" "x177D2F" "x185E2B" "x197231" "x1F9E5A" "x1FAE61" "x23B847" "x386442" "x3F9B58" "x40BA61" "x4D7959" "x52D145" "x53C16E" "x54D48F" "x564235" "x97BCA1" "x9CCD98" "x9EC89D" "xA8BBAA" "xBEDFC7" }
+    provinces = {}
 }
 
 STATE_ITHEBRA = {
     id = 1130
-    provinces = { "x1D502E" "x243420" "x303C2C" "x457354" "x5B834E" "x5F6D64" "x69B767" "x6C8E77" "x899B83" "xA2BDAB" }
+    provinces = {}
 }
 
 STATE_KISMANEYO = {
     id = 1131
-    provinces = { "x186C4F" "x19A540" "x34834A" "x39B15A" "x5B8767" "x6ECD9F" "x92C37A" "x94C396" "x95AA8A" "x9DB0A7" "xB8DBCA" "xC1E4B0" }
+    provinces = { "x0C9932" "x177D2F" "x185E2B" "x186C4F" "x197231" "x19A540" "x1F9E5A" "x1FAE61" "x23B847" "x34834A" "x386442" "x39B15A" "x3F9B58" "x40BA61" "x4D7959" "x52D145" "x53C16E" "x54D48F" "x564235" "x5B8767" "x6ECD9F" "x92C37A" "x94C396" "x95AA8A" "x97BCA1" "x9CCD98" "x9DB0A7" "x9EC89D" "xA8BBAA" "xB8DBCA" "xBEDFC7" "xC1E4B0" }
 }
 
 STATE_ZARAWA = {
     id = 1132
-    provinces = { "x428C57" "x4B904F" "x4E674B" "x65674B" "x65CD79" "x72E060" "x799882" "x8DA78F" "x8DD06C" "x95E094" "x99D2A9" "x9DD7A1" "xBEE5C1" }
+    provinces = { "x1D502E" "x243420" "x303C2C" "x428C57" "x457354" "x4B904F" "x4E674B" "x5B834E" "x5F6D64" "x65674B" "x65CD79" "x69B767" "x6C8E77" "x72E060" "x799882" "x899B83" "x8DA78F" "x8DD06C" "x95E094" "x99D2A9" "x9DD7A1" "xA2BDAB" "xBEE5C1" }
 }

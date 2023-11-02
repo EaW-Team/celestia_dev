@@ -1,6 +1,6 @@
 ﻿STATE_CEMARETA = {
     id = 400
-    provinces = { "x2E103C" "x58316A" "x6F4F1C" "x8546A3" "xA8721C" "xBB7FD7" "xC94A12" "xD3A863" "xDD9A30" }
+    provinces = { "x2E103C" "x58316A" "x6F4F1C" "x73442B" "x844833" "x8546A3" "x954114" "x9A4628" "x9B5116" "xA8721C" "xB56338" "xB65B2C" "xB97EB1" "xBB7FD7" "xBD7A10" "xC3892E" "xC94415" "xC94A12" "xD3742E" "xD38B50" "xD3A863" "xDB7945" "xDC6809" "xDC9B35" "xDD9A30" "xE03D17" "xE09C30" "xE3A470" "xE47D29" "xE49F56" "xF7BC5F" "xF8B64F" }
 
     arable_land = 12
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -8,7 +8,7 @@
 
 STATE_MANELILLA = {
     id = 401
-    provinces = { "x73442B" "x954114" "x9B5116" "xB56338" "xBD7A10" "xD3742E" "xD38B50" "xDB7945" "xE09C30" "xE3A470" "xE47D29" "xF8B64F" }
+    provinces = {}
 
     arable_land = 21
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -16,7 +16,7 @@ STATE_MANELILLA = {
 
 STATE_TROTGIERS = {
     id = 402
-    provinces = { "x844833" "x9A4628" "xB65B2C" "xC3892E" "xC94415" "xDC6809" "xDC9B35" "xF7BC5F" }
+    provinces = {}
 
     arable_land = 38
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -24,7 +24,7 @@ STATE_TROTGIERS = {
 
 STATE_TAILA_IMSAN = {
     id = 403
-    provinces = { "x744717" "x7F3203" "x864714" "x884D1B" "xA4572C" "xA45B47" "xA96011" "xAD7514" "xB260A2" "xBA5010" "xBB6014" "xDE512B" "xE1912A" "xE67C43" "xE99369" "xEDBE4E" "xEE9523" "xEF922F" "xF3A378" }
+    provinces = {}
 
     arable_land = 26
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -32,7 +32,7 @@ STATE_TAILA_IMSAN = {
 
 STATE_TAFILALT = {
     id = 404
-    provinces = { "x6D3111" "x84371C" "xA86D3D" "xB18118" "xB2560B" "xB97C3B" "xBC7923" "xC86413" "xCA22B8" "xCC6938" "xCC7A36" "xCD5C21" "xD74BBC" "xDBA35A" "xE39745" "xE3AF3E" "xE3C687" "xE4814E" "xE7C98A" "xEDB948" }
+    provinces = {}
 
     arable_land = 20
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
@@ -40,7 +40,7 @@ STATE_TAFILALT = {
 
 STATE_MAREAKECH = {
     id = 405
-    provinces = { "x743B27" "xA8330B" "xCC7222" "xD8842A" "xE03D17" "xE08D44" "xE49F56" "xFA9B4D" }
+    provinces = { "x450E2A" "x551010" "x612B2B" "x612F5C" "x69380D" "x743B27" "x7E3C45" "x87104E" "x883E23" "x8C5421" "x8E604F" "x920D0D" "x952689" "x9A1C2E" "xA8330B" "xAB4C2C" "xAC7328" "xB2631C" "xB5283C" "xCB7026" "xCC7222" "xD4905A" "xD4A57C" "xD8842A" "xDF791E" "xDFC847" "xE08D44" "xE0D490" "xE36173" "xE37B27" "xE7B389" "xEFD0A9" "xF4A949" "xF4B481" "xF6A05A" "xFA9B4D" "xFDB75C" }
 
     arable_land = 36
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -48,7 +48,7 @@ STATE_MAREAKECH = {
 
 STATE_BUCKKALA = {
     id = 406
-    provinces = { "x9D662A" "xB4860C" "xD18E46" "xD37918" "xDD6931" "xE4B379" "xEEB6E3" }
+    provinces = {}
 
     arable_land = 18
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -56,7 +56,7 @@ STATE_BUCKKALA = {
 
 STATE_AGADIR = {
     id = 407
-    provinces = { "xAC4723" "xB88E34" "xC7542C" "xD78A30" "xD87013" "xD97B48" "xDBC188" "xE17F5D" "xE3BB8B" "xE7B448" "xF4A082" }
+    provinces = { "x6D3111" "x744717" "x7F3203" "x84371C" "x864714" "x884D1B" "x9D662A" "xA4572C" "xA45B47" "xA86D3D" "xA96011" "xAC4723" "xAD7514" "xB18118" "xB2560B" "xB260A2" "xB4860C" "xB88E34" "xB97C3B" "xBA5010" "xBB6014" "xBC7923" "xC7542C" "xC86413" "xCA22B8" "xCC6938" "xCC7A36" "xCD5C21" "xD18E46" "xD37918" "xD74BBC" "xD78A30" "xD87013" "xD97B48" "xDBA35A" "xDBC188" "xDD6931" "xDE512B" "xE17F5D" "xE1912A" "xE39745" "xE3AF3E" "xE3BB8B" "xE3C687" "xE4814E" "xE4B379" "xE67C43" "xE7B448" "xE7C98A" "xE99369" "xEDB948" "xEDBE4E" "xEE9523" "xEEB6E3" "xEF922F" "xF3A378" "xF4A082" }
 
     arable_land = 29
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -64,7 +64,7 @@ STATE_AGADIR = {
 
 STATE_HORSEZ = {
     id = 408
-    provinces = { "x8D462D" "x984020" "x9F500B" "xB05738" "xB34620" "xB75E3E" "xD59F8B" "xD5B96E" "xE86739" "xEE6D3F" "xF0A348" }
+    provinces = { "x6C4313" "x754432" "x8D462D" "x93320F" "x984020" "x9F500B" "xA37524" "xB05738" "xB34620" "xB4AE8C" "xB75E3E" "xBA862C" "xBAA633" "xC18316" "xC28B4B" "xC5861A" "xD59F8B" "xD5B96E" "xD7592D" "xD7BC25" "xDBA241" "xDEAD2A" "xDED6AA" "xE0B66E" "xE6AB44" "xE86739" "xEAC688" "xEADE99" "xEBC481" "xECA52B" "xEE6D3F" "xEEB14A" "xEECF9A" "xF0A348" "xF0E18C" "xF1B449" "xFFED89" }
 
     arable_land = 22
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -72,7 +72,7 @@ STATE_HORSEZ = {
 
 STATE_TROTADLA = {
     id = 409
-    provinces = { "x450E2A" "x551010" "x612B2B" "x612F5C" "x87104E" "x883E23" "x8E604F" "x920D0D" "x952689" "xAB4C2C" }
+    provinces = {}
 
     arable_land = 12
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -80,7 +80,7 @@ STATE_TROTADLA = {
 
 STATE_HAYHA = {
     id = 410
-    provinces = { "xAC7328" "xB5283C" "xCB7026" "xD4905A" "xDF791E" "xE37B27" "xE7B389" "xF4A949" "xF4B481" "xF6A05A" }
+    provinces = {}
 
     arable_land = 29
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -88,7 +88,7 @@ STATE_HAYHA = {
 
 STATE_ABFILLYA = {
     id = 411
-    provinces = { "x69380D" "x7E3C45" "x8C5421" "x9A1C2E" "xB2631C" "xD4A57C" "xDFC847" "xE0D490" "xE36173" "xEFD0A9" "xFDB75C" }
+    provinces = {}
 
     arable_land = 27
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -96,7 +96,7 @@ STATE_ABFILLYA = {
 
 STATE_HIGH_MARETLAS = {
     id = 412
-    provinces = { "x5818E2" "x682130" "x6D1D27" "x7C243F" "x810B24" "x8A4B54" "x8C440F" "x942245" "xA2123F" "xA3213C" "xAA4157" "xB94B4B" "xBC6E7B" "xCB7739" "xE3346A" "xE62A64" "xE76F18" "xEA203D" "xF06582" }
+    provinces = { "x5742BF" "x5818E2" "x682130" "x6D1D27" "x711346" "x7C243F" "x810B24" "x813B1C" "x8A4B54" "x8C440F" "x8D3F69" "x914F0F" "x942245" "x953308" "x993757" "x9A3368" "xA2123F" "xA3213C" "xA33E69" "xAA4157" "xB94B4B" "xBC6E7B" "xC03560" "xCA7420" "xCB7739" "xD03E8A" "xD05B28" "xD19263" "xD794BC" "xDB6D91" "xE14176" "xE2638A" "xE3346A" "xE62A64" "xE76F18" "xEA203D" "xF06582" "xF7B646" }
 
     arable_land = 21
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
@@ -104,7 +104,7 @@ STATE_HIGH_MARETLAS = {
 
 STATE_QAWASMANE = {
     id = 413
-    provinces = { "x6C4313" "xA37524" "xB4AE8C" "xBA862C" "xBAA633" "xC18316" "xC28B4B" "xDEAD2A" "xDED6AA" "xE0B66E" "xE6AB44" "xEAC688" "xEADE99" "xEECF9A" "xF1B449" "xFFED89" }
+    provinces = {}
 
     arable_land = 17
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
@@ -112,7 +112,7 @@ STATE_QAWASMANE = {
 
 STATE_MANEKNES = {
     id = 414
-    provinces = { "x5742BF" "x711346" "x754432" "x8D3F69" "x93320F" "x993757" "x9A3368" "xA33E69" "xC03560" "xD03E8A" "xD7592D" "xD794BC" "xDB6D91" "xE14176" "xE2638A" }
+    provinces = {}
 
     arable_land = 8
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
@@ -120,7 +120,7 @@ STATE_MANEKNES = {
 
 STATE_GHAZZMARE = {
     id = 415
-    provinces = { "x813B1C" "x914F0F" "x953308" "xCA7420" "xD05B28" "xD19263" "xF7B646" }
+    provinces = {}
 
     arable_land = 26
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -128,7 +128,7 @@ STATE_GHAZZMARE = {
 
 STATE_ILPONWA = {
     id = 416
-    provinces = { "x67240C" "x72493A" "x8C521A" "x900F39" "x992334" "xA03A16" "xA12F47" "xAA7C6C" "xB7175B" "xCD5770" "xDC666E" }
+    provinces = {}
 
     arable_land = 10
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
@@ -136,7 +136,7 @@ STATE_ILPONWA = {
 
 STATE_MARECALAT = {
     id = 417
-    provinces = { "xC5861A" "xD7BC25" "xDBA241" "xEBC481" "xECA52B" "xEEB14A" "xF0E18C" }
+    provinces = {}
 
     arable_land = 32
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -144,7 +144,7 @@ STATE_MARECALAT = {
 
 STATE_JAFFMARE = {
     id = 418
-    provinces = { "x4D572D" "x779420" "x7B2F09" "xA1C043" "xB38327" "xB57A09" "xC0D341" "xC4AE85" "xCAC820" "xD3A141" "xD3B477" "xDBC293" "xDC9C7C" "xE3A26D" "xEBAC32" "xEEAC2C" "xF3CD84" "xF4B844" }
+    provinces = { "x34190C" "x3A1503" "x4A2216" "x4D572D" "x779420" "x7B2F09" "x89311A" "x9B351A" "x9B461C" "xA03316" "xA1C043" "xA65B1F" "xA86341" "xB38327" "xB57A09" "xBC5B2A" "xBE7E6A" "xC0D341" "xC4AE85" "xC7610F" "xCAC820" "xCB7862" "xCF8F7E" "xD3A141" "xD3B477" "xD59681" "xD85617" "xD88169" "xDBC293" "xDC9C7C" "xE0522C" "xE3A26D" "xE69A5C" "xE77943" "xE94E25" "xEB8460" "xEBAC32" "xEC5E19" "xEE9C85" "xEEAC2C" "xF3CD84" "xF4B844" }
 
     arable_land = 33
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -152,7 +152,7 @@ STATE_JAFFMARE = {
 
 STATE_NAJGALLOP = {
     id = 419
-    provinces = { "x34190C" "x89311A" "x9B461C" "xA03316" "xA65B1F" "xBC5B2A" "xC7610F" "xCB7862" "xD85617" "xD88169" "xE69A5C" "xE77943" "xE94E25" "xEC5E19" }
+    provinces = {}
 
     arable_land = 35
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -160,7 +160,7 @@ STATE_NAJGALLOP = {
 
 STATE_AFOALAJ = {
     id = 420
-    provinces = { "x24190E" "x3C2D1F" "x6A3F15" "x6B3908" "xAB8174" "xD49F6C" "xDE6945" }
+    provinces = { "x24190E" "x2D130B" "x3B1005" "x3C2D1F" "x4D2216" "x5A1B0A" "x5E2412" "x5E5AA1" "x634138" "x64301F" "x6A3F15" "x6B3908" "x7A4939" "x8A3118" "x8F7168" "x914936" "xAB8174" "xAC5B41" "xB34E2F" "xC24625" "xC38979" "xC94926" "xD49F6C" "xDC4213" "xDE6945" "xDFA492" "xE75826" "xF57451" }
 
     arable_land = 22
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -168,7 +168,7 @@ STATE_AFOALAJ = {
 
 STATE_ABU_MAREISH = {
     id = 421
-    provinces = { "x3A1503" "x4A2216" "x9B351A" "xA86341" "xBE7E6A" "xCF8F7E" "xE0522C" }
+    provinces = {}
 
     arable_land = 33
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -176,7 +176,7 @@ STATE_ABU_MAREISH = {
 
 STATE_BISHAH = {
     id = 422
-    provinces = { "x2D130B" "x3B1005" "x4D2216" "x5E5AA1" "x64301F" "x7A4939" "xAC5B41" "xDC4213" "xDFA492" }
+    provinces = {}
 
     arable_land = 27
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -184,7 +184,7 @@ STATE_BISHAH = {
 
 STATE_BADIMANE_ASH_SHAM = {
     id = 423
-    provinces = { "x362021" "x51192B" "x62171C" "x8F5155" "x93494E" "x9C5F64" "xA41F28" "xC13F11" "xCA2834" "xD59681" "xE26337" "xE75826" "xEB8460" "xEE9C85" }
+    provinces = {}
 
     arable_land = 26
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -192,7 +192,7 @@ STATE_BADIMANE_ASH_SHAM = {
 
 STATE_AL_COLTIF = {
     id = 424
-    provinces = { "x563403" "x8D510B" "xA06013" "xA56810" "xBC222C" "xC57B23" "xCD9048" "xD77F45" "xDCC5A9" "xDE933A" "xDEB688" "xE7BB87" "xF0B46E" "xFBBA6D" }
+    provinces = {}
 
     arable_land = 23
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -200,7 +200,7 @@ STATE_AL_COLTIF = {
 
 STATE_MASAB = {
     id = 425
-    provinces = { "x64380D" "x8B4E12" "xC17A35" "xC88718" "xD19124" "xD68A07" "xE59D21" "xE6AD4C" "xF1C882" }
+    provinces = { "x362021" "x51192B" "x563403" "x62171C" "x64380D" "x67240C" "x72493A" "x8B4E12" "x8C521A" "x8D510B" "x8F5155" "x900F39" "x93494E" "x992334" "x9C5F64" "xA03A16" "xA06013" "xA12F47" "xA41F28" "xA56810" "xAA7C6C" "xAE7D2C" "xB7175B" "xBC222C" "xC13F11" "xC17A35" "xC57B23" "xC88718" "xCA2834" "xCD5770" "xCD9048" "xCFC0A6" "xD19124" "xD4B787" "xD68A07" "xD77F45" "xDC666E" "xDCC5A9" "xDE933A" "xDEB688" "xDEC69E" "xE1C698" "xE26337" "xE59D21" "xE6AD4C" "xE7BB87" "xF0B46E" "xF1C882" "xF1DEBD" "xF3BD63" "xFAB94C" "xFBBA6D" }
 
     arable_land = 21
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -208,7 +208,7 @@ STATE_MASAB = {
 
 STATE_QUATMARE = {
     id = 426
-    provinces = { "x845D0A" "xA36E14" "xAC9C50" "xC8710B" "xCA7B0A" "xCF8F35" "xD4C982" "xD79B36" "xDA9B12" "xDBA633" "xE0C71C" "xE69332" "xE8C17F" "xEFAE51" }
+    provinces = { "x743C16" "x79583B" "x845D0A" "x8F4818" "x945E03" "x9D5B2F" "xA36E14" "xA8961A" "xA96A0F" "xA9752B" "xAC9C50" "xB68E6A" "xB9794E" "xC0A372" "xC2841A" "xC56C31" "xC6BAAB" "xC8710B" "xCA7B0A" "xCCA98A" "xCD8C2F" "xCE852F" "xCF8F35" "xD1973C" "xD4C982" "xD6CD9A" "xD79B36" "xD8B513" "xDA9B12" "xDBA633" "xDCC235" "xDCCD78" "xDF8636" "xE0C71C" "xE2B288" "xE2B575" "xE69332" "xE8C17F" "xE9C499" "xEDB24A" "xEEDB71" "xEFAE51" "xEFD293" "xFADD3C" }
 
     arable_land = 19
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -216,7 +216,7 @@ STATE_QUATMARE = {
 
 STATE_JABAL_TROTBAIQ = {
     id = 427
-    provinces = { "x8F4818" "x9D5B2F" "xA8961A" "xA96A0F" "xA9752B" "xB9794E" "xCD8C2F" "xD6CD9A" "xD8B513" "xDCC235" "xDCCD78" "xE2B575" "xE9C499" "xFADD3C" }
+    provinces = {}
 
     arable_land = 25
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -224,7 +224,7 @@ STATE_JABAL_TROTBAIQ = {
 
 STATE_HORSEMUZ = {
     id = 428
-    provinces = { "xAE7D2C" "xCFC0A6" "xD4B787" "xDEC69E" "xE1C698" "xF1DEBD" "xF3BD63" "xFAB94C" }
+    provinces = {}
 
     arable_land = 24
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -232,7 +232,7 @@ STATE_HORSEMUZ = {
 
 STATE_YABMANEIN = {
     id = 429
-    provinces = { "x482110" "x743C16" "xC0A372" "xC56C31" "xC6BAAB" "xCE852F" "xEDB24A" "xEEDB71" "xEFD293" }
+    provinces = {}
 
     arable_land = 44
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -240,7 +240,7 @@ STATE_YABMANEIN = {
 
 STATE_DAWASIRE = {
     id = 430
-    provinces = { "x5A1B0A" "x5E2412" "x634138" "x8A3118" "x8F7168" "x914936" "xB34E2F" "xC24625" "xC38979" "xC94926" "xF57451" }
+    provinces = {}
 
     arable_land = 34
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -248,7 +248,7 @@ STATE_DAWASIRE = {
 
 STATE_AL_YAMANEMAH = {
     id = 431
-    provinces = { "x925241" "xA27262" "xA65944" "xB1454C" "xD68765" "xDD5B2F" "xE44E1C" "xEBC5B4" "xEF9279" "xEF9A7D" "xF46E33" }
+    provinces = {}
 
     arable_land = 6
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
@@ -256,7 +256,7 @@ STATE_AL_YAMANEMAH = {
 
 STATE_AL_MANEID = {
     id = 432
-    provinces = { "x382208" "x533410" "x571E0C" "x611D08" "xAB6D15" "xBA7B30" "xD9864F" "xEA4F1F" }
+    provinces = { "x311E03" "x35250E" "x382208" "x3D1A0E" "x49300D" "x4B1407" "x533410" "x571E0C" "x611D08" "x66392A" "x7C5218" "x854012" "x872C04" "x8A2A10" "x8D5A12" "x963109" "x985F0D" "x9D7741" "x9F681B" "xA5660E" "xA93F10" "xAB6D15" "xB39417" "xB74D1E" "xBA7B30" "xBB6848" "xC0451A" "xCE4D2A" "xD58F2E" "xD7794F" "xD9864F" "xDE9C85" "xDF4D14" "xDF775B" "xDF9D42" "xEA4F1F" }
 
     arable_land = 46
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -264,7 +264,7 @@ STATE_AL_MANEID = {
 
 STATE_AWAL = {
     id = 433
-    provinces = { "x311E03" "x35250E" "x49300D" "x4B1407" "x854012" "x872C04" "x8D5A12" "x985F0D" "xA5660E" "xA93F10" "xD58F2E" "xD7794F" }
+    provinces = {}
 
     arable_land = 30
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -272,7 +272,7 @@ STATE_AWAL = {
 
 STATE_QATHOOF = {
     id = 434
-    provinces = { "x3D1A0E" "x66392A" "x7C5218" "x8A2A10" "x9D7741" "x9F681B" "xB39417" "xB74D1E" "xDF775B" "xDF9D42" }
+    provinces = {}
 
     arable_land = 22
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -280,7 +280,7 @@ STATE_QATHOOF = {
 
 STATE_SADDLEAYR = {
     id = 435
-    provinces = { "x632210" "x732B30" "x784D42" "x8B751F" "x963109" "xB84D23" "xBB6848" "xC0451A" "xCE4D2A" "xD23E2B" "xD36B5E" "xDE9C85" "xDF4D14" "xE68762" }
+    provinces = {}
 
     arable_land = 9
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
@@ -288,7 +288,7 @@ STATE_SADDLEAYR = {
 
 STATE_AL_FARASIATAN = {
     id = 436
-    provinces = { "x671F24" "x6C493A" "x6F1A1F" "x8B474B" "xC14E1C" "xD03640" }
+    provinces = { "x301012" "x482110" "x5E0CF8" "x632210" "x644743" "x671F24" "x6C493A" "x6F1A1F" "x732B30" "x784D42" "x853E34" "x8B474B" "x8B751F" "x925241" "xA27262" "xA65944" "xB1454C" "xB32D36" "xB82E37" "xB84D23" "xC14E1C" "xD03640" "xD23E2B" "xD36B5E" "xD68765" "xDD5B2F" "xE38389" "xE44E1C" "xE68762" "xEBC5B4" "xEF9279" "xEF9A7D" "xF46E33" "xF79E92" }
 
     arable_land = 8
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
@@ -296,7 +296,7 @@ STATE_AL_FARASIATAN = {
 
 STATE_OUJMAREDA = {
     id = 437
-    provinces = { "x361201" "x3F1E10" "x642D15" "x66411F" "x7F5249" "x863511" "xA94011" "xC3724E" "xCC6C59" "xD2A175" "xD3DDFF" "xE37F26" "xE54829" "xE68B63" "xEC8F7D" }
+    provinces = {}
 
     arable_land = 27
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -304,7 +304,7 @@ STATE_OUJMAREDA = {
 
 STATE_MAREKKAH = {
     id = 438
-    provinces = { "x301012" "x5E0CF8" "x632E27" "x644743" "x853E34" "xB32D36" "xB82E37" "xE38389" "xF79E92" }
+    provinces = {}
 
     arable_land = 5
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
@@ -312,7 +312,7 @@ STATE_MAREKKAH = {
 
 STATE_QUNFUDHAH = {
     id = 439
-    provinces = { "x79583B" "x945E03" "xB68E6A" "xC2841A" "xCCA98A" "xD1973C" "xDF8636" "xE2B288" }
+    provinces = {}
 
     arable_land = 26
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -320,7 +320,7 @@ STATE_QUNFUDHAH = {
 
 STATE_TROTAIF = {
     id = 440
-    provinces = { "x6B3712" "xC16320" "xC26928" "xC96419" "xCA7130" "xD49C4C" "xD6972F" "xDAB270" "xDB935E" "xDF935C" "xE28644" "xE97017" }
+    provinces = { "x25240C" "x3D3C24" "x60391D" "x632E27" "x68630D" "x6B3712" "x835A2A" "x864312" "x928D53" "x97630A" "xA06819" "xA35922" "xAE6804" "xAF7A22" "xB25512" "xB9AE9B" "xBC8660" "xBEBB85" "xC16320" "xC1B828" "xC26928" "xC56521" "xC5A01F" "xC5BD24" "xC96419" "xCA7130" "xCB8C33" "xCDA107" "xD3AA6F" "xD49C4C" "xD6972F" "xDA9A2F" "xDAB270" "xDB935E" "xDBC167" "xDBCF49" "xDDC46F" "xDEAD89" "xDF7B23" "xDF935C" "xE0BA38" "xE0CAA6" "xE28644" "xE2B872" "xE47B2E" "xE69F26" "xE6B877" "xE77019" "xE97017" "xEC7A2A" "xEDC966" "xEFAB49" "xF2D19A" }
 
     arable_land = 28
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -328,7 +328,7 @@ STATE_TROTAIF = {
 
 STATE_TROTUBAH = {
     id = 440
-    provinces = { "x60391D" "x864312" "xA35922" "xB25512" "xBC8660" "xC56521" "xDEAD89" "xE47B2E" "xE77019" "xEC7A2A" "xF2D19A" }
+    provinces = {}
 
     arable_land = 5
     arable_resources = { "bg_livestock_ranches" }
@@ -344,7 +344,7 @@ STATE_MANEDINAH = {
 
 STATE_JEDDNEIGHA = {
     id = 442
-    provinces = { "x9A3B1E" "x9A6434" "xC2691B" "xC94011" "xD4843D" "xDF8C6F" "xED9648" "xF2B987" }
+    provinces = { "x361201" "x3F1E10" "x642D15" "x66411F" "x7F5249" "x863511" "x9A3B1E" "x9A6434" "xA94011" "xC2691B" "xC3724E" "xC94011" "xCC6C59" "xD2A175" "xD3DDFF" "xD4843D" "xDF8C6F" "xE37F26" "xE54829" "xE68B63" "xEC8F7D" "xED9648" "xF2B987" }
 
     arable_land = 29
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -352,7 +352,7 @@ STATE_JEDDNEIGHA = {
 
 STATE_Madin_Stallionlaym = {
     id = 443
-    provinces = { "xA06819" "xAE6804" "xAF7A22" "xB9AE9B" "xC5A01F" "xCB8C33" "xCDA107" "xD3AA6F" "xDA9A2F" "xDBC167" "xDDC46F" "xE0BA38" "xE0CAA6" "xE2B872" "xE6B877" "xEFAB49" }
+    provinces = {}
 
     arable_land = 12
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
@@ -360,7 +360,7 @@ STATE_Madin_Stallionlaym = {
 
 STATE_AQABAH = {
     id = 444
-    provinces = { "x5D3012" "x5D3E13" "x68300A" "x7E5A29" "x8B5305" "x995F0F" "x9E4A12" "xB38A1B" "xC57D19" }
+    provinces = {}
 
     arable_land = 4
     arable_resources = { "bg_livestock_ranches" }
@@ -368,7 +368,7 @@ STATE_AQABAH = {
 
 STATE_HADITHA = {
     id = 445
-    provinces = { "x4F411A" "x785C11" "x958C26" "xA44E28" "xC6981D" "xD04B10" "xD6CB4E" "xDEAC25" }
+    provinces = {}
 
     arable_land = 24
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -376,7 +376,7 @@ STATE_HADITHA = {
 
 STATE_JABAL_SHAMMARE = {
     id = 446
-    provinces = { "x25240C" "x3D3C24" "x68630D" "x835A2A" "x928D53" "x97630A" "xBEBB85" "xC1B828" "xC5BD24" "xDBCF49" "xDF7B23" "xE69F26" "xEDC966" }
+    provinces = {}
 
     arable_land = 21
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -384,7 +384,7 @@ STATE_JABAL_SHAMMARE = {
 
 STATE_AL_KAHB = {
     id = 447
-    provinces = { "x2B0E05" "x35160B" "x4C352D" "x5B1B05" "x622512" "x6C4537" "x7C5D0B" "x8A3A0F" "x8A6320" "x955741" "xA83B14" "xAA5526" "xAE785B" "xC3B193" "xCB8918" "xD5663F" "xD7A142" "xF4B74E" }
+    provinces = { "x2B0E05" "x35160B" "x4C352D" "x4F411A" "x5B1B05" "x5D3012" "x5D3E13" "x622512" "x68300A" "x6C4537" "x785C11" "x7C5D0B" "x7E5A29" "x8A3A0F" "x8A6320" "x8B5305" "x955741" "x958C26" "x995F0F" "x9E4A12" "xA44E28" "xA83B14" "xAA5526" "xAE785B" "xB38A1B" "xC3B193" "xC57D19" "xC6981D" "xCB8918" "xD04B10" "xD5663F" "xD6CB4E" "xD7A142" "xDEAC25" "xF4B74E" }
 
     arable_land = 4
     arable_resources = { "bg_livestock_ranches" }
