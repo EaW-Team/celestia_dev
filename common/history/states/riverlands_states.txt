@@ -140,8 +140,13 @@ STATES = {
 			owned_provinces = { "x065D4B" "x09249B" "x09AB32" "x33C012" "x5A3010" "x870095" "x874B22" "xB19652" }
 		}
 		
+		create_state = {
+			country = c:RCT
+			owned_provinces = { "x3169D0" "x33243F" "x336603" "x5D63C9" }
+		}
+		
 		add_homeland = wittenlandic
-	}
+	} 
 	
 	s:STATE_HENGESTDELU = {
 		create_state = {
@@ -160,15 +165,6 @@ STATES = {
 		
 		add_homeland = rijekan
 	}
-	
-	s:STATE_WILD_VODINA = {
-		create_state = {
-			country = c:RCT
-			owned_provinces = { "x3169D0" "x33243F" "x336603" "x5D63C9" }
-		}
-		
-		add_homeland = rijekan
-	} 
 	
 	s:STATE_RIJEKA = {
 		create_state = {
