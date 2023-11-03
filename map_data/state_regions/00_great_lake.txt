@@ -1,28 +1,75 @@
 ﻿STATE_BUCKURE = {
     id = 942
-    provinces = { "x0014F8" "x14B85A" "x2002F8" "x2BD25E" "x345721" "x34A349" "x367B29" "x3BB76F" "x3D5429" "x3F1D14" "x449E6A" "x45100A" "x457454" "x4F1606" "x502B0E" "x51DF8D" "x59A352" "x59C34F" "x5ADFB2" "x5B1109" "x6BE35E" "x72DD67" "x73DA92" "x763726" "x7F2A20" "x80E876" "x8B1D11" "x8B2317" "x8DF083" "x8EE7A9" "x93BB9F" "x94DA8D" "x952216" "x952F13" "x95D47F" "x97CD92" "x98C594" "xABF3DA" "xB6E5C5" "xB94A3E" "xB9574C" "xCD684C" "xE4402E" }
+    provinces = { "x0014F8" "x2002F8" "x216337" "x3BB76F" "x3F1D14" "x45100A" "x4F1606" "x502B0E" "x5ADFB2" "x5B1109" "x763726" "x7F2A20" "x8B1D11" "x8B2317" "x952216" "x952F13" "x95D47F" "xABF3DA" "xB94A3E" "xB9574C" "xCD684C" "xE4402E" }
 }
 
+<<<<<<< HEAD
+=======
+STATE_ZIANI = {
+    id = 943
+    provinces = { "x064EC8" "x0D711E" "x168328" "x329F0C" "x3B7228" "x3F6D46" "x4DD664" "x75E688" "xE39121" }
+}
+
+STATE_FUTA_ZALLON = {
+    id = 944
+    provinces = { "x14B85A" "x2BD25E" "x345721" "x367B29" "x3D5429" "x449E6A" "x51DF8D" "x73DA92" "x8EE7A9" "x93BB9F" "xB6E5C5" }
+}
+
+STATE_BENZUGU = {
+    id = 946
+    provinces = { "x294D0A" "x396116" "x4E02E8" "x638744" "x638E3C" "x7BB259" "x7CF036" "xBFD4AD" }
+}
+
+>>>>>>> parent of 1c3b21d (combining states and what not)
 STATE_GWITZIKO = {
     id = 947
-    provinces = { "x064EC8" "x0D711E" "x168328" "x18723E" "x294D0A" "x2ACC2A" "x329F0C" "x396116" "x3B7228" "x3F6D46" "x458327" "x4BAD75" "x4DD664" "x4E02E8" "x53941B" "x638744" "x638E3C" "x68AE5A" "x6BCC63" "x6EE32E" "x75E688" "x7BB259" "x7CF036" "x7ECA7E" "x81C04B" "x9AE070" "x9BB988" "x9BD390" "xBFD4AD" "xC8F0AF" "xE39121" }
+    provinces = { "x18723E" "x2ACC2A" "x458327" "x4BAD75" "x53941B" "x68AE5A" "x6BCC63" "x6EE32E" "x7ECA7E" "x81C04B" "x9AE070" "x9BB988" "x9BD390" "xC8F0AF" }
 }
 
+<<<<<<< HEAD
+=======
+STATE_BAMBUCK = {
+    id = 959
+    provinces = { "x34A349" "x457454" "x59A352" "x59C34F" "x6BE35E" "x72DD67" "x80E876" "x8DF083" "x94DA8D" "x97CD92" "x98C594" }
+}
+
+STATE_ANZONGO = {
+    id = 939
+    provinces = { "x887836" "x8B7D6B" "xB09426" "xB6AF94" "xCFAA13" "xE0C65D" "xFBE68F" }
+}
+
+STATE_ZARABARA = {
+    id = 940
+    provinces = { "x4E251B" "x7B2E1B" "x884E0F" "xB56208" "xCF4522" "xD08855" "xD99058" "xF17C29" }
+}
+>>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_ZAIRBANDA = {
     id = 941
-    provinces = { "x4E251B" "x7B2E1B" "x884E0F" "x887836" "x8B7D6B" "x986036" "x9D7B60" "xAF5815" "xB09426" "xB49B79" "xB56208" "xB6AF94" "xCF4522" "xCFAA13" "xD08855" "xD09F5B" "xD3B285" "xD4AE91" "xD99058" "xE09A3C" "xE0C65D" "xE96D0D" "xF17C29" "xF1924A" "xF2BC94" "xF8D6BC" "xFBE68F" }
+    provinces = { "x986036" "x9D7B60" "xAF5815" "xB49B79" "xD09F5B" "xD3B285" "xD4AE91" "xE09A3C" "xE96D0D" "xF1924A" "xF2BC94" "xF8D6BC" }
 }
 
 STATE_ZIBIRIDUGU = {
     id = 945
-    provinces = { "x143E0C" "x18561C" "x2C5524" "x30AC39" "x3719E8" "x42B82B" "x561E18" "x58AB47" "x666E5E" "x76965A" "x77B12F" "x77E960" "x854841" "x85976F" "x932F24" "x93EE42" "x9DBD80" "xA5CE72" "xAED57E" "xB4E985" "xD36B60" }
+    provinces = { "x30AC39" "x561E18" "x666E5E" "x76965A" "x93EE42" "x9DBD80" "xB4E985" "xD36B60" }
 }
 
+<<<<<<< HEAD
+=======
+STATE_ZAO = {
+    id = 948
+    provinces = { "x143E0C" "x18561C" "x2C5524" "x3719E8" "x42B82B" "x58AB47" "x77B12F" "x77E960" "x854841" "x85976F" "x932F24" "xA5CE72" "xAED57E" }
+}
+
+STATE_GHABA = {
+    id = 950
+    provinces = { "x1302EC" "x1A02F4" "x339152" "x4F390F" "x74AD6E" "x75D36C" "x8CF35A" "x91552F" "x95D76B" "xB8F19C" "xC78A17" }
+}
+>>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_REEM = {
     id = 951
-    provinces = { "x0A09AA" "x1302EC" "x1402F0" "x1A02F4" "x216337" "x339152" "x4F390F" "x74AD6E" "x75D36C" "x8CF35A" "x91552F" "x95D76B" "x9A4611" "xA87109" "xB8F19C" "xC78A17" "xC89E4E" "xEE965F" "xF3B642" }
+    provinces = { "x0A09AA" "x1402F0" "x9A4611" "xA87109" "xC89E4E" "xEE965F" "xF3B642" }
 }
 
 STATE_ZOMBORI = {
@@ -32,34 +79,48 @@ STATE_ZOMBORI = {
 
 STATE_ZAUDENI = {
     id = 935
-    provinces = { "x0C3516" "x132D07" "x1F4A0C" "x225D31" "x254716" "x27813E" "x285115" "x285F0F" "x30C355" "x3A8021" "x3B6F23" "x40662E" "x438B22" "x508438" "x549137" "x564E2B" "x5B858A" "x5C9227" "x6AA450" "x6ED588" "x7F500A" "x8A5A13" "xD9846E" "xDF9D3A" "xF2AA3E" "xFAC575" }
+    provinces = { "x0C3516" "x225D31" "x254716" "x27813E" "x285115" "x285F0F" "x30C355" "x438B22" "x549137" "x564E2B" "x5B858A" "x6ED588" "x7F500A" "x8A5A13" "xD9846E" "xDF9D3A" "xF2AA3E" "xFAC575" }
 }
 
+<<<<<<< HEAD
+=======
+STATE_WAZAD = {
+    id = 936
+    provinces = { "x132D07" "x1F4A0C" "x3A8021" "x3B6F23" "x40662E" "x508438" "x5C9227" "x6AA450" }
+}
+>>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_TIMBUCKTU = {
     id = 937
     provinces = { "x433807" "x53340B" "x883C06" "x915F1C" "x9E4610" "xA0623B" "xAC5619" "xBB89A4" "xD37838" "xED7F30" "xEE6510" "xEE8C4F" "xEF9758" "xEFB090" "xF4B080" }
 }
 
+<<<<<<< HEAD
+=======
+STATE_ZODH = {
+    id = 938
+    provinces = { "x2B2405" "x431E07" "x5A3118" "x77630F" "x8A7B38" "x9E850F" "xBCA128" "xC0541F" "xCEC084" "xDAC879" "xDC8F58" "xE37322" "xE3C326" "xE56A12" "xEBCB41" "xFFE2B5" }
+}
+>>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_BAGHZENA = {
     id = 953
-    provinces = { "x2B2405" "x431E07" "x55250D" "x5A3118" "x77630F" "x7B3D16" "x8A240B" "x8A7B38" "x996E1B" "x9E850F" "xA4552D" "xAC7409" "xB24712" "xB49884" "xBCA128" "xBD4A11" "xC0541F" "xC2A623" "xC77019" "xCD8958" "xCEC084" "xCF9E85" "xD45434" "xD45E23" "xD56119" "xD59418" "xDAC879" "xDC8F58" "xE37322" "xE3AE47" "xE3C326" "xE3DAAF" "xE56A12" "xEB9266" "xEBCB41" "xEF7D43" "xFFE2B5" }
+    provinces = { "x55250D" "x7B3D16" "x8A240B" "x996E1B" "xA4552D" "xAC7409" "xB24712" "xB49884" "xBD4A11" "xC2A623" "xC77019" "xCD8958" "xCF9E85" "xD45434" "xD45E23" "xD56119" "xD59418" "xE3AE47" "xE3DAAF" "xEB9266" "xEF7D43" }
 }
 
 STATE_MARESHI = {
     id = 968
-    provinces = { "x4E2907" "x503711" "x699112" "x70BE53" "x7CA9AF" "x7D7131" "x814915" "x820948" "x875426" "x8B4F18" "x8CA02F" "x8E6642" "x9ED956" "xAB32BD" "xB0631E" "xB58151" "xC4E59B" "xC9CDA4" "xD27827" "xD4D9A8" "xDB8C44" "xDBE67B" "xE6AE7B" }
+    provinces = { "x4E2907" "x503711" "x7CA9AF" "x820948" "x875426" "x8B4F18" "x8E6642" "x9ED956" "xAB32BD" "xB0631E" "xC4E59B" "xC9CDA4" "xD27827" "xD4D9A8" "xDB8C44" "xDBE67B" "xE6AE7B" }
 }
 
 STATE_ZIFE = {
     id = 969
-    provinces = { "x4E5B16" "x5B6B4B" "x85A268" "x85C843" "x8DC15A" "x96B50E" "xABE372" "xB6CD51" }
+    provinces = { "x4E5B16" "x5B6B4B" "x699112" "x70BE53" "x7D7131" "x814915" "x85A268" "x85C843" "x8CA02F" "x8DC15A" "x96B50E" "xABE372" "xB58151" "xB6CD51" }
 }
 
 STATE_AORANDA = {
     id = 949
-    provinces = { "x0F6B16" "x13A31D" "x18471C" "x188D09" "x1AAC25" "x2B531B" "x2C3715" "x48BC50" "x4ACC54" "x4CEB58" "x527F55" "x5AA23B" "x5B17EC" "x5FFF6B" "x6002F4" "x626E48" "x668658" "x67C7B9" "x67C8B9" "x67D1B9" "x6CBF72" "x7AC87F" "x87A34A" "x9EE6A3" "xA7EDAD" }
+    provinces = { "x13A31D" "x188D09" "x4ACC54" "x4CEB58" "x527F55" "x5FFF6B" "x6002F4" "x67C8B9" "x6CBF72" "x7AC87F" "x9EE6A3" }
 }
 
 STATE_BONOMANE = {
@@ -67,17 +128,36 @@ STATE_BONOMANE = {
     provinces = { "x106015" "x47AA0B" "x4F842F" "x5FA224" "x6219F4" "x6EA72B" "x74D43A" "x759462" "x7AB059" "x8CD95D" "xA5E76B" "xB4F78B" }
 }
 
+<<<<<<< HEAD
+=======
+STATE_UGABI = {
+    id = 964
+    provinces = { "x599C51" "x61AC61" "x698367" "x80CA71" "x8AB082" "xA2C186" "xAAC7CB" }
+}
+>>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_RUGUZU = {
     id = 967
-    provinces = { "x21A41B" "x462883" "x599C51" "x61AC61" "x698367" "x80CA71" "x87EB73" "x8AB082" "x8FCF8C" "xA2C186" "xA3C191" "xAAC7CB" "xABE588" }
+    provinces = { "x21A41B" "x462883" "x87EB73" "x8FCF8C" "xA3C191" "xABE588" }
 }
 
 STATE_NKORE = {
     id = 966
-    provinces = { "x137E40" "x2BA03F" "x3BC776" "x3BE73B" "x43E69F" "x4ADAB7" "x51956D" "x63EFED" "x6765B9" "x6B946B" "x6BB06B" "x99D678" "xB3CCB0" }
+    provinces = { "x137E40" "x2BA03F" "x3BE73B" "x6B946B" "x6BB06B" "x99D678" }
 }
 
+<<<<<<< HEAD
 
+=======
+STATE_KARGAWEZE = {
+    id = 965
+    provinces = { "x3BC776" "x43E69F" "x4ADAB7" "x51956D" "x63EFED" "x6765B9" "xB3CCB0" }
+}
+
+STATE_KOTOZO = {
+    id = 970
+    provinces = { "x0F6B16" "x18471C" "x1AAC25" "x2B531B" "x2C3715" "x48BC50" "x5AA23B" "x5B17EC" "x626E48" "x668658" "x67C7B9" "x67D1B9" "x87A34A" "xA7EDAD" }
+}
+>>>>>>> parent of 1c3b21d (combining states and what not)
 
 

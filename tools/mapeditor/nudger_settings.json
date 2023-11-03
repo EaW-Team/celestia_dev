@@ -184,45 +184,6 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
-				"key":	"arabic_dynamic_farmland_objects_generator_1_0"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"arabic_dynamic_farmland_objects_generator_1_0"
-				}
-			},
-			"instances":	[]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
-				"key":	"arabic_dynamic_farmland_objects_generator_1_1"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"arabic_dynamic_farmland_objects_generator_1_1"
-				}
-			},
-			"instances":	[]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
-				"key":	"arabic_dynamic_farmland_objects_generator_1_2"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"arabic_dynamic_farmland_objects_generator_1_2"
-				}
-			},
-			"instances":	[]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
 				"key":	"arabic_dynamic_farmland_objects_generator_1_3"
 			},
 			"entry_state":	{
@@ -230,32 +191,6 @@
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"arabic_dynamic_farmland_objects_generator_1_3"
-				}
-			},
-			"instances":	[]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
-				"key":	"arabic_dynamic_forestry_objects_generator_1_0"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"arabic_dynamic_forestry_objects_generator_1_0"
-				}
-			},
-			"instances":	[]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
-				"key":	"arabic_dynamic_forestry_objects_generator_1_1"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"arabic_dynamic_forestry_objects_generator_1_1"
 				}
 			},
 			"instances":	[]
@@ -353,32 +288,6 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
-				"key":	"asian_dynamic_farmland_objects_generator_1_0"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"asian_dynamic_farmland_objects_generator_1_0"
-				}
-			},
-			"instances":	[]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
-				"key":	"asian_dynamic_farmland_objects_generator_1_1"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"asian_dynamic_farmland_objects_generator_1_1"
-				}
-			},
-			"instances":	[]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
 				"key":	"asian_dynamic_farmland_objects_generator_1_2"
 			},
 			"entry_state":	{
@@ -386,6 +295,32 @@
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_farmland_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_farmland_objects_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"asian_dynamic_farmland_objects_generator_1_4"
 				}
 			},
 			"instances":	[]
@@ -1786,45 +1721,6 @@
 				}, {
 					"locked":	false
 				}]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
-				"key":	"latin_dynamic_farmland_objects_generator_1_0"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"latin_dynamic_farmland_objects_generator_1_0"
-				}
-			},
-			"instances":	[]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
-				"key":	"latin_dynamic_farmland_objects_generator_1_1"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"latin_dynamic_farmland_objects_generator_1_1"
-				}
-			},
-			"instances":	[]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
-				"key":	"latin_dynamic_farmland_objects_generator_1_2"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"latin_dynamic_farmland_objects_generator_1_2"
-				}
-			},
-			"instances":	[]
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
@@ -3635,6 +3531,14 @@
 					"locked":	false
 				}, {
 					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
 				}]
 		}, {
 			"object_ref":	{
@@ -3755,6 +3659,10 @@
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -5458,7 +5366,67 @@
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -5471,7 +5439,79 @@
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
