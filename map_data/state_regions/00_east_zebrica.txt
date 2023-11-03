@@ -143,18 +143,6 @@ STATE_VESPERTINE_VALLEY = {
     provinces = { "x0A3727" "x0A6C4F" "x0B2D2B" "x0C2A21" "x113469" "x144C49" "x16273F" "x164745" "x1E4C3C" "x234414" "x273F64" "x347470" "x396E34" "x4A9B96" "x539884" "x609E43" "x73A5B0" "x831D4C" "x88C7D5" }
 }
 
-STATE_NIEUW_ROTTENDESTAAT = {
-    id = 911
-    provinces = {}
-    subsistence_building = { "building_subsistence_fishing_villages" }
-    traits = { state_trait_river1 state_trait_river2 }
-    city = "x91BD7F"
-    port = "x91BD7F"
-    capped_resources = {
-        bg_fishing = 6
-    }
-    naval_exit_id = 3010
-}
 
 STATE_GRIFFEVELD = {
     id = 912
@@ -174,21 +162,6 @@ STATE_GRIFFEVELD = {
     naval_exit_id = 3010
 }
 
-STATE_ZEBELLENDAM = {
-    id = 913
-    provinces = {}
-    subsistence_building = { "building_subsistence_pastures" }
-    traits = { state_trait_river1 state_trait_river2 }
-    city = "x4F8B64"
-    farm = "x96A58D"
-    mine = "x3E7950"
-    arable_land = 27
-    arable_resources = { "bg_livestock_ranches" "bg_maize_farms" "bg_wheat_farms" "bg_rye_farms" }
-    capped_resources = {
-        bg_iron_mining = 9
-        bg_logging = 4
-    }
-}
 
 STATE_GRIFF_REINET = {
     id = 914
@@ -209,38 +182,10 @@ STATE_GRIFF_REINET = {
     naval_exit_id = 3010
 }
 
-STATE_ZIMPOPO = {
-    id = 915
-    provinces = {}
-    subsistence_building = { "building_subsistence_pastures" }
-    traits = { state_trait_river2 }
-    city = "xC2DAAC"
-    farm = "x59D87A"
-    arable_land = 18
-    arable_resources = { "bg_livestock_ranches" "bg_maize_farms" "bg_wheat_farms" "bg_rye_farms" }
-    capped_resources = {
-        bg_logging = 3
-    }
-}
-
-STATE_MZINGA = {
-    id = 1127
-    provinces = {}
-}
 
 STATE_ZANA = {
     id = 1128
     provinces = { "x263417" "x273E0F" "x2A691C" "x2EB341" "x2F1E12" "x30441B" "x376A45" "x3C4136" "x424423" "x502910" "x517947" "x545E48" "x5E6A50" "x62B250" "x67AA7A" "x7ED275" "x81D34F" "x824A22" "x8DAD48" "x8EBD71" "xA1C19A" "xB7E9B2" "xC5CDAA" }
-}
-
-STATE_EWASO_ZEBRO = {
-    id = 1129
-    provinces = {}
-}
-
-STATE_ITHEBRA = {
-    id = 1130
-    provinces = {}
 }
 
 STATE_KISMANEYO = {

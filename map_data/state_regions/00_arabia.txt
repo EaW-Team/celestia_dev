@@ -6,51 +6,12 @@
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-STATE_MANELILLA = {
-    id = 401
-    provinces = {}
-
-    arable_land = 21
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_TROTGIERS = {
-    id = 402
-    provinces = {}
-
-    arable_land = 38
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_TAILA_IMSAN = {
-    id = 403
-    provinces = {}
-
-    arable_land = 26
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_TAFILALT = {
-    id = 404
-    provinces = {}
-
-    arable_land = 20
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
-}
 
 STATE_MAREAKECH = {
     id = 405
     provinces = { "x450E2A" "x551010" "x612B2B" "x612F5C" "x69380D" "x743B27" "x7E3C45" "x87104E" "x883E23" "x8C5421" "x8E604F" "x920D0D" "x952689" "x9A1C2E" "xA8330B" "xAB4C2C" "xAC7328" "xB2631C" "xB5283C" "xCB7026" "xCC7222" "xD4905A" "xD4A57C" "xD8842A" "xDF791E" "xDFC847" "xE08D44" "xE0D490" "xE36173" "xE37B27" "xE7B389" "xEFD0A9" "xF4A949" "xF4B481" "xF6A05A" "xFA9B4D" "xFDB75C" }
 
     arable_land = 36
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_BUCKKALA = {
-    id = 406
-    provinces = {}
-
-    arable_land = 18
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
@@ -70,29 +31,6 @@ STATE_HORSEZ = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-STATE_TROTADLA = {
-    id = 409
-    provinces = {}
-
-    arable_land = 12
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_HAYHA = {
-    id = 410
-    provinces = {}
-
-    arable_land = 29
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_ABFILLYA = {
-    id = 411
-    provinces = {}
-
-    arable_land = 27
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
 
 STATE_HIGH_MARETLAS = {
     id = 412
@@ -102,59 +40,12 @@ STATE_HIGH_MARETLAS = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
 }
 
-STATE_QAWASMANE = {
-    id = 413
-    provinces = {}
-
-    arable_land = 17
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
-}
-
-STATE_MANEKNES = {
-    id = 414
-    provinces = {}
-
-    arable_land = 8
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
-}
-
-STATE_GHAZZMARE = {
-    id = 415
-    provinces = {}
-
-    arable_land = 26
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_ILPONWA = {
-    id = 416
-    provinces = {}
-
-    arable_land = 10
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
-}
-
-STATE_MARECALAT = {
-    id = 417
-    provinces = {}
-
-    arable_land = 32
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
 
 STATE_JAFFMARE = {
     id = 418
     provinces = { "x34190C" "x3A1503" "x4A2216" "x4D572D" "x779420" "x7B2F09" "x89311A" "x9B351A" "x9B461C" "xA03316" "xA1C043" "xA65B1F" "xA86341" "xB38327" "xB57A09" "xBC5B2A" "xBE7E6A" "xC0D341" "xC4AE85" "xC7610F" "xCAC820" "xCB7862" "xCF8F7E" "xD3A141" "xD3B477" "xD59681" "xD85617" "xD88169" "xDBC293" "xDC9C7C" "xE0522C" "xE3A26D" "xE69A5C" "xE77943" "xE94E25" "xEB8460" "xEBAC32" "xEC5E19" "xEE9C85" "xEEAC2C" "xF3CD84" "xF4B844" }
 
     arable_land = 33
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_NAJGALLOP = {
-    id = 419
-    provinces = {}
-
-    arable_land = 35
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
@@ -166,37 +57,6 @@ STATE_AFOALAJ = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-STATE_ABU_MAREISH = {
-    id = 421
-    provinces = {}
-
-    arable_land = 33
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_BISHAH = {
-    id = 422
-    provinces = {}
-
-    arable_land = 27
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_BADIMANE_ASH_SHAM = {
-    id = 423
-    provinces = {}
-
-    arable_land = 26
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_AL_COLTIF = {
-    id = 424
-    provinces = {}
-
-    arable_land = 23
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
 
 STATE_MASAB = {
     id = 425
@@ -214,45 +74,7 @@ STATE_QUATMARE = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-STATE_JABAL_TROTBAIQ = {
-    id = 427
-    provinces = {}
 
-    arable_land = 25
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_HORSEMUZ = {
-    id = 428
-    provinces = {}
-
-    arable_land = 24
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_YABMANEIN = {
-    id = 429
-    provinces = {}
-
-    arable_land = 44
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_DAWASIRE = {
-    id = 430
-    provinces = {}
-
-    arable_land = 34
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_AL_YAMANEMAH = {
-    id = 431
-    provinces = {}
-
-    arable_land = 6
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
-}
 
 STATE_AL_MANEID = {
     id = 432
@@ -262,29 +84,7 @@ STATE_AL_MANEID = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-STATE_AWAL = {
-    id = 433
-    provinces = {}
 
-    arable_land = 30
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_QATHOOF = {
-    id = 434
-    provinces = {}
-
-    arable_land = 22
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_SADDLEAYR = {
-    id = 435
-    provinces = {}
-
-    arable_land = 9
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
-}
 
 STATE_AL_FARASIATAN = {
     id = 436
@@ -294,29 +94,6 @@ STATE_AL_FARASIATAN = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
 }
 
-STATE_OUJMAREDA = {
-    id = 437
-    provinces = {}
-
-    arable_land = 27
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_MAREKKAH = {
-    id = 438
-    provinces = {}
-
-    arable_land = 5
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
-}
-
-STATE_QUNFUDHAH = {
-    id = 439
-    provinces = {}
-
-    arable_land = 26
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
 
 STATE_TROTAIF = {
     id = 440
@@ -326,13 +103,6 @@ STATE_TROTAIF = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-STATE_TROTUBAH = {
-    id = 440
-    provinces = {}
-
-    arable_land = 5
-    arable_resources = { "bg_livestock_ranches" }
-}
 
 STATE_MANEDINAH = {
     id = 441
@@ -350,37 +120,6 @@ STATE_JEDDNEIGHA = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-STATE_Madin_Stallionlaym = {
-    id = 443
-    provinces = {}
-
-    arable_land = 12
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
-}
-
-STATE_AQABAH = {
-    id = 444
-    provinces = {}
-
-    arable_land = 4
-    arable_resources = { "bg_livestock_ranches" }
-}
-
-STATE_HADITHA = {
-    id = 445
-    provinces = {}
-
-    arable_land = 24
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
-
-STATE_JABAL_SHAMMARE = {
-    id = 446
-    provinces = {}
-
-    arable_land = 21
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
-}
 
 STATE_AL_KAHB = {
     id = 447

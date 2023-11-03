@@ -1,12 +1,5 @@
 POPS = {
-	s:STATE_FARASRAH = {
-		region_state:YAM = {
-			create_pop = {
-				culture = yemani
-				size = 571699
-			}
-		}
-	}
+	
 	s:STATE_AHOOVEZ = {
 		region_state:YAM = {
 			create_pop = {
@@ -23,14 +16,7 @@ POPS = {
 			}
 		}
 	}
-	s:STATE_MANE'A = {
-		region_state:YAM = {
-			create_pop = {
-				culture = yemani
-				size = 719400
-			}
-		}
-	}
+	
 	s:STATE_TAILZ = {
 		region_state:YAM = {
 			create_pop = {
@@ -47,22 +33,7 @@ POPS = {
 			}
 		}
 	}
-	s:STATE_AL-SHAYHR = {
-		region_state:YAM = {
-			create_pop = {
-				culture = yemani
-				size = 228030
-			}
-		}
-	}
-	s:STATE_BUCKZERTE = {
-		region_state:DOF = {
-			create_pop = {
-				culture = ahfar
-				size = 68420
-			}
-		}
-	}
+	
 	s:STATE_MAREOUSSE = {
 		region_state:DOF = {
 			create_pop = {

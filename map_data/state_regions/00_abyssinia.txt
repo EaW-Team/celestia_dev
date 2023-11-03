@@ -13,44 +13,6 @@
     }
 }
 
-STATE_TIGERAY = {
-    id = 776
-    subsistence_building = "building_subsistence_fishing_villages"
-    provinces = {}
-    traits = { "state_trait_panthera_river" }
-    city = "x94451E"
-    port = "x94451E"
-    farm = "xABE8B9"
-    mine = "x250C30"
-    arable_land = 20
-    arable_resources = { "bg_coffee_plantations" "bg_millet_farms" "bg_livestock_ranches" }
-    capped_resources = {
-        bg_iron_mining = 10
-        bg_fishing = 5
-    }
-    naval_exit_id = 3008
-}
-
-STATE_AMHAPURA = {
-    id = 777
-    subsistence_building = "building_subsistence_fishing_villages"
-    provinces = {}
-    city = "xD1B707"
-    port = "xD1B707"
-    farm = "x9A772B"
-    mine = "xA51138"
-    wood = "xCE987D"
-    arable_land = 36
-    arable_resources = { "bg_coffee_plantations" "bg_maize_farms" "bg_millet_farms" }
-    capped_resources = {
-        bg_iron_mining = 20
-        bg_lead_mining = 18
-        bg_logging = 14
-        bg_fishing = 3
-    }
-    naval_exit_id = 3008
-}
-
 STATE_MEDAFI = {
     id = 786
     subsistence_building = "building_subsistence_farms"
@@ -62,43 +24,6 @@ STATE_MEDAFI = {
     capped_resources = {
         bg_fishing = 2
     }
-}
-
-STATE_DIMETI = {
-    id = 785
-    subsistence_building = "building_subsistence_pastures"
-    provinces = {}
-    traits = { "state_trait_panthera_river" }
-    city = "xCBC5AA"
-    farm = "xCAB976"
-    mine = "xA88D14"
-    arable_land = 18
-    arable_resources = { "bg_maize_farms" "bg_millet_farms" "bg_livestock_ranches" }
-    capped_resources = {
-        bg_iron_mining = 7
-    }
-}
-
-STATE_PURRK'ELE = {
-    id = 773
-    subsistence_building = "building_subsistence_pastures"
-    provinces = {}
-    traits = { "state_trait_tiger_river" }
-    city = "xF4CB90"
-    farm = "x917205"
-    arable_land = 32
-    arable_resources = { "bg_tobacco_plantations" "bg_maize_farms" "bg_millet_farms" "bg_livestock_ranches" }
-}
-
-STATE_KATOUM = {
-    id = 772
-    subsistence_building = "building_subsistence_pastures"
-    provinces = {}
-    traits = { "state_trait_tiger_river" }
-    city = "xAD683F"
-    farm = "xBB7B1E"
-    arable_land = 26
-    arable_resources = { "bg_millet_farms" "bg_maize_farms" }
 }
 
 STATE_PAWRITREA = {
@@ -117,11 +42,6 @@ STATE_PAWRITREA = {
     naval_exit_id = 3009
 }
 
-STATE_KOM_MAREBO = {
-    id = 764
-    subsistence_building = "building_subsistence_pastures"
-    provinces = {}
-}
 
 STATE_MAU = {
     id = 774
@@ -139,44 +59,6 @@ STATE_MAU = {
     }
 }
 
-STATE_OROMEOWIA = {
-    id = 778
-    subsistence_building = "building_subsistence_pastures"
-    provinces = {}
-    traits = { "state_trait_panthera_river" "state_trait_tiger_river" }
-    city = "x4E2613"
-    farm = "xD78861"
-    arable_land = 40
-    arable_resources = { "bg_millet_farms" "bg_maize_farms" "bg_livestock_ranches" }
-}
-
-STATE_DOLLO = {
-    id = 781
-    subsistence_building = "building_subsistence_pastures"
-    provinces = {}
-}
-
-STATE_MEOWTEKEL = {
-    id = 782
-    subsistence_building = "building_subsistence_fishing_villages"
-    provinces = {}
-    traits = { "state_trait_natural_harbor" }
-    city = "x17020F"
-    farm = "x1D1315"
-    port = "x17020F"
-    mine = "x2A0B1E"
-    arable_land = 18
-    arable_resources = { "bg_opium_plantations" "bg_millet_farms" "bg_maize_farms" }
-    capped_resources = {
-        bg_iron_mining = 21
-        bg_lead_mining = 13
-        bg_sulfur_mining = 7
-        bg_fishing = 13
-        bg_logging = 12
-    }
-    naval_exit_id = 3009
-}
-
 STATE_CATORAHE = {
     id = 779
     subsistence_building = "building_subsistence_farms"
@@ -191,21 +73,6 @@ STATE_CATORAHE = {
     }
 }
 
-STATE_MEOWUAK = {
-    id = 780
-    subsistence_building = "building_subsistence_farms"
-    provinces = {}
-    city = "xDD8EA6"
-    farm = "xDCE284"
-    port = "xDD8EA6"
-    arable_land = 13
-    arable_resources = { "bg_coffee_plantations" "bg_millet_farms" "bg_maize_farms" }
-    capped_resources = {
-        bg_logging = 15
-        bg_fishing = 3
-    }
-    naval_exit_id = 3008
-}
 
 STATE_JIRATI = {
     id = 783
@@ -223,41 +90,3 @@ STATE_JIRATI = {
     naval_exit_id = 3008
 }
 
-STATE_PURRSIA = {
-    id = 784
-    subsistence_building = "building_subsistence_fishing_villages"
-    provinces = {}
-    traits = { "state_trait_natural_harbor" }
-    city = "x0D4C3F"
-    farm = "x324193"
-    port = "x0D4C3F"
-    mine = "x6C7BC9"
-    arable_land = 12
-    arable_resources = { "bg_millet_farms" "bg_maize_farms" }
-    capped_resources = {
-        bg_lead_mining = 7
-        bg_fishing = 11
-        bg_logging = 5
-    }
-    naval_exit_id = 3008
-}
-
-STATE_KATKAT = {
-    id = 1201
-    subsistence_building = "building_subsistence_farms"
-    provinces = {}
-    traits = { "state_trait_natural_harbor" }
-    city = "x8A616C"
-    farm = "xD16B9B"
-    port = "x8A616C"
-    mine = "xC94271"
-    arable_land = 10
-    arable_resources = { "bg_coffee_plantations" "bg_millet_farms" "bg_maize_farms" }
-    capped_resources = {
-        bg_iron_mining = 12
-        bg_lead_mining = 44
-        bg_fishing = 3
-    }
-    naval_exit_id = 3008
-
-}

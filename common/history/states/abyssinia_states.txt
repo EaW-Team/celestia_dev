@@ -7,21 +7,7 @@ s:STATE_PANTHERA = {
 	add_homeland = amhaira
 }
 
-s:STATE_TIGERAY = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x20A540" "x250C30" "x2A6137" "x392B24" "x58645B" "x5C117D" "x86752D" "x94451E" "xA352C7" "xABE8B9" }
-	}
-	add_homeland = tigeray
-}
 
-s:STATE_AMHAPURA = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x2E2233" "x4E1C29" "x5E1855" "x683E49" "x6F1D68" "x871FB5" "x9A772B" "xA2377D" "xA51138" "xAF576E" "xBB9EC8" "xC26EE7" "xCB6C17" "xCE987D" "xD1B707" "xDA1548" "xDC8AC0" "xEB5CDF" }
-	}
-	add_homeland = amhaira
-}
 
 s:STATE_MEDAFI = {
 	create_state = {
@@ -31,29 +17,7 @@ s:STATE_MEDAFI = {
 	add_homeland = tigeray
 }
 
-s:STATE_DIMETI = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x524612" "x847222" "xA88D14" "xC0AD55" "xCAB976" "xCBC5AA" "xD5C685" "xE5C840" "xEDDD93" }
-	}
-	add_homeland = amhaira
-}
 
-s:STATE_PURRK'ELE = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x534822" "x666434" "x674229" "x6F4C2A" "x787763" "x917205" "xA35D18" "xA39013" "xAD5215" "xC4AA98" "xD6D14F" "xE9DA75" "xEAC6A2" "xEBC6A2" "xEC9540" "xF4CB90" }
-	}
-	add_homeland = pawritrean
-}
-
-s:STATE_KATOUM = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x321809" "x40A59D" "x42291A" "x72462C" "x875E22" "x9E5A30" "xAD683F" "xBB7B1E" "xD39169" "xDEB969" "xE0A248" "xF4D7C6" "xF56F1E" }
-	}
-	add_homeland = pawritrean
-}
 
 s:STATE_PAWRITREA = {
 	create_state = {
@@ -63,13 +27,7 @@ s:STATE_PAWRITREA = {
 	add_homeland = pawritrean
 }
 
-s:STATE_KOM_MAREBO = {
-	create_state = {
-		country = c:MGY
-			owned_provinces = { "x693224" "x86250B" "x975D2A" "xA35849" "xD34620" "xDA7014" "xE2866C" "xE5A17D" "xEB8C39" }
-	}
-	add_homeland = pawritrean
-}
+
 
 s:STATE_MAU = {
 	create_state = {
@@ -79,29 +37,7 @@ s:STATE_MAU = {
 	add_homeland = oromeow
 }
 
-s:STATE_OROMEOWIA = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x4AB59A" "x4D2816" "x4E2613" "x632F08" "x6E492E" "x716630" "x795132" "x7E3512" "x8B340A" "xA88A2D" "xAFB06F" "xB06F7A" "xB84912" "xBA5532" "xCE8B49" "xCEB487" "xD21E3B" "xD78861" "xD8772E" "xE4C157"  } 
-	}
-	add_homeland = oromeow
-}
 
-s:STATE_DOLLO = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x453502" "x4A1A26" "x512631" "x794728" "x7A3308" "x7C5A3C" "x8E1232" "x8F5A2B" "xCC6B14" "xD57D48" "xEDE49A" "xEFB694" }
-	}
-	add_homeland = oromeow
-}
-
-s:STATE_MEOWTEKEL = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x150810" "x17020F" "x1D1315" "x2A0B1E" "x451131" "x48062E" "x972D48" "xB87C8C" "xDE3460" }
-	}
-	add_homeland = oromeow
-}
 
 s:STATE_CATORAHE = {
 	create_state = {
@@ -111,14 +47,7 @@ s:STATE_CATORAHE = {
 	add_homeland = oromeow
 }
 
-s:STATE_MEOWUAK = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x69D382" "x7F8520" "x875977" "xC73093" "xC74D9D" "xDCE284" "xDD8EA6" "xE3DEBA" "xF24F81" }
-	}
-	add_homeland = amhaira
-	add_homeland = tigeray
-}
+
 
 s:STATE_JIRATI = {
 	create_state = {
@@ -128,19 +57,5 @@ s:STATE_JIRATI = {
 	add_homeland = oromeow
 }
 
-s:STATE_PURRSIA = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x0D4C3F" "x1B9076" "x23AD8F" "x30806E" "x324193" "x6C7BC9" }
-	}
-	add_homeland = amhaira
-}
 
-s:STATE_KATKAT = {
-	create_state = {
-		country = c:ABY
-			owned_provinces = { "x341A21" "x8A616C" "xC94271" "xCF3F64" "xD16B9B" }
-	}
-	add_homeland = oromeow
-}
 }

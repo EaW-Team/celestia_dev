@@ -7,29 +7,7 @@ STATES = {
 		add_homeland = mazwis
 	}
 	
-	s:STATE_ZIANI = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x064EC8" "x0D711E" "x168328" "x329F0C" "x3B7228" "x3F6D46" "x4DD664" "x75E688" "xE39121" }
-		}
-		add_homeland = mazwis
-	}
 	
-	s:STATE_FUTA_ZALLON = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x14B85A" "x2BD25E" "x345721" "x367B29" "x3D5429" "x449E6A" "x51DF8D" "x73DA92" "x8EE7A9" "x93BB9F" "xB6E5C5" }
-		}
-		add_homeland = mazwis
-	}
-	
-	s:STATE_BENZUGU = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x294D0A" "x396116" "x4E02E8" "x638744" "x638E3C" "x7BB259" "x7CF036" "xBFD4AD" }
-		}
-		add_homeland = mazwis
-	}
 	
 	s:STATE_GWITZIKO = {
 		create_state = {
@@ -39,29 +17,7 @@ STATES = {
 		add_homeland = mazwis
 	}
 	
-	s:STATE_BAMBUCK = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x34A349" "x457454" "x59A352" "x59C34F" "x6BE35E" "x72DD67" "x80E876" "x8DF083" "x94DA8D" "x97CD92" "x98C594" }
-		}
-		add_homeland = mazwis
-	}
-	
-	s:STATE_ANZONGO = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x887836" "x8B7D6B" "xB09426" "xB6AF94" "xCFAA13" "xE0C65D" "xFBE68F" }
-		}
-		
-	}
-	
-	s:STATE_ZARABARA = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x4E251B" "x7B2E1B" "x884E0F" "xB56208" "xCF4522" "xD08855" "xD99058" "xF17C29" }
-		}
-		
-	}
+
 	
 	s:STATE_ZAIRBANDA = {
 		create_state = {
@@ -79,13 +35,7 @@ STATES = {
 		
 	}
 	
-	s:STATE_ZAO = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x143E0C" "x18561C" "x2C5524" "x3719E8" "x42B82B" "x58AB47" "x77B12F" "x77E960" "x854841" "x85976F" "x932F24" "xA5CE72" "xAED57E" }
-		}
-		
-	}
+	
 	
 	s:STATE_ZAUDENI = {
 		create_state = {
@@ -95,13 +45,7 @@ STATES = {
 		
 	}
 	
-	s:STATE_WAZAD = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x132D07" "x1F4A0C" "x3A8021" "x3B6F23" "x40662E" "x508438" "x5C9227" "x6AA450" }
-		}
-		
-	}
+	
 	
 	s:STATE_TIMBUCKTU = {
 		create_state = {
@@ -111,13 +55,7 @@ STATES = {
 		
 	}
 	
-	s:STATE_ZODH = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x2B2405" "x431E07" "x5A3118" "x77630F" "x8A7B38" "x9E850F" "xBCA128" "xC0541F" "xCEC084" "xDAC879" "xDC8F58" "xE37322" "xE3C326" "xE56A12" "xEBCB41" "xFFE2B5" }
-		}
-		
-	}
+	
 	
 	s:STATE_BAGHZENA = {
 		create_state = {
@@ -159,13 +97,7 @@ STATES = {
 		
 	}
 	
-	s:STATE_UGABI = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x599C51" "x61AC61" "x698367" "x80CA71" "x8AB082" "xA2C186" "xAAC7CB" }
-		}
-		
-	}
+	
 	
 	s:STATE_RUGUZU = {
 		create_state = {
@@ -183,20 +115,6 @@ STATES = {
 		
 	}
 	
-	s:STATE_KARGAWEZE = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x3BC776" "x43E69F" "x4ADAB7" "x51956D" "x63EFED" "x6765B9" "xB3CCB0" }
-		}
-		
-	}
-	
-	s:STATE_KOTOZO = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x0F6B16" "x18471C" "x1AAC25" "x2B531B" "x2C3715" "x48BC50" "x5AA23B" "x5B17EC" "x626E48" "x668658" "x67C7B9" "x67D1B9" "x87A34A" "xA7EDAD" }
-		}
-		
-	}
+
 
 }

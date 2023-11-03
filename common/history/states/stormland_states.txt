@@ -20,35 +20,6 @@ STATES = {
 		}
 	}
 	
-	s:STATE_ZENA = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x166E37" "x2DB05F" "x3C8B37" "x48B732" "x4AC37D" "x4C9367" "x54CE82" "x6ADD7D" "x77CF77" "xC0EF83" }
-		}
-	}
-	
-	s:STATE_ZANZIBUCK = {
-		create_state = {
-			country = c:UEI
-    			owned_provinces = { "x0D4B3A" "x2C7A64" "x439F85" "x487B21" "x7DE1C5" "xC7D190" }
-				add_homeland = uzerasian
-		}
-	}
-	
-	s:STATE_COMAREOS = {
-		create_state = {
-			country = c:UEI
-    			owned_provinces = { "x486B2D" "x6FAA43" "x80A919" "xA0D579" "xC7DE90" }
-				add_homeland = uzerasian
-		}
-	}
-	
-	s:STATE_IJEBI = {
-		create_state = {
-			country = c:MAZ
-    			owned_provinces = { "x139F34" "x1BDA63" "x2F5939" "x319153" "x35C66B" "x3C1BF8" "x479616" "x487653" "x4B1BF8" "x9CA398" "x9DE571" "xC5C7A2" "xDAE254" "xE9FFF1" }
-		}
-	}
 	
 	s:STATE_MZIZIMA = {
 		create_state = {
@@ -74,13 +45,7 @@ STATES = {
 		}
 	}
 	
-	s:STATE_EYE_OF_THE_STORM = {
-		create_state = {
-			country = c:SRE
-    			owned_provinces = { "x562F12" "x918A2E" "xA45F2D" "xA49C2B" "xC4BB31" }
-				add_homeland = yeti
-		}
-	}
+	
 	
 	s:STATE_THUNDER_POINT = {
 		create_state = {
@@ -98,13 +63,7 @@ STATES = {
 		}
 	}
 	
-	s:STATE_TEMPEST_SHORES = {
-		create_state = {
-			country = c:TPE
-    			owned_provinces = { "x115A15" "x188E1E" "x1C6D20" "x399D3E" "x407518" "x568830" "x72401D" "x77A257" "x859F71" "x88DA49" }
-				add_homeland = yeti
-		}
-	}
+	
 	
 	s:STATE_WINDBORN = {
 		create_state = {

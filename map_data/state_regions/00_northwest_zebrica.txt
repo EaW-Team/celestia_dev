@@ -3,21 +3,6 @@
     provinces = { "x191004" "x37240D" "x642509" "x645646" "x665744" "x71621A" "x7D4D10" "x84581F" "x925B14" "x9E7E56" "xA56D25" "xC27B1E" "xC33A1F" "xD2BB60" "xD2CDB9" "xD9B381" "xDB9133" "xDD8A65" "xE5A457" "xE7E3D3" "xEAA348" "xEDE6CC" "xEFD778" "xF1A33E" "xF3CE3C" "xFFA127" "xFFCB8E" }
 }
 
-STATE_NIBURRO = {
-    id = 795
-    provinces = {}
-}
-
-STATE_DUR-BURRO = {
-    id = 812
-    provinces = {}
-}
-
-STATE_ONAGERAN = {
-    id = 828
-    provinces = {}
-}
-
 STATE_DONKRA = {
     id = 827
     provinces = { "x2E0D04" "x4A4732" "x51190A" "x574631" "x5E1607" "x672A0C" "x6A6422" "x6B170C" "x802E11" "x8B281B" "x934917" "x949176" "x9D611A" "xA15511" "xA54312" "xAAA770" "xB02B07" "xB0A334" "xCC4617" "xDB7836" "xE1791E" "xE4E0BD" "xEC974C" "xECDA46" }
@@ -53,34 +38,14 @@ STATE_ANSERUK = {
     provinces = { "x36300D" "x3E392E" "x412B20" "x463420" "x4B2919" "x563514" "x675E2C" "x797168" "x7B470F" "x7F501D" "x845F18" "x886F3E" "x898154" "xAA8641" "xAC992D" "xBD8346" "xC29E8D" "xC2BA8D" "xC7945E" "xC9AE79" "xCF6B3A" "xE4D167" "xE87F18" "xEDC94A" "xEF7134" "xF9D389" }
 }
 
-STATE_SOMNAMBULA = {
-    id = 733
-    provinces = {}
-}
-
 STATE_NEIGHILE_DELTA = {
     id = 734
     provinces = { "x300E28" "x370F2E" "x45273E" "x4E2544" "x531043" "x57264C" "x594354" "x5F0D4B" "x660A24" "x682735" "x6E5067" "x7B455C" "x911E3F" "x922B79" "x981632" "xBA1846" }
 }
 
-STATE_TROTANIS = {
-    id = 737
-    provinces = {}
-}
-
 STATE_MAREJ = {
     id = 731
     provinces = { "x382557" "x416218" "x4B0A2E" "x4F1EA5" "x512B94" "x59361C" "x5A5538" "x5B152D" "x6F2DE2" "x73390D" "x847732" "x857936" "x87771C" "x8B2964" "x8D5327" "x924B15" "xA884E7" "xA91265" "xB15713" "xB8A433" "xBB81A1" "xBD5477" "xBE5F15" "xBEA591" "xC17E4A" "xC43DCC" "xDA772C" "xDC782C" "xDDB08E" "xDDCD70" "xE79C63" "xEC61AD" "xF38AF9" }
-}
-
-STATE_MARETROUH = {
-    id = 732
-    provinces = {}
-}
-
-STATE_MANEPHIS = {
-    id = 735
-    provinces = {}
 }
 
 STATE_HAYXOR = {
@@ -93,16 +58,6 @@ STATE_SINEIGHI = {
     provinces = { "x33091B" "x431428" "x49202C" "x492333" "x632A3A" "x6B364C" "x6E2F0F" "x723B20" "x734D44" "x820C2F" "x842C45" "x85344B" "x92345B" "xA34460" "xA97358" "xB14A17" "xB24E1B" "xBE627E" "xC7305D" "xCC97A7" "xD29170" "xE66626" "xEE814B" }
 }
 
-STATE_MANEISRATA = {
-    id = 740
-    provinces = {}
-}
-
-STATE_DAHSHOOF = {
-    id = 758
-    provinces = {}
-}
-
 STATE_MAREYDUM = {
     id = 759
     provinces = { "x18050D" "x371D14" "x3C071E" "x3E160B" "x420821" "x511A32" "x533128" "x57362C" "x61352A" "x633B2E" "x6C311D" "x772815" "x772B40" "x793C28" "x841C3A" "x93134A" "xA54120" "xA636AC" "xB43617" "xB5A216" "xBC8897" "xBD715E" "xC6723E" }
@@ -111,11 +66,6 @@ STATE_MAREYDUM = {
 STATE_BENI_HAYSAN = {
     id = 760
     provinces = { "x4D132B" "x57253A" "x631234" "x680A31" "x681739" "x6D1D40" "x791540" "x791562" "x7A3624" "x7B233C" "x8A0A2E" "x9F0B35" "xA2637E" "xA93C6A" "xAB3667" "xB23F71" "xB45190" "xC47596" }
-}
-
-STATE_ASSYUT = {
-    id = 761
-    provinces = {}
 }
 
 STATE_ZUSH = {
@@ -131,26 +81,6 @@ STATE_COLTUBA = {
 STATE_WESTERN_DESERT = {
     id = 739
     provinces = { "x280D05" "x2F1C12" "x380413" "x3C0D1B" "x3E1B08" "x41221C" "x422A24" "x441A0F" "x45270C" "x471B0F" "x47230F" "x491E13" "x4B1F13" "x4E1626" "x51392B" "x531842" "x560B2B" "x57281F" "x5A303C" "x61412E" "x620D30" "x623844" "x63360F" "x652D0E" "x672E0E" "x693224" "x6D0550" "x6F5749" "x71564F" "x731D08" "x79155D" "x7D3B18" "x7D483B" "x7D574D" "x804322" "x86250B" "x884937" "x8B501C" "x8E2442" "x8E2B13" "x8E4517" "x925B82" "x96756D" "x97270B" "x975D2A" "x9C432D" "x9E124D" "x9E144E" "x9E1E42" "xA25B49" "xA35849" "xA66C4D" "xA83C20" "xAB4B15" "xB16929" "xB2561D" "xB45037" "xB5694F" "xB57B5C" "xB81040" "xBE4932" "xC1715D" "xC79C82" "xD05BAF" "xD34620" "xD67D66" "xD78575" "xDA7014" "xDB3C1D" "xDD6215" "xE2866C" "xE28851" "xE5752F" "xE5A17D" "xE7AB85" "xEB8C39" "xED7456" "xF48063" }
-}
-
-STATE_SOUTHWESTERN_DESERT = {
-    id = 765
-    provinces = {}
-}
-
-STATE_DAKHAL = {
-    id = 762
-    provinces = {}
-}
-
-STATE_KHANEIGH = {
-    id = 763
-    provinces = {}
-}
-
-STATE_NEIGHPATA = {
-    id = 770
-    provinces = {}
 }
 
 STATE_KLUGETOWN = {

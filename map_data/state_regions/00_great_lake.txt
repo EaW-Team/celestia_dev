@@ -3,40 +3,11 @@
     provinces = { "x0014F8" "x14B85A" "x2002F8" "x2BD25E" "x345721" "x34A349" "x367B29" "x3BB76F" "x3D5429" "x3F1D14" "x449E6A" "x45100A" "x457454" "x4F1606" "x502B0E" "x51DF8D" "x59A352" "x59C34F" "x5ADFB2" "x5B1109" "x6BE35E" "x72DD67" "x73DA92" "x763726" "x7F2A20" "x80E876" "x8B1D11" "x8B2317" "x8DF083" "x8EE7A9" "x93BB9F" "x94DA8D" "x952216" "x952F13" "x95D47F" "x97CD92" "x98C594" "xABF3DA" "xB6E5C5" "xB94A3E" "xB9574C" "xCD684C" "xE4402E" }
 }
 
-STATE_ZIANI = {
-    id = 943
-    provinces = {}
-}
-
-STATE_FUTA_ZALLON = {
-    id = 944
-    provinces = {}
-}
-
-STATE_BENZUGU = {
-    id = 946
-    provinces = {}
-}
-
 STATE_GWITZIKO = {
     id = 947
     provinces = { "x064EC8" "x0D711E" "x168328" "x18723E" "x294D0A" "x2ACC2A" "x329F0C" "x396116" "x3B7228" "x3F6D46" "x458327" "x4BAD75" "x4DD664" "x4E02E8" "x53941B" "x638744" "x638E3C" "x68AE5A" "x6BCC63" "x6EE32E" "x75E688" "x7BB259" "x7CF036" "x7ECA7E" "x81C04B" "x9AE070" "x9BB988" "x9BD390" "xBFD4AD" "xC8F0AF" "xE39121" }
 }
 
-STATE_BAMBUCK = {
-    id = 959
-    provinces = {}
-}
-
-STATE_ANZONGO = {
-    id = 939
-    provinces = {}
-}
-
-STATE_ZARABARA = {
-    id = 940
-    provinces = {}
-}
 
 STATE_ZAIRBANDA = {
     id = 941
@@ -48,15 +19,6 @@ STATE_ZIBIRIDUGU = {
     provinces = { "x143E0C" "x18561C" "x2C5524" "x30AC39" "x3719E8" "x42B82B" "x561E18" "x58AB47" "x666E5E" "x76965A" "x77B12F" "x77E960" "x854841" "x85976F" "x932F24" "x93EE42" "x9DBD80" "xA5CE72" "xAED57E" "xB4E985" "xD36B60" }
 }
 
-STATE_ZAO = {
-    id = 948
-    provinces = {}
-}
-
-STATE_GHABA = {
-    id = 950
-    provinces = {}
-}
 
 STATE_REEM = {
     id = 951
@@ -73,20 +35,12 @@ STATE_ZAUDENI = {
     provinces = { "x0C3516" "x132D07" "x1F4A0C" "x225D31" "x254716" "x27813E" "x285115" "x285F0F" "x30C355" "x3A8021" "x3B6F23" "x40662E" "x438B22" "x508438" "x549137" "x564E2B" "x5B858A" "x5C9227" "x6AA450" "x6ED588" "x7F500A" "x8A5A13" "xD9846E" "xDF9D3A" "xF2AA3E" "xFAC575" }
 }
 
-STATE_WAZAD = {
-    id = 936
-    provinces = {}
-}
 
 STATE_TIMBUCKTU = {
     id = 937
     provinces = { "x433807" "x53340B" "x883C06" "x915F1C" "x9E4610" "xA0623B" "xAC5619" "xBB89A4" "xD37838" "xED7F30" "xEE6510" "xEE8C4F" "xEF9758" "xEFB090" "xF4B080" }
 }
 
-STATE_ZODH = {
-    id = 938
-    provinces = {}
-}
 
 STATE_BAGHZENA = {
     id = 953
@@ -113,10 +67,6 @@ STATE_BONOMANE = {
     provinces = { "x106015" "x47AA0B" "x4F842F" "x5FA224" "x6219F4" "x6EA72B" "x74D43A" "x759462" "x7AB059" "x8CD95D" "xA5E76B" "xB4F78B" }
 }
 
-STATE_UGABI = {
-    id = 964
-    provinces = {}
-}
 
 STATE_RUGUZU = {
     id = 967
@@ -128,14 +78,6 @@ STATE_NKORE = {
     provinces = { "x137E40" "x2BA03F" "x3BC776" "x3BE73B" "x43E69F" "x4ADAB7" "x51956D" "x63EFED" "x6765B9" "x6B946B" "x6BB06B" "x99D678" "xB3CCB0" }
 }
 
-STATE_KARGAWEZE = {
-    id = 965
-    provinces = {}
-}
 
-STATE_KOTOZO = {
-    id = 970
-    provinces = {}
-}
 
 
