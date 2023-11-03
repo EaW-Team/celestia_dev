@@ -55,3 +55,7 @@ STATE_MATROTANZAS = {
     }
     naval_exit_id = 3020
 }
+STATE_GRIFFISH_ISLES = {
+    id = 67
+    provinces = { "x011EDC" "x01B1B4" "x029319" "x062D82" "x0712C8" "x2B215D" "x2BB435" "x2C1244" "x2C3326" "x5545BF" "x558751" "x55A588" "x5669B5" "x805A09" "x80BDE0" "xA9AE34" "xAA0C43" "xAE4807" }
+}
