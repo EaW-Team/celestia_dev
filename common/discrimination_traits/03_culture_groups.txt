@@ -12,6 +12,3 @@ feline_culture_group = {
 zebrican_griffon_group = {
 	
 }
-buffalo_culture_group = {
-	
-}

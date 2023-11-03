@@ -1,7 +1,6 @@
 ﻿l_english:
 #Equus
  region_puerto_caballo:0 "Puerto Caballo"
- region_south_west_equus:0 "South West Equus"
 #Griffonia
  region_new_mareland:0 "New Mareland"
 #Zebrica
@@ -13,5 +12,3 @@
 #Sea Regions
  region_discovery_coast:0 "Discovery Coast"
  region_starry_sea:0 "Starry Sea"
- region_luna_ocean:0 "Luna Ocean"
- region_pegasi_gulf:0 "Pegasi Gulf"
