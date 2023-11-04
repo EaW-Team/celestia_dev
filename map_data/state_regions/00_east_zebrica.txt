@@ -143,8 +143,6 @@ STATE_VESPERTINE_VALLEY = {
     provinces = { "x0A3727" "x0A6C4F" "x0B2D2B" "x0C2A21" "x113469" "x144C49" "x16273F" "x164745" "x1E4C3C" "x234414" "x273F64" "x347470" "x396E34" "x4A9B96" "x539884" "x609E43" "x73A5B0" "x831D4C" "x88C7D5" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_NIEUW_ROTTENDESTAAT = {
     id = 911
     provinces = { "x64AA47" "x76C66B" "x7B8C8E" "x7DCD5A" "x89AD84" "x91BD7F" "x97E477" "xAFD69F" "xB5CEAA" }
@@ -157,7 +155,6 @@ STATE_NIEUW_ROTTENDESTAAT = {
     }
     naval_exit_id = 3010
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_GRIFFEVELD = {
     id = 912
@@ -177,8 +174,6 @@ STATE_GRIFFEVELD = {
     naval_exit_id = 3010
 }
 
-<<<<<<< HEAD
-=======
 STATE_ZEBELLENDAM = {
     id = 913
     provinces = { "x3E7950" "x4F8B64" "x6CBB84" "x7EF094" "x81C684" "x8CC29F" "x96A58D" }
@@ -194,7 +189,6 @@ STATE_ZEBELLENDAM = {
         bg_logging = 4
     }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_GRIFF_REINET = {
     id = 914
@@ -215,8 +209,6 @@ STATE_GRIFF_REINET = {
     naval_exit_id = 3010
 }
 
-<<<<<<< HEAD
-=======
 STATE_ZIMPOPO = {
     id = 915
     provinces = { "x41AC3E" "x59D87A" "x6CC26A" "x739573" "xACE57A" "xC2DAAC" }
@@ -235,15 +227,12 @@ STATE_MZINGA = {
     id = 1127
     provinces = { "x263417" "x273E0F" "x2A691C" "x30441B" "x3C4136" "x424423" "x517947" "x62B250" "x8DAD48" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_ZANA = {
     id = 1128
     provinces = { "x2EB341" "x2F1E12" "x376A45" "x502910" "x545E48" "x5E6A50" "x67AA7A" "x7ED275" "x81D34F" "x824A22" "x8EBD71" "xA1C19A" "xB7E9B2" "xC5CDAA" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_EWASO_ZEBRO = {
     id = 1129
     provinces = { "x0C9932" "x177D2F" "x185E2B" "x197231" "x1F9E5A" "x1FAE61" "x23B847" "x386442" "x3F9B58" "x40BA61" "x4D7959" "x52D145" "x53C16E" "x54D48F" "x564235" "x97BCA1" "x9CCD98" "x9EC89D" "xA8BBAA" "xBEDFC7" }
@@ -254,7 +243,6 @@ STATE_ITHEBRA = {
     provinces = { "x1D502E" "x243420" "x303C2C" "x457354" "x5B834E" "x5F6D64" "x69B767" "x6C8E77" "x899B83" "xA2BDAB" }
 }
 
->>>>>>> parent of 1c3b21d (combining states and what not)
 STATE_KISMANEYO = {
     id = 1131
     provinces = { "x186C4F" "x19A540" "x34834A" "x39B15A" "x5B8767" "x6ECD9F" "x92C37A" "x94C396" "x95AA8A" "x9DB0A7" "xB8DBCA" "xC1E4B0" }

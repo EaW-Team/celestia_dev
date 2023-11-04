@@ -15,4 +15,28 @@ POPS = {
 			}
 		}
 	}
+	s:STATE_NIEUW_ROTTENDESTAAT = {
+		region_state:GFS = {
+			create_pop = {
+				culture = kompel
+				size = 435213
+			}
+		}
+	}
+	s:STATE_ZEBELLENDAM = {
+		region_state:GFS = {
+			create_pop = {
+				culture = kompel
+				size = 268532
+			}
+		}
+	}
+	s:STATE_ZIMPOPO = {
+		region_state:GFS = {
+			create_pop = {
+				culture = kompel
+				size = 183567
+			}
+		}
+	}
 }

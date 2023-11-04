@@ -6,8 +6,6 @@
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_MANELILLA = {
     id = 401
     provinces = { "x73442B" "x954114" "x9B5116" "xB56338" "xBD7A10" "xD3742E" "xD38B50" "xDB7945" "xE09C30" "xE3A470" "xE47D29" "xF8B64F" }
@@ -39,7 +37,6 @@ STATE_TAFILALT = {
     arable_land = 20
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_MAREAKECH = {
     id = 405
@@ -49,8 +46,6 @@ STATE_MAREAKECH = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_BUCKKALA = {
     id = 406
     provinces = { "x9D662A" "xB4860C" "xD18E46" "xD37918" "xDD6931" "xE4B379" "xEEB6E3" }
@@ -59,7 +54,6 @@ STATE_BUCKKALA = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
->>>>>>> parent of 1c3b21d (combining states and what not)
 STATE_AGADIR = {
     id = 407
     provinces = { "xAC4723" "xB88E34" "xC7542C" "xD78A30" "xD87013" "xD97B48" "xDBC188" "xE17F5D" "xE3BB8B" "xE7B448" "xF4A082" }
@@ -76,8 +70,6 @@ STATE_HORSEZ = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_TROTADLA = {
     id = 409
     provinces = { "x450E2A" "x551010" "x612B2B" "x612F5C" "x87104E" "x883E23" "x8E604F" "x920D0D" "x952689" "xAB4C2C" }
@@ -101,7 +93,6 @@ STATE_ABFILLYA = {
     arable_land = 27
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_HIGH_MARETLAS = {
     id = 412
@@ -111,8 +102,6 @@ STATE_HIGH_MARETLAS = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_QAWASMANE = {
     id = 413
     provinces = { "x6C4313" "xA37524" "xB4AE8C" "xBA862C" "xBAA633" "xC18316" "xC28B4B" "xDEAD2A" "xDED6AA" "xE0B66E" "xE6AB44" "xEAC688" "xEADE99" "xEECF9A" "xF1B449" "xFFED89" }
@@ -152,7 +141,6 @@ STATE_MARECALAT = {
     arable_land = 32
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_JAFFMARE = {
     id = 418
@@ -162,8 +150,6 @@ STATE_JAFFMARE = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_NAJGALLOP = {
     id = 419
     provinces = { "x34190C" "x89311A" "x9B461C" "xA03316" "xA65B1F" "xBC5B2A" "xC7610F" "xCB7862" "xD85617" "xD88169" "xE69A5C" "xE77943" "xE94E25" "xEC5E19" }
@@ -172,7 +158,6 @@ STATE_NAJGALLOP = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
->>>>>>> parent of 1c3b21d (combining states and what not)
 STATE_AFOALAJ = {
     id = 420
     provinces = { "x24190E" "x3C2D1F" "x6A3F15" "x6B3908" "xAB8174" "xD49F6C" "xDE6945" }
@@ -181,8 +166,6 @@ STATE_AFOALAJ = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_ABU_MAREISH = {
     id = 421
     provinces = { "x3A1503" "x4A2216" "x9B351A" "xA86341" "xBE7E6A" "xCF8F7E" "xE0522C" }
@@ -214,7 +197,6 @@ STATE_AL_COLTIF = {
     arable_land = 23
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_MASAB = {
     id = 425
@@ -232,9 +214,6 @@ STATE_QUATMARE = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-<<<<<<< HEAD
-
-=======
 STATE_JABAL_TROTBAIQ = {
     id = 427
     provinces = { "x8F4818" "x9D5B2F" "xA8961A" "xA96A0F" "xA9752B" "xB9794E" "xCD8C2F" "xD6CD9A" "xD8B513" "xDCC235" "xDCCD78" "xE2B575" "xE9C499" "xFADD3C" }
@@ -274,7 +253,6 @@ STATE_AL_YAMANEMAH = {
     arable_land = 6
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_AL_MANEID = {
     id = 432
@@ -284,9 +262,6 @@ STATE_AL_MANEID = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-<<<<<<< HEAD
-
-=======
 STATE_AWAL = {
     id = 433
     provinces = { "x311E03" "x35250E" "x49300D" "x4B1407" "x854012" "x872C04" "x8D5A12" "x985F0D" "xA5660E" "xA93F10" "xD58F2E" "xD7794F" }
@@ -310,7 +285,6 @@ STATE_SADDLEAYR = {
     arable_land = 9
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_AL_FARASIATAN = {
     id = 436
@@ -320,8 +294,6 @@ STATE_AL_FARASIATAN = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_OUJMAREDA = {
     id = 437
     provinces = { "x361201" "x3F1E10" "x642D15" "x66411F" "x7F5249" "x863511" "xA94011" "xC3724E" "xCC6C59" "xD2A175" "xD3DDFF" "xE37F26" "xE54829" "xE68B63" "xEC8F7D" }
@@ -345,7 +317,6 @@ STATE_QUNFUDHAH = {
     arable_land = 26
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_TROTAIF = {
     id = 440
@@ -355,8 +326,6 @@ STATE_TROTAIF = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_TROTUBAH = {
     id = 440
     provinces = { "x60391D" "x864312" "xA35922" "xB25512" "xBC8660" "xC56521" "xDEAD89" "xE47B2E" "xE77019" "xEC7A2A" "xF2D19A" }
@@ -364,7 +333,6 @@ STATE_TROTUBAH = {
     arable_land = 5
     arable_resources = { "bg_livestock_ranches" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_MANEDINAH = {
     id = 441
@@ -382,8 +350,6 @@ STATE_JEDDNEIGHA = {
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
 
-<<<<<<< HEAD
-=======
 STATE_Madin_Stallionlaym = {
     id = 443
     provinces = { "xA06819" "xAE6804" "xAF7A22" "xB9AE9B" "xC5A01F" "xCB8C33" "xCDA107" "xD3AA6F" "xDA9A2F" "xDBC167" "xDDC46F" "xE0BA38" "xE0CAA6" "xE2B872" "xE6B877" "xEFAB49" }
@@ -415,7 +381,6 @@ STATE_JABAL_SHAMMARE = {
     arable_land = 21
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_AL_KAHB = {
     id = 447

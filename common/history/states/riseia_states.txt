@@ -45,7 +45,13 @@ STATES = {
 		add_homeland = hamdini
 	}
 	
-	
+	s:STATE_MANE'A = {
+		create_state = {
+			country = c:YAM
+    			owned_provinces = { "x3F0C1F" "x481F05" "x5D2A11" "x873912" "xB55C25" }
+		}
+		add_homeland = YAMani
+	}
 	
 	s:STATE_WUSTROTA = {
 		create_state = {
@@ -103,7 +109,77 @@ STATES = {
 		add_homeland = ahfar
 	}
 	
+	s:STATE_FARASRAH = {
+		create_state = {
+			country = c:YAM
+    			owned_provinces = { "x887527" "xB1471A" "xC0AD65" }
+		}
+		add_homeland = YAMani
+	}
+	s:STATE_FARASRAH = {
+		create_state = {
+			country = c:YAM
+    			owned_provinces = { "x887527" "xB1471A" "xC0AD65" }
+		}
+		add_homeland = YAMani
+	}
+	s:STATE_AL-SHAYHR = {
+		create_state = {
+			country = c:YAM
+    			owned_provinces = { "x381B0C" "x6D4631" "x753A1A" "x7B320C" "x855135" "x9D4211" "xB16343" "xBE51B2" "xE73A79" "xE99D77" }
+		}
+		add_homeland = YAMani
+	}
+	s:STATE_AL-GALLOPYDAH = {
+		create_state = {
+			country = c:HMR
+    			owned_provinces = { "x4E7437" "x5FA65B" "x60824B" "x6EA94B" "x7A926C" "x83B366" "x9FCF82" "xB6E19B" "xBDCFB3" "xC0F4A1" "xC49235" "xCEE5BF" "xE0BA74" "xE1AD4D" "xF48E4F" }
+		}
+		add_homeland = hamdini
+	}
+	s:STATE_KOLTHIRI = {
+		create_state = {
+			country = c:HMR
+    			owned_provinces = { "x2117EC" "x37DC7D" "x416448" "x41774B" "x4C104F" "x539F4B" "x59BF7B" "x5FD455" "x60C773" "x62EB54" "x69116E" "x71DE9F" "x73E068" "x7BCD9E" "xA05748" "xA8DAA3" "xADEF45" "xC8553E" }
+		}
+		add_homeland = hamdini
+	}
+	s:STATE_SAHMANEDA = {
+		create_state = {
+			country = c:OSQ
+    			owned_provinces = { "x093E10" "x0C5D18" "x1B914D" "x1D6326" "x233726" "x2AC66C" "x2E6836" "x2F843A" "x33A34D" "x3ADC6F" "x41A56B" "x68170D" "x6E9663" "xB3E487" }
+		}
+		add_homeland = alameez
+	}
+	s:STATE_MAREIB = {
+		create_state = {
+			country = c:MTA
+    			owned_provinces = { "x150B09" "x18E56F" "x1F0F0A" "x241B1A" "x25A34C" "x310F0B" "x32140C" "x37211B" "x377945" "x3DC95B" "x431208" "x502041" "x511C16" "x521387" "x6515F0" "x6621A0" "x6CD96C" "x74378D" "x7916E8" "x8446B8" "x86281D" "xA23D32" "xC73EB5" }
+		}
+		add_homeland = safhiyyin
+	}
+	s:STATE_TENKOZOGO = {
+		create_state = {
+			country = c:MTA
+    			owned_provinces = { "x660D67" "x6E9967" "x7AE669" "x7EBF73" "x8B4570" "x8B5D4C" "x98177E" "xB65985" "xC26543" "xE0673B" "xE95019" }
+		}
+		add_homeland = safhiyyin
+	}
 	
+	s:STATE_BUCKZERTE = {
+		create_state = {
+			country = c:DOF
+    			owned_provinces = { "x2E160A" "x351C10" "x6E3417" "x938B2B" "xB19385" "xC1A082" "xC9BA0D" "xCA8563" "xCD5B23" "xD76025" "xDC926E" "xEFAE75" "xFD7F41" }
+		}
+		add_homeland = alameez
+	}
+	s:STATE_GHABA = {
+		create_state = {
+			country = c:REE
+    			owned_provinces = { "x1302EC" "x1A02F4" "x339152" "x4F390F" "x74AD6E" "x75D36C" "x8CF35A" "x91552F" "x95D76B" "xB8F19C" "xC78A17" }
+		}
+		add_homeland = re'emite
+	}
 	
 	s:STATE_REEM = {
 		create_state = {

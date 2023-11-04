@@ -13,8 +13,6 @@
     }
 }
 
-<<<<<<< HEAD
-=======
 STATE_TIGERAY = {
     id = 776
     subsistence_building = "building_subsistence_fishing_villages"
@@ -53,7 +51,6 @@ STATE_AMHAPURA = {
     naval_exit_id = 3008
 }
 
->>>>>>> parent of 1c3b21d (combining states and what not)
 STATE_MEDAFI = {
     id = 786
     subsistence_building = "building_subsistence_farms"
@@ -67,8 +64,6 @@ STATE_MEDAFI = {
     }
 }
 
-<<<<<<< HEAD
-=======
 STATE_DIMETI = {
     id = 785
     subsistence_building = "building_subsistence_pastures"
@@ -106,7 +101,6 @@ STATE_KATOUM = {
     arable_resources = { "bg_millet_farms" "bg_maize_farms" }
 }
 
->>>>>>> parent of 1c3b21d (combining states and what not)
 STATE_PAWRITREA = {
     id = 771
     subsistence_building = "building_subsistence_farms"
@@ -123,14 +117,11 @@ STATE_PAWRITREA = {
     naval_exit_id = 3009
 }
 
-<<<<<<< HEAD
-=======
 STATE_KOM_MAREBO = {
     id = 764
     subsistence_building = "building_subsistence_pastures"
     provinces = { "x693224" "x86250B" "x975D2A" "xA35849" "xD34620" "xDA7014" "xE2866C" "xE5A17D" "xEB8C39" }
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_MAU = {
     id = 774
@@ -148,8 +139,6 @@ STATE_MAU = {
     }
 }
 
-<<<<<<< HEAD
-=======
 STATE_OROMEOWIA = {
     id = 778
     subsistence_building = "building_subsistence_pastures"
@@ -188,7 +177,6 @@ STATE_MEOWTEKEL = {
     naval_exit_id = 3009
 }
 
->>>>>>> parent of 1c3b21d (combining states and what not)
 STATE_CATORAHE = {
     id = 779
     subsistence_building = "building_subsistence_farms"
@@ -203,8 +191,6 @@ STATE_CATORAHE = {
     }
 }
 
-<<<<<<< HEAD
-=======
 STATE_MEOWUAK = {
     id = 780
     subsistence_building = "building_subsistence_farms"
@@ -220,7 +206,6 @@ STATE_MEOWUAK = {
     }
     naval_exit_id = 3008
 }
->>>>>>> parent of 1c3b21d (combining states and what not)
 
 STATE_JIRATI = {
     id = 783
@@ -238,8 +223,6 @@ STATE_JIRATI = {
     naval_exit_id = 3008
 }
 
-<<<<<<< HEAD
-=======
 STATE_PURRSIA = {
     id = 784
     subsistence_building = "building_subsistence_fishing_villages"
@@ -278,4 +261,3 @@ STATE_KATKAT = {
     naval_exit_id = 3008
 
 }
->>>>>>> parent of 1c3b21d (combining states and what not)

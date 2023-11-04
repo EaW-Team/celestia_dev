@@ -141,7 +141,278 @@ POPS = {
 		}
 	}
 
-
+	s:STATE_MANELILLA = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 134615
+			}
+		}
+	}
+	s:STATE_TROTGIERS = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 1722500
+			}
+		}
+	}
+	s:STATE_TAILA_IMSAN = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 333955
+			}
+		}
+	}
+	s:STATE_TAFILALT = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 128510
+			}
+		}
+	}
+	s:STATE_BUCKKALA = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 98470
+			}
+		}
+	}
+	s:STATE_TROTADLA = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 48860
+			}
+		}
+	}
+	s:STATE_HAYHA = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 384920
+			}
+		}
+	}
+	s:STATE_ABFILLYA = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 289900
+			}
+		}
+	}
+	s:STATE_QAWASMANE = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 52955
+			}
+		}
+	}
+	s:STATE_MANEKNES = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 42890
+			}
+		}
+	}
+	s:STATE_GHAZZMARE = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 173565
+			}
+		}
+	}
+	s:STATE_ILPONWA = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 44905
+			}
+		}
+	}
+	s:STATE_MARECALAT = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 453890
+			}
+		}
+	}
+	s:STATE_NAJGALLOP = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 228665
+			}
+		}
+	}
+	s:STATE_ABU_MAREISH = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 294905
+			}
+		}
+	}
+	s:STATE_BISHAH = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 320245
+			}
+		}
+	}
+	s:STATE_BADIMANE_ASH_SHAM = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 93465
+			}
+		}
+	}
+	s:STATE_AL_COLTIF = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 155580
+			}
+		}
+	}
+	s:STATE_JABAL_TROTBAIQ = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 228630
+			}
+		}
+	}
+	s:STATE_HORSEMUZ = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 117425
+			}
+		}
+	}
+	s:STATE_YABMANEIN = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 750000
+			}
+		}
+	}
+	s:STATE_DAWASIRE = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 280830
+			}
+		}
+	}
+	s:STATE_AL_YAMANEMAH = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 28420
+			}
+		}
+	}
+	s:STATE_AWAL = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 373255
+			}
+		}
+	}
+	s:STATE_QATHOOF = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 254190
+			}
+		}
+	}
+	s:STATE_SADDLEAYR = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 97950
+			}
+		}
+	}
+	s:STATE_OUJMAREDA = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 384420
+			}
+		}
+	}
+	s:STATE_MAREKKAH = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 22865
+			}
+		}
+	}
+	s:STATE_QUNFUDHAH = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 178015
+			}
+		}
+	}
+	s:STATE_TROTUBAH = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 97665
+			}
+		}
+	}
+	s:STATE_Madin_Stallionlaym = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 88560
+			}
+		}
+	}
+	s:STATE_AQABAH = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 17550
+			}
+		}
+	}
+	s:STATE_HADITHA = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 153025
+			}
+		}
+	}
+	s:STATE_JABAL_SHAMMARE = {
+		region_state:SDL = {
+			create_pop = {
+				culture = cimrannine
+				size = 203080
+			}
+		}
+	}
 
 	s:STATE_AL_KAHB = {
 		region_state:SDL = {
