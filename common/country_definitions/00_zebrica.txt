@@ -1,0 +1,452 @@
+MAZ = { # Mazwi
+	color = { 230 231 62 }
+	
+	country_type = recognized
+	
+	tier = empire
+	
+	capital = STATE_ZIANI
+	cultures = { mazwis }
+}
+
+SDL = { # Saddle Arabia
+	color = { 50  105  70 }
+	
+	country_type = recognized
+	
+	tier = empire
+	
+	capital = STATE_TROTGIERS
+	cultures = { cimrannine }
+}
+
+YAM = { # Yemane
+	color = { 106 38 44 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_MANE'A
+	cultures = { yemani }
+}
+
+ANS = { # Anseruk
+	color = { 54 117 136 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ANSERUK
+	cultures = { sumareians }
+}
+
+ASS = { # Asstyria
+	color = { 100 100 150 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ASSUR
+	cultures = { asstyrian }
+}
+
+HMR = { # Haymirite 
+	color = { 205 10 10 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_MARESTA
+	cultures = { hamdini }
+}
+
+OSQ = { # Osqat 
+	color = { 191 110 62 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_SADLHARA
+	cultures = { alameez }
+}
+
+MTA = { # Maretania 
+	color = { 69 143 107 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_MAREIB
+	cultures = { safhiyyin }
+}
+
+DOF = { # Al-Dofa 
+	color = { 120 15 55 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_MAREOUSSE
+	cultures = { ahfar }
+}
+
+KAR = { # Karkadannistan
+	color = { 62 129 20 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ARDAKMANE
+	cultures = { karkad }
+}
+
+ABY = { # Abyssinia
+	color = { 51 102 204 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { amhaira }
+	capital = STATE_PANTHERA
+}
+
+MGY = { # Maregypt
+	color = { 255 220 104 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_SOMNAMBULA
+	cultures = { lower_maregyptian }
+}
+
+REE = { # Re'em
+	color = { 211 184 179 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_REEM
+	cultures = { re'emite }
+}
+
+MTO = { # Maretonia
+	color = { 72 194 72 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_SUHMANE
+	cultures = { maretonian }
+}
+
+AES = { # Aestlonia
+	color = { 83 50 149 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_AJLOUN
+	cultures = { aestlonian }
+}
+
+MDL = { #Manedalusia
+	color = { 0 153 0 }
+	country_type = recognized
+	tier = principality
+	capital = STATE_COLTUBA
+	cultures = { manedalusian }
+}
+
+KLG = { #Klugetown
+	color = { 88 88 88 }
+	country_type = recognized
+	tier = principality
+	capital = STATE_KLUGETOWN
+	cultures = { upper_maregyptian }
+}
+
+CNT = { # Senturya
+	color = { 200 4 0 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_BIRINCI_TOPRAK
+	cultures = { centaur }
+}
+
+GAR = { # Gargiloya
+	color = { 132 132 130 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_BIRINCI_TOPRAK
+	cultures = { gargoyle }
+}
+
+UEI = { # uzerasi
+	color = { 121 136 251 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_MZIZIMA
+	cultures = { uzerasian }
+}
+
+TEC = { # Thundercliffs
+	color = { 133 122 91 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_THUNDER_CLIFFS
+	cultures = { yeti }
+}
+
+SRE = { # Stormseye
+	color = { 144 100 91 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_EYE_OF_THE_STORM
+	cultures = { yeti }
+}
+
+MAC = { # Maelcoast
+	color = { 136 55 200 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_MAELSTROM_COAST
+	cultures = { yeti }
+}
+
+TPE = { # Tempshore
+	color = { 122 66 77 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_TEMPEST_SHORES
+	cultures = { yeti }
+}
+
+WDR = { # Windborn
+	color = { 112 23 91 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_WINDBORN
+	cultures = { yeti }
+}
+
+KRE = { # Karen
+	color = { 35 232 141 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_KAREN
+	cultures = { yeti }
+}
+
+HSM = { # Highstorm
+	color = { 22 140 55 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_HIGHSTORMS
+	cultures = { yeti }
+}
+
+RND = { # Rainguard
+	color = { 200 80 171 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_RAINGUARD
+	cultures = { yeti }
+}
+
+HRV = { # Uusi Hirvimaa
+	color = { 255 204 255 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_SRI_CERVIDAE
+	cultures = { hirvimaaian }
+}
+
+CTL = { # Chital
+	color = { 119 119 255 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_OSTKRANBI
+	cultures = { chitali }
+}
+
+SAG = { # Halsang
+	color = { 122 124 150 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_STAGATAKA
+	cultures = { stagatakan }
+}
+
+HIN = { # Doelhi
+	color = { 255 119 119 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_DOELHI
+	cultures = { doelhian }
+}
+
+HAT = { # Hart
+	color = { 142 123 222 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_HART
+	cultures = { doelhian }
+}
+
+DEW = { # Deerwar
+	color = { 156 200 152 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_DEERWAR
+	cultures = { doelhian }
+}
+
+ANH = { # Antlahore
+	color = { 144 111 155 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ANTLAHORE
+	cultures = { doelhian }
+}
+
+SAM = { # Sambar
+	color = { 204 255 204 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_ANTLAHORE
+	cultures = { sambarian }
+}
+
+BAT = { # Chiropterra
+	color = { 0 33 71 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_EXILES_LANDING
+	cultures = { chiropterran }
+}
+
+HIP = { # hippogriffia
+	color = { 129 227 238 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_MOUNT_ARIS
+	cultures = { hippogriffion }
+}
+
+CTH = { # Colthage
+	color = { 233 255 218 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_COLTHAGE
+	cultures = { Colthaginian }
+}
+
+KIR = { # Kiria
+	color = { 237 45 0 }
+	
+	country_type = recognized
+	
+	tier = empire
+	
+	capital = STATE_VERMILION_BASIN
+	cultures = { kirian }
+}
+
+GFS = { # Zuid-Zebrikaansche Vrystaat
+	color = { 224 139 47 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_GRIFFEVELD
+	cultures = { kompel }
+}
+
+ZLU = { # Zeblu
+	color = { 120 71 121 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ZARAWA
+	cultures = { zebluan }
+}

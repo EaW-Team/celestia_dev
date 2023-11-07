@@ -1,0 +1,40 @@
+﻿#Abyssinia
+ABY_mewodora_clawomonid = {
+	first_name = Mewodora_II
+	last_name = Clawomonid
+	historical = yes
+	culture = cu:amhaira
+	female = yes
+	ruler = yes
+	birth_date = 869.11.6
+	dna = dna_queen_mewodora_01
+	interest_group = ig_industrialists
+	ideology = ideology_populist
+	traits = {
+		charismatic
+		ambitious
+		expensive_tastes
+	}
+	on_created = {
+		set_variable = {
+			name = is_married
+		}
+	}
+	trait_generation = { }
+}
+ABY_mawkonnen_clawomonid = {
+	first_name = Mawkonnen
+	last_name = Clawomonid
+	historical = yes
+	culture = cu:amhaira
+	female = no
+	heir = yes
+	birth_date = 902.9.3
+	interest_group = ig_armed_forces
+	ideology = ideology_populist
+	traits = {
+		wrathful
+		expensive_tastes
+	}
+	trait_generation = { }
+}

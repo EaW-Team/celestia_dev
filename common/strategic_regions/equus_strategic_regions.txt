@@ -1,0 +1,8 @@
+﻿# Strategic Regions in Equus
+
+region_puerto_caballo = {
+	capital_province = xF8B94D
+	map_color = rgb { 144 65 166 }
+	states = { STATE_PUERTO_CABALLO STATE_MATROTANZAS }
+}
+

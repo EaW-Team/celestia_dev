@@ -1,0 +1,27 @@
+﻿POPULATION = {
+	#Abyssinia
+	c:ABY = {		
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	#Maregypt
+	c:MGY = {		
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	#Manedalusia
+	c:MDL = {		
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	#Klugetown
+	c:KLG = {		
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	#Zuid-Zebrikaansche-Vrystaat
+	c:GFS = {		
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+}

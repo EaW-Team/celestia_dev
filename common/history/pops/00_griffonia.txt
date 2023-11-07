@@ -1,0 +1,84 @@
+POPS = {
+	#New Mareland
+	s:STATE_SUNSET = {
+		region_state:EQC = {
+			create_pop = {
+				culture = aboriginal
+				size = 63200
+			}
+			create_pop = {
+				culture = new_marelander
+				size = 117464
+			}
+		}
+	}
+	s:STATE_CELESTIA = {
+		region_state:EQC = {
+			create_pop = {
+				culture = aboriginal
+				size = 74201
+			}
+			create_pop = {
+				culture = new_marelander
+				size = 94875
+			}
+		}
+	}
+	s:STATE_HARVI = {
+		region_state:EQC = {
+			create_pop = {
+				culture = aboriginal
+				size = 58462
+			}
+			create_pop = {
+				culture = new_marelander
+				size = 72451
+			}
+		}
+	}
+	s:STATE_NEW_HOOFINGTON = {
+		region_state:EQC = {
+			create_pop = {
+				culture = aboriginal
+				size = 82150
+			}
+			create_pop = {
+				culture = new_marelander
+				size = 69810
+			}
+		}
+	}
+	#Ponaidhean
+	s:STATE_IOMALL_FAIRGE = {
+		region_state:FRE = {
+			create_pop = {
+				culture = ponaidhean
+				size = 322839
+			}
+		}
+	}
+	s:STATE_PONAIDHEAN_EIBHINN = {
+		region_state:FRE = {
+			create_pop = {
+				culture = ponaidhean
+				size = 289497
+			}
+		}
+	}
+	s:STATE_FEARANN_PONAIDH = {
+		region_state:FRE = {
+			create_pop = {
+				culture = ponaidhean
+				size = 349400
+			}
+		}
+	}
+	s:STATE_DITHREABH = {
+		region_state:FRE = {
+			create_pop = {
+				culture = ponaidhean
+				size = 164650
+			}
+		}
+	}
+}

@@ -1,0 +1,474 @@
+﻿#Changelings
+STATE_WILD_LANDS = {
+    id = 246
+    provinces = { "x0393B9" "x0572B4" "x059396" "x05C01E" "x2D8199" "x2DA5BC" "x2DC017" "x2F2AA8" "x2F7258" "x2FC39E" "x57875B" "x57939C" "x59C61F" "x80C959" "x81399A" "x814E3B" "x8184BD" "x81995E" "x81B1DB" "x8330A9" "x836CB3" "xAB9039" "xAB9FBB" "xAD21CA" "xAD6F34" }
+}
+
+STATE_WHERE_HIVES_START = {
+    id = 247
+    provinces = { "x0342DC" "x0345B9" "x03543C" "x03785F" "x038ABE" "x2D455D" "x2D57BC" "x574E97" "x575D1A" "x577E60" "x5790BF" "xAB2D98" "xAB4239" "xAB51BB" "xAB78BB" }
+}
+
+STATE_GREAT_MARSH = {
+    id = 248
+    provinces = { "x03B49B" "x2C0C5D" "x2DCCBC" "x2E4B80" "x3084C1" "x4B8849" "x56241A" "x57813D" "x57AB1A" "x57CF3D" "x57D21A" "x582424" "x582701" "x8003DB" "x81009A" "x81AE9A" "x81C05E" "xAA065C" "xAA18BB" "xAB031B" "xABC3DE" "xABC6BB" "xAC42A2" "xAC5125" }
+}
+
+STATE_KATEMARSH = {
+    id = 249
+    provinces = { "x0009C8" "x03C9A5" "x03CFC3" "x547E15" "x5700C4" "x81C3A4" "x99F6F8" "xAC723E" "xC6E8CC" }
+}
+
+STATE_DEADLY_FOREST = {
+    id = 250
+    provinces = { "x2286B1" "x2D5D44" "x2DBAC6" "x2E0F44" "x819F81" "x81C681" "x823C45" "xABA202" "xABC625" "xBC6064" }
+}
+
+STATE_KALLSKOG = {
+    id = 291
+    provinces = { "x041E23" "x05AEBE" "x2DA899" "x2E3644" "x2E5726" "x2FB13F" "x5760C4" "x5839C4" "x584E01" "x585D83" "x592D29" "x825181" }
+}
+
+STATE_SVARM = {
+    id = 316
+    provinces = { "xA89F3E" "xAB75DE" "xAB999D" "xAB9CDE" }
+}
+
+STATE_WINDIGO_FOREST = {
+    id = 319
+    provinces = { "x047BDC" "x2AA81C" "x31B1B2" "x7EAE1D" "x815118" "x821B63" "xA872B6" "xB09061" }
+}
+
+STATE_VESALIPOLIS = {
+    id = 251
+    provinces = { "x00184B" "x00392D" "x2A3CAD" "x546CB5" "x54751A" "x54A2A1" "x817881" "xA815CA" }
+}
+
+STATE_SVARTFOREST = {
+    id = 261
+    provinces = { "x0706B9" "x076C0A" "x07AE32" "x080F28" "x21B3D9" "x228262" "x2A9F21" "x2FBADC" "x314203" "x38156E" "x3EB21D" "x48B868" "x513511" "x577224" "x5B0633" "x6B4541" "x7AAADA" "x85430F" "x85CC54" "x891FE7" "x8FAFAB" "x994A36" "x9F2E36" "xA77EBD" "xAE7EC0" "xAF1E61" "xC2D9D1" "xC4576E" "xCDB93C" "xDDA1D8" "xF9BAB5" "xFB9EA1" }
+}
+
+STATE_TOTLES = {
+    id = 310
+    provinces = { "x036C23" "x31AE08" "x3239A8" "x32B499" "x349949" "x5A7B9C" "x5DC04C" "x865109" "xAB8120" "xAEBDA7" "xAF878E" "xB05489" }
+}
+
+STATE_KLADBISCHE = {
+    id = 311
+    provinces = { "x059EBD" "x0A5700" "x0BF1EE" "x109E55" "x1A7CB7" "x1D3C44" "x20EFDC" "x2D22D1" "x316F8A" "x340EC0" "x3E3CD8" "x49AEB9" "x4D5289" "x517A85" "x53C36B" "x585E4A" "x5B1860" "x693AF6" "x6F286C" "x732BBC" "x7BDA36" "x82C82E" "x82D3F8" "x855786" "x871E31" "x9F1E97" "xB49059" "xC4F1E3" "xCDAFBA" "xD155AF" "xD3E041" "xE60D3E" }
+}
+
+STATE_JEM_HIGHLANDS = {
+    id = 315
+    provinces = { "x073000" "x0F2423" "x10A952" "x18217B" "x2B993F" "x2E5229" "x57B249" "x654A18" "x83361D" "x902B5A" "xAFCFD4" "xB14C02" "xB86E42" "xCD6DAA" "xD6AAF6" }
+}
+
+STATE_MAJOR_FOREST = {
+    id = 320
+    provinces = { "x068141" "x192D91" "x1A5D62" "x1E7F9F" "x2515CE" "x2B6B54" "x313380" "x3EDB4B" "x44CC32" "x49826C" "x4A1FAE" "x52290B" "x54AB9C" "x5827CE" "x5AB4C9" "x5B09DD" "x685658" "x6E08F3" "x6E352D" "x793F5D" "x81B422" "x850C5E" "x86608B" "xA98F14" "xABB7A2" "xB045D4" "xBAD83B" "xD406E8" "xDACF09" "xF98347" }
+}
+
+STATE_GHOSTLY_SQUARE = {
+    id = 321
+    provinces = { "x2DBDA3" "x3B4F3F" "x5703A1" "x57C301" "x81C9C2" "x846CBD" "x84B74A" "xABCC43" }
+}
+
+STATE_HOORORND = {
+    id = 322
+    provinces = { "x06022F" "x297A78" "x3F509E" "x451511" "x58B41F" "x70B8B3" "x766430" "xAC24D0" "xE296B5" "xEE1C40" "xF4ED1C" "xFD306A" }
+}
+
+STATE_DEN = {
+    id = 323
+    provinces = { "x0366EB" "x128D5B" "x45F160" "x4978F5" "x65F380" "x84761B" "x929E94" "xB42087" "xC1071D" "xC55FE2" "xC6A63E" "xCBB1C6" }
+}
+
+STATE_CHANGELING_FJORDS = {
+    id = 305
+    provinces = { "x030946" "x03CC82" "x324EB2" "x326C4E" "x32C65D" "x5C6329" "x5C8D3D" "x81C0C7" "x82365E" "x8666A9" "x86CF3B" "x91EE28" "xAF30C0" "xAFABB1" "xB0D2BB" "xCA7C1B" }
+}
+
+STATE_DITRYSIUM = {
+    id = 252
+    provinces = { "x007E9B" "x043C5F" "x0721E1" "x07A814" "x0869CD" "x2A4512" "x2D93C6" "x5481BF" "x5B720B" "x7E1E8B" "x87C3CC" "xA84E93" "xAA9002" }
+}
+
+STATE_LYCTIDA = {
+    id = 309
+    provinces = { "x003032" "x00C928" "x066FE1" "x2ABA49" "x7E4B13" "x7E75BD" "x847B40" }
+}
+
+STATE_DIM_GARDEN = {
+    id = 260
+    provinces = { "x004291" "x00B141" "x0633D7" "x2A7299" "x7ED2A9" "xA83C34" "xB00CA7" }
+}
+
+STATE_VRAKS = {
+    id = 259
+    provinces = { "x00CC05" "x037241" "x0384A0" "x03A8C3" "x2A78B7" "x2AA53F" "x5766E2" "x7E4E54" "x816963" "x81B145" "xA80648" "xA84252" "xA8AEC0" }
+}
+
+STATE_SOULLESS_MOUNTAINS = {
+    id = 303
+    provinces = { "x2A7E3F" "x2F061C" "x31CCDA" "x33C385" "x543356" "x54BDC9" "x5B3601" "x5BB156" "x7EC04A" "x8321BD" "x83662C" "x854804" "xA8210C" "xA884E3" "xA8C3CA" }
+}
+
+STATE_NEVERWARM_POINT = {
+    id = 304
+    provinces = { "x0003AA" "x075D87" "x544892" "x5AB7A6" "x5B9010" "x85B195" "xAD48CA" }
+}
+
+STATE_KILLING_SWAMPS = {
+    id = 258
+    provinces = { "x00150A" "x0045D2" "x03A582" "x0454A5" "x2A0C49" "x2A188A" "x2A6935" "x2AA262" "x541B0B" "x543C51" "x54785B" "x54A5E2" "x7E789A" "x7E7BDB" "x7EA863" "x7EC604" "xAB66C5" "xAB6CE3" "xAC1BA2" }
+}
+
+STATE_THEY_HEAR = {
+    id = 307
+    provinces = { "x009FE1" "x033600" "x045782" "x2D6021" "x3103B2" "x5763A1" "x584847" "x7E3FD1" "x84C6CC" }
+}
+
+STATE_TAINAHOLM = {
+    id = 308
+    provinces = { "x006F19" "x543633" "x5452D2" "x54CF29" "x7E8163" "xA8002A" "xA81289" "xA86C98" "xA8783E" }
+}
+
+STATE_GORAK = {
+    id = 312
+    provinces = { "x00CEAE" "x0A1A28" "x159073" "x16CFE3" "x1800D6" "x3041AE" "x43DC3C" "x447863" "x56E460" "x574691" "x5B8A88" "x656BAC" "x7BC0F4" "x802A2E" "x858D09" "x89B790" "x8DA0AB" "x99554D" "xA05364" "xA3193D" "xA82793" "xB0CA9B" "xC577AB" "xC5AD8B" "xDBD6D4" "xE6FE78" "xEBB187" "xF13A5F" }
+}
+
+STATE_WHITEHOOVES = {
+    id = 314
+    provinces = { "x873649" }
+    impassable = { "x873649" }
+}
+
+STATE_SORYTH = {
+    id = 262
+    provinces = { "x0DE68D" "x1352AC" "x18068D" "x1F98D0" "x32F121" "x4551F7" "x4ABDB2" "x56392E" "x5760E9" "x579924" "x57BBD8" "x5F2388" "x88110D" "x8EB27D" "x9C29A3" "xA3B642" "xA4AAD6" "xA5CC9B" "xABE74C" "xAE4218" "xB4CA42" "xBA1DC9" "xCD4AF2" "xE80DB1" "xF3D838" "xF9B67C" "xFAB48D" }
+}
+#Equestria
+STATE_CANTERLOT = {
+    id = 2
+    provinces = { "x0A4B75" "x0A751C" "x0E2045" "x0E3645" "x119A6E" "x132B8A" "x161D81" "x164881" "x16813D" "x225963" "x277387" "x27876F" "x285A51" "x288770" "x288A8C" "x288C6C" "x2B8106" "x2F8A13" "x360E45" "x380C61" "x39C5BE" "x3F0E4C" "x448EA3" "x450E26" "x45834B" "x538A3B" "x5C387E" "x698727" "x6F7E68" "x76C7DE" "x783F8E" "x792787" "x79A9BC" "x7BC95A" "x873358" "x8C7D28" "x9C6D16" "xA34498" "xDE76A3" }
+    traits = { "state_trait_princess_of_the_capitals" }
+}
+STATE_FOAL_MOUNTAINS = {
+    id = 3
+    provinces = { "xad3f02" }
+    impassable = { "xad3f02" }
+}
+STATE_BITTERBERRY_FIELDS = {
+    id = 4
+    provinces = { "x026E69" "x0A1B5E" "x0A4861" "x0D5C91" "x0E653E" "x112026" "x127843" "x148C7E" "x1A6517" "x23529A" "x247797" "x272E8C" "x28288A" "x2D5A0A" "x2E7895" "x2EAA72" "x2F9185" "x31952E" "x320C81" "x32797A" "x337149" "x371973" "x381285" "x3A4DC5" "x3B7839" "x3E309C" "x4552FE" "x4DAC94" "x518CA3" "x53A9D7" "x5C2B2B" "x5E055A" "x5F97B5" "x629B9C" "x630808" "x650948" "x686C13" "x6C4DAA" "x6E0581" "x70408A" "x7077D9" "x707BAA" "x711717" "x723583" "x734EBE" "x7583BC" "x76559E" "x7984C9" "x7ADEB1" "x7E1717" "x7EC7A1" "x81E77D" "x822A8A" "x85DCEC" "x85EC9D" "x8C0762" "x8E22A1" "x970850" "x9A8023" "x9E26B3" "x9E6280" "xA65FA7" "xA6D086" "xA8D5E7" "xAC3BAE" "xACBDC9" "xAF91EC" "xB766AE" "xBCB029" "xBE7AC9" "xBE8080" "xC7A4B6" "xD776B8" }
+}
+STATE_GRIFFISH_ISLES = {
+    id = 67
+    provinces = { "x011EDC" "x01B1B4" "x029319" "x062D82" "x0712C8" "x2B215D" "x2BB435" "x2C1244" "x2C3326" "x5545BF" "x558751" "x55A588" "x5669B5" "x805A09" "x80BDE0" "xA9AE34" "xAA0C43" "xAE4807" }
+}
+
+STATE_BADLANDS = {
+    id = 17
+    provinces = { "xaf3307" }
+    impassable = { "xaf3307" }
+}
+
+STATE_TWILIGHT_RANGE = {
+    id = 128
+    provinces = { "x2baead" }
+    impassable = { "x2baead" }
+}
+
+STATE_SAN_PALOMINO_DESERT = {
+    id = 42
+    provinces = { "x02c0a0" }
+    impassable = { "x02c0a0" }
+}
+
+STATE_SMOKEY_MOUNTAINS = {
+    id = 61
+    provinces = { "x86c395" }
+    impassable = { "x86c395" }
+}
+
+STATE_CRYSTAL_MOUNTAINS = {
+    id = 142
+    provinces = { "x02488c" }
+    impassable = { "x02488c" }
+}
+
+STATE_FEARANN_A_DEAS = {
+    id = 282
+    provinces = { "x9c4b6c" }
+    impassable = { "x9c4b6c" }
+}
+
+STATE_ONEAR_MOUNTAINS = {
+    id = 287
+    provinces = { "x8051db" }
+    impassable = { "x8051db" }
+}
+#Olenia
+STATE_PRIDEA = {
+    id = 76
+    provinces = { "x2D7E26" "x2D8103" "x2DCC26" "x2E7808" "x2E8480" "x30C0CB" "x5A6660" "x5AC34C" "x82845E" "x842DD6" "x84C9A9" "xAB0384" }
+}
+
+STATE_VAVERFRONT = {
+    id = 69
+    provinces = { "x0299A0" "x2C18CB" "x56C083" "x56C6D8" "x5903E2" }
+}
+
+STATE_GRANHALVÖN = {
+    id = 189
+    provinces = { "x0472AA" "x57D283" "x586929" "x810004" "x823627" "x825A4A" "x826CA9" "x826F86" "xAC7207" "xACC9A2" }
+}
+
+STATE_DROWNED_ANTLER_MARSH = {
+    id = 203
+    provinces = { "x031E82" "x039046" "x047587" "x055ACD" "x07030F" "x3027D5" "x30753F" "x30C3A8" "x58C3A1" "x5BA206" "x8172C7" "x819CA4" "x8215AE" "x85A586" "x870063" }
+}
+
+STATE_ELK_SHORE = {
+    id = 209
+    provinces = { "x037BA5" "x037E82" "x2DF1BE" "x2E1221" "x31068F" "x5A2A56" "x8175A4" "x853918" "xAB7825" }
+}
+
+STATE_SNOWFLAKE = {
+    id = 210
+    provinces = { "x030605" "x043C28" "x2E5449" "x586C06" "x58725B" "x818A45" "x81AE04" "x81D227" "x8469E0" "xABC348" }
+}
+
+STATE_SÖDRA_STRANDEN = {
+    id = 216
+    provinces = { "x03BD96" "x564B1A" "x565DDD" "x57B138" "x8006B8" "x801818" "x803FAE" "xAB6939" "xABA5D9" }
+}
+
+STATE_BLUEBIRD_FOREST = {
+    id = 217
+    provinces = { "x02031E" "x2C6912" "x2C8A58" "x3B1D62" "x562A01" "x566C92" "x583683" "x809059" "xAAB4BB" }
+}
+
+STATE_WINTER_WYVERN_LANDS = {
+    id = 219
+    provinces = { "x02B7A5" "x02D237" "x2C39AD" "x2CBD03" "x81A259" "xAA12CA" "xAA6311" }
+}
+
+STATE_MUTEFLOW = {
+    id = 224
+    provinces = { "x05660F" "x2D6F3A" "x2E9C3A" "x56B560" "x598A15" "x6938BF" "x81B4B8" "x838D95" "xA95452" "xA9A598" "xAF03A2" }
+}
+
+STATE_LUMIVUORET = {
+    id = 195
+    provinces = { "x5833a6" }
+    impassable = { "x5833a6" }
+}
+
+STATE_URSA-VUORI = {
+    id = 201
+    provinces = { "x039323" }
+    impassable = { "x039323" }
+}
+
+STATE_HOOF_PENINSULA = {
+    id = 212
+    provinces = { "x02154B" "x563C2E" "x570F47" "x571224" "x57BD47" "x86BA9A" }
+}
+
+STATE_MANTY_CREEK = {
+    id = 213
+    provinces = { "x026691" "x80A222" "x816622" "xAAC684" "xB04ECF" }
+}
+
+STATE_WHITE_RANGE = {
+    id = 214
+    provinces = { "x044E55" "x827B95" "xAC4BD4" "xAC8D98" }
+}
+
+STATE_HORN_SKOG = {
+    id = 215
+    provinces = { "x02362D" "x0278BE" "x2C7B3F" "x2C9C21" "x502D3A" "x568DD8" "x569FA1" "x76648D" "x800F4A" "x802ADB" "x802D81" "x803C3B" "x80605E" "x806090" "x80B13B" "x80C304" "x9E85BF" "xAA009D" "xAA3FBB" "xAA9620" }
+}
+
+STATE_CLEARPINE = {
+    id = 220
+    provinces = { "x2D96A3" "x58BA3D" "x5B990B" "x864B4F" }
+}
+
+STATE_SOLGUD_BERGSKEDJA = {
+    id = 292
+    provinces = { "x2D7EBC" "x576F47" "x816345" "xAC6384" }
+}
+
+STATE_ÖSTSKOG = {
+    id = 218
+    provinces = { "x190F36" "x2D663F" "x2F4437" "x464F83" "x47883C" "x4A773D" "x4A783D" "x582147" "x804E9A" "x834670" "xAC39A7" "xAD3607" "xAD9016" }
+}
+
+STATE_SMALA_SKOGAR = {
+    id = 296
+    provinces = { "x036F00" "x041B46" "x2E1EC6" "x2E3026" "x2E66A8" "x334871" "x334872" "x4F6681" "xAFBA9D" }
+}
+
+STATE_BERGSLIV = {
+    id = 293
+    provinces = { "x824bc7" }
+    impassable = { "x824bc7" }
+}
+
+STATE_WETBANKS = {
+    id = 294
+    provinces = { "x057E5A" "x071EA0" "x2D7280" "x59368D" "x5975D8" "x5D960B" "xADCC20" "xAF3925" "xAF572A" "xFF3D83" }
+}
+
+STATE_PÄLSSTICK_HALVÖN = {
+    id = 299
+    provinces = { "x044246" "x05155F" "x0548A0" "x0581CD" "x05A2AF" "x064814" "x2FA80D" "x312462" "x5890C9" "x59099C" "x591E3D" "x59750B" "x59784C" "x59BDBA" "x5B5747" "x82934A" "x83788B" "x837BCC" "x83AE0E" "x8578CC" "x8596D1" "x85AEB8" "x85B4D6" "xAC39DE" "xAD12DE" "xAD9F2F" "xAF1B20" "xAF9952" }
+}
+
+STATE_FEER_DALAR = {
+    id = 300
+    provinces = { "x0636B4" "x2D6CC6" "x31AB94" "x33A2A3" "x540324" "x5963AB" "x7E39B3" "x829CDB" "x831518" "x85758B" "x859390" "xAB8DC5" "xB16C3E" }
+}
+
+STATE_TREVLIGVIND = {
+    id = 301
+    provinces = { "x05CFA0" "x078A0F" "x085A4B" "x08AB28" "x091519" "x2F81DA" "x2F9617" "x2FCC03" "x593F1F" "x5978B5" "x5A931A" "x825D27" "x839CAE" "xAB69A2" "xADBAC0" }
+}
+
+STATE_BORTBYTING_HOGLAND = {
+    id = 302
+    provinces = { "x007BBE" "x024BA0" "x0321C3" "x04BDA0" "x318D8F" "x324E49" "x5B151F" "x5BAE15" "x830F5E" "x83429F" "x844213" "x85189F" "x8536A4" "x8554A9" "x85CF9A" "xAD243E" "xAF5A07" "xAFB416" "xAFD21B" "xB121B1" "xB133DE" }
+}
+
+STATE_GREEN_VALLEY = {
+    id = 204
+    provinces = { "x06841E" "x2DCF03" "x5A2D33" "x5AC629" "x6B43E3" "x811881" "xAE819D" }
+}
+
+STATE_WINTERFELL = {
+    id = 206
+    provinces = { "x04B4A5" "x2D2103" "x2D2444" "x2E128A" "x2E7E5D" "x2EB726" "x58A229" "x8042C2" "xAB1B02" "xAE3334" }
+}
+
+STATE_TRÄDVÄGG = {
+    id = 295
+    provinces = { "x04CF00" "x05244B" "x05BD41" "x07009B" "x2E48DA" "x2F392B" "x5651A1" "x573C01" "x593CAB" "x59B4BF" "x805422" "x810622" "x837B36" "x847E1D" "xAB90A2" "xABC902" "xAD7EB6" "xAF9334" }
+}
+
+STATE_HÄRLIGHAMN = {
+    id = 297
+    provinces = { "x048196" "x2D36A3" "x2E4253" "x2E72B7" "x2E87C1" "x2EA83A" "x5787C4" "x58B142" "x820909" "xAC6CB6" }
+}
+
+STATE_NORRA_VIKAR = {
+    id = 298
+    provinces = { "x030C23" "x040332" "x0536AA" "x05C982" "x07692D" "x0778AF" "x078732" "x2D0FA3" "x2F27CB" "x2F330D" "x2F7535" "x5727C4" "x592A4C" "x810345" "x813F81" "x837859" "x83C381" "x83C99F" "xAB06C5" "xAB30A2" "xAD332A" "xADC602" }
+}
+
+STATE_KETOALANKO = {
+    id = 205
+    provinces = { "x056FD7" "x2EAEC1" "x2EB7BC" "x2EC91C" "x325A8A" "x5DA8CE" "x879959" "xB10934" }
+}
+
+STATE_PEURAMAA = {
+    id = 192
+    provinces = { "x045D41" "x048441" "x584B5B" "x5CB71A" "x82188B" "xACBDCA" "xAE6F3E" }
+}
+
+STATE_PEURAMETSÄ = {
+    id = 196
+    provinces = { "x08570A" "x580C10" "x58A2BF" "x58BAA6" "x825740" "x82A5A9" "x82BD27" "xAC5AC0" }
+}
+
+STATE_POROLA = {
+    id = 194
+    provinces = { "x040FD7" "x2E60C1" "x58995B" "xAC0C57" }
+}
+
+STATE_MÄNNIKKÖ = {
+    id = 197
+    provinces = { "x040CC3" "x2E21A3" "x5B3697" "x5B7829" "x857BA9" }
+}
+
+STATE_CERVUS = {
+    id = 191
+    provinces = { "x044219" "x044B14" "x073341" "x5821B0" "x5B0CBA" "x82D231" "x855AC7" }
+}
+
+STATE_VALOLAHTI = {
+    id = 207
+    provinces = { "x2EC362" "x587538" "x58ABBA" "x850F3B" }
+}
+
+STATE_KARPALOSUOT = {
+    id = 193
+    provinces = { "x2E1E30" "x2E6335" "x5CC9DD" "x8227A4" "x82C963" "xAC3FC5" "xAF6FA7" }
+}
+
+STATE_DOELAND = {
+    id = 208
+    provinces = { "x04AB41" "x2E3303" "x2E9F3F" "x5BB433" "xACA8C0" }
+}
+
+STATE_VUONOLA = {
+    id = 200
+    provinces = { "x5812C4" "x5881DD" "xAC18C5" "xAC7EE3" "xACBA20" }
+}
+
+STATE_SUMMERSIDE_BAY = {
+    id = 199
+    provinces = { "x577EC9" "xAC2A25" }
+}
+
+STATE_GOLDENSHORE = {
+    id = 198
+    provinces = { "x2D0985" "x2D0CC6" "x2D7B49" "x2E8D49" "x3E02F8" "x584506" "x945D10" "xAC00B1" }
+}
+
+#Puerto Caballo
+STATE_PUERTO_CABALLO = {
+    id = 1193
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x4F2B23" "x680A3F" "x6EA15F" "xA7467D" "xA8E454" "xAC4E20" "xBF267D" "xD89933" "xDB2C31" "xE27A46" "xECE475" "xF8B94D" "xF9A67C" }
+    city = "xF8B94D"
+    port = "xF8B94D"
+    farm = "xECE475"
+    mine = "x6EA15F"
+    wood = "xA7467D"
+    arable_land = 26
+    arable_resources = { "bg_tobacco_plantations" "bg_coffee_plantations" "bg_sugar_plantations" "bg_rice_farms" "bg_banana_farms" "bg_livestock_ranches" }
+    capped_resources = {
+        bg_iron_mining = 18
+        bg_logging = 7
+    }
+    resource = {
+        type = "bg_gold_fields"
+        depleted_type = "bg_gold_mining"
+        undiscovered_amount = 7
+    }
+    resource = {
+        type = "bg_coal_mining"
+        undiscovered_amount = 16
+    }
+    naval_exit_id = 3020
+}
+STATE_MATROTANZAS = {
+    id = 1194
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x744126" "x8E593E" "xB75828" "xC896A2" "xD1B93F" "xDC8B62" "xE9A52F" "xF4CE65" }
+    city = "x744126"
+    port = "x744126"
+    farm = "xDC8B62"
+    wood = "x8E593E"
+    arable_land = 47
+    arable_resources = { "bg_tobacco_plantations" "bg_coffee_plantations" "bg_sugar_plantations" "bg_rice_farms" "bg_livestock_ranches" "bg_banana_farms" "bg_rubber_plantations" }
+    capped_resources = {
+        bg_logging = 14
+        bg_iron_mining = 5
+    }
+    naval_exit_id = 3020
+}
