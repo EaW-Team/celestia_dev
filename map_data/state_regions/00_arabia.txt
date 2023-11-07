@@ -248,8 +248,8 @@ STATE_DAWASIRE = {
 
 STATE_AL_YAMANEMAH = {
     id = 431
-    provinces = { "xb1454c"}
-    impassable = { "xb1454c"}
+    provinces = { "xb1454c" }
+    impassable = { "xb1454c" }
 }
 
 STATE_AL_MANEID = {
@@ -302,8 +302,8 @@ STATE_OUJMAREDA = {
 
 STATE_MAREKKAH = {
     id = 438
-    provinces = {"x5e0cf8" }
-    impassable = {"x5e0cf8" }
+    provinces = { "x5e0cf8" }
+    impassable = { "x5e0cf8" }
 }
 
 STATE_QUNFUDHAH = {
@@ -372,6 +372,6 @@ STATE_JABAL_SHAMMARE = {
 
 STATE_AL_KAHB = {
     id = 447
-    provinces = { "xaa5526"}
-    impassable = { "xaa5526"}
+    provinces = { "xaa5526" }
+    impassable = { "xaa5526" }
 }

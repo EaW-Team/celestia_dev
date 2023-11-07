@@ -129,7 +129,7 @@ STATES = {
 	s:STATE_WHITEHOOVES = {
 		create_state = {
 			country = c:GOR
-			owned_provinces = { "x007B10" "x0787C8" "x27EC04" "x282501" "x299113" "x48A021" "x4B2F9D" "x4CAFDE" "x546617" "x5D04E1" "x6B0667" "x6C17F7" "x6D84E3" "x780E76" "x78EA57" "x7C5C31" "x80AEC7" "x84B581" "x8DED3A" "x9FFE8B" "xA9D41B" "xAF4561" "xCBC26F" "xD8A503" "xE11E74" "xEFF87A" "xF11DD5" "xFDB636" }
+			owned_provinces = {"x873649" }
 		}
 	}
 	
@@ -144,13 +144,6 @@ STATES = {
 		create_state = {
 			country = c:SOR
 			owned_provinces = { "x073000" "x0F2423" "x10A952" "x18217B" "x2B993F" "x2E5229" "x57B249" "x654A18" "x83361D" "x902B5A" "xAFCFD4" "xB14C02" "xB86E42" "xCD6DAA" "xD6AAF6" }
-		}
-	}
-	
-	s:STATE_NORTHERN_SADDENING_SHORE = {
-		create_state = {
-			country = c:SOR
-			owned_provinces = { "x139DE7" "x1B9F01" "x1E0564" "x1FDDBA" "x210AB8" "x228633" "x2441E1" "x2B4FFC" "x320326" "x326C21" "x3CE91F" "x4CAD51" "x4FD1AF" "x60C868" "x64EAE9" "x6D8B64" "x7276B1" "x7536A4" "x7C2859" "x803063" "x836065" "x873649" "x92E79B" "x9A0609" "x9C33A3" "x9C36CA" "xA438E0" "xA5E8DB" "xA77AE3" "xBABF6A" "xBC0930" "xD16761" "xDE95A6" "xE02516" "xE477A5" "xEB81C2" "xF51922" "xF7CCD2" "xF96CD3" "xFBC3EC" "xFE08BA" }
 		}
 	}
 	

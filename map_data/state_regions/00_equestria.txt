@@ -5,8 +5,8 @@
 }
 STATE_FOAL_MOUNTAINS = {
     id = 3
-    provinces = {"xad3f02"}
-    impassable = {"xad3f02"}
+    provinces = { "xad3f02" }
+    impassable = { "xad3f02" }
 }
 STATE_BITTERBERRY_FIELDS = {
     id = 4
@@ -60,43 +60,43 @@ STATE_GRIFFISH_ISLES = {
 }
 
 STATE_BADLANDS = {
-    id= 17
-    provinces = {"xaf3307"}
-    impassable = {"xaf3307"}
+    id = 17
+    provinces = { "xaf3307" }
+    impassable = { "xaf3307" }
 }
 
 STATE_TWILIGHT_RANGE = {
     id = 128
-    provinces = {"x2baead"}
-    impassable = {"x2baead"}
+    provinces = { "x2baead" }
+    impassable = { "x2baead" }
 }
 
 STATE_SAN_PALOMINO_DESERT = {
     id = 42
-    provinces = {"x02c0a0"}
-    impassable = {"x02c0a0"}
+    provinces = { "x02c0a0" }
+    impassable = { "x02c0a0" }
 }
 
 STATE_SMOKEY_MOUNTAINS = {
     id = 61
-    provinces = {"x86c395"}
-    impassable = {"x86c395"}
+    provinces = { "x86c395" }
+    impassable = { "x86c395" }
 }
 
 STATE_CRYSTAL_MOUNTAINS = {
     id = 142
-    provinces = {"x02488c"}
-    impassable = {"x02488c"}
+    provinces = { "x02488c" }
+    impassable = { "x02488c" }
 }
 
 STATE_FEARANN_A_DEAS = {
     id = 282
-    provinces = {"x9c4b6c"}
-    impassable = {"x9c4b6c"}
+    provinces = { "x9c4b6c" }
+    impassable = { "x9c4b6c" }
 }
 
 STATE_ONEAR_MOUNTAINS = {
     id = 287
-    provinces = {"x8051db"}
-    impassable = {"x8051db"}
+    provinces = { "x8051db" }
+    impassable = { "x8051db" }
 }

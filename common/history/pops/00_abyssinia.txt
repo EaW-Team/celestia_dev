@@ -19,14 +19,6 @@ POPS = {
 			}
 		}
 	}
-	s:STATE_KOM_MAREBO = {
-		region_state:ABY = {
-			create_pop = {
-				culture = pawritrean
-				size = 3686
-			}
-		}
-	}
 	s:STATE_KATOUM = {
 		region_state:ABY = {
 			create_pop = {
@@ -100,14 +92,6 @@ POPS = {
 			create_pop = {
 				culture = pawritrean
 				size = 1234
-			}
-		}
-	}
-	s:STATE_DOLLO = {
-		region_state:ABY = {
-			create_pop = {
-				culture = oromeow
-				size = 17756 
 			}
 		}
 	}

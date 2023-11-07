@@ -42,13 +42,6 @@ s:STATE_KATOUM = {
 	}
 	add_homeland = pawritrean
 }
-s:STATE_KOM_MAREBO = {
-	create_state = {
-		country = c:MGY
-			owned_provinces = { "x693224" "x86250B" "x975D2A" "xA35849" "xD34620" "xDA7014" "xE2866C" "xE5A17D" "xEB8C39" }
-	}
-	add_homeland = pawritrean
-}
 s:STATE_OROMEOWIA = {
 	create_state = {
 		country = c:ABY
@@ -59,7 +52,7 @@ s:STATE_OROMEOWIA = {
 s:STATE_DOLLO = {
 	create_state = {
 		country = c:ABY
-			owned_provinces = { "x453502" "x4A1A26" "x512631" "x794728" "x7A3308" "x7C5A3C" "x8E1232" "x8F5A2B" "xCC6B14" "xD57D48" "xEDE49A" "xEFB694" }
+			owned_provinces = { "x8F5A2B" }
 	}
 	add_homeland = oromeow
 }

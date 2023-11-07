@@ -130,7 +130,7 @@ STATES = {
 	s:STATE_AL_KAHB = {
 		create_state = {
 			country = c:SDL
-    			owned_provinces = { "x2B0E05" "x35160B" "x4C352D" "x5B1B05" "x622512" "x6C4537" "x7C5D0B" "x8A3A0F" "x8A6320" "x955741" "xA83B14" "xAA5526" "xAE785B" "xC3B193" "xCB8918" "xD5663F" "xD7A142" "xF4B74E" }
+    			owned_provinces = {  "xAA5526" }
 		}
 		add_homeland = cimrannine
 	}
@@ -323,7 +323,7 @@ STATES = {
 	s:STATE_MAREKKAH = {
 		create_state = {
 			country = c:SDL
-    			owned_provinces = { "x301012" "x5E0CF8" "x632E27" "x644743" "x853E34" "xB32D36" "xB82E37" "xE38389" "xF79E92" }
+    			owned_provinces = { "x5E0CF8" }
 		}
 		add_homeland = cimrannine
 	}
@@ -349,13 +349,6 @@ STATES = {
 		}
 		add_homeland = cimrannine
 	}
-	s:STATE_AQABAH = {
-		create_state = {
-			country = c:SDL
-    			owned_provinces = { "x5D3012" "x5D3E13" "x68300A" "x7E5A29" "x8B5305" "x995F0F" "x9E4A12" "xB38A1B" "xC57D19" }
-		}
-		add_homeland = cimrannine
-	}
 	s:STATE_HADITHA = {
 		create_state = {
 			country = c:SDL
@@ -373,7 +366,7 @@ STATES = {
 	s:STATE_AL_YAMANEMAH = {
 		create_state = {
 			country = c:SDL
-    			owned_provinces = { "x925241" "xA27262" "xA65944" "xB1454C" "xD68765" "xDD5B2F" "xE44E1C" "xEBC5B4" "xEF9279" "xEF9A7D" "xF46E33" }
+    			owned_provinces = {"xB1454C" }
 		}
 		add_homeland = cimrannine
 	}

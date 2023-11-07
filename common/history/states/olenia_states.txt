@@ -72,14 +72,14 @@ STATES = {
 	s:STATE_LUMIVUORET = {
 		create_state = {
 			country = c:OLE
-    			owned_provinces = { "x036946" "x042DA5" "x043F05" "x046328" "x046605" "x2E4285" "x54983F" "x5833A6" "x823904" "x826004" "xAB7548" "xAC3C84" "xAC4E48" "xD16A1E" }
+    			owned_provinces = { "x5833A6"  }
 		}
 	}
 	
 	s:STATE_URSA-VUORI = {
 		create_state = {
 			country = c:OLE
-    			owned_provinces = { "x039323" "x0672BE" "x2E6985" "x585115" "x820381" "x822431" "x824EDB" "xAC0602" }
+    			owned_provinces = { "x039323"  }
 		}
 	}
 	
@@ -142,7 +142,7 @@ STATES = {
 	s:STATE_BERGSLIV = {
 		create_state = {
 			country = c:OLE
-    			owned_provinces = { "x2DA803" "x57CFA6" "x824BC7" "x828A18" "x82D25E" "xAC1B0C" }
+    			owned_provinces = { "x824BC7"  }
 		}
 	}
 	

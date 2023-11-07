@@ -140,13 +140,13 @@ STATE_KOTOZO = {
 
 STATE_ZUBIAN_DESERT = {
     id = 768
-    provinces = {"xa05510"}
-    impassable = {"xa05510"}
+    provinces = { "xa05510" }
+    impassable = { "xa05510" }
 }
 
 STATE_MAREDIN = {
     id = 802
-    provinces = {"x312b3d"}
-    impassable = {"x312b3d"}
+    provinces = { "x312b3d" }
+    impassable = { "x312b3d" }
 }
 
