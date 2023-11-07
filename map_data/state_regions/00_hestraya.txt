@@ -120,7 +120,8 @@ STATE_COLTKUK = {
 
 STATE_WASIT = {
     id = 793
-    provinces = { "x293F2C" "x4D3F45" "x4F2537" "x507E55" "x635058" "x71334E" "x754459" "x7B636D" "x7C2E4F" "x966077" "x9A5372" "x9F7084" "xA73465" "xBB7392" "xCA9565" "xD399B2" "xD97AA2" "xE0689B" }
+    provinces = { "x966077" }
+    impassable = { "x966077" }
 }
 
 STATE_KIRMANESHAH = {

@@ -217,3 +217,9 @@ STATE_HANGIST_JUR = {
     id = 1053
     provinces = { "x1E311A" "x268C1F" "x2B6E1C" "x318D38" "x338223" "x467F42" "x4C953D" "x507348" "x559648" "x5B9122" "x75994F" "x808C60" "x86BA4E" "x87C04B" "x8BAD2D" "x8CB085" "x98CA62" "x9ADE8C" "xA2C47F" "xACD77E" "xAFBE88" "xB2C999" }
 }
+
+STATE_ZEDWA = {
+    id = 1041
+    provinces = { "x346980" }
+    impassable = { "x346980" }
+}

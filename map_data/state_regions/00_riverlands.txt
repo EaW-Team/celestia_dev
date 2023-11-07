@@ -112,7 +112,7 @@ STATE_OREINO_TROPO = {
 }
 STATE_CEMRICIA = {
     id = 324
-    provinces = { "x065D4B" "x09249B" "x09AB32" "x33C012" "x5A3010" "x870095" "x874B22" "xB19652" "x3169D0" "x33243F" "x336603" "x5D63C9" }
+    provinces = { "x065D4B" "x09249B" "x09AB32" "x3169D0" "x33243F" "x336603" "x33C012" "x5A3010" "x5D63C9" "x870095" "x874B22" "xB19652" }
 }
 #STATE_WILD_VODINA = {
 #    id = 312

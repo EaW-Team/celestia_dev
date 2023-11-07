@@ -1,4 +1,4 @@
-STATE_FARASRAH = {
+﻿STATE_FARASRAH = {
     subsistence_building = "building_subsistence_farms"
     id = 788
     provinces = { "x887527" "xB1471A" "xC0AD65" }

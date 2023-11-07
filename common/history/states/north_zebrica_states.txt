@@ -1,24 +1,8 @@
 STATES = {
-    s:STATE_NEW_SOUTH_BUCKCASTLE = {
-		create_state = {
-			country = c:BAT
-    			owned_provinces = { "x406D3E" "x487947" "x4D2C3C" "x750726" "x7D3E11" "x7F3F11" "x7FB87D" "x923564" "xD32556" "xD5600D" }
-		}
-		add_homeland = chiropterran
-	}
-	
-	s:STATE_HOWLING_MOUNTAINS = {
-		create_state = {
-			country = c:BAT
-    			owned_provinces = { "x663512" "x842C5F" "x93195C" "x946992" "xA85F2B" "xC38E68" "xD06417" "xFB791C" }
-		}
-		add_homeland = chiropterran
-	}
-	
 	s:STATE_NEW_MAREIDIAN = {
 		create_state = {
 			country = c:BAT
-    			owned_provinces = { "x420C1B" "x572332" "x5CB8C2" "x7B9B9F" "x931654" "x932D4A" "x945A30" "xAB602A" "xC84167" }
+    			owned_provinces = { "x420C1B" "x487947" "x4D2C3C" "x572332" "x5CB8C2" "x7B9B9F" "x7D3E11" "x923564" "x931654" "x932D4A" "x945A30" "xAB602A" "xC84167" "xD5600D" }
 		}
 		add_homeland = chiropterran
 	}
@@ -26,15 +10,7 @@ STATES = {
 	s:STATE_THE_IMPERIAL_HILLS = {
 		create_state = {
 			country = c:BAT
-    			owned_provinces = { "x3B8A50" "x4F290F" "x532036" "x72143C" "xA80B4F" "xA94C0A" }
-		}
-		add_homeland = chiropterran
-	}
-	
-	s:STATE_EXILES_LANDING = {
-		create_state = {
-			country = c:BAT
-    			owned_provinces = { "x35884B" "x6BCA84" "x82C393" "xB65B1A" "xCC8A5B" }
+    			owned_provinces = { "x35884B" "x3B8A50" "x4F290F" "x532036" "x663512" "x6BCA84" "x72143C" "x82C393" "x842C5F" "x93195C" "x946992" "xA80B4F" "xA85F2B" "xA94C0A" "xB65B1A" "xC38E68" "xCC8A5B" "xD06417" "xFB791C" }
 		}
 		add_homeland = chiropterran
 	}
@@ -42,7 +18,7 @@ STATES = {
 	s:STATE_HUIACTLALI = {
 		create_state = {
 			country = c:BAT
-    			owned_provinces = { "x56C132" "x662A3B" "x733F1A" "x95B18C" "x98330E" "xA5D794" "xC42C57" "xDC762D" }
+    			owned_provinces = { "x406D3E" "x56C132" "x662A3B" "x733F1A" "x750726" "x7F3F11" "x7FB87D" "x95B18C" "x98330E" "xA5D794" "xC42C57" "xD32556" "xDC762D" }
 		}
 		add_homeland = chiropterran
 	}
@@ -50,7 +26,7 @@ STATES = {
 	s:STATE_SOARING_WOODS = {
 		create_state = {
 			country = c:HIP
-    			owned_provinces = { "x102C09" "x1E5311" "x296D18" "x2B716C" "x368422" "x381959" "x3A4B4A" "x438832" "x4E1488" "x719997" "x74B564" "x75D35D" }
+    			owned_provinces = { "x102C09" "x14C34E" "x1E5311" "x27C7BE" "x296D18" "x2B716C" "x306360" "x368422" "x381959" "x3A4B4A" "x438832" "x4E1488" "x639894" "x719997" "x74B564" "x75D35D" "x82C398" "x9BCAAA" "x9CB1A3" "x9DC9C7" "xBDD6C6" }
 		}
 		add_homeland = hippogriffion
 	}
@@ -58,7 +34,7 @@ STATES = {
 	s:STATE_Central_Aris = {
 		create_state = {
 			country = c:HIP
-    			owned_provinces = { "x10807A" "x249449" "x2FB7B0" "x379356" "x623009" }
+    			owned_provinces = { "x10807A" "x223B4B" "x249449" "x2FB7B0" "x379356" "x4E0622" "x623009" "x660A63" "x6C2014" "x841D0C" "x965F35" "xC88451" }
 		}
 		add_homeland = hippogriffion
 	}
@@ -87,18 +63,10 @@ STATES = {
 		add_homeland = hippogriffion
 	}
 	
-	s:STATE_TERRACEIA = {
-		create_state = {
-			country = c:HIP
-    			owned_provinces = { "x416B57" "x47B480" "x49C289" "x7CAC95" }
-		}
-		add_homeland = hippogriffion
-	}
-	
 	s:STATE_GRAND_ALAUDIA = {
 		create_state = {
 			country = c:HIP
-    			owned_provinces = { "x106C40" "x1B6542" "x22513B" "x37DF8F" "x456656" "x579A7B" "x6C413A" "x73C8A0" "x749183" "x84BCA1" "xADC1B7" }
+    			owned_provinces = { "x106C40" "x1B6542" "x22513B" "x37DF8F" "x416B57" "x456656" "x47B480" "x49C289" "x579A7B" "x6C413A" "x73C8A0" "x749183" "x7CAC95" "x84BCA1" "xADC1B7" }
 		}
 		add_homeland = hippogriffion
 	}
@@ -106,31 +74,7 @@ STATES = {
 	s:STATE_SOUTH_ARIS = {
 		create_state = {
 			country = c:HIP
-    			owned_provinces = { "x205651" "x45A59C" "x68CCC2" "x6E7E7C" "x8A3DD6" "x94BCB8" }
-		}
-		add_homeland = hippogriffion
-	}
-	
-	s:STATE_MOUNT_ARIS = {
-		create_state = {
-			country = c:HIP
-    			owned_provinces = { "x223B4B" "x4E0622" "x660A63" "x841D0C" "x965F35" "xC88451" }
-		}
-		add_homeland = hippogriffion
-	}
-	
-	s:STATE_WESTSHORE = {
-		create_state = {
-			country = c:HIP
-    			owned_provinces = { "x14C34E" "x27C7BE" "x306360" "x639894" "x82C398" "x9BCAAA" "x9CB1A3" "x9DC9C7" "xBDD6C6" }
-		}
-		add_homeland = hippogriffion
-	}
-	
-	s:STATE_EASTWINGS = {
-		create_state = {
-			country = c:HIP
-    			owned_provinces = { "x094209" "x0B630B" "x143014" "x153F15" "x224498" "x268026" "x286328" "x2BB741" "x2EA0CE" "x385538" "x489354" "x52B061" "x5BA35B" "x6C2014" "x8751C1" "xB05F20" "xBA6FA7" }
+    			owned_provinces = { "x094209" "x0B630B" "x143014" "x153F15" "x205651" "x224498" "x268026" "x286328" "x2BB741" "x2EA0CE" "x385538" "x45A59C" "x489354" "x52B061" "x5BA35B" "x68CCC2" "x6E7E7C" "x8751C1" "x8A3DD6" "x94BCB8" "xB05F20" "xBA6FA7" }
 		}
 		add_homeland = hippogriffion
 	}

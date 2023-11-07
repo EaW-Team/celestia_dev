@@ -117,12 +117,6 @@ STATE_PAWRITREA = {
     naval_exit_id = 3009
 }
 
-STATE_KOM_MAREBO = {
-    id = 764
-    subsistence_building = "building_subsistence_pastures"
-    provinces = { "x693224" "x86250B" "x975D2A" "xA35849" "xD34620" "xDA7014" "xE2866C" "xE5A17D" "xEB8C39" }
-}
-
 STATE_MAU = {
     id = 774
     subsistence_building = "building_subsistence_fishing_villages"
@@ -152,8 +146,8 @@ STATE_OROMEOWIA = {
 
 STATE_DOLLO = {
     id = 781
-    subsistence_building = "building_subsistence_pastures"
-    provinces = { "x453502" "x4A1A26" "x512631" "x794728" "x7A3308" "x7C5A3C" "x8E1232" "x8F5A2B" "xCC6B14" "xD57D48" "xEDE49A" "xEFB694" }
+    provinces = { "x8f5a2b" }
+    impassable = { "x8f5a2b" }
 }
 
 STATE_MEOWTEKEL = {
