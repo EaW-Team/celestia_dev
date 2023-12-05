@@ -1,6 +1,0 @@
-﻿##### MAINTHEME
-
-main_theme_track = {
-	music = "file:/music/files/The_Throne_of_the_Elements.ogg"
-	can_be_interrupted = yes
-}

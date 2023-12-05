@@ -1,8 +1,0 @@
-﻿# Strategic Regions in Griffonia
-
-region_new_mareland = {
-	capital_province = x4eeccf
-	map_color = { 0.2 0.4 0.7 }
-	states = { STATE_SUNSET STATE_CELESTIA STATE_HARVI STATE_NEW_HOOFINGTON }
-}
-

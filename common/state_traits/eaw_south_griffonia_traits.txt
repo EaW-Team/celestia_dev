@@ -1,8 +1,0 @@
-﻿state_trait_new_mareland_outback = {
-    icon = "gfx/interface/icons/state_trait_icons/dry_climate.dds"
-		   
-	modifier = {
-		state_non_homeland_mortality_mult = 0.25
-		state_construction_mult = -0.15
-    }
-}
