@@ -850,15 +850,7 @@ STATES = {
 	s:STATE_SEGURO = {
 		create_state = {
 			country = c:ZES
-			owned_provinces = { "x053955" "x062A3C" "x54A54C" "x854A5A" "xA0F5A5" "xAEB40C" }
-		}
-		
-		add_homeland = kásan
-	}
-	s:STATE_BYMNONIA = {
-		create_state = {
-			country = c:ZES
-			owned_provinces = { "x0560BE" "x05D24B" "x33ABD5" "x598AE2" "x83A54A" "xAD635C" "xADA8CA" "xB14884" }
+			owned_provinces = { "x053955" "x062A3C" "x54A54C" "x854A5A" "xA0F5A5" "xAEB40C"  "x06ED00" "x30C7B2" "xAD3C5C" "xAD5A61" "xB118A1" "xC0BFA9" "xEA6C90" }
 		}
 		
 		add_homeland = kásan
@@ -867,14 +859,6 @@ STATES = {
 		create_state = {
 			country = c:ZES
 			owned_provinces = { "x09518C" "x098D96" "x331803" "x339CBC" "x54001A" "x55C913" "x5D0F42" "x83C34F" "x88BAA4" "x971E6C" "xAD4BDE" "xAFAB1B" "xB1AB5C" "xB1C993" }
-		}
-		
-		add_homeland = kásan
-	}
-	s:STATE_ILHAS_LAGOSTA = {
-		create_state = {
-			country = c:ZES
-			owned_provinces = { "x06ED00" "x30C7B2" "xAD3C5C" "xAD5A61" "xB118A1" "xC0BFA9" "xEA6C90" }
 		}
 		
 		add_homeland = kásan
@@ -892,7 +876,12 @@ STATES = {
 			country = c:WIT
 			owned_provinces = { "x053337" "x070900" "x07548C" "x07C05F" "x094B05" "x09662D" "x0993B4" "x2F633F" "x313C49" "x315A4E" "x317853" "x3312DE" "x5B1E83" "x852104" "x859C59" "x87810E" "x87BD18" "xAD8AC5" "xAF06E3" "xAF9FD9" "xB163AB" "xB19034" }
 		}
+		create_state = {
+			country = c:ZES
+			owned_provinces = { "x0560BE" "x05D24B" "x33ABD5" "x598AE2" "x83A54A" "xAD635C" "xADA8CA" "xB14884" }
+		}
 		
+		add_homeland = kásan
 		add_homeland = wittenlandic
 	}
 	s:STATE_BARRAD = {

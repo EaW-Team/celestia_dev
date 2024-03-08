@@ -81,4 +81,122 @@ POPS = {
 			}
 		}
 	}
+	#Wittenland
+	s:STATE_WITTEN = {
+		region_state:WIT = {
+			create_pop = {
+				culture = wittenlandic
+				size = 803761
+			}
+		}
+	}
+	s:STATE_BARRAD = {
+		region_state:WIT = {
+			create_pop = {
+				culture = wittenlandic
+				size = 170040
+			}
+		}
+	}
+	s:STATE_PAPAGLIA = {
+		region_state:WIT = {
+			create_pop = {
+				culture = wittenlandic
+				size = 154110
+			}
+		}
+	}
+	s:STATE_NORBEAK = {
+		region_state:WIT = {
+			create_pop = {
+				culture = wittenlandic
+				size = 92531
+			}
+		}
+	}
+	s:STATE_FYRD = {
+		region_state:WIT = {
+			create_pop = {
+				culture = wittenlandic
+				size = 221902
+			}
+		}
+	}
+	s:STATE_DARNISH_HIGHLANDS = {
+		region_state:WIT = {
+			create_pop = {
+				culture = wittenlandic
+				size = 326126
+			}
+		}
+	}	
+	s:STATE_CEMRICIA = {
+		region_state:WIT = {
+			create_pop = {
+				culture = wittenlandic
+				size = 201820
+			}
+		}
+		region_state:RCT = {
+			create_pop = {
+				culture = wittenlandic
+				size = 119019
+			}
+			create_pop = {
+				culture = rijekan
+				size = 41483
+			}
+		}
+	}
+	s:STATE_HENGESTDELU = {
+		region_state:WIT = {
+			create_pop = {
+				culture = wittenlandic
+				size = 429227
+			}
+		}
+	}
+	s:STATE_ELISAY = {
+		region_state:WIT = {
+			create_pop = {
+				culture = wittenlandic
+				size = 110905
+			}
+		}
+		region_state:ZES = {
+			create_pop = {
+				culture = wittenlandic
+				size = 102574
+			}
+			create_pop = {
+				culture = kásan
+				size = 41102
+			}
+		}
+	}
+	#kása (kasa)
+	s:STATE_SEGURO = {
+		region_state:ZES = {
+			create_pop = {
+				culture = kásan
+				size = 351008
+			}
+			create_pop = {
+				culture = wittenlandic
+				size = 10159
+			}
+		}
+	}
+	s:STATE_FIRESHORE = {
+		region_state:ZES = {
+			create_pop = {
+				culture = kásan
+				size = 52877
+			}
+			create_pop = {
+				culture = wittenlandic
+				size = 39098
+			}
+		}
+	}	
 }
