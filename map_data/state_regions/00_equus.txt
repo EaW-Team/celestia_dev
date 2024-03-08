@@ -428,7 +428,6 @@ STATE_GOLDENSHORE = {
     id = 198
     provinces = { "x2D0985" "x2D0CC6" "x2D7B49" "x2E8D49" "x3E02F8" "x584506" "x945D10" "xAC00B1" }
 }
-
 #Puerto Caballo
 STATE_PUERTO_CABALLO = {
     id = 1193
