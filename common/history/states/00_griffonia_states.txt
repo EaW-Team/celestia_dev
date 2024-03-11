@@ -41,98 +41,64 @@ STATES = {
 		create_state = {
 			country = c:RPU
 			owned_provinces = { "x5A57A6" "x5A39A1" }
-		}
-		
+		}		
 		create_state = {
 			country = c:LOE
 			owned_provinces = { "xAE219D" "x06CC96" "x06AE91" "x5E3956" "x0A9041" "x5E69BA" }
-		}
-		
+		}		
 		create_state = {
 			country = c:PAO
 			owned_provinces = { "x069F0F" "xAE5102" "xAEAB11" "x5A6906" "x5A0C1A" }
-		}
-		
+		}		
 		create_state = {
 			country = c:ADA
 			owned_provinces = { "x065A0A" "x5A6629" "x5A870B" "x5AC315" "xB25D5C" "x0A63B9" "x34871C" "x6521B2" }
 		}
-	}
-	s:STATE_BALISEMONT = {
-		create_state = {
-			country = c:RPU
-			owned_provinces = { "x303621" "x300999" }
-		}
-		
-		create_state = {
-			country = c:BET
-			owned_provinces = { "x5A99CE" "x5A0F5B" "xAE7248" "x843F63" "x307508" "x06159B" }
-		}
-		
-		create_state = {
-			country = c:RMC
-			owned_provinces = { "x5A968D" }
-		}
-		
-		create_state = {
-			country = c:OPI
-			owned_provinces = { "x849C4F" "x840018" "x30C094" "x066028" "x847B09" }
-		}
-	}
-	s:STATE_ECOLE = {
-		create_state = {
-			country = c:RMC
-			owned_provinces = { "xAEBA93" "x305703" "x5AD297" "x06275F" }
-		}
-		
-		create_state = {
-			country = c:CEI
-			owned_provinces = { "x2A9C44" "x84990E" "x5A7888" "x5D9397" }
-		}
-		
-		create_state = {
-			country = c:OPI
-			owned_provinces = { "x5BC042" "x8412DB" "x7E5DD6" }
-		}
-	}
-	s:STATE_GUARDIAN_FIELD = {
 		create_state = {
 			country = c:VRR
 			owned_provinces = { "x30848A" "xAE42E3" "xAE6084" "xAC2193" }
 		}
-		
 		create_state = {
 			country = c:CAE
 			owned_provinces = { "x2E1812" "x2E575D" "x585ADD" "x581B92" "xACB7AC" "x848127" "x06810A" }
-		}
-		
+		}		
 		create_state = {
 			country = c:OPI
 			owned_provinces = { "x821E13" "x31399E" "xAC60DE" "x825D5E" "x82270E" "x585456" "x82CCA9" "x58248D" "xAC9043" "x0493C3" "x82270E" "x2E9644" }
 		}
 	}
-	s:STATE_NIGHT_FOREST_SOUTH = {
+	s:STATE_ECOLE = {
+		create_state = {
+			country = c:RPU
+			owned_provinces = { "x303621" "x300999" }
+		}		
+		create_state = {
+			country = c:BET
+			owned_provinces = { "x5A99CE" "x5A0F5B" "xAE7248" "x843F63" "x307508" "x06159B" }
+		}		
+		create_state = {
+			country = c:RMC
+			owned_provinces = { "x5A968D" "xAEBA93" "x305703" "x5AD297" "x06275F" }
+		}		
+		create_state = {
+			country = c:CEI
+			owned_provinces = { "x2A9C44" "x84990E" "x5A7888" "x5D9397" }
+		}		
 		create_state = {
 			country = c:OPI
-			owned_provinces = { "x06BD14" "x083314" "x089000" "x092D96" "x097BCD" "x0AA2A0" "x0AC0A5" "x2FAB21" "x3063A8" "x34A521" "x34C326" "x59CF83" "x5A1B9C" "x5A2A1F" "x5AA233" "x5C1B10" "x5D5D42" "x5D7E8D" "x5E0FAB" "x5E3C33" "x864B18" "x88122C" "x88C64A" "xAE9C8E" "xB15707" }
+			owned_provinces = { "x5BC042" "x8412DB" "x7E5DD6"  "x849C4F" "x840018" "x30C094" "x066028" "x847B09" }
 		}
 	}
-	s:STATE_NIGHT_FOREST_NORTH = {
+	s:STATE_NIGHT_FOREST = {
 		create_state = {
 			country = c:OPI
-			owned_provinces = { "x04D2AA" "x05B723" "x06C39B" "x08AE05" "x09B150" "x0A3F96" "x0A6C1E" "x0A9C82" "x0ABA87" "x33271C" "x3430B7" "x34663A" "x5899C4" "x59909C" "x5E60BF" "x831E4A" "x872D1D" "x8781A4" "x879027" "x880C0E" "x88661D" "xAD1BAC" "xB19C0C" "xB20F8E" "xB215AC" "xB28DC0" "xB29625" "xB2B707" "xBF874D" "xE14C85" }
+			owned_provinces = { "x06BD14" "x083314" "x089000" "x092D96" "x097BCD" "x0AA2A0" "x0AC0A5" "x2FAB21" "x3063A8" "x34A521" "x34C326" "x59CF83" "x5A1B9C" "x5A2A1F" "x5AA233" "x5C1B10" "x5D5D42" "x5D7E8D" "x5E0FAB" "x5E3C33" "x864B18" "x88122C" "x88C64A" "xAE9C8E" "xB15707"  "x04D2AA" "x05B723" "x06C39B" "x08AE05" "x09B150" "x0A3F96" "x0A6C1E" "x0A9C82" "x0ABA87" "x33271C" "x3430B7" "x34663A" "x5899C4" "x59909C" "x5E60BF" "x831E4A" "x872D1D" "x8781A4" "x879027" "x880C0E" "x88661D" "xAD1BAC" "xB19C0C" "xB20F8E" "xB215AC" "xB28DC0" "xB29625" "xB2B707" "xBF874D" "xE14C85" }
 		}
 	}
 	s:STATE_MODRZEWIOWA_DOLINA = {
 		create_state = {
 			country = c:OPI
-			owned_provinces = { "x07AE9B" "x091EE1" "x09AEDC" "x2A6C12" "x2F7BBC" "x5A8183" "x5B0C24" "x5D12B5" "x83390E" "x83931D" "x87A8DB" "x883995" "xAE9607" "xB18425" }
-		}
-	}
-	s:STATE_POGÓRZE_GRYFUSKIE = {
-		create_state = {
-			country = c:OPI
-			owned_provinces = { "x09B7D7" "x0A0F32" "x0A849B" "x340C2B" "x5B9697" "x5E4E92" "x842AC2" "x85C69F" "x88330E" "xB14E0C" "xB1CF1B" "xB248BB" "xB26039" }
+			owned_provinces = { "x09B7D7" "x0A0F32" "x0A849B" "x340C2B" "x5B9697" "x5E4E92" "x842AC2" "x85C69F" "x88330E" "xB14E0C" "xB1CF1B" "xB248BB" "xB26039" "x07AE9B" "x091EE1" "x09AEDC" "x2A6C12" "x2F7BBC" "x5A8183" "x5B0C24" "x5D12B5" "x83390E" "x83931D" "x87A8DB" "x883995" "xAE9607" "xB18425" }
 		}
 	}
 	#Brodfeld
