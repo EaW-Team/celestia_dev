@@ -507,6 +507,15 @@ STATE_WINTERHOLD = {
 STATE_SEGURO = {
     id = 301
     provinces = { "x053955" "x062A3C" "x54A54C" "x854A5A" "xA0F5A5" "xAEB40C" "x06ED00" "x30C7B2" "xAD3C5C" "xAD5A61" "xB118A1" "xC0BFA9" "xEA6C90" }
+	subsistence_building = "building_subsistence_fishing_villages"
+	traits = { "state_trait_natural_harbor" }
+	arable_land = 20
+    arable_resources = { "bg_livestock_ranches" "bg_wheat_farms" }
+    capped_resources = {
+        bg_iron_mining = 1
+		bg_logging = 2
+        bg_fishing = 10
+    }
 }
 #STATE_BYMNONIA = {
 #    id = 302
