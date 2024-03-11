@@ -1,6 +1,6 @@
-kásan={
+kasan={
 	color= rgb{ 40 211 153 }
-	religion = mountain_worship
+	religion = alma_kasan_faith
 	traits = { north_zebra_culture_group macawian_culture_group zebra_heritage }
 	male_common_first_names={
 		Limon Karanbóla Spedju Lista Rátu Gudja Koitalel Kango Noti Dinheru Fonti Boli Grelha

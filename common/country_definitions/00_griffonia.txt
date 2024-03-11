@@ -300,12 +300,12 @@ FRE = { # Ponhiden
 ZES = { # kása free state
 	color = { 249 249 61 }
 	
-	country_type = unrecognized
+	country_type = recognized
 	
 	tier = principality
 	
 	capital = STATE_SEGURO
-	cultures = { kásan }
+	cultures = { kasan }
 }
 
 WIT = { # Wittenland

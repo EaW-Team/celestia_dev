@@ -176,3 +176,39 @@ tailemeowedo = {
 	}
 	color = { 255 102 153 }
 }
+#Deer religion
+olenian_faith = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		deer_religion_group	
+	}
+	color = { 229 204 255 }
+}
+#Harpy religion
+harpy_faith = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		harpy_religion_group	
+	}
+	color = { 0 204 204 }
+}
+#Minotaur "religion"
+actualism = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		minotaur_religion	
+	}
+	color = { 95 196 255 }
+}
+
+# New religions
+#Kasa religion
+alma_kasan_faith = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		
+	}
+	color = { 40 211 153 }
+}
+
+

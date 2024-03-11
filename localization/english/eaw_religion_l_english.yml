@@ -1,4 +1,5 @@
 ﻿l_english:
+#Religions
  forest_worship:0 "Forest Worship"
  nimbusian_pantheon:0 "Nimbusian"
  anam_teine:0 "Anam-Teine"
@@ -15,6 +16,20 @@
  lone_star:0 "Lone Star"
  sun_worship:0 "Sun Worship"
  watrzya:0 "Watrzya"
+ aitrzya:0 "Aitrzya"
  tailemeowedo:0 "Baastism"
- cat_religion_group:0 "Baastist"
  arconate:0 "Archonism"
+ alma_kasan_faith:0 "Álma"
+ olenian_faith:0 "Usko" #Austurland Church?
+ harpy_faith:0 "Pollytheism"
+ actualism:0 "Actualism"
+ 
+ #Religious traits
+ deer_religion_group:0 "Deer Faiths"
+ harpy_religion_group:0 "Harpy Faiths"
+ griffon_religion_group:0 "Griffon Faiths"
+ cat_religion_group:0 "Feline Faiths"
+ horse_religion_group:0 "Horse Faiths"
+ pony_religion_group:0 "Pony Faiths"
+ thestral_religion_group:0 "Lunarist Faiths"
+ minotaur_religion:0 "Minotaur Faiths"

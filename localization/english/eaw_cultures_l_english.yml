@@ -26,17 +26,20 @@
  horse_heritage:0 "Horse"
  donkey_heritage:0 "Donkey"
  harpy_heritage:0 "Harpy"
-# Cultral Groups
+ 
+# Culture traits
  equestrian_culture_group:0 "Equestrian"
  riverpony_culture_group:0 "Riverpony"
  karthinian_culture_group:0 "Karthinian"
  arabian_culture_group:0 "Arabian"
  feline_culture_group:0 "Feline"
  zebrican_griffon_group:0 "Zebrican Griffon"
- macawian_culture_group:0 "Macawian"
+ macawian_culture_group:0 "Macawian-speaking"
  north_zebra_culture_group:0 "Zonician"
-# Cultral Descriptives
+ settler_deer:0 "Olenian Settler"
  aboriginal_griffon:0 "Aboriginal"
+ asterionese_culture:0 "Tauric-speaking"
+ 
 #Pony Cultures
  equestrian:0 "Equestrian"
  caballo:0 "Caballo"
@@ -44,7 +47,7 @@
  ponaidhean:0 "Pònaidh"
  wittenlandic:0 "Wittenlandic"
  rijekan:0 "Rijekan"
- lakepony:0 "lakepony"
+ lakepony:0 "Lakeish"
  nimbusian:0 "Nimbusian"
  bakaran:0 "Bakaran"
  deponyan:0 "Deponyan"
@@ -76,4 +79,11 @@
  pawritrean:0 "Pawritrean"
  oromeow:0 "Oromeow"
  #Zebra cultures
- kásan:0 "Kásan"
+ kasan:0 "Kásan"
+ #Deer cultures
+ austurlander:0 "Austurlander"
+ #Harpy cultures
+ macawian:0 "Macawian"
+ #Minotaur cultures
+ asterionese:0 "Asterionese"
+ 

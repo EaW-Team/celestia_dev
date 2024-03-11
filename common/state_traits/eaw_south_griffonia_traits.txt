@@ -6,3 +6,11 @@
 		state_construction_mult = -0.15
     }
 }
+state_trait_pearls = {
+    icon = "gfx/interface/icons/state_trait_icons/natural_harbors.dds"
+		   
+	modifier = {
+		state_minimum_wealth_add = 3
+		
+    }
+}

@@ -169,7 +169,7 @@ POPS = {
 				size = 102574
 			}
 			create_pop = {
-				culture = kásan
+				culture = kasan
 				size = 41102
 			}
 		}
@@ -178,19 +178,37 @@ POPS = {
 	s:STATE_SEGURO = {
 		region_state:ZES = {
 			create_pop = {
-				culture = kásan
-				size = 351008
+				culture = kasan
+				size = 224501
 			}
 			create_pop = {
 				culture = wittenlandic
-				size = 10159
+				size = 67706
 			}
+			create_pop = {
+				culture = austurlander
+				size = 35635
+			}
+			create_pop = {
+				culture = macawian
+				size = 21381
+			}
+			create_pop = {
+				culture = asterionese
+				size = 7127
+			}
+			#356 352 total
+			#63% kasan
+			#19% wittenlandic
+			#10% Austurlander
+			#6% macawian
+			#2% asterionese
 		}
 	}
 	s:STATE_FIRESHORE = {
 		region_state:ZES = {
 			create_pop = {
-				culture = kásan
+				culture = kasan
 				size = 52877
 			}
 			create_pop = {
