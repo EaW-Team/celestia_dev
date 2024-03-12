@@ -193,7 +193,7 @@ BET = { # Balisemont
 	
 	tier = principality
 	
-	capital = STATE_BALISEMONT
+	capital = STATE_ECOLE
 	cultures = {  }
 }
 
@@ -226,7 +226,7 @@ VRR = { # Viartorre
 	
 	tier = principality
 	
-	capital = STATE_GUARDIAN_FIELD
+	capital = STATE_PYTHAGOREA
 	cultures = {  }
 }
 
@@ -237,7 +237,7 @@ CAE = { # Camafeu
 	
 	tier = principality
 	
-	capital = STATE_GUARDIAN_FIELD
+	capital = STATE_PYTHAGOREA
 	cultures = {  }
 }
 
@@ -248,7 +248,7 @@ OPI = { # Opinicus
 	
 	tier = principality
 	
-	capital = STATE_NIGHT_FOREST_SOUTH
+	capital = STATE_NIGHT_FORESTH
 	cultures = {  }
 }
 
@@ -259,8 +259,19 @@ BRF = { # Brodfeld
 	
 	tier = kingdom
 	
-	capital = STATE_KIVESSIN
+	capital = STATE_LIFOV
 	cultures = { Brodfeldian }
+}
+
+LUS = { # Lushi
+	color = { 190 226 172 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_LUSHLAND
+	cultures = { }
 }
 
 CLO = { # Cloudbury
