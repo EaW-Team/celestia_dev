@@ -248,7 +248,7 @@ OPI = { # Opinicus
 	
 	tier = principality
 	
-	capital = STATE_NIGHT_FORESTH
+	capital = STATE_NIGHT_FOREST
 	cultures = {  }
 }
 
