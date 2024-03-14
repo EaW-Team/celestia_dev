@@ -18,6 +18,7 @@ COUNTRIES = {
 		activate_law = law_type:law_interventionism
 		activate_law = law_type:law_protected_speech
 		activate_law = law_type:law_national_militia
+		activate_law = law_type:law_homesteading 
 
 	}
 	#Wingbardy

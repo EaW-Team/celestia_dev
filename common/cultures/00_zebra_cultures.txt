@@ -1,5 +1,5 @@
 kasan={
-	color= rgb{ 40 211 153 }
+	color= rgb{ 249 249 61 }
 	religion = alma_kasan_faith
 	traits = { north_zebra_culture_group macawian_culture_group zebra_heritage }
 	male_common_first_names={

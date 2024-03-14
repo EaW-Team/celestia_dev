@@ -1,5 +1,5 @@
 austurlander={
-	color= rgb{ 40 211 153 }
+	color= rgb{ 229 204 255 }
 	religion = olenian_faith
 	traits = { settler_deer deer_heritage }
 	male_common_first_names={
