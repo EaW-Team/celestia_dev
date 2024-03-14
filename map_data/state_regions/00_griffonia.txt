@@ -518,6 +518,20 @@ STATE_FIRESHORE = {
 STATE_ELISAY = {
     id = 305
     provinces = { "x053337" "x0560BE" "x05D24B" "x070900" "x07548C" "x07C05F" "x094B05" "x09662D" "x0993B4" "x2F633F" "x313C49" "x315A4E" "x317853" "x3312DE" "x33ABD5" "x598AE2" "x5B1E83" "x83A54A" "x852104" "x859C59" "x87810E" "x87BD18" "xAD635C" "xAD8AC5" "xADA8CA" "xAF06E3" "xAF9FD9" "xB14884" "xB163AB" "xB19034" }
+	subsistence_building = "building_subsistence_farms"
+    traits = { "state_trait_roughers" "state_trait_elisay_river" }
+    arable_land = 35
+    arable_resources = { "bg_livestock_ranches" "bg_wheat_farms" "bg_vineyard_plantations" }
+    capped_resources = {
+        bg_iron_mining = 2
+		bg_coal_mining = 15
+        bg_logging = 10
+        bg_fishing = 5
+    }
+	resource = {
+        type = "bg_oil_extraction"
+        undiscovered_amount = 5
+    }
 }
 STATE_BARRAD = {
     id = 306

@@ -1,0 +1,9 @@
+texticon = {
+	icon = crystals
+	iconsize = {
+		texture = "gfx/interface/icons/goods_icons/iron.dds"
+		size = { 25 25 }
+		offset = { 0 7 }
+		fontsize = 18
+	}
+}

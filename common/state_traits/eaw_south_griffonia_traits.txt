@@ -14,3 +14,19 @@ state_trait_pearls = {
 		
     }
 }
+state_trait_roughers = {
+    icon = "gfx/interface/icons/state_trait_icons/mountain.dds"
+		
+	modifier = {
+		state_construction_mult = -0.05
+		state_infrastructure_mult = -0.05
+	}
+}
+state_trait_elisay_river = {
+	icon = "gfx/interface/icons/state_trait_icons/river.dds"
+	
+	modifier = {
+		state_infrastructure_add = 10
+	}
+}
+

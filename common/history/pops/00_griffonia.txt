@@ -160,19 +160,34 @@ POPS = {
 		region_state:WIT = {
 			create_pop = {
 				culture = wittenlandic
-				size = 110905
+				size = 188937
+			}
+			create_pop = {
+				culture = austurlander
+				size = 1807
 			}
 		}
 		region_state:ZES = {
 			create_pop = {
 				culture = wittenlandic
-				size = 102574
+				size = 70138
 			}
 			create_pop = {
 				culture = kasan
-				size = 41102
+				size = 22889
+			}
+			create_pop = {
+				culture = austurlander
+				size = 2345
 			}
 		}
+		#286 117 total
+		#at this point in time 1/3 in kasa (before rapefugee crisis)
+		#95 372 in ZES 
+		#majority wittenlandic with 24% kasan
+		#190 744 in WIT
+		#small austurlander minority in both, <1%
+		
 	}
 	#kása (kasa)
 	s:STATE_SEGURO = {
