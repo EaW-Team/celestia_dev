@@ -165,7 +165,14 @@ arconate = {
 	traits = {
 		griffon_religion_group
 	}
-	color = rgb{ 127 2 5 }
+	color = rgb{ 255 140 0 }
+}
+old_believer = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		griffon_religion_group
+	}
+	color = rgb{ 245 255 133 }
 }
 
 #Cat Religion

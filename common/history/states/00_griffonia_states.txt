@@ -823,6 +823,8 @@ STATES = {
 		}
 		
 		add_homeland = kasan
+		add_homeland = wittenlandic
+		add_homeland = gryphussian
 	}
 	s:STATE_WITTEN = {
 		create_state = {

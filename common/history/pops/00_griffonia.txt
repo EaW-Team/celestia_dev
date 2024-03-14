@@ -224,12 +224,20 @@ POPS = {
 		region_state:ZES = {
 			create_pop = {
 				culture = kasan
-				size = 52877
+				size = 18565
 			}
 			create_pop = {
 				culture = wittenlandic
-				size = 39098
+				size = 40666
 			}
+			create_pop = {
+				culture = gryphussian
+				size = 29173
+			}
+			#88 404 total
+			#46% wittenlandic
+			#33% gryphussian
+			#21% kasan
 		}
 	}	
 }

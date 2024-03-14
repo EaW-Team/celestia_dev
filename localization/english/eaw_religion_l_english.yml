@@ -23,6 +23,7 @@
  olenian_faith:0 "Usko" #Austurland Church?
  harpy_faith:0 "Pollytheist"
  actualism:0 "Actualist"
+ old_believer:0 "Old Believer"
  
  #Religious traits
  deer_religion_group:0 "Deer Faiths"

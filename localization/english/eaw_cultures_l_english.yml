@@ -39,6 +39,7 @@
  settler_deer:0 "Olenian Settler"
  aboriginal_griffon:0 "Aboriginal"
  asterionese_culture:0 "Tauric-speaking"
+ evi_group:0 "Evian"
  
 #Pony Cultures
  equestrian:0 "Equestrian"
@@ -62,6 +63,7 @@
  herzlander:0 "Herzlander"
  romauan:0 "Romauan"
  kompel:0 "Kompel"
+ gryphussian:0 "Gryphussian"
 #Horse Cultures
  cimrannine:0 "Cimrannine"
  yemani:0 "Yemani"
