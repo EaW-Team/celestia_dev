@@ -1339,6 +1339,21 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
+				"key":	"dlc_coin_rp1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"dlc_coin_rp1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
 				"key":	"edgeofworld_papermap"
 			},
 			"entry_state":	{
@@ -9364,6 +9379,21 @@
 				}, {
 					"locked":	false
 				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"cristo_redentor_locator"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"cristo_redentor_locator"
+				}
+			},
+			"instances":	[{
 					"locked":	false
 				}]
 		}, {
