@@ -1,4 +1,4 @@
-﻿new_marelander={
+new_marelander={
 	color= rgb{ 47 158 99 }
 	religion = harmony
 	traits = { equestrian_culture_group pony_heritage }

@@ -240,4 +240,41 @@ POPS = {
 			#21% kasan
 		}
 	}	
+	#Austurland
+	s:STATE_HJARTHOLAR = {
+		region_state:OLV = {
+			create_pop = {
+				culture = austurlander
+				size = 439666
+			}
+			create_pop = {
+				culture = kasan
+				size = 9159
+			}
+			create_pop = {
+				culture = wittenlandic
+				size = 4579
+			}
+			create_pop = {
+				culture = ponaidhean
+				size = 3264
+			}
+		}
+	}
+	s:STATE_HREINVELLIR = {
+		region_state:OLV = {
+			create_pop = {
+				culture = austurlander
+				size = 207810
+			}
+			create_pop = {
+				culture = ponaidhean
+				size = 28337
+			}
+			create_pop = {
+				culture = wittenlandic
+				size = 2345
+			}
+		}
+	}
 }

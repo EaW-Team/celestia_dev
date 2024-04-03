@@ -505,3 +505,14 @@ BOI = { # Griffonstone
 	capital = STATE_GRIFFONSTONE
 	cultures = { griffonstonian }
 }
+
+OLV = { # Austurland
+	color = { 229 204 255 }
+
+	country_type = recognized
+
+	tier = principality
+
+	capital = STATE_HJARTHOLAR
+	cultures = { austurlander } 
+}

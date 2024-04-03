@@ -1,0 +1,1 @@
+Unzip the navmesh.zip whenever you want to edit splines, anchors and such, then save and rezip :)

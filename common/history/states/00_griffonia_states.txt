@@ -101,6 +101,21 @@ STATES = {
 			owned_provinces = { "x09B7D7" "x0A0F32" "x0A849B" "x340C2B" "x5B9697" "x5E4E92" "x842AC2" "x85C69F" "x88330E" "xB14E0C" "xB1CF1B" "xB248BB" "xB26039" "x07AE9B" "x091EE1" "x09AEDC" "x2A6C12" "x2F7BBC" "x5A8183" "x5B0C24" "x5D12B5" "x83390E" "x83931D" "x87A8DB" "x883995" "xAE9607" "xB18425" }
 		}
 	}
+	#Austurland
+	s:STATE_HJARTHOLAR = {
+		create_state = {
+			country = OLV
+			owned_provinces = { "x333949" "x337553" "x339635" "x33A2DA" "x33C3BC" "x5DA55B" "x5DB7BA" "x870F81" "x87159F" "x873F4A" "x87BA3B" "xB11543" "xB142CA" "xB1848E" "xB1BDBB" }
+		}
+		add_homeland = austurlander
+	}
+	s:STATE_HREINVELLIR = {
+		create_state = {
+			country = OLV
+			owned_provinces = { "x051B50" "x091582" "x0972D2" "x09C03C" "x2F8762" "x333C26" "x33540D" "x339017" "x5B3FC9" "x5D3FA6" "x5D78D3" "x5DBA97" "x5DCFA1" "x8712C2" "x874B8B" "xB16F52" }
+		}
+		add_homeland = austurlander
+	}
 	#Brodfeld
 	s:STATE_LIFOV = {
 		create_state = {

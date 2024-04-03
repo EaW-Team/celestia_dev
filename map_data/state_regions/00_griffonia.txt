@@ -546,9 +546,40 @@ STATE_BARRAD = {
     id = 306
     provinces = { "x073687" "x078114" "x313908" "x31668F" "x5945DD" "x5B6910" "x5D1B83" "x5DCC5B" "x830C54" "x838745" "x846C90" "x854E8B" "x859918" "xAD0FD4" "xAF510C" "xAF7E93" "xAFBDDE" "xAFC920" }
 }
+#Austurland
 STATE_HJARTHOLAR = {
     id = 307
     provinces = { "x333949" "x337553" "x339635" "x33A2DA" "x33C3BC" "x5DA55B" "x5DB7BA" "x870F81" "x87159F" "x873F4A" "x87BA3B" "xB11543" "xB142CA" "xB1848E" "xB1BDBB" }
+    traits = { "state_trait_arctic_whaling" "state_trait_north_sea_fishing" }
+    subsistence_building = "building_subsistence_fishing_villages"
+    arable_land = 60
+    arable_resources = { "bg_rye_farms" "bg_livestock_ranches" }
+    capped_resources = {
+        bg_iron_mining = 10
+        bg_logging = 13
+        bg_fishing = 12
+        bg_crystal_mining = 20
+        bg_whaling = 3
+    }
+    naval_exit_id = 3007
+}
+STATE_HREINVELLIR = {
+    id = 320
+    provinces = { "x051B50" "x091582" "x0972D2" "x09C03C" "x2F8762" "x333C26" "x33540D" "x339017" "x5B3FC9" "x5D3FA6" "x5D78D3" "x5DBA97" "x5DCFA1" "x8712C2" "x874B8B" "xB16F52" }
+    traits = { "state_trait_arctic_whaling" "state_trait_north_sea_fishing" }
+    subsistence_building = "building_subsistence_fishing_villages"
+    arable_land = 30
+    arable_resources = { "bg_livestock_ranches" "bg_rye_farms" }
+    capped_resources = {
+        bg_coal_mining = 40
+        bg_crystal_mining = 12
+        bg_iron_mining = 17
+        bg_fishing = 8
+        bg_logging = 14
+        bg_whaling = 6
+    }
+    naval_exit_id = 3007
+
 }
 STATE_IOMALL_FAIRGE = {
     id = 308
@@ -610,10 +641,7 @@ STATE_DIT_KAZAR = {
     id = 319
     provinces = { "x08A541" "x2FA2BC" "x321E4E" "x326F94" "x32A8C1" "x5C24AB" "x5C7215" "x5CC0AB" "x63C696" "x866059" "x877B1D" "xB0184D" "xB066B6" "xB0A2C0" "xB0B420" }
 }
-STATE_HREINVELLIR = {
-    id = 320
-    provinces = { "x051B50" "x091582" "x0972D2" "x09C03C" "x2F8762" "x333C26" "x33540D" "x339017" "x5B3FC9" "x5D3FA6" "x5D78D3" "x5DBA97" "x5DCFA1" "x8712C2" "x874B8B" "xB16F52" }
-}
+
 STATE_NORBEAK = {
     id = 321
     provinces = { "x33001C" "x335DD5" "x33B717" "x5D8DDD" "x5E0306" "x8751A9" "x877036" "xB16689" "xB1A293" }
