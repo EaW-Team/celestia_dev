@@ -3,6 +3,7 @@
  region_puerto_caballo:0 "Puerto Caballo"
 #Griffonia
  region_new_mareland:0 "New Mareland"
+ region_riverlands:0 "Riverlands"
 #Zebrica
  region_abyssinia:0 "Abyssinia"
  region_manedalusia:0 "Manedalusia"
@@ -12,3 +13,4 @@
 #Sea Regions
  region_discovery_coast:0 "Discovery Coast"
  region_starry_sea:0 "Starry Sea"
+ region_east_ocean:0 "East Ocean"

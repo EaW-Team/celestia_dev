@@ -509,7 +509,7 @@ BOI = { # Griffonstone
 OLV = { # Austurland
 	color = { 229 204 255 }
 
-	country_type = recognized
+	country_type = unrecognized
 
 	tier = principality
 

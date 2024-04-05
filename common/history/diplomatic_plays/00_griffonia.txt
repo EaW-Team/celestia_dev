@@ -1,0 +1,25 @@
+﻿DIPLOMATIC_PLAYS = {
+	c:OLV = {
+		create_diplomatic_play = {
+			name = kasan_austurlander_war
+		
+			target_country = c:ZES
+			
+			war = yes
+			
+			type = dp_make_tributary
+			
+			add_war_goal = {
+				holder = c:ZES
+				type = war_reparations
+				target_country = c:OLV
+			}		
+			
+			add_war_goal = {
+				holder = c:ZES
+				type = ban_slavery
+				target_country = c:OLV
+			}
+		}	
+	}
+}

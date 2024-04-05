@@ -4,3 +4,7 @@
 region_starry_sea = {
 	states = { STATE_STARRY_SEA }
 }
+
+region_east_ocean = {
+	states = { STATE_EAST_OCEAN	}
+}

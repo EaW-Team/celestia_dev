@@ -6,3 +6,8 @@ region_new_mareland = {
 	states = { STATE_SUNSET STATE_CELESTIA STATE_HARVI STATE_NEW_HOOFINGTON }
 }
 
+region_riverlands = {
+	capital_province = xB1848E
+	map_color = rgb { 50 168 82 }
+	states = { STATE_HREINVELLIR STATE_HJARTHOLAR STATE_ELISAY STATE_FIRESHORE STATE_SEGURO STATE_BARRAD }
+}
