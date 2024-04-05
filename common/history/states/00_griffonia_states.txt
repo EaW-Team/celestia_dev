@@ -104,14 +104,14 @@ STATES = {
 	#Austurland
 	s:STATE_HJARTHOLAR = {
 		create_state = {
-			country = OLV
+			country = c:OLV
 			owned_provinces = { "x333949" "x337553" "x339635" "x33A2DA" "x33C3BC" "x5DA55B" "x5DB7BA" "x870F81" "x87159F" "x873F4A" "x87BA3B" "xB11543" "xB142CA" "xB1848E" "xB1BDBB" }
 		}
 		add_homeland = austurlander
 	}
 	s:STATE_HREINVELLIR = {
 		create_state = {
-			country = OLV
+			country = c:OLV
 			owned_provinces = { "x051B50" "x091582" "x0972D2" "x09C03C" "x2F8762" "x333C26" "x33540D" "x339017" "x5B3FC9" "x5D3FA6" "x5D78D3" "x5DBA97" "x5DCFA1" "x8712C2" "x874B8B" "xB16F52" }
 		}
 		add_homeland = austurlander
