@@ -65,6 +65,8 @@ austurlander={
 		Thorhallson
 		Asgeirsson
 	}
-
+	ethnicities = { 
+		1 = austurlander 
+	}
 	graphics = ponies
 }
