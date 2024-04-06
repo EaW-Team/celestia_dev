@@ -24,3 +24,12 @@ changeling_religion_group = {
 cat_religion_group = {
 	heritage = yes
 }
+minotaur_religion = {
+	heritage = yes
+}
+harpy_religion_group = {
+	heritage = yes
+}
+deer_religion_group = {
+	heritage = yes
+}

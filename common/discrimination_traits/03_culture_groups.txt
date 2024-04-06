@@ -12,3 +12,15 @@ feline_culture_group = {
 zebrican_griffon_group = {
 	
 }
+macawian_culture_group = {
+	
+}
+arabian_culture_group = {
+
+}
+aquileian_group = {
+
+}
+north_zebra_culture_group = {
+
+}

@@ -213,7 +213,7 @@ actualism = {
 alma_kasan_faith = {
 	texture = "gfx/interface/icons/religion_icons/catholic.dds"
 	traits = {
-		
+		zebra_religion_group
 	}
 	color = { 40 211 153 }
 }

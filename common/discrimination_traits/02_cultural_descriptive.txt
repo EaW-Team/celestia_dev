@@ -1,12 +1,22 @@
 ﻿aboriginal_griffon = {
 }
+
+settler_deer = {
+	
+}
+peninsular_arabic = {
+
+}
+riseian_arabic = {
+
+}
+asterionese_culture = {
+
+}
+
 feline_culture_group = {
 	
 }
 zebrican_griffon_group = {
-	
-}
-
-settler_deer = {
 	
 }
