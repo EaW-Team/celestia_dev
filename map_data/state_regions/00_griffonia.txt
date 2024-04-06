@@ -510,7 +510,7 @@ STATE_SEGURO = {
         bg_iron_mining = 1
         bg_logging = 2
         bg_fishing = 20
-		bg_whaling = 3
+        bg_whaling = 3
     }
     naval_exit_id = 3006
 }
@@ -554,7 +554,7 @@ STATE_ELISAY = {
         bg_coal_mining = 15
         bg_logging = 10
         bg_fishing = 5
-		bg_crystal_mining = 4
+        bg_crystal_mining = 4
     }
     resource = {
         type = "bg_oil_extraction"
@@ -570,7 +570,7 @@ STATE_BARRAD = {
 STATE_HJARTHOLAR = {
     id = 307
     provinces = { "x333949" "x337553" "x339635" "x33A2DA" "x33C3BC" "x5DA55B" "x5DB7BA" "x870F81" "x87159F" "x873F4A" "x87BA3B" "xB11543" "xB142CA" "xB1848E" "xB1BDBB" }
-    traits = {  }
+    traits = {}
     city = "x87BA3B"
     port = "xB1BDBB"
     farm = "x33A2DA"
@@ -580,7 +580,7 @@ STATE_HJARTHOLAR = {
     arable_land = 40
     arable_resources = { "bg_livestock_ranches" "bg_wheat_farms" "bg_vineyard_plantations" }
     capped_resources = {
-		bg_coal_mining = 10
+        bg_coal_mining = 10
         bg_iron_mining = 3
         bg_logging = 10
         bg_fishing = 15
@@ -597,12 +597,12 @@ STATE_HREINVELLIR = {
     arable_land = 30
     arable_resources = { "bg_livestock_ranches" "bg_rye_farms" }
     capped_resources = {
-		bg_crystal_mining = 2
-		bg_iron_mining = 6
-		bg_coal_mining = 5
-		bg_logging = 8
-		bg_fishing = 5
-		bg_whaling = 1
+        bg_crystal_mining = 2
+        bg_iron_mining = 6
+        bg_coal_mining = 5
+        bg_logging = 8
+        bg_fishing = 5
+        bg_whaling = 1
     }
     naval_exit_id = 3007
 
