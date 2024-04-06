@@ -1,7 +1,7 @@
 ﻿# Strategic Regions in Griffonia
 
 region_new_mareland = {
-	capital_province = x4eeccf
+	capital_province = x4EECCF
 	map_color = { 0.2 0.4 0.7 }
 	states = { STATE_SUNSET STATE_CELESTIA STATE_HARVI STATE_NEW_HOOFINGTON }
 }
@@ -10,4 +10,10 @@ region_riverlands = {
 	capital_province = xB1848E
 	map_color = rgb { 50 168 82 }
 	states = { STATE_HREINVELLIR STATE_HJARTHOLAR STATE_ELISAY STATE_FIRESHORE STATE_SEGURO STATE_BARRAD }
+}
+
+region_evi_valley = {
+	capital_province = x8533C7
+	map_color = rgb { 208 147 57 }
+	states = { STATE_PYTHAGOREA STATE_ECOLE STATE_NIGHT_FOREST STATE_MODRZEWIOWA_DOLINA STATE_LIFOV	STATE_BRODFELD	STATE_ACUTE_FOREST	STATE_CESSABIT	STATE_LUSHLAND	STATE_TALVONA	STATE_CHYKCHYRYN STATE_KAIV	STATE_CROPPERCLAWS	STATE_SLOBODA }
 }

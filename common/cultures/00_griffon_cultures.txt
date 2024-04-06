@@ -827,3 +827,110 @@ gryphussian={
 	}
 	graphics = generic
 }
+
+zaphzian ={
+	color= rgb{ 235 64 52 }
+	religion = old_believer
+	traits = { evi_group griffon_heritage }
+	male_common_first_names={
+		Ivan Dmitriy Yuriy Andrei Semen Boris Fyodor Oleg Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy 
+			Dorofey Feodosiy Feofilakt Gavriil Innokentiy Iosif Lavrentiy Makariy Matveiy Mikhail Nazariy 
+			Onisim Pavel Prokopiy Pyotr Radomir Saveliy Sergei Terentiy Valeriy Yakim Yevgeniy Yaroslav Yaropolk 
+			Vyacheslav Vsevolod Igor Izyaslav Rostislav Vladimir Mstislav Gleb Roman Ryurik Svyatoslav Ingvar 	
+			Stanislav Daniil Nikifor
+	
+	}
+	female_common_first_names = {
+		Gavriila Larisa Aleksandra Alla Bronislava Svetlana Yuliya Yaroslava Vladislava Lyudmila Nadejda Rostislava
+	}
+	noble_last_names = {
+		Bulba Krawvelets Grifnitsky Vereskopadsky Thrushkevsky Preenliura Sikorwing Greywing Kreenakh Stalskaw Antoninov Klawrolev Uklawichenko Protko Kestral Shiblin Kozbeak
+	}	
+	common_last_names={
+		
+	}
+
+	male_regal_first_names = {
+
+		
+	}
+	female_regal_first_names = {
+	
+	}
+	
+	graphics = generic
+}
+
+prywhenian ={
+	color= rgb{ 252 186 3 }
+	religion = old_believer
+	traits = { evi_group griffon_heritage }
+	male_common_first_names={
+		Adian Arn Bicola Cherl 
+			Chetru Cipran Cladu
+			Corneiu Cosin Constanti Den Denali Farin Floren Flafu
+			Gabriel Galeriu Gherghe Gobdan Helm
+			Ianu Ile Ion Iorhu Kihai Kimion Kloseu Latcu Laventiu Leagoie
+			Lexandru Lucan Lucus Macob Marius
+		    Mikos Nuliu Radovan Radu Regiu Rimcea Roctavian
+			Tedor Tefan Telian Tomado 
+			Victor
+	
+	}
+	female_common_first_names = {
+		Amina Ara Dena Delina Dora
+			Fania Flora Gabriela Glavia
+			Iana Ienela Kena Lexandra Lexia Lica Lilia Limpia Linica
+			Maria Meza Mira Mirina 
+			Nana Nulia Oleta Rina Sabeta Selicia Soria Stasia 
+			Talia Terina Tonia Voica Zana
+	}
+	noble_last_names = {
+		"de Kissau" "de Sydia"
+			Soimescu Leuescu Codreanu Ghica Vacarescu
+			Golescu Dumbravean Muntean
+	}	
+	common_last_names={
+		
+	}
+
+	male_regal_first_names = {
+
+		
+	}
+	female_regal_first_names = {
+	
+	}
+	
+	graphics = generic
+}
+
+lushian ={
+	color= rgb{ 235 64 52 }
+	religion = old_believer
+	traits = { evi_group griffon_heritage }
+	male_common_first_names={
+		Laszlo Istvan Jozsef Janos Sandor Ferenc Zoltan Tibor Imre Lajor Gabor Gyorgy Gyula Attila Andras
+	
+	}
+	female_common_first_names = {
+		Maria Erzsebet eva Katalin Ilona Zsuzsanna Anna Ildiko Judit agnes Margit Erika Julianna Edit Iren
+	}
+	noble_last_names = {
+		Nagy Kovacs Toth Szabo Horvath Varga Kiss Molnar Nemeth Farkas Balogh Papp Takacs
+	}	
+	common_last_names={
+		
+	}
+
+	male_regal_first_names = {
+
+		
+	}
+	female_regal_first_names = {
+	
+	}
+	
+	graphics = generic
+}
+
