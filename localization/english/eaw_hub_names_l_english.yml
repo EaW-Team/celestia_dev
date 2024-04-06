@@ -63,3 +63,13 @@
  HUB_NAME_STATE_HREINVELLIR_mine:0 "Rytagnúpr"
  HUB_NAME_STATE_HREINVELLIR_wood:0 "Berghylr"
  HUB_NAME_STATE_HREINVELLIR_farm:0 "Nýja Cervus"
+ #Kasa
+ HUB_NAME_STATE_SEGURO_city:0 "Seguro"
+ HUB_NAME_STATE_SEGURO_port:0 "Ilha Rosca"
+ HUB_NAME_STATE_FIRESHORE_port:0 "Fyrport"
+ #Wittenland
+ HUB_NAME_STATE_ELISAY_city:0 "Elysium"
+ HUB_NAME_STATE_ELISAY_port:0 "Oferclif"
+ HUB_NAME_STATE_ELISAY_mine:0 "Axford"
+ HUB_NAME_STATE_ELISAY_wood:0 "Aebbercurnig"
+ HUB_NAME_STATE_ELISAY_farm:0 "Dunburh"

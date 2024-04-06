@@ -58,7 +58,14 @@
  STATE_ACUTE_FOREST:0 "Acute Forest"
  STATE_CESSABIT:0 "Cessabit"
  STATE_LUSHLAND:0 "Lushland"
- STATE_TALVONIA:0 "Talvonia"
+ STATE_TALVONA:0 "Talvona"
+ STATE_CHYKCHYRYN:0 "Chykchyryn"
+ STATE_KAIV:0 "Kaiv"
+ STATE_CROPPERCLAWS:0 "Cropperclaws"
+ STATE_SLOBODA:0 "Sloboda"
+        #SOUTHERN GRIFFONIA
+ STATE_SALMARKT:0 "Salmarkt"
+ STATE_THYMIAUSHAFEN:0 "Thymiaushafen"
         #NEXT
  STATE_CEMARETA:0 "Cemareta"
  STATE_MANELILLA:0 "Manelilla"

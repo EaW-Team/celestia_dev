@@ -499,6 +499,11 @@ STATE_SEGURO = {
     provinces = { "x053955" "x062A3C" "x06ED00" "x30C7B2" "x54A54C" "x854A5A" "xA0F5A5" "xAD3C5C" "xAD5A61" "xAEB40C" "xB118A1" "xC0BFA9" "xEA6C90" }
     subsistence_building = "building_subsistence_fishing_villages"
     traits = { "state_trait_cape_seguro" "state_trait_pearls" }
+    city = "x854A5A"
+    port = "xAD3C5C"
+    farm = "x54A54C"
+    mine = "x053955"
+    wood = "xAD5A61"
     arable_land = 20
     arable_resources = { "bg_livestock_ranches" "bg_wheat_farms" "bg_vineyard_plantations" }
     capped_resources = {
@@ -507,6 +512,7 @@ STATE_SEGURO = {
         bg_fishing = 20
 		bg_whaling = 3
     }
+    naval_exit_id = 3006
 }
 #STATE_BYMNONIA = {
 #    id = 302
@@ -518,18 +524,29 @@ STATE_FIRESHORE = {
     arable_land = 45
     subsistence_building = "building_subsistence_farms"
     traits = {}
+    city = "xB1C993"
+    port = "x55C913"
+    farm = "x88BAA4"
+    mine = "xAD4BDE"
+    wood = "xB1AB5C"
     arable_resources = { "bg_livestock_ranches" "bg_wheat_farms" "bg_vineyard_plantations" }
     capped_resources = {
         bg_iron_mining = 4
         bg_logging = 5
         bg_fishing = 10
     }
+    naval_exit_id = 3006
 }
 STATE_ELISAY = {
     id = 305
     provinces = { "x053337" "x0560BE" "x05D24B" "x070900" "x07548C" "x07C05F" "x094B05" "x09662D" "x0993B4" "x2F633F" "x313C49" "x315A4E" "x317853" "x3312DE" "x33ABD5" "x598AE2" "x5B1E83" "x83A54A" "x852104" "x859C59" "x87810E" "x87BD18" "xAD635C" "xAD8AC5" "xADA8CA" "xAF06E3" "xAF9FD9" "xB14884" "xB163AB" "xB19034" }
     subsistence_building = "building_subsistence_farms"
     traits = { "state_trait_roughers" "state_trait_elisay_river" }
+    city = "xAF06E3"
+    port = "x33ABD5"
+    farm = "x313C49"
+    mine = "x3312DE"
+    wood = "xAD635C"
     arable_land = 35
     arable_resources = { "bg_livestock_ranches" "bg_wheat_farms" "bg_vineyard_plantations" }
     capped_resources = {
@@ -543,6 +560,7 @@ STATE_ELISAY = {
         type = "bg_oil_extraction"
         undiscovered_amount = 5
     }
+    naval_exit_id = 3006
 }
 STATE_BARRAD = {
     id = 306
@@ -553,6 +571,11 @@ STATE_HJARTHOLAR = {
     id = 307
     provinces = { "x333949" "x337553" "x339635" "x33A2DA" "x33C3BC" "x5DA55B" "x5DB7BA" "x870F81" "x87159F" "x873F4A" "x87BA3B" "xB11543" "xB142CA" "xB1848E" "xB1BDBB" }
     traits = {  }
+    city = "x87BA3B"
+    port = "xB1BDBB"
+    farm = "x33A2DA"
+    mine = "x5DA55B"
+    wood = "x33C3BC"
     subsistence_building = "building_subsistence_fishing_villages"
     arable_land = 40
     arable_resources = { "bg_livestock_ranches" "bg_wheat_farms" "bg_vineyard_plantations" }
@@ -569,10 +592,10 @@ STATE_HJARTHOLAR = {
 STATE_HREINVELLIR = {
     id = 320
     provinces = { "x051B50" "x091582" "x0972D2" "x09C03C" "x2F8762" "x333C26" "x33540D" "x339017" "x5B3FC9" "x5D3FA6" "x5D78D3" "x5DBA97" "x5DCFA1" "x8712C2" "x874B8B" "xB16F52" }
-    traits = {  }
-    subsistence_building = "building_subsistence_farms"
-    arable_land = 20
-    arable_resources = { "bg_livestock_ranches" "bg_wheat_farms" }
+    traits = { "state_trait_arctic_whaling" "state_trait_north_sea_fishing" }
+    subsistence_building = "building_subsistence_fishing_villages"
+    arable_land = 30
+    arable_resources = { "bg_livestock_ranches" "bg_rye_farms" }
     capped_resources = {
 		bg_crystal_mining = 2
 		bg_iron_mining = 6
@@ -1174,23 +1197,13 @@ STATE_THEBOS = {
 }
 
 STATE_SALMARKT = {
-    id = 507
-    provinces = { "x072428" "x3127A8" "x317235" "x3181B7" "x5A429C" "x5A5DC4" "x5B1BA6" "x5B39AB" "x5BB49C" "x5BD2A1" "x840359" "x852DA9" "xAE932A" }
-}
-
-STATE_AUROPALLIETA = {
-    id = 510
-    provinces = { "x06844B" "x068AD2" "x06A8D7" "x088A19" "x2EC6A8" "x307ED0" "x5B6C83" "x8466CC" "x8524DB" "xAE63C5" "xAE694D" "xAFB1CF" }
-}
-
-STATE_CANNABIA = {
     id = 511
-    provinces = { "x049019" "x0618DC" "x061E96" "x06CFD7" "x072ADC" "x0769C3" "x07B450" "x07C091" "x305A44" "x30D258" "x312D5D" "x316C44" "x317885" "x31B7D0" "x5A00D8" "x5A6F24" "x5A7BC9" "x5AA851" "x5B482E" "x5B6FC4" "x5BBA51" "x5C7556" "x846045" "x84ABD1" "x855A31" "xAC09AC" "xAE4E25" "xAE81CA" "xAF275C" "xAF302A" }
+    provinces = { "x072428" "x3127A8" "x317235" "x3181B7" "x5A429C" "x5A5DC4" "x5B1BA6" "x5B39AB" "x5BB49C" "x5BD2A1" "x840359" "x852DA9" "xAE932A" "x049019" "x0618DC" "x061E96" "x06CFD7" "x072ADC" "x0769C3" "x07B450" "x07C091" "x305A44" "x30D258" "x312D5D" "x316C44" "x317885" "x31B7D0" "x5A00D8" "x5A6F24" "x5A7BC9" "x5AA851" "x5B482E" "x5B6FC4" "x5BBA51" "x5C7556" "x846045" "x84ABD1" "x855A31" "xAC09AC" "xAE4E25" "xAE81CA" "xAF275C" "xAF302A" }
 }
 
 STATE_THYMÍAUSHAFEN = {
     id = 671
-    provinces = { "x058D46" "x2F33DA" "x596038" "x5966BF" "x5A634C" "x5B69A6" "x85BA90" "xAE78CF" "xAF339D" "xAF4E2F" "xAF5DB1" }
+    provinces = { "x06844B" "x068AD2" "x06A8D7" "x088A19" "x2EC6A8" "x307ED0" "x5B6C83" "x8466CC" "x8524DB" "xAE63C5" "xAE694D" "xAFB1CF" "x058D46" "x2F33DA" "x596038" "x5966BF" "x5A634C" "x5B69A6" "x85BA90" "xAE78CF" "xAF339D" "xAF4E2F" "xAF5DB1" }
 }
 #West Griffonia
 STATE_AQUILA = {

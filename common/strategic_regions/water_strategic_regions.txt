@@ -8,3 +8,11 @@ region_starry_sea = {
 region_east_ocean = {
 	states = { STATE_EAST_OCEAN	}
 }
+
+region_corsair_sea = {
+	states = { STATE_CORSAIR_SEA }
+}
+
+region_gryphus_sea = {
+	states = { STATE_GRYPHUS_SEA }
+}

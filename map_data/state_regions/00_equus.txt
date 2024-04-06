@@ -85,7 +85,7 @@ STATE_DEN = {
 }
 
 STATE_CHANGELING_FJORDS = {
-    id = 305
+    id = 259
     provinces = { "x030946" "x03CC82" "x324EB2" "x326C4E" "x32C65D" "x5C6329" "x5C8D3D" "x81C0C7" "x82365E" "x8666A9" "x86CF3B" "x91EE28" "xAF30C0" "xAFABB1" "xB0D2BB" "xCA7C1B" }
 }
 
@@ -110,7 +110,7 @@ STATE_VRAKS = {
 }
 
 STATE_SOULLESS_MOUNTAINS = {
-    id = 303
+    id = 259
     provinces = { "x2A7E3F" "x2F061C" "x31CCDA" "x33C385" "x543356" "x54BDC9" "x5B3601" "x5BB156" "x7EC04A" "x8321BD" "x83662C" "x854804" "xA8210C" "xA884E3" "xA8C3CA" }
 }
 
@@ -125,7 +125,7 @@ STATE_KILLING_SWAMPS = {
 }
 
 STATE_THEY_HEAR = {
-    id = 301
+    id = 259
     provinces = { "x009FE1" "x033600" "x045782" "x2D6021" "x3103B2" "x5763A1" "x584847" "x7E3FD1" "x84C6CC" }
 }
 
@@ -335,7 +335,7 @@ STATE_FEER_DALAR = {
 }
 
 STATE_TREVLIGVIND = {
-    id = 301
+    id = 259
     provinces = { "x05CFA0" "x078A0F" "x085A4B" "x08AB28" "x091519" "x2F81DA" "x2F9617" "x2FCC03" "x593F1F" "x5978B5" "x5A931A" "x825D27" "x839CAE" "xAB69A2" "xADBAC0" }
 }
 
