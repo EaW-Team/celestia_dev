@@ -245,9 +245,15 @@ POPS = {
 		region_state:OLV = {
 			create_pop = {
 				culture = austurlander
-				size = 439666
+				size = 395699
 			}
 			create_pop = {
+				pop_type = slaves
+				culture = austurlander
+				size = 43967
+			}
+			create_pop = {
+				pop_type = slaves
 				culture = kasan
 				size = 9159
 			}
@@ -265,7 +271,12 @@ POPS = {
 		region_state:OLV = {
 			create_pop = {
 				culture = austurlander
-				size = 207810
+				size = 187029
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = austurlander
+				size = 20781
 			}
 			create_pop = {
 				culture = ponaidhean

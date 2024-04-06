@@ -311,7 +311,7 @@ FRE = { # Ponhiden
 ZES = { # kása free state
 	color = { 249 249 61 }
 	
-	country_type = recognized
+	country_type = unrecognized
 	
 	tier = principality
 	

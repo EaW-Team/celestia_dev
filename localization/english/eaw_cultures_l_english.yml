@@ -26,6 +26,7 @@
  horse_heritage:0 "Horse"
  donkey_heritage:0 "Donkey"
  harpy_heritage:0 "Harpy"
+ zebra_heritage:0 "Zebra"
  
 # Culture traits
  equestrian_culture_group:0 "Equestrian"
