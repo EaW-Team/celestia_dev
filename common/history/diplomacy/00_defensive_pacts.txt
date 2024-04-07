@@ -1,2 +1,17 @@
 ﻿DIPLOMACY = {
+	c:RCT = {
+		create_diplomatic_pact = {
+			country = c:LCT
+			type = defensive_pact
+		}	
+		create_diplomatic_pact = {
+			country = c:NIM
+			type = defensive_pact
+		}
+		create_diplomatic_pact = {
+			country = c:BAK
+			type = defensive_pact
+		}
+		
+	}
 }

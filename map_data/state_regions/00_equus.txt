@@ -201,13 +201,13 @@ STATE_CRYSTAL_MOUNTAINS = {
 
 STATE_FEARANN_A_DEAS = {
     id = 282
-    provinces = { "x9c4b6c" }
+    provinces = {}
     impassable = { "x9c4b6c" }
 }
 
 STATE_ONEAR_MOUNTAINS = {
     id = 287
-    provinces = { "x8051db" }
+    provinces = {}
     impassable = { "x8051db" }
 }
 #Olenia

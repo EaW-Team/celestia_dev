@@ -430,7 +430,7 @@ WAT = { # Watertown
 }
 
 FAR = { # farbrook
-	color = { 134 137 213 }
+	color = { 134 137 213 } 
 	
 	country_type = unrecognized
 	
@@ -441,7 +441,7 @@ FAR = { # farbrook
 }
 
 EMP = { # The Empire
-	color = { 229 138 47 }
+	color = { 224 139 47 }
 	
 	country_type = recognized
 	
