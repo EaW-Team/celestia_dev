@@ -122,46 +122,24 @@ STATES = {
 		add_homeland = oromeow
 	}
 	#Saddle Arabia
-	s:STATE_CEMARETA = {
-		create_state = {
-			country = c:SDL
-			owned_provinces = { "x2E103C" "x58316A" "x6F4F1C" "x8546A3" "xA8721C" "xBB7FD7" "xC94A12" "xD3A863" "xDD9A30" }
-		}
-		
-		add_homeland = cimrannine
-	}
 	s:STATE_MAREAKECH = {
 		create_state = {
 			country = c:SDL
-    			owned_provinces = { "x743B27" "xA8330B" "xCC7222" "xD8842A" "xE03D17" "xE08D44" "xE49F56" "xFA9B4D" }
+    			owned_provinces = { "x743B27" "xA8330B" "xCC7222" "xD8842A" "xE03D17" "xE08D44" "xE49F56" "xFA9B4D" "x450E2A" "x551010" "x612B2B" "x612F5C" "x87104E" "x883E23" "x8E604F" "x920D0D" "x952689" "xAB4C2C" "xAC7328" "xB5283C" "xCB7026" "xD4905A" "xDF791E" "xE37B27" "xE7B389" "xF4A949" "xF4B481" "xF6A05A" }
 		}
 		add_homeland = cimrannine
 	}
 	s:STATE_AGADIR = {
 		create_state = {
 			country = c:SDL
-    			owned_provinces = { "xAC4723" "xB88E34" "xC7542C" "xD78A30" "xD87013" "xD97B48" "xDBC188" "xE17F5D" "xE3BB8B" "xE7B448" "xF4A082" }
-		}
-		add_homeland = cimrannine
-	}
-	s:STATE_HORSEZ = {
-		create_state = {
-			country = c:SDL
-    			owned_provinces = { "x8D462D" "x984020" "x9F500B" "xB05738" "xB34620" "xB75E3E" "xD59F8B" "xD5B96E" "xE86739" "xEE6D3F" "xF0A348" }
-		}
-		add_homeland = cimrannine
-	}
-	s:STATE_HIGH_MARETLAS = {
-		create_state = {
-			country = c:SDL
-    			owned_provinces = { "x5818E2" "x682130" "x6D1D27" "x7C243F" "x810B24" "x8A4B54" "x8C440F" "x942245" "xA2123F" "xA3213C" "xAA4157" "xB94B4B" "xBC6E7B" "xCB7739" "xE3346A" "xE62A64" "xE76F18" "xEA203D" "xF06582" }
+    			owned_provinces = { "xAC4723" "xB88E34" "xC7542C" "xD78A30" "xD87013" "xD97B48" "xDBC188" "xE17F5D" "xE3BB8B" "xE7B448" "xF4A082" "x9D662A" "xB4860C" "xD18E46" "xD37918" "xDD6931" "xE4B379" "xEEB6E3" "x8D462D" "x984020" "x9F500B" "xB05738" "xB34620" "xB75E3E" "xD59F8B" "xD5B96E" "xE86739" "xEE6D3F" "xF0A348" }
 		}
 		add_homeland = cimrannine
 	}
 	s:STATE_JAFFMARE = {
 		create_state = {
 			country = c:SDL
-    			owned_provinces = { "x4D572D" "x779420" "x7B2F09" "xA1C043" "xB38327" "xB57A09" "xC0D341" "xC4AE85" "xCAC820" "xD3A141" "xD3B477" "xDBC293" "xDC9C7C" "xE3A26D" "xEBAC32" "xEEAC2C" "xF3CD84" "xF4B844" }
+    			owned_provinces = { "x4D572D" "x779420" "x7B2F09" "xA1C043" "xB38327" "xB57A09" "xC0D341" "xC4AE85" "xCAC820" "xD3A141" "xD3B477" "xDBC293" "xDC9C7C" "xE3A26D" "xEBAC32" "xEEAC2C" "xF3CD84" "xF4B844" "x34190C" "x89311A" "x9B461C" "xA03316" "xA65B1F" "xBC5B2A" "xC7610F" "xCB7862" "xD85617" "xD88169" "xE69A5C" "xE77943" "xE94E25" "xEC5E19" "x813B1C" "x914F0F" "x953308" "xCA7420" "xD05B28" "xD19263" "xF7B646" }
 		}
 		add_homeland = cimrannine
 	}
@@ -228,18 +206,10 @@ STATES = {
 		}
 		add_homeland = cimrannine
 	}
-	s:STATE_MANELILLA  = {
-		create_state = {
-			country = c:SDL
-			owned_provinces = { "x73442B" "x954114" "x9B5116" "xB56338" "xBD7A10" "xD3742E" "xD38B50" "xDB7945" "xE09C30" "xE3A470" "xE47D29" "xF8B64F" }
-		}
-		
-		add_homeland = cimrannine
-	}
 	s:STATE_TROTGIERS = {
 		create_state = {
 			country = c:SDL
-			owned_provinces = { "x844833" "x9A4628" "xB65B2C" "xC3892E" "xC94415" "xDC6809" "xDC9B35" "xF7BC5F"  }
+			owned_provinces = { "x844833" "x9A4628" "xB65B2C" "xC3892E" "xC94415" "xDC6809" "xDC9B35" "xF7BC5F" "x2E103C" "x58316A" "x6F4F1C" "x8546A3" "xA8721C" "xBB7FD7" "xC94A12" "xD3A863" "xDD9A30" "x73442B" "x954114" "x9B5116" "xB56338" "xBD7A10" "xD3742E" "xD38B50" "xDB7945" "xE09C30" "xE3A470" "xE47D29" "xF8B64F"  }
 		}
 		
 		add_homeland = cimrannine
@@ -247,44 +217,15 @@ STATES = {
 	s:STATE_TAILA_IMSAN = {
 		create_state = {
 			country = c:SDL
-			owned_provinces = { "x744717" "x7F3203" "x864714" "x884D1B" "xA4572C" "xA45B47" "xA96011" "xAD7514" "xB260A2" "xBA5010" "xBB6014" "xDE512B" "xE1912A" "xE67C43" "xE99369" "xEDBE4E" "xEE9523" "xEF922F" "xF3A378" }
+			owned_provinces = { "x744717" "x7F3203" "x864714" "x884D1B" "xA4572C" "xA45B47" "xA96011" "xAD7514" "xB260A2" "xBA5010" "xBB6014" "xDE512B" "xE1912A" "xE67C43" "xE99369" "xEDBE4E" "xEE9523" "xEF922F" "xF3A378" "x6D3111" "x84371C" "xA86D3D" "xB18118" "xB2560B" "xB97C3B" "xBC7923" "xC86413" "xCA22B8" "xCC6938" "xCC7A36" "xCD5C21" "xD74BBC" "xDBA35A" "xE39745" "xE3AF3E" "xE3C687" "xE4814E" "xE7C98A" "xEDB948" }
 		}
 		
-		add_homeland = cimrannine
-	}
-	s:STATE_TAFILALT = {
-		create_state = {
-			country = c:SDL
-			owned_provinces = { "x6D3111" "x84371C" "xA86D3D" "xB18118" "xB2560B" "xB97C3B" "xBC7923" "xC86413" "xCA22B8" "xCC6938" "xCC7A36" "xCD5C21" "xD74BBC" "xDBA35A" "xE39745" "xE3AF3E" "xE3C687" "xE4814E" "xE7C98A" "xEDB948" }
-		}
-		
-		add_homeland = cimrannine
-	}
-	s:STATE_BUCKKALA = {
-		create_state = {
-			country = c:SDL
-    			owned_provinces = { "x9D662A" "xB4860C" "xD18E46" "xD37918" "xDD6931" "xE4B379" "xEEB6E3" }
-		}
-		add_homeland = cimrannine
-	}
-	s:STATE_TROTADLA = {
-		create_state = {
-			country = c:SDL
-    			owned_provinces = { "x450E2A" "x551010" "x612B2B" "x612F5C" "x87104E" "x883E23" "x8E604F" "x920D0D" "x952689" "xAB4C2C" }
-		}
-		add_homeland = cimrannine
-	}
-	s:STATE_HAYHA = {
-		create_state = {
-			country = c:SDL
-    			owned_provinces = { "xAC7328" "xB5283C" "xCB7026" "xD4905A" "xDF791E" "xE37B27" "xE7B389" "xF4A949" "xF4B481" "xF6A05A" }
-		}
 		add_homeland = cimrannine
 	}
 	s:STATE_ABFILLYA = {
 		create_state = {
 			country = c:SDL
-    			owned_provinces = { "x69380D" "x7E3C45" "x8C5421" "x9A1C2E" "xB2631C" "xD4A57C" "xDFC847" "xE0D490" "xE36173" "xEFD0A9" "xFDB75C" }
+    			owned_provinces = { "x69380D" "x7E3C45" "x8C5421" "x9A1C2E" "xB2631C" "xD4A57C" "xDFC847" "xE0D490" "xE36173" "xEFD0A9" "xFDB75C" "x5818E2" "x682130" "x6D1D27" "x7C243F" "x810B24" "x8A4B54" "x8C440F" "x942245" "xA2123F" "xA3213C" "xAA4157" "xB94B4B" "xBC6E7B" "xCB7739" "xE3346A" "xE62A64" "xE76F18" "xEA203D" "xF06582" }
 		}
 		add_homeland = cimrannine
 	}
@@ -302,13 +243,6 @@ STATES = {
 		}
 		add_homeland = cimrannine
 	}
-	s:STATE_GHAZZMARE = {
-		create_state = {
-			country = c:SDL
-    			owned_provinces = { "x813B1C" "x914F0F" "x953308" "xCA7420" "xD05B28" "xD19263" "xF7B646" }
-		}
-		add_homeland = cimrannine
-	}
 	s:STATE_ILPONWA = {
 		create_state = {
 			country = c:SDL
@@ -320,13 +254,6 @@ STATES = {
 		create_state = {
 			country = c:SDL
     			owned_provinces = { "xC5861A" "xD7BC25" "xDBA241" "xEBC481" "xECA52B" "xEEB14A" "xF0E18C" }
-		}
-		add_homeland = cimrannine
-	}
-	s:STATE_NAJGALLOP = {
-		create_state = {
-			country = c:SDL
-    			owned_provinces = { "x34190C" "x89311A" "x9B461C" "xA03316" "xA65B1F" "xBC5B2A" "xC7610F" "xCB7862" "xD85617" "xD88169" "xE69A5C" "xE77943" "xE94E25" "xEC5E19" }
 		}
 		add_homeland = cimrannine
 	}
