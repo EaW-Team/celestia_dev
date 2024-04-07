@@ -1,5 +1,5 @@
 ﻿region_discovery_coast = {
-	states = { STATE_DISOVERY_COAST }
+	states = { STATE_DISCOVERY_COAST }
 }
 region_starry_sea = {
 	states = { STATE_STARRY_SEA }

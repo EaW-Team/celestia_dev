@@ -545,7 +545,178 @@ GRY = { #Gryphian Host
 	country_type = unrecognized
 
 	tier = principality
-
+ 
 	capital = STATE_KAIV
 	cultures = { zaphzian }
 }
+
+LAK = { #Rumare
+	color = {
+		85 161 63
+	}
+	country_type = recognized
+	tier = principality
+	capital = STATE_WOHNSITZ
+	cultures = {
+		rumarean
+	}
+}
+
+FLO = { #Flowena
+	color = {
+		166 74 152
+	}
+	country_type = recognized
+	tier = city_state
+	capital = STATE_POMOVARRA
+	cultures = {
+		
+	}
+}
+
+DMT = { #Diamond Mountain
+	color = {
+		141 168 169
+	}
+	country_type = recognized
+	tier = kingdom
+	capital = STATE_DIAMOND_MOUNTAIN
+	cultures = {
+	
+	}
+}
+
+NCH = { #Greneclyf
+	color = {
+		179 117 117
+	}
+	country_type = recognized
+	tier = kingdom
+	capital = STATE_CROITHAILTE
+	cultures = {
+		
+	}
+}
+
+HKL = { #Haukland
+	color = {
+		144 75 41
+	}
+	country_type = recognized
+	tier = principality
+	capital = STATE_HAUKLAND
+	cultures = {
+		
+	}
+}
+
+MRK = { #Morker
+	color = {
+		130 127 116
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_MORKER
+	cultures = {
+		
+	}
+}
+
+EVR = { #Everfrost
+	color = {
+		163 160 150
+
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_EVERFROST
+	cultures = {
+		
+	}
+}
+
+SKY = { #Skynavia
+	color = {
+		217 210 189
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_SKYNAVIA
+	cultures = {
+		
+	}
+}
+
+CBA = { #Cubria
+	color = {
+		179 174 158
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_CUBRIA
+	cultures = {
+		
+	}
+}
+
+DMP = { #Dimpeak
+	color = {
+		82 81 79
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_DIMPEAK
+	cultures = {
+		
+	}
+}
+
+SNS = { #Sunstriker
+	color = {
+		88 99 115
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_BRANTBEAK
+	cultures = {
+		
+	}
+}
+
+HLR = { #Arcturian Order
+	color = {
+		210 201 129
+	}
+	country_type = recognized
+	tier = kingdom
+	capital = STATE_TARPIAN_ROCK
+	cultures = {
+		
+	}
+}
+
+DED = { #Dread League
+	color = {
+		66 68 106
+	}
+	country_type = recognized
+	tier = kingdom
+	capital = STATE_MAGEHOLD
+	cultures = {
+		
+	}
+}
+ 
+KLB = { #Kloborg
+	color = {
+		226 242 82
+	}
+	country_type = recognized
+	tier = city_state
+	capital = STATE_BLÅLAND
+	cultures = {
+		
+	}
+}
+
+

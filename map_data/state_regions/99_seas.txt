@@ -1,320 +1,320 @@
-﻿STATE_DISOVERY_COAST = {
-    id = 3000
+﻿STATE_DISCOVERY_COAST = {
+    id = 4000
     provinces = { "x46c8fa" }
 }
 STATE_LAKE_RUMARE = {
-    id = 3001
+    id = 4001
     provinces = { "x6fb3de" }
 }
 STATE_GRIFFON_COAST = {
-    id = 3002
+    id = 4002
     provinces = { "x060a06" }
 }
 STATE_MEDIOLANO = {
-    id = 3003
+    id = 4003
     provinces = { "x4692fa" }
 }
 STATE_KION_SEA = {
-    id = 3004
+    id = 4004
     provinces = { "x3882e7" }
 }
 STATE_ELER_SEA = {
-    id = 3005
+    id = 4005
     provinces = { "x447cc9" }
 }
 STATE_CORSAIR_SEA = {
-    id = 3006
+    id = 4006
     provinces = { "x486fa3" }
 }
 STATE_EAST_OCEAN = {
-    id = 3007
+    id = 4007
     provinces = { "x0a1fe8" }
 }
 STATE_ABYSSINIAN_COAST = {
-    id = 3008
+    id = 4008
     provinces = { "x8870c1" }
 }
 STATE_GREEN_BAY = {
-    id = 3009
+    id = 4009
     provinces = { "x9e83b8" }
 }
 STATE_PEACEFUL_SEA = {
-    id = 3010
+    id = 4010
     provinces = { "x5d89f5" }
 }
 STATE_SKY_BAY = {
-    id = 3011
+    id = 4011
     provinces = { "x9e3b96" }
 }
 STATE_ROCKY_SEA = {
-    id = 3012
+    id = 4012
     provinces = { "xfbadef" }
 }
 STATE_INTO_THE_UNKNOWN = {
-    id = 3013
+    id = 4013
     provinces = { "x52ff8a" }
 }
 STATE_FROZEN_NORTH = {
-    id = 3014
+    id = 4014
     provinces = { "x26fe6f" }
 }
 STATE_NORTH_CELESTIAL_SEA = {
-    id = 3015
+    id = 4015
     provinces = { "x35c078" }
 }
 STATE_CELESTIAL_SEA = {
-    id = 3016
+    id = 4016
     provinces = { "x28ef8a" }
 }
 STATE_ECLIPSE_GULF = {
-    id = 3017
+    id = 4017
     provinces = { "x8CEF62" }
 }
 STATE_FIRE_SEA = {
-    id = 3018
+    id = 4018
     provinces = { "xE9C466" }
 }
 STATE_MAREIANA_TRENCH = {
-    id = 3019
+    id = 4019
     provinces = { "x784DBC" }
 }
 STATE_STARRY_SEA = {
-    id = 3020
+    id = 4020
     provinces = { "xECCD1F" }
 }
 STATE_LUNA_OCEAN = {
-    id = 3021
+    id = 4021
     provinces = { "x3FD880" }
 }
 STATE_SCORPIO_SEA = {
-    id = 3022
+    id = 4022
     provinces = { "xDD5F5D" }
 }
 STATE_UNEXPLORED_WEST = {
-    id = 3023
+    id = 4023
     provinces = { "xA20357" }
 }
 STATE_OLENIAN_OCEAN = {
-    id = 3024
+    id = 4024
     provinces = { "xF346FE" }
 }
 STATE_PEGASI_GULF = {
-    id = 3025
+    id = 4025
     provinces = { "xEE8E68" }
 }
 STATE_LUNA_BAY = {
-    id = 3026
+    id = 4026
     provinces = { "xF7D8F8" }
 }
 STATE_ICE = {
-    id = 3027
+    id = 4027
     provinces = { "xDF768C" }
 }
 STATE_VIKING_SEA = {
-    id = 3028
+    id = 4028
     provinces = { "x2D4F87" }
 }
 STATE_MORE_ICE = {
-    id = 3029
+    id = 4029
     provinces = { "x537A86" }
 }
 STATE_WALRUS_OCEAN = {
-    id = 3030
+    id = 4030
     provinces = { "x83D455" }
 }
 STATE_EVEN_MORE_ICE = {
-    id = 3031
+    id = 4031
     provinces = { "x2320F0" }
 }
 STATE_TOO_MUCH_ICE = {
-    id = 3032
+    id = 4032
     provinces = { "x7DE652" }
 }
 STATE_WHITE_GULF = {
-    id = 3033
+    id = 4033
     provinces = { "xAA2F45" }
 }
 STATE_SKYNAVIAN_WATERS = {
-    id = 3034
+    id = 4034
     provinces = { "xEF74C4" }
 }
 STATE_SEA_OF_CORPSE = {
-    id = 3035
+    id = 4035
     provinces = { "x23ADBF" }
 }
 STATE_DEAD_SEA = {
-    id = 3036
+    id = 4036
     provinces = { "x785844" }
 }
 STATE_ASHA = {
-    id = 3037
+    id = 4037
     provinces = { "x72E02A" }
 }
 STATE_ICE_WATERS = {
-    id = 3038
+    id = 4038
     provinces = { "xCE5386" }
 }
 STATE_NOTAMEME = {
-    id = 3039
+    id = 4039
     provinces = { "x37719B" }
 }
 STATE_MONSTER_OCEAN = {
-    id = 3040
+    id = 4040
     provinces = { "x907398" }
 }
 STATE_ENDLESS_SEA = {
-    id = 3041
+    id = 4041
     provinces = { "x0327B3" }
 }
 STATE_GRYPHUS_SEA = {
-    id = 3042
+    id = 4042
     provinces = { "xA108BA" }
 }
 STATE_MINOGULF = {
-    id = 3043
+    id = 4043
     provinces = { "xEB6354" }
 }
 STATE_SEA_OF_MACAWIA = {
-    id = 3044
+    id = 4044
     provinces = { "x8B11C9" }
 }
 STATE_HARPY_CHANNEL = {
-    id = 3045
+    id = 4045
     provinces = { "xA24515" }
 }
 STATE_HINDIAN_SEA = {
-    id = 3046
+    id = 4046
     provinces = { "x07F886" }
 }
 STATE_WARM_SEA = {
-    id = 3047
+    id = 4047
     provinces = { "x3C0B88" }
 }
 STATE_PROVIDENT_LITTORAL = {
-    id = 3048
+    id = 4048
     provinces = { "xA653B6" }
 }
 STATE_SOUTH_KIRIN_SEA = {
-    id = 3049
+    id = 4049
     provinces = { "x23D488" }
 }
 STATE_SEA_OF_HOPE = {
-    id = 3050
+    id = 4050
     provinces = { "x27CDD7" }
 }
 STATE_UNENDING_DARKNESS = {
-    id = 3051
+    id = 4051
     provinces = { "x960167" }
 }
 STATE_EASTERN_SOUTH_SEA = {
-    id = 3052
+    id = 4052
     provinces = { "x697E27" }
 }
 STATE_ZEBRIDEAN_SEA = {
-    id = 3053
+    id = 4053
     provinces = { "x891377" }
 }
 STATE_GREAT_HORN = {
-    id = 3054
+    id = 4054
     provinces = { "x47FDD9" }
 }
 STATE_CENTAUR_COAST = {
-    id = 3055
+    id = 4055
     provinces = { "xFA1390" }
 }
 STATE_GREAT_SOUTH_SEA = {
-    id = 3056
+    id = 4056
     provinces = { "x779D5F" }
 }
 STATE_GARGOYLE_GULF = {
-    id = 3057
+    id = 4057
     provinces = { "xEA79D6" }
 }
 STATE_WILD_COAST = {
-    id = 3058
+    id = 4058
     provinces = { "x34006F" }
 }
 STATE_WINDY_STRAIT = {
-    id = 3059
+    id = 4059
     provinces = { "xF5EBD9" }
 }
 STATE_WESTERN_SOUTH_SEA = {
-    id = 3060
+    id = 4060
     provinces = { "x3D492A" }
 }
 STATE_GULF_OF_ZANZIBUCK = {
-    id = 3061
+    id = 4061
     provinces = { "x38698A" }
 }
 STATE_SEA_OF_KARKAD = {
-    id = 3062
+    id = 4062
     provinces = { "x34C40C" }
 }
 STATE_SOUTHERN_STRAITS = {
-    id = 3063
+    id = 4063
     provinces = { "xA1C2C2" }
 }
 STATE_ICY_SEA = {
-    id = 3064
+    id = 4064
     provinces = { "x15BEBA" }
 }
 STATE_SEA_OF_WHALES = {
-    id = 3065
+    id = 4065
     provinces = { "xCB1DC3" }
 }
 STATE_AZURE_DEPTHS = {
-    id = 3066
+    id = 4066
     provinces = { "x6C5C1C" }
 }
 STATE_SERENE_EXPANSE = {
-    id = 3067
+    id = 4067
     provinces = { "x4F040F" }
 }
 STATE_SUNLIT_SEA = {
-    id = 3068
+    id = 4068
     provinces = { "x7BA221" }
 }
 STATE_CORAL_SEA = {
-    id = 3069
+    id = 4069
     provinces = { "xBA8022" }
 }
 STATE_BARRACUDA_TRENCH = {
-    id = 3070
+    id = 4070
     provinces = { "xC93063" }
 }
 STATE_MARETONIAN_SEA = {
-    id = 3071
+    id = 4071
     provinces = { "x327EA7" }
 }
 STATE_ARABIAN_SEA = {
-    id = 3072
+    id = 4072
     provinces = { "xACF406" }
 }
 STATE_ARABIAN_COAST = {
-    id = 3073
+    id = 4073
     provinces = { "xE6F966" }
 }
 STATE_TURQUOISE_SEA = {
-    id = 3074
+    id = 4074
     provinces = { "x36E5F2" }
 }
 STATE_SEAPONY_COAST = {
-    id = 3075
+    id = 4075
     provinces = { "x00FCAB" }
 }
 STATE_SEAQUESTRIA = {
-    id = 3076
+    id = 4076
     provinces = { "x77AD95" }
 }
 STATE_ALAUDIAN_SEA = {
-    id = 3077
+    id = 4077
     provinces = { "xC3AE56" }
 }
 STATE_PANTHALASSIC_OCEAN = {
-    id = 3078
+    id = 4078
     provinces = { "x23335D" }
 }
 STATE_KEY_LAKE = {
-    id = 3079
+    id = 4079
     provinces = { "x0D06F8" }
 }
