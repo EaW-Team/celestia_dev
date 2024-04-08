@@ -54,7 +54,7 @@ STATE_INTO_THE_UNKNOWN = {
     id = 4013
     provinces = { "x52ff8a" }
 }
-STATE_FROZEN_NORTH = {
+STATE_FROZEN_SEA = {
     id = 4014
     provinces = { "x26fe6f" }
 }

@@ -11,3 +11,6 @@
  STATE_STARRY_SEA:0 "Starry Sea"
  STATE_GRYPHUS_SEA:0 "Gryphus Sea"
  STATE_ICE_WATERS:0 "Ice Waters"
+ STATE_ROCKY_SEA:0 "Rocky Sea"
+ STATE_INTO_THE_UNKNOWN:0 "Into the Unknown"
+ STATE_FROZEN_SEA:0 "Frozen Sea"
