@@ -1,0 +1,41 @@
+kunb_dazab = {
+	color= { 84 133 97 }
+	religion = diamond_dog_faith
+	traits = { dog_culture_group diamond_dog_heritage }
+	
+	male_common_first_names={
+		Rover Fido Spot Barnaby Bernard Nipper 
+		Paddington Banjo Ace Beasley Ben Bingo Blair Buddy Buck Cosmo Lady 
+		Max Clifford Pal Pete Moonie Skippy Terry Zip Beauregard Beejay Blaze 
+		Buck Happy Bullet Leo Shep Tiger Theo Bobbie Digger Smoky Spike
+	}
+	female_common_first_names = {
+		Molly Rosey Bella Lassie Laika Blondi Anna Bo
+	}
+	noble_last_names = {
+		Goodboy "the Old" "the Brown" "the Boneless" "the Swift" "of Diamond Mountain" "of Kaza-ar-Bark" 
+		"of Var-Woolth" "of Barkara-Var" "of Bar-Underdog" "of Azar-Fetch" "of Azar-Gutboi" 
+		"of Kara-Hound" "of Khew-Gazar" "of High-Paw" "of Broken-Bone" "the Rich"
+		"the Fat" "the Harsh" "the Biter" "the Scared" "the Wild" "the Bloody" Gemhorder
+	}	
+	common_last_names={
+		Goodboy "the Old" "the Brown" "the Boneless" "the Swift" "of Diamond Mountain" "of Kaza-ar-Bark" 
+		"of Var-Woolth" "of Barkara-Var" "of Bar-Underdog" "of Azar-Fetch" "of Azar-Gutboi" 
+		"of Kara-Hound" "of Khew-Gazar" "of High-Paw" "of Broken-Bone" "the Rich"
+		"the Fat" "the Harsh" "the Biter" "the Scared" "the Wild" "the Bloody" Gemhorder
+	}
+
+	male_regal_first_names = {
+		Rover Fido Spot Barnaby Bernard Nipper 
+		Paddington Banjo Ace Beasley Ben Bingo Blair Buddy Buck Cosmo Lady 
+		Max Clifford Pal Pete Moonie Skippy Terry Zip Beauregard Beejay Blaze 
+		Buck Happy Bullet Leo Shep Tiger Theo Bobbie Digger Smoky Spike
+	}
+	female_regal_first_names = {
+		Molly Rosey Bella Lassie Laika Blondi Anna Bo
+	}
+	ethnicities = {
+		1 = diamong_dog
+	}
+	graphics = canids
+}

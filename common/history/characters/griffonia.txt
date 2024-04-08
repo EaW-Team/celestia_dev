@@ -1,3 +1,11 @@
 CHARACTERS = {
-
+	#Diamond Mountains
+	c:DMT = {
+		create_character = {
+			template = DMT_queen_mia
+		}
+		create_character = {
+			template = DMT_prince_tug
+		}
+	}
 }

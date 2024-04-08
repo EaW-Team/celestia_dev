@@ -24,3 +24,7 @@ aquileian_group = {
 north_zebra_culture_group = {
 
 }
+
+dog_culture_group = {
+	
+}

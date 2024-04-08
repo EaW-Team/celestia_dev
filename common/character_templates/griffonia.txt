@@ -1,1 +1,40 @@
-﻿
+﻿#Diamond Mountain
+
+DMT_queen_mia = {
+	first_name = Mia
+	last_name = the_Sweet
+	historical = yes
+	culture = cu:kunb_dazab
+	female = yes
+	ruler = yes
+	birth_date = 835.7.4
+	interest_group = ig_landowners
+	ideology = ideology_populist
+	traits = {
+		charismatic
+		ambitious
+		expensive_tastes
+	}
+	on_created = {
+		set_variable = {
+			name = is_married
+		}
+	}
+	trait_generation = { }
+}
+DMT_prince_tug = {
+	first_name = Tug
+	last_name = the_Boneless
+	historical = yes
+	culture = cu:kunb_dazab
+	female = no
+	heir = yes
+	birth_date = 888.12.9
+	interest_group = ig_armed_forces
+	ideology = ideology_populist
+	traits = {
+		wrathful
+		expensive_tastes
+	}
+	trait_generation = { }
+}
