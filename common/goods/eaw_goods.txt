@@ -1,5 +1,5 @@
 crystals = {
-	texture = "gfx/interface/icons/goods_icons/iron.dds"
+	texture = "gfx/interface/icons/goods_icons/crystal.dds"
 	cost = 40
 	category = industrial
 	

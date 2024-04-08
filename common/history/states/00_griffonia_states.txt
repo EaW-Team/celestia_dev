@@ -611,16 +611,10 @@ STATES = {
 			owned_provinces = {"x051B82" "x05480A" "x057591" "x059F3C" "x0AB4CD" "x0AD205" "x2F0F80" "x34B4A3" "x5354DD" "x591201" "x593F88" "x59BADD" "x5E0029" "x831581" "x834209" "x83AEDB" "x8803A9" "x8890C7" "x88CCD1" "xAD1248" "xAD4589" "xAD9F98" "xB227D9" "xB27202" }
 		}
 	}
-	s:STATE_DIT_KAZAR = {
-		create_state = {
-			country = c:DMT
-			owned_provinces = {"x08A541" "x2FA2BC" "x321E4E" "x326F94" "x32A8C1" "x5C24AB" "x5C7215" "x5CC0AB" "x63C696" "x866059" "x877B1D" "xB0184D" "xB066B6" "xB0A2C0" "xB0B420" }
-		}
-	}
 	s:STATE_VAR_WOOLTH = {
 		create_state = {
 			country = c:DMT
-			owned_provinces = { "x2F1B26" "x347E21" "x595AB0" "x5E48D8" "x5E9301" "x830FC7" "x83A8BD" "x884B59" "xB22D93" }
+			owned_provinces = { "x08A541" "x2FA2BC" "x321E4E" "x326F94" "x32A8C1" "x5C24AB" "x5C7215" "x5CC0AB" "x63C696" "x866059" "x877B1D" "xB0184D" "xB066B6" "xB0A2C0" "xB0B420" "x2F1B26" "x347E21" "x595AB0" "x5E48D8" "x5E9301" "x830FC7" "x83A8BD" "x884B59" "xB22D93" }
 		}
 	}
 	s:STATE_IOMALL_FAIRGE = {

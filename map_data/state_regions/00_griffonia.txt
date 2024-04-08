@@ -488,10 +488,6 @@ STATE_DESPONIA = {
     id = 2506
     provinces = { "x0A2A8C" "x0A4891" "x342A30" "x342D0D" "x34969E" "x5B5A5B" "x5DC9B0" "x5E991F" "x82BAE0" "x887E9A" "xACAB9D" "xB21889" "xB24511" }
 }
-STATE_DIT_KAZAR = {
-    id = 2540
-    provinces = { "x08A541" "x2FA2BC" "x321E4E" "x326F94" "x32A8C1" "x5C24AB" "x5C7215" "x5CC0AB" "x63C696" "x866059" "x877B1D" "xB0184D" "xB066B6" "xB0A2C0" "xB0B420" }
-}
 
 STATE_NORBEAK = {
     id = 2534
@@ -514,7 +510,7 @@ STATE_OREINO_TROPO = {
     provinces = { "x059FA5" "x0912A5" "x098AB9" "x09CCE1" "x2F36B7" "x2FCFAD" "x30181C" "x33574E" "x338D3A" "x33AE1C" "x33B43A" "x59D22E" "x5D2D47" "x5D5ACE" "x5D90BA" "x8730C7" "x87602C" "xB106C0" "xB13007" "xB18D57" "xB1A81B" }
 }
 STATE_CEMRICIA = {
-    id = 2541
+    id = 2540
     provinces = { "x065D4B" "x09249B" "x09AB32" "x3169D0" "x33243F" "x336603" "x33C012" "x5A3010" "x5D63C9" "x870095" "x874B22" "xB19652" }
 }
 #STATE_WILD_VODINA = {
@@ -544,10 +540,15 @@ STATE_COLTOVAC = {
 STATE_DIAMOND_MOUNTAIN = {
     id = 2511
     provinces = { "x051B82" "x05480A" "x057591" "x059F3C" "x0AB4CD" "x0AD205" "x2F0F80" "x34B4A3" "x5354DD" "x591201" "x593F88" "x59BADD" "x5E0029" "x831581" "x834209" "x83AEDB" "x8803A9" "x8890C7" "x88CCD1" "xAD1248" "xAD4589" "xAD9F98" "xB227D9" "xB27202" }
+    arable_land = 28
+    arable_resources = { "bg_rye_farms" "bg_livestock_ranches" }
+    capped_resources = {
+        bg_crystal_mining = 7
+    }
 }
 STATE_VAR_WOOLTH = {
     id = 2512
-    provinces = { "x2F1B26" "x347E21" "x595AB0" "x5E48D8" "x5E9301" "x830FC7" "x83A8BD" "x884B59" "xB22D93" }
+    provinces = {"x08A541" "x2FA2BC" "x321E4E" "x326F94" "x32A8C1" "x5C24AB" "x5C7215" "x5CC0AB" "x63C696" "x866059" "x877B1D" "xB0184D" "xB066B6" "xB0A2C0" "xB0B420" "x2F1B26" "x347E21" "x595AB0" "x5E48D8" "x5E9301" "x830FC7" "x83A8BD" "x884B59" "xB22D93" }
 }
 STATE_VETAILJE = {
     id = 2514

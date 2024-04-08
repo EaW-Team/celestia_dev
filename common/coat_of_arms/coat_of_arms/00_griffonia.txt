@@ -28,6 +28,17 @@ FRE = {
 	}
 }
 
+DMT = {
+	# Diamong Mountaing Flag
+	pattern = "pattern_solid.tga" 
+	color1 = "black" 
+
+	colored_emblem = {
+		texture = "diamond_dog_emblem.dds"
+		color1 = "white"
+	}
+}
+
 sub_EQC_canton_torch = {
 	pattern = "pattern_solid.tga"
 	color1 = "pastal_navy_blue"
