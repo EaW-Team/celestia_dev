@@ -208,3 +208,38 @@ PCB = { #Puerto Caballo
 	cultures = { equestrian caballo	}
 }
 
+GRF = { #Nova Griffonia
+	color = {
+		226 163 79
+	}
+	country_type = colonial
+	tier = grand_principality
+	capital = STATE_WETER
+	cultures = {
+		herzlander 
+	}
+}
+
+PNG = { #Penguins
+	color = {
+		165 147 250
+	}
+	country_type = recognized
+	tier = kingdom
+	capital = STATE_FROZEN_NORTH
+	cultures = {
+		penguin
+	}
+}
+
+YTP = { #Yak Tribes Placeholder
+	color = {
+		217 202 163
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_AMDRAL_NUUR
+	cultures = {
+		yak
+	}
+}

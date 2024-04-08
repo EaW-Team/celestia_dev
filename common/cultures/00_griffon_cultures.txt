@@ -132,7 +132,7 @@ aquileian ={
 	 wine
 	}
 	male_common_first_names={
-		edouard errard etienne Ademar Adrien Aimery Alain 
+		Edouard Errard Etienne Ademar Adrien Aimery Alain 
 		Aldebert Alderic Alphonse Amaury Amedee Ancel Andre Antoine Archambaud Arnaud 
 		Arnault Arnoul Aubry Aymar Barthelemi Baudouin Benoît Berenger Bernard Bertrand Bohemond 
 		Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
@@ -176,7 +176,7 @@ aquileian ={
 	}
 
 	male_regal_first_names = {
-		edouard errard etienne Ademar Adrien Aimery Alain 
+		Edouard Errard Etienne Ademar Adrien Aimery Alain 
 		Aldebert Alderic Alphonse Amaury Amedee Ancel Andre Antoine Archambaud Arnaud 
 		Arnault Arnoul Aubry Aymar Barthelemi Baudouin Benoît Berenger Bernard Bertrand Bohemond 
 		Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 

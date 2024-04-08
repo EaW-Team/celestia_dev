@@ -454,4 +454,77 @@ STATES = {
     			owned_provinces = { "x2D0985" "x2D0CC6" "x2D7B49" "x2E8D49" "x3E02F8" "x584506" "x945D10" "xAC00B1" }
 		}
 	}
+	#Nova Griffonia
+	s:STATE_WETER = {
+		create_state = {
+			country = c:GRF
+			owned_provinces = {"x001B5F" "x002D87" "x0045A5" "x0100A0" "x010F23" "x011BC8" "x017B91" "x01C932" "x054282" "x261636" "x2A0380" "x2A0662" "x2A1EDF" "x2A634E" "x2A968F" "x2AC03A" "x2B12A3" "x2B1862" "x2B1E49" "x2B7B35" "x2B965D" "x451C25" "x488448" "x4E2441" "x540601" "x5409E2" "x542406" "x5466CE" "x5469AB" "x54C3BA" "x5506A1" "x551247" "x551524" "x5521C9" "x5599DD" "x5845D3" "x5B27E2" "x5BCF5B" "x707987" "x7E1804" "x7E2786" "x7E3FA4" "x7E724A" "x7E8D0E" "x7F15C7" "x7F1E63" "x7F244A" "x7F3F0E" "x7F72B3" "x7F7590" "x7F8136" "x7F8DDB" "x7FA218" "x7FB722" "xA80C02" "xA818DE" "xA84225" "xA8908E" "xA90CA2" "xA91848" "xACA82A" "xD25A1E" }
+		}
+	}
+	s:STATE_NEW_AQUILA = {
+		create_state = {
+			country = c:GRF
+			owned_provinces = { "x000F82" "x001E05" "x003C0A" "x004B8C" "x007814" "x00D223" "x0115E1" "x014546" "x01870A" "x055446" "x077ECD" "x079CD2" "x07BAD7" "x2A1203" "x2A2185" "x2A3008" "x2A4E0D" "x2A9999" "x2B3385" "x2BABD0" "x2E9FA8" "x543388" "x54518D" "x55AB3D" "x597B29" "x6F7A4C" "x7E540E" "x7E9F9A" "x7EBA95" "x7F0922" "x7FBACC" "x80C39A" "x83A513" "xA81B84" "xA83989" "xA8480C" "xA87593" "xA89398" "xA8A21B" "xA97811" }
+		}
+		create_state = {
+			country = c:EQS
+			owned_provinces = { }
+		}
+	}
+	
+	s:STATE_KLUV_VALLEY = {
+		create_state = {
+			country = c:GRF
+			owned_provinces = { "x005A0F" "x00A59B" "x0103B4" "x012496" "x019346" "x01968C" "x01B7D2" "x222355" "x2A00A3" "x2A5D8F" "x2A99D0" "x2B990D" "x2BA549" "x2BBA53" "x2BCCB2" "x3136C1" "x54420B" "x5503C4" "x5512B0" "x552133" "x552A97" "x559947" "x60142B" "x7F1E95" "x7F2D18" "x7F4E5E" "x7F908B" "x7FD2B3" "xA81BBB" "xA90034" "xA918B1" "xA951DE" "xA96061" "xA9B452" "xAF7B4D" }
+		}
+		create_state = {
+			country = c:YTP
+			owned_provinces = { "x000FB9" "x003900" "x00B114" "x01545F" "x020F96" "x05A55A" "x2A3C80" "x2B2A8A" "x2C1217" "x543F01" "x548DCE" "x556F9C" "x560338" "x5639BA" "x7E0F40" "x7F24B3" "x7F5DE0" "x7F9CC7" "x7FC086" "xA88AD4" "xA92116" "xA99F48" "xAA1ED9" "xADA2D9" }
+		}
+	}
+	
+	s:STATE_WEIDADEHUDEDAIER = {
+		create_state = {
+			country = c:GRF
+			owned_provinces = { "x024519" "x0257DC" "x053023" "x05A55A" "x171E22" "x18263C" "x1A2029" "x1D2A50" "x264068" "x2C4899" "x2FA8DA" "x405678" "x536AAC" "x549C51" "x5F142B" "x6B82A6" "x830663" "xAD8407" "xAFB757" }
+		}
+		create_state = {
+			country = c:YTP
+			owned_provinces = { "x02215A" "x0233B9" "x02BA82" "x243565" "x293A41" "x2C00B7" "x2C24DA" "x2C363A" "x2C5A5D" "x323C53" "x405A65" "x523321" "x560CC9" "x561597" "x7B71A1" "x803F18" "xAA3039" "xAA753E" "xAA8457" "xB97043" }
+		}
+	}
+	
+	s:STATE_RUDEIGIN_A_THA_SIN_CHO_MATH = {
+		create_state = {
+			country = c:YTP
+			owned_provinces = { "x00245A" "x008423" "x013F55" "x086CAA" "x2A87A3" "x2ACCA8" "x2C6CBC" "x2EB19E" "x541EB5" "x54369C" "x548747" "x5499A6" "x56275B" "x566F3D" "x57B7BF" "x76036B" "x7E183B" "x7E2413" "x7E391D" "x7EB131" "x80939F" "x86CC5E" "xA83FDE" "xA89989" "xA9759D" "xAA0C16" "xAAB702" "xE34381" "xE4C1CF" "xF92FAE" }
+		}
+	}
+	
+	s:STATE_AMDRAL_NUUR = {
+		create_state = {
+			country = c:YTP
+			owned_provinces = { "x00A2BE" "x010628" "x018DBE" "x01B1E1" "x2A1B35" "x2B5712" "x2D1280" "x30879E" "x4CFECE" "x542D38" "x54B715" "x555A92" "x79F1EB" "x7E332C" "x7E694F" "x7E7E22" "x7E9081" "x7E9609" "x7ECC59" "x7F0027" "x7F33CC" "x7F5D13" "x7F90B8" "x933F80" "x96EBF5" "xA8098E" "xA81534" "xA821D9" "xA903A7" "xA98A3E" "xA9AE61" "xD4CBD8" "xE030ED" "xE4C671" }
+		}
+	}
+	
+	s:STATE_FROZEN_NORTH = {
+		create_state = {
+			country = c:PNG
+			owned_provinces = { "x0018B4" "x004EA0" "x006F50" "x008146" "x008700" "x00930F" "x00BDB9" "x00C6B4" "x011200" "x011EA5" "x0139CD" "x018A14" "x08003C" "x2A0F8F" "x2B2126" "x3C8907" "x546FC9" "x54CC4C" "x6253AE" "x7864EB" "x7F1BB8" "x80302C" "x8051DB" "xA84B20" "xA875CA" "xA881A2" "xA8C9BB" "xA99339" "xC1F4C8" "xDC5BB6" "xE5A48C" }
+		}
+	}
+	#Pingland
+	s:STATE_DACHAIGH = {
+		create_state = {
+			country = c:PNG
+			owned_provinces = { "x004B5A" "x0093A5" "x00C64B" "x01B2DF" "x02DFED" "x034E79" "x089C3C" "x0F2459" "x193060" "x1BA89B" "x2A3F58" "x2A4EDA" "x2AC9CB" "x3D603F" "x3DF85E" "x412E6F" "x466B53" "x46DC58" "x47329B" "x50CF51" "x541210" "x548D01" "x549C83" "x63F10F" "x66614C" "x72D079" "x7BF709" "x7C92DB" "x7E36D6" "x7E8440" "x80B481" "x80D618" "x87B918" "x894D4B" "x956A8A" "xA0284A" "xA78C61" "xA83957" "xA8BA39" "xACA5BD" "xAD7E4D" "xAF37B2" "xB23C16" "xB36D68" "xB3B5BD" "xBCC980" "xCB4F60" "xCE5FD4" "xD6262A" "xD7BBA4" "xDB650B" "xDB9E60" "xDEF3E1" "xE46FED" "xE9130C" "xEA452E" "xF7BB4B" }
+		}
+	}
+	s:STATE_PINGVINLAND = {
+		create_state = {
+			country = c:PNG
+			owned_provinces = { "x0D89A9" "x0E9A3C" "x126E47" "x13A32E" "x1A3F25" "x206F13" "x28A789" "x465D06" "x5AC69C" "x655C2C" "x67FD17" "x7C4A1E" "x7D6482" "x7E3C5E" "x7E5264" "x7E9F04" "x8296BD" "x877536" "x8D91A7" "x8F59E6" "x925752" "x9724BA" "x99935A" "x9C4B6C" "xA0BF45" "xA2E945" "xA353F0" "xA88D48" "xAFA098" "xB16961" "xB242B6" "xBFFB51" "xC095F5" "xC3D75F" "xDDEDE5" "xEEA040" "xF48E4A" "xFA729D" "xFFC491" }
+		}
+	}
 }

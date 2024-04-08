@@ -16,3 +16,21 @@ region_corsair_sea = {
 region_gryphus_sea = {
 	states = { STATE_GRYPHUS_SEA }
 }
+
+region_rocky_sea = {
+	states = {
+		STATE_ROCKY_SEA
+	}
+}
+
+region_into_the_unknown = {
+	states = {
+		STATE_INTO_THE_UNKNOWN
+	}
+}
+
+region_frozen_sea = {
+	states = {
+		STATE_FROZEN_SEA
+	}
+}

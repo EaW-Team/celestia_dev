@@ -27,3 +27,12 @@ PCB = {
 		color2 = "white"
 	}
 }
+
+GRF = { #Nova Griffonia Flag
+ 	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_nova.dds"
+	}
+}

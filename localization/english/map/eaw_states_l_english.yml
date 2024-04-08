@@ -1,4 +1,14 @@
 ﻿l_english:
+ #NORTHERN EQUUS
+ STATE_WETER:0 "Weter"
+ STATE_NEW_AQUILA:0 "New Aquila"
+ STATE_KLUV_VALLEY:0 "Kluv Valley"
+ STATE_WEIDADEHUDEDAIER:0 "Weidadehudedaier"
+ STATE_RUDEIGIN_A_THA_SIN_CHO_MATH:0 "Rudeigin a Tha Sin Cho Math"
+ STATE_AMDRAL_NUUR:0 "Amdral Nuur"
+ STATE_FROZEN_NORTH:0 "Frozen North"
+ STATE_DACHAIGH:0 "Dachaigh"
+ STATE_PINGVINLAND:0 "Pingvinland"
  #NORTHERN GRIFFONIA
  STATE_SÖDERBOTTEN:0 "Söderbotten"
  STATE_KUNGLAND:0 "Kungland"
