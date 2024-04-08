@@ -396,15 +396,5 @@
 				activate_production_methods={ "pm_irregular_infantry" "pm_no_artillery" "pm_cavalry_scouts" "pm_no_specialists" "pm_wound_dressing" }
 			} 
 		}
-	}
-	s:STATE_DIAMOND_MOUNTAIN = {
-		region_state:DMT = {
-			create_building = {
-				building = "building_crystal_mine"
-				level=1
-				reserves=1
-				activate_production_methods={ "pm_picks_and_shovels_building_crystal_mine" "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts" "pm_merchant_guilds_building_crystal_mine"}
-			}
-		}
-	}
+	} 
 }

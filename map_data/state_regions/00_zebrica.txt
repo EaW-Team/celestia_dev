@@ -243,7 +243,7 @@ STATE_KATKAT = {
 
 STATE_TROTGIERS = {
     id = 402
-    provinces = { "x844833" "x9A4628" "xB65B2C" "xC3892E" "xC94415" "xDC6809" "xDC9B35" "xF7BC5F" "x2E103C" "x58316A" "x6F4F1C" "x8546A3" "xA8721C" "xBB7FD7" "xC94A12" "xD3A863" "xDD9A30" "x73442B" "x954114" "x9B5116" "xB56338" "xBD7A10" "xD3742E" "xD38B50" "xDB7945" "xE09C30" "xE3A470" "xE47D29" "xF8B64F"  }
+    provinces = { "x844833" "x9A4628" "xB65B2C" "xC3892E" "xC94415" "xDC6809" "xDC9B35" "xF7BC5F" "x2E103C" "x58316A" "x6F4F1C" "x8546A3" "xA8721C" "xBB7FD7" "xC94A12" "xD3A863" "xDD9A30" "x73442B" "x954114" "x9B5116" "xB56338" "xBD7A10" "xD3742E" "xD38B50" "xDB7945" "xE09C30" "xE3A470" "xE47D29" "xF8B64F" }
 
     arable_land = 81
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_coffee_plantations" }
@@ -270,7 +270,7 @@ STATE_AGADIR = {
     provinces = { "xAC4723" "xB88E34" "xC7542C" "xD78A30" "xD87013" "xD97B48" "xDBC188" "xE17F5D" "xE3BB8B" "xE7B448" "xF4A082" "x9D662A" "xB4860C" "xD18E46" "xD37918" "xDD6931" "xE4B379" "xEEB6E3" "x8D462D" "x984020" "x9F500B" "xB05738" "xB34620" "xB75E3E" "xD59F8B" "xD5B96E" "xE86739" "xEE6D3F" "xF0A348" }
 
     arable_land = 74
-    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches"}
+    arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
 }
 
 STATE_HAYHA = {
