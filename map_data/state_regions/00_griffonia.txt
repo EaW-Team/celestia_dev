@@ -866,7 +866,7 @@ STATE_AQUILA = {
 }
 
 STATE_PRIDEA = {
-    id = 376
+    id = 2307
     provinces = { "x04035F" "x043FD2" "x092155" "x2CBA26" "x316008" "x3324D5" "x336C21" "x588797" "x59AB5B" "x5B0F97" "x5C42DD" "x5D0610" "x853981" "xAF9611" }
 }
 
