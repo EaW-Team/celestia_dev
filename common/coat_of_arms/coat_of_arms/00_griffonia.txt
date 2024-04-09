@@ -1,4 +1,4 @@
-@semy = 0.25
+﻿@semy = 0.25
 @third = @[1/3]
 @fifth = @[1/5]
 @sixth = @[1/6]
@@ -36,6 +36,366 @@ DMT = {
 	colored_emblem = {
 		texture = "diamond_dog_emblem.dds"
 		color1 = "white"
+	}
+}
+
+EMP = {#Empire
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_grover.dds"
+	}
+}
+
+RAM = {#Romau
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_romau.dds"
+	}
+}
+
+PYT = {#Greifenmarschen
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_greifenmarschen.dds"
+	}
+}
+
+LAK = {#Rumare
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_rumare.dds"
+	}
+}
+
+LNS = {#Longsword
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_longsword.dds"
+	}
+}
+
+BOI = {#Griffonstone
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_gruff.dds"
+	}
+}
+
+HLQ = {#Hellquill
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_hellquill.dds"
+	}
+}
+
+HLR = {#Arcturian Order
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_arcturian.dds"
+	}
+}
+
+DED = {#Dread League
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_dread.dds"
+	}
+}
+
+VED = {#Vedina
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_vedina.dds"
+	}
+}
+
+SNS = {#Sunstriker
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_eriviar.dds"
+	}
+}
+
+GRY = {#Gryphian Host
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_gryphian.dds"
+	}
+}
+
+BRF = {#Brodfeld
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_brodfeld.dds"
+	}
+}
+
+LUS = {#Lushi
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_lushi.dds"
+	}
+}
+
+RCT = {#River Rep
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_swirl.dds"
+	}
+}
+
+BAK = {#Bakara
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_bakara.dds"
+	}
+}
+
+DEP = {#Deponya
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_deponya.dds"
+	}
+}
+
+WIT = {#Wittenland
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_wittenland.dds"
+	}
+}
+
+LCT = {#Lake City
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_jezeragrad.dds"
+	}
+}
+
+NIM = {#Nimbusia
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_nimbussy.dds"
+	}
+}
+
+OLV = {#Austurland
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_austurland.dds"
+	}
+}
+
+FAR = {#Farbrook
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_farbrook.dds"
+	}
+}
+
+FIR = {#Firtree Villages
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_firtree.dds"
+	}
+}
+
+NCH = {#Greneclyf
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_greneclyf.dds"
+	}
+}
+
+ZES = {#Kasa
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_kasa.dds"
+	}
+}
+
+WAT = {#Watertowns
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_watertowns.dds"
+	}
+}
+
+FEA = {#Feathisia
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_feathisia.dds"
+	}
+}
+
+WNG = {#Wingbardy
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_pasta.dds"
+	}
+}
+
+ART = {#Arantiga
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_arantiga.dds"
+	}
+}
+
+FRC = {#Francistria
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_francistria.dds"
+	}
+}
+
+TAL = {#Talouse
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_talouse.dds"
+	}
+}
+
+CYA = {#Cyanolisia
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_cyanolisia.dds"
+	}
+}
+
+FAL = {#Falcor
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_falcor.dds"
+	}
+}
+
+SIM = {#Sicameon
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_sicameon.dds"
+	}
+}
+
+MIT = {#Asterion
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_assterion.dds"
+	}
+}
+
+JER = {#Aquileia
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_discret.dds"
+	}
+}
+
+FLO = {#Flowena
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_flowena.dds"
+	}
+}
+
+HKL = {#Haukland
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_goering.dds"
+	}
+}
+
+TRD = {#Skyfall
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_skyfall.dds"
+	}
+}
+
+FEZ = {#Fezera
+	pattern = "patern_solid.tga"
+	color1 = "white"
+
+	textured_emblem = {
+		texture = "te_coa_fezera.dds"
 	}
 }
 
