@@ -449,10 +449,6 @@ STATE_IOMALL_FAIRGE = {
     }
     naval_exit_id = 3007
 }
-STATE_PAPAGLIA = {
-    id = 2535
-    provinces = { "x0775D2" "x09690A" "x30BA0D" "x338DD0" "x339F30" "x5D183D" "x832A59" "x850363" "x871BBD" "xB14EA2" "xB15A48" }
-}
 STATE_PONAIDHEAN_EIBHINN = {
     id = 2525
     provinces = { "x096F91" "x331E21" "x5D18A6" "x5D21A1" "x5DB19C" "x874504" "x876FAE" "x877813" "xB19FB6" }
@@ -463,10 +459,6 @@ STATE_PONAIDHEAN_EIBHINN = {
         bg_lead_mining = 7
         bg_logging = 12
     }
-}
-STATE_DARNISH_HIGHLANDS = {
-    id = 2538
-    provinces = { "x05AE28" "x07B1DC" "x09A5E1" "x2F4817" "x2FC308" "x31B45D" "x31D262" "x5B2D06" "x5B8A56" "x8133E0" "x858DD6" "x87664A" "x878481" "xAF2D16" "xB1245C" }
 }
 STATE_COLTONIA = {
     id = 2520
@@ -487,11 +479,6 @@ STATE_BAKARA = {
 STATE_DESPONIA = {
     id = 2506
     provinces = { "x0A2A8C" "x0A4891" "x342A30" "x342D0D" "x34969E" "x5B5A5B" "x5DC9B0" "x5E991F" "x82BAE0" "x887E9A" "xACAB9D" "xB21889" "xB24511" }
-}
-
-STATE_NORBEAK = {
-    id = 2534
-    provinces = { "x33001C" "x335DD5" "x33B717" "x5D8DDD" "x5E0306" "x8751A9" "x877036" "xB16689" "xB1A293" }
 }
 STATE_FEARANN_PONAIDH = {
     id = 2526
@@ -581,7 +568,7 @@ STATE_VETAILJE = {
 }
 STATE_FYRD = {
     id = 2536
-    provinces = { "x00C30A" "x09785A" "x33A862" "x33AEB2" "x5D72B5" "x85C3C2" "x879090" "xAD4557" "xB10316" "xB139CF" "xB175D9" "xB17E07" "xB193DE" "xB2C002" }
+    provinces = { "x00C30A" "x09785A" "x33001C" "x335DD5" "x33A862" "x33AEB2" "x33B717" "x5D72B5" "x5D8DDD" "x5E0306" "x85C3C2" "x8751A9" "x877036" "x879090" "xAD4557" "xB10316" "xB139CF" "xB16689" "xB175D9" "xB17E07" "xB193DE" "xB1A293" "xB2C002" }
 }
 STATE_DITHREABH = {
     id = 2523
@@ -595,7 +582,7 @@ STATE_DITHREABH = {
 }
 STATE_HENGESTDELU = {
     id = 2539
-    provinces = { "x0542B9" "x056F41" "x05C919" "x07CFE1" "x312A85" "x5AD201" "x851281" "xAD6CC0" "xAEC0B1" }
+    provinces = { "x0542B9" "x056F41" "x05AE28" "x05C919" "x07B1DC" "x07CFE1" "x09A5E1" "x2F4817" "x2FC308" "x312A85" "x31B45D" "x31D262" "x5AD201" "x5B2D06" "x5B8A56" "x8133E0" "x851281" "x858DD6" "x87664A" "x878481" "xAD6CC0" "xAEC0B1" "xAF2D16" "xB1245C" }
 }
 STATE_PTERYGAPOLIS = {
     id = 2518
@@ -611,7 +598,7 @@ STATE_MAREIBOR = {
 }
 STATE_WITTEN = {
     id = 2537
-    provinces = { "x069987" "x3045A3" "x5A842E" "x5DA2B0" "x5DC392" "x83120E" "x835D9A" "xAE24DE" }
+    provinces = { "x069987" "x0775D2" "x09690A" "x3045A3" "x30BA0D" "x338DD0" "x339F30" "x5A842E" "x5D183D" "x5DA2B0" "x5DC392" "x83120E" "x832A59" "x835D9A" "x850363" "x871BBD" "xAE24DE" "xB14EA2" "xB15A48" }
 }
 STATE_KATAIGIDA = {
     id = 2522
