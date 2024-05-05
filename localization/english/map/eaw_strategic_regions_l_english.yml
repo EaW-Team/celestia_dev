@@ -1,10 +1,15 @@
 ﻿l_english:
 #Equus
- region_puerto_caballo:0 "Puerto Caballo"
+ region_canteribbean:0 "Canteribbean"
  region_northern_equus:0 "Northern Equus"
+ region_west_equus:0 "Western Equus"
+ region_central_equus:0 "Central Equus"
+ region_eastern_equus:0 "Eastern Equus"
+ region_south_west_equus:0 "South West Equus"
+ region_south_east_equus:0 "South East Equus"
 #Griffonia
  region_riverlands:0 "Riverlands"
- region_evi_valley:0 "Evi Valley"
+ region_evi_valley:0 "Evi Valley" 
  region_herzland:0 "Herzland"
  region_northern_griffonia:0 "Northern Griffonia"
  region_beorgfordas:0 "Beorgfordas"

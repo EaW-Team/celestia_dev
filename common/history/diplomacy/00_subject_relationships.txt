@@ -124,4 +124,24 @@
 			type = dominion
 		}	
 	}
+	c:EQS = {
+		create_diplomatic_pact = {
+			country = c:TRT
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:PCB
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:EQC
+			type = dominion
+		}
+	}
+	c:JER = {
+		create_diplomatic_pact = {
+			country = c:MER
+			type = dominion
+		}
+	}
 }

@@ -1,9 +1,9 @@
 ﻿# Strategic Regions in Equus
 
-region_puerto_caballo = {
+region_canteribbean = {
 	capital_province = xF8B94D
 	map_color = rgb { 144 65 166 }
-	states = { STATE_PUERTO_CABALLO STATE_MATROTANZAS }
+	states = { STATE_PUERTO_CABALLO STATE_MATROTANZAS STATE_SPA_ISLANDS STATE_SUMMER_ISLANDS STATE_THE_MOUNTAIN STATE_DOVASHORE STATE_LES_ABONDANTES STATE_LES_LOYALES STATE_TROTS_AND_CANTERS }
 }
 
 region_northern_equus = {

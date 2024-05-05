@@ -159,19 +159,64 @@ OLE = { # Olenia
 	
 	tier = kingdom
 	
-	capital = STATE_PRIDEA
+	capital = STATE_GRANHALVÖN
 	cultures = { Olenian }
 }
 
 EQS = { # Equestria
-	color = { 136 213 244 }
+	color = { 158 242 117}
 	
 	country_type = recognized
 	
 	tier = empire
 	
-	capital = STATE_CANTERLOT
+	capital = STATE_CENTRAL_EQUESTRIA
 	cultures = { british }
+}
+
+YKK = { #Yakyakistan
+	color = { 124 198 240 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	capital = STATE_YAKISTAN_VALLEY
+	cultures = { yaki }
+}
+
+TRT = { #Trotsas
+	color = { 62 95 138 }
+
+	country_type = recognized
+
+	tier = principality
+
+	capital = STATE_NORTHERN_TROTSAS
+	cultures = { southpony }
+}
+
+DRG = { #Dragon Tribe
+	color = { 196 195 164  }
+
+	country_type = recognized
+
+	tier = principality
+
+	capital = STATE_THE_MOUNTAIN
+	cultures = { dragon }
+}
+
+MER = { #Meridiennes
+	color = { 231 214 153 }
+
+	country_type = colonial
+
+	tier = principality
+
+	capital = STATE_LES_ABONDANTES
+	cultures = { aquileian }
+
 }
 
 SEV = { #Severyana
@@ -181,7 +226,7 @@ SEV = { #Severyana
 	
 	tier = kingdom
 	
-	capital = STATE_CRYSTAL_CITY
+	capital = STATE_PRINCESSYN
 	cultures = { russian british }
 }
 
@@ -192,7 +237,7 @@ BUF = { #Buffalo
 	
 	tier = principality
 	
-	capital = STATE_BUFFALO_TRIBE
+	capital = STATE_TSOH_HALGAI
 	cultures = { comanche }
 }
 
@@ -232,14 +277,194 @@ PNG = { #Penguins
 	}
 }
 
-YTP = { #Yak Tribes Placeholder
+TNH = { #Tenochtitlan
 	color = {
-		217 202 163
+		75 114 52
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_TENOCHTITLAN
+	cultures = {
+		neighua
+	}
+}
+
+APA = { #Apapatztla
+	color = {
+		134 194 37
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_IZTATL_COAST
+	cultures = {
+		coltec
+	}
+}
+
+TCT = { #Temecatlan
+	color = {
+		52 114 89
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_TEOPIXQUI
+	cultures = {
+		mareyan
+	}
+}
+
+AYA = { #Ayacachtli
+	color = {
+		30 0 60
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_BADLANDS
+	cultures = {
+		high_thestral
+	}
+}
+
+TEO = { #Teocuitlahua
+	color = {
+		60 75 80
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_STABLESIDE
+	cultures = {
+		swamp_thestral
+	}
+}
+
+YAC = { #Cacahuaatlia
+	color = {
+		115 90 60
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_SIRIUS
+	cultures = {
+		jungle_thestral
+	}
+}
+
+SVA = { #Svartpels
+	color = {
+		152 72 72	
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_WESSLANDIA 
+	cultures = {
+		bear
+	}
+}
+
+WES = { #Wesslandia
+	color = {
+		22 252 209
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_WESSLANDIA
+	cultures = {
+		bear
+	}
+}
+
+VLS = { #Volsungr
+	color = {
+		22 152 109
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_WESSLANDIA
+	cultures = {
+		bear
+	}
+}
+
+ROZ = { #Rozenkrantz
+	color = {
+		22 209 252	
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_MATHAIR_FEARAINN
+	cultures = {
+		bear
+	}
+}
+
+SCY = { #Scyfling
+	color = {
+		252 209 22
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_MATHAIR_FEARAINN
+	cultures = {
+		bear
+	}
+}
+
+BBA = { #Baruunbukha
+	color = {
+		67 507 169
 	}
 	country_type = unrecognized
 	tier = principality
 	capital = STATE_AMDRAL_NUUR
 	cultures = {
-		yak
+		yaki
+	}
+}
+
+KHO = { #Khoytoharlag
+	color = {
+		210 180 135
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_RUDEIGIN_A_THA_SIN_CHO_MATH
+	cultures = {
+		yaki
+	}
+}
+
+UNJ = { #Ünjeen
+	color = {
+		46 177 158
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_RUDEIGIN_A_THA_SIN_CHO_MATH
+	cultures = {
+		yaki
+	}
+}
+
+ULA = { #Ulaangorkhon
+	color = {
+		137 157 187
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_KLUV_VALLEY
+	cultures = {
+		yaki
+	}
+}
+
+YEK = { #Yekhe Nuur
+	color = {
+		2 186 130
+	}
+	country_type = unrecognized
+	tier = principality
+	capital = STATE_WEIDADEHUDEDAIER
+	cultures = {
+		yaki
 	}
 }

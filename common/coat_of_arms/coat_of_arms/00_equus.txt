@@ -37,7 +37,7 @@ GRF = { #Nova Griffonia Flag
 	}
 }
 
-YAK = {#Yakyakistan
+YKK = {#Yakyakistan
 	pattern = "patern_solid.tga"
 	color1 = "white"
 
