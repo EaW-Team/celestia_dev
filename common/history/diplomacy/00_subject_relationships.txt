@@ -5,6 +5,42 @@
 			type = vassal
 		}
 		create_diplomatic_pact = {
+			country = c:CAE
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:VRR
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:CEI
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:RMC
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:BET
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:ADA
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:PAO
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:LOE
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:RPU
+			type = vassal
+		}
+		create_diplomatic_pact = {
 			country = c:PYT
 			type = vassal
 		}	

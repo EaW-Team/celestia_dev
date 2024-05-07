@@ -229,7 +229,7 @@ VRR = { # Viartorre
 	capital = STATE_PYTHAGOREA
 	cultures = {  }
 }
-
+ 
 CAE = { # Camafeu
 	color = { 156 200 10 }
 	
@@ -441,7 +441,7 @@ FAR = { # farbrook
 }
 
 EMP = { # The Empire
-	color = { 224 139 47 }
+	color = { 191 110 62 }
 	
 	country_type = recognized
 	

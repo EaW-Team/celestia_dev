@@ -361,7 +361,7 @@ SVA = { #Svartpels
 	}
 }
 
-WES = { #Wesslandia
+WSS = { #Wesslandia
 	color = {
 		22 252 209
 	}
