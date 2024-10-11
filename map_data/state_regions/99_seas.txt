@@ -20,7 +20,7 @@ STATE_KION_SEA = {
 }
 STATE_ELER_SEA = {
     id = 4005
-    provinces = { "x447cc9" }
+    provinces = { "x447CC9" }
 }
 STATE_CORSAIR_SEA = {
     id = 4006
