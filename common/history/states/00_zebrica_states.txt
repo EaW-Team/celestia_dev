@@ -685,10 +685,10 @@ STATES = {
 	}
 	s:STATE_FARASRAH = {
 		create_state = {
-			country = c:YAM
+			country = c:ANS
     			owned_provinces = { "x191004" "x37240D" "x642509" "x645646" "x665744" "x71621A" "x7D4D10" "x84581F" "x887527" "x925B14" "x9E7E56" "xA56D25" "xB1471A" "xC0AD65" "xC27B1E" "xC33A1F" "xD2BB60" "xD2CDB9" "xD9B381" "xDB9133" "xDD8A65" "xE5A457" "xE7E3D3" "xEAA348" "xEDE6CC" "xEFD778" "xF1A33E" "xF3CE3C" "xFFA127" "xFFCB8E" }
 		}
-		add_homeland = YAMani
+		add_homeland = sumareians
 	}
 	#Haymirite
 	s:STATE_MARESTA = {
