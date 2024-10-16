@@ -1,4 +1,4 @@
-MAZ = { # Mazwi
+MZW = { # Mazwi
 	color = { 230 231 62 }
 	
 	country_type = recognized
@@ -7,6 +7,17 @@ MAZ = { # Mazwi
 	
 	capital = STATE_ZIANI
 	cultures = { mazwis }
+}
+
+MSS = { #Mozzi
+	color = { 168 174 133 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	capital = STATE_TENKOZOGO
+	cultures = { mozzis }
 }
 
 SDL = { # Saddle Arabia
@@ -27,7 +38,7 @@ YAM = { # Yemane
 	
 	tier = principality
 	
-	capital = STATE_MANE'A
+	capital = STATE_HOOFEIDA
 	cultures = { yemani }
 }
 
@@ -38,7 +49,7 @@ ANS = { # Anseruk
 	
 	tier = principality
 	
-	capital = STATE_ANSERUK
+	capital = STATE_JACKISH
 	cultures = { sumareians }
 }
 
@@ -49,8 +60,19 @@ ASS = { # Asstyria
 	
 	tier = principality
 	
-	capital = STATE_ASSUR
+	capital = STATE_JENNYVEH
 	cultures = { asstyrian }
+}
+
+HYE = { #Hyenia
+	color = { 191 163 139 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	capital = STATE_KAREN
+	cultures = { hyenas }
 }
 
 HMR = { # Haymirite 
@@ -71,7 +93,7 @@ OSQ = { # Osqat
 	
 	tier = principality
 	
-	capital = STATE_SADLHARA
+	capital = STATE_MAREOUSSE
 	cultures = { alameez }
 }
 
@@ -82,7 +104,7 @@ MTA = { # Maretania
 	
 	tier = principality
 	
-	capital = STATE_MAREIB
+	capital = STATE_CASABRONCO
 	cultures = { safhiyyin }
 }
 
@@ -123,7 +145,7 @@ MGY = { # Maregypt
 	
 	tier = kingdom
 	
-	capital = STATE_SOMNAMBULA
+	capital = STATE_MARETROUH
 	cultures = { lower_maregyptian }
 }
 
@@ -145,7 +167,7 @@ MTO = { # Maretonia
 	
 	tier = kingdom
 	
-	capital = STATE_SUHMANE
+	capital = STATE_JABAL-TAILIQ
 	cultures = { maretonian }
 }
 
@@ -156,7 +178,7 @@ AES = { # Aestlonia
 	
 	tier = kingdom
 	
-	capital = STATE_AJLOUN
+	capital = STATE_KHORRAMANEABAD
 	cultures = { aestlonian }
 }
 
@@ -172,7 +194,7 @@ KLG = { #Klugetown
 	color = { 88 88 88 }
 	country_type = recognized
 	tier = principality
-	capital = STATE_KLUGETOWN
+	capital = STATE_PAWRITREA
 	cultures = { upper_maregyptian }
 }
 
@@ -183,7 +205,7 @@ CNT = { # Senturya
 	
 	tier = kingdom
 	
-	capital = STATE_BIRINCI_TOPRAK
+	capital = STATE_KUZEY_KIYISI
 	cultures = { centaur }
 }
 
@@ -194,7 +216,7 @@ GAR = { # Gargiloya
 	
 	tier = kingdom
 	
-	capital = STATE_BIRINCI_TOPRAK
+	capital = STATE_T'AGI_HOGHER
 	cultures = { gargoyle }
 }
 
@@ -205,7 +227,7 @@ UEI = { # uzerasi
 	
 	tier = kingdom
 	
-	capital = STATE_MZIZIMA
+	capital = STATE_ZANZIBUCK
 	cultures = { uzerasian }
 }
 
@@ -216,7 +238,7 @@ TEC = { # Thundercliffs
 	
 	tier = kingdom
 	
-	capital = STATE_THUNDER_CLIFFS
+	capital = STATE_DODOMANE
 	cultures = { yeti }
 }
 
@@ -238,7 +260,7 @@ MAC = { # Maelcoast
 	
 	tier = kingdom
 	
-	capital = STATE_MAELSTROM_COAST
+	capital = STATE_EYE_OF_THE_STORM
 	cultures = { yeti }
 }
 
@@ -249,7 +271,7 @@ TPE = { # Tempshore
 	
 	tier = kingdom
 	
-	capital = STATE_TEMPEST_SHORES
+	capital = STATE_EYE_OF_THE_STORM
 	cultures = { yeti }
 }
 
@@ -260,7 +282,7 @@ WDR = { # Windborn
 	
 	tier = kingdom
 	
-	capital = STATE_WINDBORN
+	capital = STATE_DODOMANE
 	cultures = { yeti }
 }
 
@@ -271,7 +293,7 @@ KRE = { # Karen
 	
 	tier = kingdom
 	
-	capital = STATE_KAREN
+	capital = STATE_HIGHSTORMS
 	cultures = { yeti }
 }
 
@@ -293,7 +315,7 @@ RND = { # Rainguard
 	
 	tier = kingdom
 	
-	capital = STATE_RAINGUARD
+	capital = STATE_HIGHSTORMS
 	cultures = { yeti }
 }
 
@@ -304,7 +326,7 @@ HRV = { # Uusi Hirvimaa
 	
 	tier = principality
 	
-	capital = STATE_SRI_CERVIDAE
+	capital = STATE_MATADEERA
 	cultures = { hirvimaaian }
 }
 
@@ -326,7 +348,7 @@ SAG = { # Halsang
 	
 	tier = kingdom
 	
-	capital = STATE_STAGATAKA
+	capital = STATE_HIND
 	cultures = { stagatakan }
 }
 
@@ -348,7 +370,7 @@ HAT = { # Hart
 	
 	tier = principality
 	
-	capital = STATE_HART
+	capital = STATE_DOELHI
 	cultures = { doelhian }
 }
 
@@ -359,7 +381,7 @@ DEW = { # Deerwar
 	
 	tier = principality
 	
-	capital = STATE_DEERWAR
+	capital = STATE_DOELHI
 	cultures = { doelhian }
 }
 
@@ -370,7 +392,7 @@ ANH = { # Antlahore
 	
 	tier = principality
 	
-	capital = STATE_ANTLAHORE
+	capital = STATE_DOELHI
 	cultures = { doelhian }
 }
 
@@ -381,8 +403,19 @@ SAM = { # Sambar
 	
 	tier = kingdom
 	
-	capital = STATE_ANTLAHORE
+	capital = STATE_JHUN_DOE
 	cultures = { sambarian }
+}
+
+FUR = { #Fureshapur
+	color = { 140 219 161 }
+
+	country_type = recognized
+
+	tier = principality
+
+	capital = STATE_UNGULANAM
+	cultures = { fureshapuri }
 }
 
 BAT = { # Chiropterra
@@ -392,7 +425,7 @@ BAT = { # Chiropterra
 	
 	tier = principality
 	
-	capital = STATE_EXILES_LANDING
+	capital = STATE_THE_IMPERIAL_HILLS
 	cultures = { chiropterran }
 }
 
@@ -403,7 +436,7 @@ HIP = { # hippogriffia
 	
 	tier = kingdom
 	
-	capital = STATE_MOUNT_ARIS
+	capital = STATE_SOUTH_ARIS
 	cultures = { hippogriffion }
 }
 
@@ -425,7 +458,7 @@ KIR = { # Kiria
 	
 	tier = empire
 	
-	capital = STATE_VERMILION_BASIN
+	capital = STATE_PROVIDENCE_DEMESNE
 	cultures = { kirian }
 }
 
@@ -436,7 +469,7 @@ GFS = { # Zuid-Zebrikaansche Vrystaat
 	
 	tier = principality
 	
-	capital = STATE_GRIFFEVELD
+	capital = STATE_GRIFF_REINET
 	cultures = { kompel }
 }
 
@@ -447,6 +480,369 @@ ZLU = { # Zeblu
 	
 	tier = principality
 	
-	capital = STATE_ZARAWA
+	capital = STATE_ZANA
 	cultures = { zebluan }
+}
+
+YAN = { # Zebrides
+	color = { 203 138 74 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_GOSSAMER_WOODS
+	cultures = { zebluan }
+}
+
+WAR = { # Warzena
+	color = { 185 172 208 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_MAYIRZIM
+	cultures = { warzenian }
+}
+
+ZUM = { # Zumidia
+	color = { 60 75 218 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_AIN_TROTGOURAIT
+	cultures = { zumidian }
+}
+
+MEN = { # Menzaka
+	color = { 153 51 0 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_SENMARE
+	cultures = { zarantian }
+}
+
+ZAJ = { # Zajhari
+	color = { 153 102 0 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_ZAJHARI
+	cultures = { zarantian }
+}
+
+SHI = { # Shirza
+	color = { 204 204 0 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_ZAJHARI
+	cultures = { zarantian }
+}
+
+ZAW = { # Zawagh
+	color = { 102 51 0 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_ZAJHARI
+	cultures = { zarantian }
+}
+
+ZAM = { # Zamfara
+	color = { 255 153 0 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_ZAJHARI
+	cultures = { zarantian }
+}
+
+ZIN = { # Zinder
+	color = { 255 204 102 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_AGZHAT
+	cultures = { zarantian }
+}
+
+AGZ = { # Agzhat
+	color = { 255 80 80 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_AGZHAT
+	cultures = { zarantian }
+}
+
+SEN = { # Senmare
+	color = { 153 153 102 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_SENMARE
+	cultures = { zarantian }
+}
+
+AZR = { # Azir
+	color = { 168 59 59 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_AZIR
+	cultures = { aziri }
+}
+
+CME = { # Camels
+	color = { 255 178 102 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_NIEUW_ROTTENDESTAAT
+	cultures = { camels }
+}
+
+CGI = { # Quaggatai
+	color = { 87 92 104 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_KOLTSHGAR
+	cultures = { quagga }
+}
+
+BKH = { # Buckhara
+	color = { 49 175 191 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_BUCKHARA
+	cultures = { buckharan }
+}
+
+LMB = { # Llambet
+	color = { 177 207 205 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_PEARL_PENINSULA
+	cultures = { llama }
+}
+
+GIF = { # Twizanyika
+	color = { 143 110 81 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ZIMPOPO
+	cultures = { hyenas }
+}
+
+KZC = { # Zaikiria
+	color = { 255 80 80 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_CERULEAN_LOWLANDS
+	cultures = { zaikirian }
+}
+
+ZOO = { # Zongo
+	color = { 255 252 193 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_RADIANT_VALE
+	cultures = { zongolese }
+}
+
+TAI = { # Tanaigha
+	color = { 0 102 0 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_APRICOT_GLEN
+	cultures = { tanaighan }
+}
+
+MEL = { # Melahaka
+	color = { 183 132 196 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_MARITIME_RANGE
+	cultures = { melahakan }
+}
+
+MQA = { # Sambovato
+	color = { 255 255 255 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_VERMILION_BASIN
+	cultures = { sambovatan }
+}
+
+IST = { # Maglibing
+	color = { 94 97 196 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_VIRIDIAN_COAST
+	cultures = { maglibian }
+}
+
+DEL = { # Talarayi
+	color = { 255 191 16 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_PROSPEROUS_DELL
+	cultures = { talaryian }
+}
+
+IDO = { # Naugdaw
+	color = { 170 209 210 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_FRAGRANCE_INLET
+	cultures = { naugdawian }
+}
+
+MCW = { # Macawia
+	color = { 76 145 63 }
+	
+	country_type = recognized
+	
+	tier = kingdom
+	
+	capital = STATE_SAO_PENARIO
+	cultures = { macawian }
+}
+
+ROA = { # Roam
+	color = { 167 10 100 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_GRIFFEVELD
+	cultures = { roaman }
+}
+
+TSV = { # Talonsvaal
+	color = { 140 183 154  }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ZEBELLENDAM
+	cultures = { kompel }
+}
+
+KUM = { # Kumlambo
+	color = { 102 102 255 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_ZEBELLENDAM
+	cultures = { zebluan }
+}
+
+ZMB = { # Zumbo
+	color = { 51 153 102 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_GRIFFEVELD
+	cultures = { zebluan }
+}
+
+YEN = { # Yeentyatyambo
+	color = { 102 102 153 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	capital = STATE_ZEBELLENDAM
+	cultures = { zebluan }
+}
+
+GAZ = { # Taungpau
+	color = { 187 104 50 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_SUNSHINE_HEADLANDS
+	cultures = { amongus }
+}
+
+IDT = { # ice dergs
+	color = { 76 122 214 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_SNAPDRAGON_FOOTHILLS
+	cultures = { dragon }
 }

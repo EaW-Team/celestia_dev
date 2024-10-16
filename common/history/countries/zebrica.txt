@@ -421,7 +421,7 @@ COUNTRIES = {
 
 	}
 	#Mazwi
-	c:MAZ = {
+	c:MZW = {
 		
 		effect_starting_technology_tier_4_tech = yes
 		
